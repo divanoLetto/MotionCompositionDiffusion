@@ -1,0 +1,200 @@
+### Input
+person throws a right jab and then moves back. # 0 # 2.442
+### Output
+{'decomposition': [{'text': 'a person throws a right punch. ', 'start':  0 , 'end':  1.45 },{'text': 'a person steps back. ', 'start':  1.45 , 'end':  2.442 }]}
+### Input
+the figure swings its arm as if it is swinging a tennis racquet. # 0 # 4.89
+### Output
+{'decomposition': [{'text': 'a person swings their right arm in a wide circle. ', 'start':  0 , 'end':  4.89 },{'text': 'a person swings both arms in wide circles. ', 'start':  2 , 'end':  4.89 }]}
+### Input
+person is doing "i'm the little teapot" dance # 0 # 10.0
+### Output
+{'decomposition': [{'text': 'A person is acting out the motions for the song 'I'm a little teapot'. ', 'start':  0 , 'end':  10.0 }]}
+### Input
+a person is performing a pitching motion as if throwing a ball. # 0 # 9.508
+### Output
+{'decomposition': [{'text': 'A person raises their right arm and prepares to throw something. ', 'start':  0 , 'end':  3 },{'text': 'A person throws something with their right arm. ', 'start':  2 , 'end':  9.508 }]}
+### Input
+the person is throwing a baseball. # 0 # 6.192
+### Output
+{'decomposition': [{'text': 'A person raises their right arm and prepares to throw something. ', 'start':  0 , 'end':  3 },{'text': 'A person throws something with their right arm. ', 'start':  2 , 'end':  6.192 }]}
+### Input
+man stands up from the ground and begins pretending to throw an object, then proceeds to shoot an air basketball. # 0 # 10.0
+### Output
+{'decomposition': [{'text': 'a person stands up from the ground. ', 'start':  0 , 'end':  3 },{'text': 'the man is pretending to throw something. ', 'start':  2 , 'end':  6 },{'text': 'a standing person readies and loads their gun into shooting position, then continues to shoot their gun, firing left to right in a sweeping motion. ', 'start':  5 , 'end':  10.0 }]}
+### Input
+a person swims forward using breaststroke # 0 # 10.0
+### Output
+{'decomposition': [{'text': 'A person is laying face down. ', 'start':  0 , 'end':  10.0 },{'text': 'A person moves their hands forward. ', 'start':  2 , 'end':  10.0 }]}
+### Input
+a person dances while moving their hips. # 0 # 9.879999999999999
+### Output
+{'decomposition': [{'text': 'a person is moving their hips repeatedly to the left and right. ', 'start':  0 , 'end':  5 },{'text': 'a person is standing with arms out moving hips from side to side. ', 'start':  5 , 'end':  9.879999999999999 }]}
+### Input
+a person does the floss dance. # 0 # 6.642
+### Output
+{'decomposition': [{'text': 'A person sways left to right while swaying their arms from hip to hip. ', 'start':  0 , 'end':  6.642 }]}
+### Input
+person is likely kicking soccer balls. # 0 # 10.0
+### Output
+{'decomposition': [{'text': 'A person steps forward to kick a ball. ', 'start':  0 , 'end':  5.25 },{'text': 'A person kicks something with their right foot. ', 'start':  4 , 'end':  10.0 }]}
+### Input
+a man uses his hands to bounce a basketball twice and takes two big steps forward, then jumps up high with the basketball in his hands and brings his hands up and lets go of the basketball to score a point. # 0 # 5.783
+### Output
+{'decomposition': [{'text': 'A person bounces a basketball with both hands. ', 'start':  0 , 'end':  2.0 },{'text': 'A person takes two big steps forward. ', 'start':  1.5 , 'end':  4.0 },{'text': 'A person jumps upwards with the basketball in both hands. ', 'start':  3.0 , 'end':  5.0 },{'text': 'A person releases the basketball to score a point. ', 'start':  4.5 , 'end':  5.783 }]}
+### Input
+person appears to be playing basketball. # 0 # 10.0
+### Output
+{'decomposition': [{'text': 'a person runs forward with both arms swinging. ', 'start':  0 , 'end':  4 },{'text': 'a person jumps in the air with both arms raised above their head. ', 'start':  3 , 'end':  10.0 }]}
+### Input
+a person emulates throwing and catching a football. # 0 # 4.275
+### Output
+{'decomposition': [{'text': 'A person throws using his left hand. ', 'start':  0 , 'end':  2.0 },{'text': 'A person catches using both hands towards his stomach. ', 'start':  1.5 , 'end':  4.275 }]}
+### Input
+a person pitches a ball. # 0 # 5.867
+### Output
+{'decomposition': [{'text': 'A person raises their right arm to throw. ', 'start':  0 , 'end':  2 },{'text': 'A person throws something with their right arm. ', 'start':  2 , 'end':  5.867 }]}
+### Input
+a person is performing a dance and spinning around # 0 # 9.508
+### Output
+{'decomposition': [{'text': 'A person is spinning while moving to the left. ', 'start':  0 , 'end':  6 },{'text': 'A person raises both arms out to the side. ', 'start':  0 , 'end':  10.0 },{'text': 'A person twirls around while keeping arms extended. ', 'start':  4 , 'end':  10.0 }]}
+### Input
+a person break dances in circular motion on the floor # 0 # 6.417
+### Output
+{'decomposition': [{'text': 'A person spins on their back. ', 'start':  0 , 'end':  2 },{'text': 'A person raises their legs in the air. ', 'start':  2 , 'end':  4 },{'text': 'A person continues to spin. ', 'start':  4 , 'end':  6.417 }]}
+### Input
+person got up to throw baseball. # 0 # 10.0
+### Output
+{'decomposition': [{'text': 'A person stands up. ', 'start':  0 , 'end':  2 },{'text': 'A person throws something with their right hand. ', 'start':  2 , 'end':  6 },{'text': 'A person raises their left arm. ', 'start':  6 , 'end':  8 },{'text': 'A person waves with their right hand. ', 'start':  8 , 'end':  10.0 }]}
+### Input
+the person is moon dancing backwards. # 0 # 8.908
+### Output
+{'decomposition': [{'text': 'A person moon walks backward. ', 'start':  0 , 'end':  5 },{'text': 'A person walks backward. ', 'start':  5 , 'end':  8.908 }]}
+### Input
+the person is throwing football or soemthing. # 0 # 9.8
+### Output
+{'decomposition': [{'text': 'A person raises their left arm in a throwing position. ', 'start':  0 , 'end':  3 },{'text': 'A person throws something with their left arm. ', 'start':  2 , 'end':  9.8 }]}
+### Input
+the person is dancing and jumping around. # 0 # 6.75
+### Output
+{'decomposition': [{'text': 'A person jumps around the floor playfully. ', 'start':  0 , 'end':  6 },{'text': 'A person raises their arms above their head. ', 'start':  4 , 'end':  6.75 }]}
+### Input
+person aims and throws a baseball # 0 # 7.992
+### Output
+{'decomposition': [{'text': 'A person raises their right arm to throw something. ', 'start':  0 , 'end':  4 },{'text': 'A person throws something with their right hand. ', 'start':  4 , 'end':  7.992 }]}
+### Input
+a person imitating that they are playing on bongo drums. # 0 # 10.0
+### Output
+{'decomposition': [{'text': 'A person makes motions like hit bongos. ', 'start':  0 , 'end':  10.0 }]}
+### Input
+a person holds his hands together and moves his arms as if he is swinging a baseball bat. # 0 # 4.908
+### Output
+{'decomposition': [{'text': 'A person holds his hands together. ', 'start':  0 , 'end':  2.5 },{'text': 'A person swings their arms in a wide circle. ', 'start':  2 , 'end':  4.908 }]}
+### Input
+a person throws something with their right hand in the style of a baseball pitcher. # 0 # 10.0
+### Output
+{'decomposition': [{'text': 'A person raises their right arm to throw something. ', 'start':  0 , 'end':  3 },{'text': 'A person throws something with their right hand. ', 'start':  2 , 'end':  10.0 }]}
+### Input
+a figure gestures as though it is digging with a shovel. the figure stops dancing around 7 second mark, and seems to place a plant or tree into the hole it has dug. # 0 # 10.0
+### Output
+{'decomposition': [{'text': 'A figure is digging with a shovel. ', 'start':  0 , 'end':  5 },{'text': 'A figure is digging a hole. ', 'start':  5 , 'end':  7 },{'text': 'A figure is placing something into the hole. ', 'start':  7 , 'end':  10.0 }]}
+### Input
+a person standing on one leg, while performing possible martial arts/kicks with the other. # 0 # 10.0
+### Output
+{'decomposition': [{'text': 'A person stands on one leg and kicks with the other. ', 'start':  0 , 'end':  5 },{'text': 'The person is balancing on one foot while swinging the other leg. ', 'start':  4 , 'end':  10.0 }]}
+### Input
+a person preparing for and then throwing something similar to how a quarterback throws a football. # 0 # 10.0
+### Output
+{'decomposition': [{'text': 'A person gathers force to throw something. ', 'start':  0 , 'end':  3 },{'text': 'A person throws something with their right arm. ', 'start':  2 , 'end':  10.0 }]}
+### Input
+person is doing some breakdancing. # 0 # 10.0
+### Output
+{'decomposition': [{'text': 'a person is performing various kicks while moving from one side to the other. ', 'start':  0 , 'end':  6 },{'text': 'a person is jumping up and down with his hands up. ', 'start':  6 , 'end':  10.0 }]}
+### Input
+the person is throwing something jn the air like a football. # 0 # 10.0
+### Output
+{'decomposition': [{'text': 'A person raises their right arm to throw something.  ', 'start':  0 , 'end':  3 },{'text': 'A person throws something with their right hand.  ', 'start':  2 , 'end':  10.0 }]}
+### Input
+a person brings their arms together, then lifts their right arm and performs a throwing motion with it, like they're throwing a football. # 0 # 6.45
+### Output
+{'decomposition': [{'text': 'A person brings their hands together. ', 'start':  0 , 'end':  2 },{'text': 'A person lifts their right arm. ', 'start':  1 , 'end':  3 },{'text': 'A person makes a throwing motion with their right arm. ', 'start':  2 , 'end':  6.45 }]}
+### Input
+a person pitches an overhand throw. # 0 # 4.25
+### Output
+{'decomposition': [{'text': 'A person raises their right arm to throw. ', 'start':  0 , 'end':  2 },{'text': 'A person throws something with their right arm. ', 'start':  2 , 'end':  4.25 }]}
+### Input
+a person acts as if they are throwing a football. # 0 # 5.583
+### Output
+{'decomposition': [{'text': 'A person raises their right arm and prepares to throw something. ', 'start':  0 , 'end':  3 },{'text': 'A person throws something with their right arm. ', 'start':  2 , 'end':  5.583 }]}
+### Input
+a person does a karate kick # 0 # 2.6
+### Output
+{'decomposition': [{'text': 'A person takes a quick step to their left side. ', 'start':  0 , 'end':  2 },{'text': 'A person kicks with their left leg. ', 'start':  2 , 'end':  2.6 }]}
+### Input
+a man is dancing and then jumps and does a spin in the air. # 0 # 4.6
+### Output
+{'decomposition': [{'text': 'A man is dancing. ', 'start':  0 , 'end':  2 },{'text': 'A man jumps while spinning. ', 'start':  2 , 'end':  4.2 },{'text': 'A man jumps and spins around. ', 'start':  4.2 , 'end':  4.6 }]}
+### Input
+the man steps with his left foot and proceeds with the right. the man picks up his right arm and makes a throwing motion as if it were a baseball. the man than repositions back to his original form. # 0 # 5.39
+### Output
+{'decomposition': [{'text': 'A man steps forward with his left foot. ', 'start':  0 , 'end':  2 },{'text': 'A person throws something with their right arm. ', 'start':  2 , 'end':  5 },{'text': 'A man repositions back to a standing position. ', 'start':  5 , 'end':  5.39 }]}
+### Input
+a person uses the breast stroke to swim. # 0 # 9.725000000000001
+### Output
+{'decomposition': [{'text': 'a man is laying face down. ', 'start':  0 , 'end':  10.0 },{'text': 'A person moves their hands forward. ', 'start':  2 , 'end':  10.0 }]}
+### Input
+a person uses their right arm to swing a tennis racket. # 0 # 6.64
+### Output
+{'decomposition': [{'text': 'A person raises their right arm.  ', 'start':  0 , 'end':  2 },{'text': 'A person swings a racket with their right arm.  ', 'start':  2 , 'end':  6.64 }]}
+### Input
+person throws a football and then catches it, then starts but doesn't finish throwing it again # 0 # 5.775
+### Output
+{'decomposition': [{'text': 'A person throws something with their right hand. ', 'start':  0 , 'end':  2 },{'text': 'A person catches something with both hands. ', 'start':  2 , 'end':  4 },{'text': 'A person raises their right hand. ', 'start':  4 , 'end':  5.775 }]}
+### Input
+a person is standing with their legs shoulder width apart and arms out in front of them with elbows bent at 90 degrees as if they are playing a piano. # 0 # 0.167
+### Output
+{'decomposition': [{'text': 'A person stands with their legs apart. ', 'start':  0 , 'end':  0.167 },{'text': 'A person holds their arms out in front of them. ', 'start':  0 , 'end':  0.167 },{'text': 'A person bends their elbows at 90 degrees. ', 'start':  0 , 'end':  0.167 }]}
+### Input
+a person in a kickboxing stance does a leg kick. # 0 # 2.942
+### Output
+{'decomposition': [{'text': 'A person gets into a stance and kicks with his left leg. ', 'start':  0 , 'end':  2.942 },{'text': 'A person raises his arms. ', 'start':  0 , 'end':  2 }]}
+### Input
+a person moves his left arm describing something, then uses his right arm to pretend playing golf # 0 # 10.0
+### Output
+{'decomposition': [{'text': 'A person is using his arms to describe something to another person. ', 'start':  0 , 'end':  5 },{'text': 'A person moves their left arm in a throwing motion. ', 'start':  3 , 'end':  7 },{'text': 'A person pretends to swing a golf club with their right arm. ', 'start':  5 , 'end':  10.0 }]}
+### Input
+the man was playing baseball and threw the ball. # 0 # 9.083
+### Output
+{'decomposition': [{'text': 'A person raises their right arm to throw something. ', 'start':  0 , 'end':  3 },{'text': 'A person throws something with their right arm. ', 'start':  2 , 'end':  9.083 }]}
+### Input
+the man did a karate kick forward. # 0 # 2.558
+### Output
+{'decomposition': [{'text': 'A person raises their right leg to perform a kick. ', 'start':  0 , 'end':  2.5 },{'text': 'A person kicks forward with their right leg. ', 'start':  2 , 'end':  2.558 }]}
+### Input
+a person throws a pitch by faking and then throwing it using their right hand. # 0 # 10.0
+### Output
+{'decomposition': [{'text': 'A person raises their right arm to throw. ', 'start':  0 , 'end':  2 },{'text': 'A person throws something with their right hand. ', 'start':  2 , 'end':  10.0 }]}
+### Input
+a person begins breakdancing in a backwards motion then steps forward into a front flip, landing on both feet. # 0 # 7.992
+### Output
+{'decomposition': [{'text': 'A person steps backwards and does a flip. ', 'start':  0 , 'end':  2 },{'text': 'A person walks forward. ', 'start':  2 , 'end':  4 },{'text': 'A person jumps. ', 'start':  4 , 'end':  6 },{'text': 'A person lands on both feet. ', 'start':  6 , 'end':  7.992 }]}
+### Input
+a man kicks and jumps around as if he is practicing karate. # 0 # 9.067
+### Output
+{'decomposition': [{'text': 'A person kicks with their right leg. ', 'start':  0 , 'end':  3 },{'text': 'A person jumps up and down. ', 'start':  2 , 'end':  5 },{'text': 'A person is practicing their kicking. ', 'start':  4 , 'end':  9.067 }]}
+### Input
+a person tosses and catches a football. # 0 # 6.008
+### Output
+{'decomposition': [{'text': 'A person throws something with their left hand. ', 'start':  0 , 'end':  2 },{'text': 'A person makes a throwing motion with their right arm. ', 'start':  2 , 'end':  6.008 }]}
+### Input
+a person dances around, first wiggling their hips and then moving their right leg towards the left and then back and bending forward from the hips and moving their body all around. # 0 # 10.0
+### Output
+{'decomposition': [{'text': 'A person is moving their hips repeatedly to the left and right. ', 'start':  0 , 'end':  5 },{'text': 'A person swings their right leg to the left. ', 'start':  4 , 'end':  7 },{'text': 'A person bends forward from the hips. ', 'start':  6 , 'end':  9 },{'text': 'A person is moving their body around. ', 'start':  8 , 'end':  10.0 }]}
+### Input
+a figure seems to prepare to pitch then throws an item # 0 # 10.0
+### Output
+{'decomposition': [{'text': 'A person jogs in place. ', 'start':  0 , 'end':  3 },{'text': 'A person throws something with their right hand. ', 'start':  2 , 'end':  10.0 }]}
+### Input
+a person winds up his arm and then pitches a ball. # 0 # 6.917
+### Output
+{'decomposition': [{'text': 'A person raises his right arm up. ', 'start':  0 , 'end':  2 },{'text': 'A person is throwing something with his right hand. ', 'start':  2 , 'end':  6.917 }]}

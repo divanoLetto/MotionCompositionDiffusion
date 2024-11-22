@@ -1,0 +1,4 @@
+dataset: humanml3d # kitml or humanml3d
+split: complex
+compose: MCD # MCD or STMC
+only_not_generated: false

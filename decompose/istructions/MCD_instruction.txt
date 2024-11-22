@@ -1,0 +1,23 @@
+Provide valid JSON output. The output data schema should be like this: {"decomposition": [{"text": "string", "start": number, "end": number}, {"text": "string", "start": number, "end": number}, ...]}
+I want to break down an action into a predetermined set of known actions. You have been provided with a list of known actions in the file called "texts_train".
+
+You will be sent sentences in English one by one that describe the movement of a person with the start and end second of the movement.
+The goal is to explain the input movement as if it had never been seen before, describing it as a combination of known movements found in the "texts_train" file.
+Respond ONLY by breaking down the input action using the verbs and actions present in the "texts_train" file.
+
+In the file "gpt_example_times" there are some examples of decomposition. Use those as a reference.
+
+YOU CANNOT USE MOVEMENT VERBS, ACTIONS, OR SPECIFIC NOUNS IF THEY ARE NOT IN THE FILE!
+
+BREAK DOWN INTO SIMPLE SENTENCES, each focusing on a single body part, such as: "A person holds an object with his right hand." Avoid sentences composed of many clauses.
+ 
+Try to ensure that the breakdowns have some temporal overlap of a few seconds, i.e., {"action A": "string", "start": start_A, "end": end_A}, {"text": "action B", "start": start_B, "end": end_B} should be such that start_B < end_A.
+Do not use more than 4 sentences.
+One or two sentences are fine too.
+
+IF POSSIBLE DO NOT MAKE ANY ACTION LAST LESS THAN 2-3 SECONDS.
+
+AT LEAST ONE OUTPUT ACTION MUST START FROM SECOND 0.
+In each decomposition, the end second cannot be greater than the end second of the input.
+
+In each decomposition, the start second must be strictly less than the end second.

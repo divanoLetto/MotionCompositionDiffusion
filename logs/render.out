@@ -1,0 +1,47 @@
+[23/07/24 15:40:18][__main__][INFO] - Rendering script
+[23/07/24 15:41:19][__main__][INFO] - The video will be renderer there: outputs/mdm-smpl_folds/0/generations/000000.mp4
+[23/07/24 15:43:35][__main__][INFO] - Rendering script
+[23/07/24 15:43:43][__main__][INFO] - The video will be renderer there: outputs/mdm-smpl_folds/0/generations_tmp/000000.mp4
+[23/07/24 15:46:48][__main__][INFO] - Rendering script
+[23/07/24 15:46:51][__main__][INFO] - The video will be renderer there: datasets/motions/AMASS_20.0_fps_nh_smpljoints_neutral_nobetas/KIT/3/kick_high_left02_poses.mp4
+[23/07/24 16:41:25][__main__][INFO] - Rendering script
+[23/07/24 16:41:29][__main__][INFO] - The video will be renderer there: outputs/mdm-smpl_folds/0/generations/000000.mp4
+[30/07/24 10:15:36][__main__][INFO] - Rendering script
+[30/07/24 10:16:56][__main__][INFO] - Rendering script
+[30/07/24 10:17:30][__main__][INFO] - Rendering script
+[30/07/24 10:18:01][__main__][INFO] - The video will be renderer there: outputs/mdm-smpl_folds/me/generations_text/000025.mp4
+[03/09/24 16:37:34][__main__][INFO] - Rendering script
+[03/09/24 16:59:53][__main__][INFO] - Rendering script
+[03/09/24 17:00:59][__main__][INFO] - Rendering script
+[03/09/24 17:02:45][__main__][INFO] - Rendering script
+[03/09/24 17:02:54][__main__][INFO] - The video will be renderer there: /andromeda/personal/lmandelli/stmc/pretrained_models/mdm-smpl_clip_smplrifke_humanml3d/generations/basketball_last_timeline_to_motion_w7/basketball_timeline_0.mp4
+[03/09/24 17:07:18][__main__][INFO] - Rendering script
+[03/09/24 17:10:49][__main__][INFO] - Rendering script
+[03/09/24 17:16:02][__main__][INFO] - The video will be renderer there: /andromeda/personal/lmandelli/stmc/pretrained_models/mdm-smpl_clip_smplrifke_humanml3d/generations/basketball_last_timeline_to_motion_w7/basketball_timeline_0_verts.mp4
+[03/09/24 17:16:07][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[03/09/24 17:19:21][__main__][INFO] - Rendering script
+[03/09/24 17:24:43][__main__][INFO] - Rendering script
+[03/09/24 17:25:15][__main__][INFO] - The video will be renderer there: /andromeda/personal/lmandelli/stmc/pretrained_models/mdm-smpl_clip_smplrifke_humanml3d/generations/basketball_last_timeline_to_motion_w7/basketball_timeline_0_verts.mp4
+[03/09/24 17:25:16][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[03/09/24 17:35:04][__main__][INFO] - Rendering script
+[03/09/24 17:35:24][__main__][INFO] - The video will be renderer there: /andromeda/personal/lmandelli/stmc/pretrained_models/mdm-smpl_clip_smplrifke_humanml3d/generations/basketball_last_timeline_to_motion_w7/basketball_timeline_0_verts.mp4
+[03/09/24 17:35:57][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[18/10/24 15:44:46][__main__][INFO] - Rendering script
+[18/10/24 16:35:40][__main__][INFO] - Rendering script
+[18/10/24 16:39:40][__main__][INFO] - Rendering script
+[18/10/24 16:41:03][__main__][INFO] - Rendering script
+[18/10/24 16:41:31][__main__][INFO] - Rendering script
+[18/10/24 16:42:28][__main__][INFO] - Rendering script
+[18/10/24 16:43:00][__main__][INFO] - Rendering script
+[18/10/24 16:43:32][__main__][INFO] - The video will be renderer there: /andromeda/personal/lmandelli/stmc/outputs/mdm-smpl_clip_smplrifke_humanml3d/generations/000000.mp4
+[18/10/24 16:44:31][__main__][INFO] - Rendering script
+[18/10/24 16:48:05][__main__][INFO] - Rendering script
+[18/10/24 16:48:21][__main__][INFO] - The video will be renderer there: /andromeda/personal/lmandelli/stmc/outputs/mdm-smpl_clip_smplrifke_humanml3d/generations/000000.mp4
+[18/10/24 16:48:21][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[22/10/24 08:16:25][__main__][INFO] - Rendering script
+[22/10/24 08:18:03][__main__][INFO] - Rendering script
+[22/10/24 08:29:06][__main__][INFO] - The video will be renderer there: /andromeda/personal/lmandelli/stmc/outputs/mdm-smpl_clip_smplrifke_humanml3d/generations/000000.mp4
+[12/11/24 12:24:03][__main__][INFO] - Rendering script
+[12/11/24 12:36:29][__main__][INFO] - The video will be renderer there: /andromeda/personal/lmandelli/stmc/outputs/mdm-smpl_clip_smplrifke_humanml3d/generations/000000.mp4
+[12/11/24 13:15:04][__main__][INFO] - Rendering script
+[12/11/24 13:16:46][__main__][INFO] - The video will be renderer there: /andromeda/personal/lmandelli/stmc/outputs/mdm-smpl_clip_smplrifke_humanml3d/generations/000000.mp4

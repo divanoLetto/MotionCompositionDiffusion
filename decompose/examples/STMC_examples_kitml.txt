@@ -1,0 +1,200 @@
+### Input
+A man is playing an instrument # 0 # 10
+### Output
+{'decomposition': [{'text': 'A human stretches with the arms over her head.', 'start':  0 , 'end':  10, "body parts": ["left arm", "right arm"]}]}
+### Input
+A person plays the guitar. # 0 # 5.36
+### Output
+{'decomposition': [{'text': 'A person raises the right arm and moves the left arm up and down quickly.', 'start':  0 , 'end':  5.36, "body parts": ["left arm", "right arm"]}]}
+### Input
+A person plays the guitar. # 0 # 4.95
+### Output
+{'decomposition': [{'text': 'A person raises the right arm and moves the left arm up and down quickly.', 'start':  0 , 'end':  4.95 , "body parts": ["left arm", "right arm"]}]}
+### Input
+A person plays the violin once. # 0 # 5.82
+### Output
+{'decomposition': [{'text': 'A person raises the right arm and moves the left arm up and down. ', 'start':  0 , 'end':  5.82", body parts": ["left arm", "right arm"]}]}
+### Input
+a human plays guitar. # 0 # 8.42
+### Output
+{'decomposition': [{'text': 'A person raises their right arm. ', 'start':  0 , 'end':  2, "body parts": ["right arm"]},{'text': 'A person moves their hand in a circular motion. ', 'start':  2 , 'end':  8.42, "body parts": ["left arm", "right arm"]}]}
+### Input
+A human playing a guitar # 0 # 8.43
+### Output
+{'decomposition': [{'text': 'A person raises their right arm. ', 'start':  0 , 'end':  2, "body parts": ["right arm"]},{'text': 'A person moves their left arm up and down quickly. ', 'start':  2 , 'end':  8.43, "body parts": ["left arm"]}]}
+### Input
+A person makes a motion a bit like playing the violin, but one the right (wrong) side. # 0 # 4.95
+### Output
+{'decomposition': [{'text': 'A person is making a stirring motion with the right hand. ', 'start':  0 , 'end':  3, "body parts": ["right arm"]},{'text': 'A person raises their right arm. ', 'start':  3 , 'end':  4.95, "body parts": ["right arm"]}]}
+### Input
+A person seems to be playing the guitar, holding it with his right hand, stroking with his left hand. # 0 # 5.7
+### Output
+{'decomposition': [{'text': 'A person raises the right arm. ', 'start':  0 , 'end':  3, "body parts": ["right arm"]},{'text': 'A person moves the left arm up and down quickly. ', 'start':  2 , 'end':  5.7, "body parts": ["left arm"] }]}
+### Input
+A person plays the air violin # 0 # 7.43
+### Output
+{'decomposition': [{'text': 'A person raises the right arm and moves the left arm up and down. ', 'start':  0 , 'end':  7.43, "body parts": ["left arm", "right arm"]}]}
+### Input
+A person plays the air violin. # 0 # 7.51
+### Output
+{'decomposition': [{'text': 'A person raises the right arm and moves the left arm up and down. ', 'start':  0 , 'end':  7.51, "body parts": ["left arm", "right arm"]}]}
+### Input
+Person playing the violin # 0 # 10.55
+### Output
+{'decomposition': [{'text': 'A person raises the right arm and moves the left arm up and down. ', 'start':  0 , 'end':  10, "body parts": ["left arm", "right arm"]}]}
+### Input
+A person makes a motion like playing violin. (one stroke) # 0 # 6.67
+### Output
+{'decomposition': [{'text': 'A person raises the right arm and moves the left arm up and down. ', 'start':  0 , 'end':  6.67, "body parts": ["left arm", "right arm"]}]}
+### Input
+A person holds a violin with the right hand and strokes it with the left hand. # 0 # 6.97
+### Output
+{'decomposition': [{'text': 'A person raises the right arm and moves the left arm up and down. ', 'start':  0 , 'end':  6.97, "body parts": ["left arm", "right arm"]}]}
+### Input
+A standing person performs arm motions as if playing a violin that he is holding in his right hand. # 0 # 7.36
+### Output
+{'decomposition': [{'text': 'A person raises the right arm and moves the left arm up and down. ', 'start':  0 , 'end':  7.36, "body parts": ["left arm", "right arm"]}]}
+### Input
+A person doing a drumming movement # 0 # 2.71
+### Output
+{'decomposition': [{'text': 'A person is waving its arms up and down in a flying motion. ', 'start':  0 , 'end':  2.71, "body parts": ["left arm", "right arm"]}]}
+### Input
+A person holds a violin with the left hand and strokes it with the right hand. # 0 # 6.97
+### Output
+{'decomposition': [{'text': 'A person raises the right arm and moves the left arm up and down. ', 'start':  0 , 'end':  6.97, "body parts": ["left arm", "right arm"]}]}
+### Input
+A standing person performs arm motions as if playing a violin that he is holding in his left hand. # 0 # 7.36
+### Output
+{'decomposition': [{'text': 'A person raises the right arm and moves the left arm up and down. ', 'start':  0 , 'end':  7.36, "body parts": ["left arm", "right arm"]}]}
+### Input
+a person plays the violin with its right hand # 0 # 10.28
+### Output
+{'decomposition': [{'text': 'A person raises the right arm and moves the left arm up and down. ', 'start':  0 , 'end':  10, "body parts": ["left arm", "right arm"]}]}
+### Input
+A person plays the violin # 0 # 10.19
+### Output
+{'decomposition': [{'text': 'A person raises the right arm and moves the left arm up and down. ', 'start':  0 , 'end':  10, "body parts": ["left arm", "right arm"]}]}
+# Input
+A person performs the basic step of the slow-waltz ballroom dance.  # 0 # 10
+### Output
+{'decomposition': [{'text': 'A person goes one step forward.', 'start': 0, 'end': 2.0, "body parts": ["legs"]}, {'text': 'a man makes a big step backwards', 'start': 2, 'end':4.0, "body parts": ["legs"]}, {'text': 'A person goes one step forward.', 'start': 4, 'end': 6, "body parts": ["legs"]}, {'text': 'a man makes a big step backwards', 'start': 6, 'end': 10, "body parts": ["legs"]}]}
+### Input
+A human is doing the chicken dance # 0 # 10
+### Output
+{'decomposition': [{'text': 'a person has both arms raised to both side like wings', 'start': 0, 'end': 10.0, "body parts": ["left arm", "right arm"]}]}
+### Input
+A person lifting the arms in a boxing manner and kicking with the right foot. # 0 # 5.71
+### Output
+{'decomposition': [{'text': 'A person raises their arms in front of them. ', 'start':  0 , 'end':  3, "body parts": ["left arm", "right arm"]},{'text': 'A person kicks with the right foot. ', 'start':  2 , 'end':  5.71, "body parts": ["legs"]}]}
+### Input
+A human makes a karate kick with its left food and brings his hand to the chest and its elbows out. # 0 # 6.76
+### Output
+{'decomposition': [{'text': 'A person performs a kick with their left leg. ', 'start':  0 , 'end':  4, "body parts": ["legs"]},{'text': 'A person brings their hands to their chest. ', 'start':  3 , 'end':  5, "body parts": ["left arm", "right arm"]},{'text': 'A person holds their elbows out. ', 'start':  5 , 'end':  6.76, "body parts": ["left arm", "right arm"]}]}
+### Input
+Person boxing with right hand # 0 # 5.44
+### Output
+{'decomposition': [{'text': 'A person is performing a punch with his right hand. ', 'start':  0 , 'end':  3, "body parts": ["right arm"]},{'text': 'A person is punching with his right fist. ', 'start':  3 , 'end':  5.44, "body parts": ["right arm"]}]}
+### Input
+Boxing with the right hand. # 0 # 6.11
+### Output
+{'decomposition': [{'text': 'A person is performing a punch with his right hand. ', 'start':  0 , 'end':  5, "body parts": ["right arm"]},{'text': 'A person is punching with his right fist. ', 'start':  5 , 'end':  6.11, "body parts": ["right arm"]}]}
+### Input
+Boxing with the left hand. # 0 # 6.92
+### Output
+{'decomposition': [{'text': 'A human performs multiple fast punches with the left hand. ', 'start':  0 , 'end':  4, "body parts": ["left arm"]},{'text': 'A person throws something with their left hand. ', 'start':  4 , 'end':  6.92, "body parts": ["left arm"]}]}
+### Input
+A human does a left-handed boxing jab. # 0 # 6.16
+### Output
+{'decomposition': [{'text': 'A person is performing a punch with his left hand. ', 'start':  0 , 'end':  3, "body parts": ["left arm"]},{'text': 'A person is punching with his left fist. ', 'start':  3 , 'end':  6.16, "body parts": ["left arm"]}]}
+### Input
+A person performs martial arts. # 0 # 12.267
+### Output
+{'decomposition': [{'text': 'A person is performing martial arts. ', 'start':  0 , 'end':  4, "body parts": ["legs", "left arm", "right arm"]},{'text': 'A person performs a kick with the left leg. ', 'start':  4 , 'end':  8, "body parts": ["legs"]},{'text': 'A person throws a punch with their right arm. ', 'start':  6 , 'end':  10, "body parts": ["right arm"]}]}
+### Input
+A person is doing kickboxing with his right leg and foot while keeping his hands up. # 0 # 30.275
+### Output
+{'decomposition': [{'text': 'A person performs a kick with the right leg. ', 'start':  0 , 'end':  5, , "body parts": ["legs"]},{'text': 'A person raises their arms to keep them up. ', 'start':  0 , 'end':  5, , "body parts": ["left arm", "right arm"]},{'text': 'A person kicks with their right foot. ', 'start':  5 , 'end':  10, "body parts": ["legs"]}]}
+### Input
+A person is doing kickboxing with his left leg. # 0 # 28.183
+### Output
+{'decomposition': [{'text': 'A person performs a kick with the left leg. ', 'start':  0 , 'end':  5, "body parts": ["legs"]},{'text': 'A person is kicking with his left foot. ', 'start':  5, 'end':  10, "body parts": ["legs"]}]}
+### Input
+A person is punching forward like he is boxing. # 0 # 25.633
+### Output
+{'decomposition': [{'text': 'A person performs a punching motion. ', 'start':  0 , 'end':  5, "body parts": ["left arm", "right arm"]},{'text': 'A person is doing punches forward with the left arm on different heights. ', 'start':  5 , 'end':  10, "body parts": ["left arm"]}]}
+### Input
+A person lifting their hands for defense and kicking with the right foot, like a kickboxing move. # 0 # 11.55
+### Output
+{'decomposition': [{'text': 'A person raises their arms for defense. ', 'start':  0 , 'end':  5, "body parts": ["left arm", "right arm"]},{'text': 'A person kicks with the right foot. ', 'start':  3 , 'end':  10, "body parts": ["legs"]}]}
+### Input
+A human makes a karate kick with its right food and brings his hand to the chest and its elbows out. # 0 # 6.76
+### Output
+{'decomposition': [{'text': 'A person performs a kick with their right foot. ', 'start':  0 , 'end':  5.14, "body parts": ["legs"]},{'text': 'A person brings their hands together in front of their chest. ', 'start':  4 , 'end':  6.76, "body parts": ["left arm", "right arm"]}]}
+### Input
+Person boxing with left hand # 0 # 5.44
+### Output
+{'decomposition': [{'text': 'A person is performing a punch with his left hand. ', 'start':  0 , 'end':  3, "body parts": ["left arm"]},{'text': 'A person is punching with his left arm in front of him. ', 'start':  3 , 'end':  5.44, "body parts": ["left arm"]}]}
+### Input
+Boxing with the left hand. # 0 # 6.11
+### Output
+{'decomposition': [{'text': 'A human performs multiple fast punches with the left hand. ', 'start':  0 , 'end':  4, "body parts": ["left arm"]},{'text': 'A person throws something with their left hand. ', 'start':  4 , 'end':  6.11, "body parts": ["left arm"]}]}
+### Input
+Person boxing with the right hand # 0 # 6.24
+### Output
+{'decomposition': [{'text': 'A person is performing a punch with his right hand. ', 'start':  0 , 'end':  5, "body parts": ["right arm"]},{'text': 'A person is waving with his right hand. ', 'start':  5 , 'end':  6.24, "body parts": ["right arm"]}]}
+### Input
+A person is doing kickboxing with his left leg and foot while keeping his hands up. # 0 # 30.275
+### Output
+{'decomposition': [{'text': 'A person performs a kick with the left leg.  ', 'start':  0 , 'end':  5, "body parts": ["legs"]},{'text': 'A person raises his arms in a defense position.  ', 'start':  0 , 'end':  5, "body parts": ["left arm", "right arm"]},{'text': 'A person kicks with the left foot.  ', 'start':  5 , 'end':  10, "body parts": ["legs"]}]}
+### Input
+A person is doing kickboxing with his right leg. # 0 # 28.183
+### Output
+{'decomposition': [{'text': 'A person performs a kick with their right leg. ', 'start':  0 , 'end':  10, "body parts": ["legs"]},{'text': 'A person raises their arms. ', 'start':  0 , 'end':  2, "body parts": ["left arm", "right arm"]}]}
+### Input
+A man puts his hands back and kicks or he ist dancing # 0 # 9.275
+### Output
+{'decomposition': [{'text': 'A person raises their arms to the side.  ', 'start':  0 , 'end':  3, "body parts": ["left arm", "right arm"]},{'text': 'A person kicks with their right leg.  ', 'start':  2 , 'end':  4, "body parts": ["legs"]},{'text': 'A person is dancing.  ', 'start':  4 , 'end':  9.275, "body parts": ["spine", "legs", "left arm", "right arm"]}]}
+### Input
+A human performs a slap (volleyball serve) with the left hand # 0 # 4.47
+### Output
+{'decomposition': [{'text': 'A person raises their left arm to throw something. ', 'start':  0 , 'end':  2, "body parts": ["left arm"]},{'text': 'A person performs a throwing motion with their left arm. ', 'start':  2 , 'end':  4.47, "body parts": ["left arm"]}]}
+### Input
+A person performs a tennis serve. # 0 # 3.55
+### Output
+{'decomposition': [{'text': 'A person raises their right arm to throw something. ', 'start':  0 , 'end':  2, "body parts": ["right arm"]},{'text': 'A person throws something with their right arm. ', 'start':  2 , 'end':  3.55, "body parts": ["right arm"]}]}
+### Input
+Someone does a tennis smash with the left arm. # 0 # 3.43
+### Output
+{'decomposition': [{'text': 'A person raises their left arm to throw something. ', 'start':  0 , 'end':  3, "body parts": ["left arm"]},{'text': 'A person throws something with their left arm. ', 'start':  3 , 'end':  3.43, "body parts": ["left arm"]}]}
+### Input
+A person raises their right arm and beats like a tennis player. # 0 # 6.64
+### Output
+{'decomposition': [{'text': 'A person raises their right arm. ', 'start':  0 , 'end':  2, "body parts": ["right arm"]},{'text': 'A person swings a racket with their right arm. ', 'start':  2 , 'end':  6.64, "body parts": ["right arm"]}]}
+### Input
+a person is doing a tennis forehand # 0 # 5.89
+### Output
+{'decomposition': [{'text': 'A person raises their right arm to throw something. ', 'start':  0 , 'end':  3, "body parts": ["right arm"]},{'text': 'A person swings a racket with their right arm. ', 'start':  3, 'end':  5.89, "body parts": ["right arm"]}]}
+### Input
+A human plays basketball and makes a layup. # 0 # 5.783
+### Output
+{'decomposition': [{'text': 'A person runs forward. ', 'start':  0 , 'end':  2, "body parts": ["legs"]},{'text': 'A person jumps upwards with the basketball in both hands. ', 'start':  2 , 'end':  4, "body parts": ["spine", "legs", "left arm", "right arm"]},{'text': 'A person releases the basketball. ', 'start':  4 , 'end':  5.783, "body parts": ["left arm", "right arm"]}]}
+### Input
+A person swings a baseball bat twice. # 0 # 10.808
+### Output
+{'decomposition': [{'text': 'A person swings a bat. ', 'start':  0 , 'end':  4, "body parts": ["left arm", "right arm"]},{'text': 'A person swings a bat. ', 'start':  4 , 'end':  10, "body parts": ["left arm", "right arm"]}]}
+### Input
+A human performs a slap (volleyball serve) with the right hand # 0 # 4.47
+### Output
+{'decomposition': [{'text': 'A person raises their right arm to throw something. ', 'start':  0 , 'end':  2, "body parts": ["right arm"]},{'text': 'A person throws something with their right hand. ', 'start':  2 , 'end':  4.47, "body parts": ["right arm"]}]}
+### Input
+A human is performing a slap (volleyball serving) # 0 # 6.07
+### Output
+{'decomposition': [{'text': 'A human is performing a slap at the height of the scrotch. ', 'start':  0 , 'end':  6.07, "body parts": ["left arm", "right arm"]}]}
+### Input
+Someone does a tennis smash with the right arm. # 0 # 3.43
+### Output
+{'decomposition': [{'text': 'A person raises their right arm to throw something. ', 'start':  0 , 'end':  2, "body parts": ["right arm"]},{'text': 'A person throws something with their right arm. ', 'start':  2 , 'end':  3.43, "body parts": ["right arm"]}]}
+### Input
+Someone plays tennis with the right arm # 0 # 5.64
+### Output
+{'decomposition': [{'text': 'A person raises their right arm to throw something. ', 'start':  0 , 'end':  2, "body parts": ["right arm"]},{'text': 'A person throws something with their right arm. ', 'start':  2 , 'end':  5.64, "body parts": ["right arm"]}]}
