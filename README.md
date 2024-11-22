@@ -65,6 +65,7 @@ Please follow the following istructions to obtain the ``deps`` folder with SMPL+
 
 #### Download distilbert from __Hugging Face__
 ```bash
+mkdir deps
 cd deps/
 git lfs install
 git clone https://huggingface.co/distilbert-base-uncased
