@@ -5,7 +5,7 @@
 
 ---
 
-![](https://img.shields.io/github/contributors/divanoLetto/MCD?color=light%20green) ![](https://img.shields.io/github/repo-size/divanoLetto/MCD)
+![](https://img.shields.io/github/contributors/divanoLetto/MotionCompositionDiffusion?color=light%20green) ![](https://img.shields.io/github/repo-size/divanoLetto/MotionCompositionDiffusion?cacheSeconds=60)
 
 
 The project also contains an implementation of the paper *Generation of Complex 3D Human Motion by Temporal and Spatial Composition of Diffusion Models*, which allows the generation of realistic 3D human motions for action classes that were never seen during the training phase.
@@ -65,6 +65,7 @@ Please follow the following istructions to obtain the ``deps`` folder with SMPL+
 
 #### Download distilbert from __Hugging Face__
 ```bash
+mkdir deps
 cd deps/
 git lfs install
 git clone https://huggingface.co/distilbert-base-uncased
