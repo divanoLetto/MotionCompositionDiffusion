@@ -1,0 +1,8 @@
+run_dir: outputs/tmr_kitml_guoh3dfeats
+seed: 1
+logger_level: INFO
+device: cuda
+protocol: all
+threshold: 0.95
+ckpt: latest-epoch=249-v1
+batch_size: 256

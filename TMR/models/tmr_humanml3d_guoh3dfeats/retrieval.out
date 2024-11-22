@@ -1,0 +1,16 @@
+[30/09/23 12:18:59][lightning_fabric.utilities.seed][INFO] - Global seed set to 1234
+[30/09/23 12:18:59][__main__][INFO] - Loading the model
+[30/09/23 12:18:59][src.load][INFO] -     motion_encoder loaded
+[30/09/23 12:18:59][src.load][INFO] -     text_encoder loaded
+[30/09/23 12:18:59][src.load][INFO] -     motion_decoder loaded
+[30/09/23 12:18:59][src.load][INFO] - Loading previous checkpoint done
+[30/09/23 12:19:00][src.load][INFO] - Put the model on cuda
+[30/09/23 12:19:00][src.load][INFO] - Put the model in eval mode
+[30/09/23 12:19:08][__main__][INFO] - Testing done, metrics saved in:
+models/tmr_humanml3d_guoh3dfeats/contrastive_metrics/normal.yaml
+[30/09/23 12:19:09][__main__][INFO] - Testing done, metrics saved in:
+models/tmr_humanml3d_guoh3dfeats/contrastive_metrics/threshold_0.95.yaml
+[30/09/23 12:19:10][__main__][INFO] - Testing done, metrics saved in:
+models/tmr_humanml3d_guoh3dfeats/contrastive_metrics/nsim.yaml
+[30/09/23 12:19:40][__main__][INFO] - Testing done, metrics saved in:
+models/tmr_humanml3d_guoh3dfeats/contrastive_metrics/guo.yaml

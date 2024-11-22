@@ -1,0 +1,99 @@
+[11/12/23 00:51:17][lightning_fabric.utilities.seed][INFO] - Global seed set to 1234
+[11/12/23 00:51:17][__main__][INFO] - Loading the model
+[11/12/23 00:51:18][src.load][INFO] - The extracted model is not found. Split into submodules..
+[11/12/23 00:51:19][src.load][INFO] -     motion_encoder loaded
+[11/12/23 00:51:19][src.load][INFO] -     text_encoder loaded
+[11/12/23 00:51:19][src.load][INFO] -     motion_decoder loaded
+[11/12/23 00:51:19][src.load][INFO] - Loading previous checkpoint done
+[11/12/23 00:51:19][src.load][INFO] - Put the model on cuda
+[11/12/23 00:51:19][src.load][INFO] - Put the model in eval mode
+[11/12/23 00:51:22][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/normal.yaml
+[11/12/23 00:51:22][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/threshold_0.95.yaml
+[11/12/23 00:51:23][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/nsim.yaml
+[11/12/23 00:51:25][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/guo.yaml
+[11/12/23 00:55:19][lightning_fabric.utilities.seed][INFO] - Global seed set to 1234
+[11/12/23 00:55:19][__main__][INFO] - Loading the model
+[11/12/23 00:55:19][src.load][INFO] -     motion_encoder loaded
+[11/12/23 00:55:19][src.load][INFO] -     text_encoder loaded
+[11/12/23 00:55:19][src.load][INFO] -     motion_decoder loaded
+[11/12/23 00:55:19][src.load][INFO] - Loading previous checkpoint done
+[11/12/23 00:55:20][src.load][INFO] - Put the model on cuda
+[11/12/23 00:55:20][src.load][INFO] - Put the model in eval mode
+[11/12/23 00:55:22][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/normal.yaml
+[11/12/23 00:55:22][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/threshold_0.95.yaml
+[11/12/23 00:55:23][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/nsim.yaml
+[11/12/23 00:55:25][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/guo.yaml
+[11/12/23 00:55:37][lightning_fabric.utilities.seed][INFO] - Global seed set to 1234
+[11/12/23 00:55:37][__main__][INFO] - Loading the model
+[11/12/23 00:55:37][src.load][INFO] -     motion_encoder loaded
+[11/12/23 00:55:37][src.load][INFO] -     text_encoder loaded
+[11/12/23 00:55:37][src.load][INFO] -     motion_decoder loaded
+[11/12/23 00:55:37][src.load][INFO] - Loading previous checkpoint done
+[11/12/23 00:55:38][src.load][INFO] - Put the model on cuda
+[11/12/23 00:55:38][src.load][INFO] - Put the model in eval mode
+[11/12/23 00:55:40][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/normal.yaml
+[11/12/23 00:55:40][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/threshold_0.95.yaml
+[11/12/23 00:55:41][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/nsim.yaml
+[11/12/23 00:55:43][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/guo.yaml
+[11/12/23 00:56:35][lightning_fabric.utilities.seed][INFO] - Global seed set to 4
+[11/12/23 00:56:35][__main__][INFO] - Loading the model
+[11/12/23 00:56:35][src.load][INFO] -     motion_encoder loaded
+[11/12/23 00:56:36][src.load][INFO] -     text_encoder loaded
+[11/12/23 00:56:36][src.load][INFO] -     motion_decoder loaded
+[11/12/23 00:56:36][src.load][INFO] - Loading previous checkpoint done
+[11/12/23 00:56:37][src.load][INFO] - Put the model on cuda
+[11/12/23 00:56:37][src.load][INFO] - Put the model in eval mode
+[11/12/23 00:56:39][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/normal.yaml
+[11/12/23 00:56:40][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/threshold_0.95.yaml
+[11/12/23 00:56:40][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/nsim.yaml
+[11/12/23 00:56:43][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/guo.yaml
+[11/12/23 01:06:47][lightning_fabric.utilities.seed][INFO] - Global seed set to 1234
+[11/12/23 01:06:47][__main__][INFO] - Loading the model
+[11/12/23 01:06:47][src.load][INFO] - The extracted model is not found. Split into submodules..
+[11/12/23 01:06:50][src.load][INFO] -     motion_encoder loaded
+[11/12/23 01:06:50][src.load][INFO] -     text_encoder loaded
+[11/12/23 01:06:50][src.load][INFO] -     motion_decoder loaded
+[11/12/23 01:06:50][src.load][INFO] - Loading previous checkpoint done
+[11/12/23 01:06:50][src.load][INFO] - Put the model on cuda
+[11/12/23 01:06:50][src.load][INFO] - Put the model in eval mode
+[11/12/23 01:06:54][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/normal.yaml
+[11/12/23 01:06:54][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/threshold_0.95.yaml
+[11/12/23 01:06:54][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/nsim.yaml
+[11/12/23 01:07:01][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/guo.yaml
+[11/12/23 01:18:09][lightning_fabric.utilities.seed][INFO] - Global seed set to 1234
+[11/12/23 01:18:09][__main__][INFO] - Loading the model
+[11/12/23 01:18:09][src.load][INFO] - The extracted model is not found. Split into submodules..
+[11/12/23 01:18:12][src.load][INFO] -     motion_encoder loaded
+[11/12/23 01:18:12][src.load][INFO] -     text_encoder loaded
+[11/12/23 01:18:12][src.load][INFO] -     motion_decoder loaded
+[11/12/23 01:18:12][src.load][INFO] - Loading previous checkpoint done
+[11/12/23 01:18:12][src.load][INFO] - Put the model on cuda
+[11/12/23 01:18:12][src.load][INFO] - Put the model in eval mode
+[11/12/23 01:18:16][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/normal.yaml
+[11/12/23 01:18:16][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/threshold_0.95.yaml
+[11/12/23 01:18:16][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/nsim.yaml
+[11/12/23 01:18:20][__main__][INFO] - Testing done, metrics saved in:
+outputs/tmr_kitml_guoh3dfeats/contrastive_metrics/guo.yaml
