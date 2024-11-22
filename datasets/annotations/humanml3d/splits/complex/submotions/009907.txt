@@ -1,0 +1,3 @@
+A person throws a punch with their right arm. # 0 # 4 # spine
+A person performs a kick with their left leg. # 2 # 6 # spine
+A person throws a punch with their left arm. # 4 # 8.55 # spine

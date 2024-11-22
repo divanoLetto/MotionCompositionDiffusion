@@ -1,0 +1,3 @@
+A person raises their left arm to prepare for a backhand. # 0 # 3 # left arm
+A person swings their left arm back to initiate the motion. # 3 # 5 # left arm
+A person follows through with their left arm after serving. # 5 # 8.1 # left arm

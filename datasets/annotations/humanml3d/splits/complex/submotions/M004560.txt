@@ -1,0 +1,2 @@
+A person kicks forward with their left leg. # 0 # 4 # spine
+A person steps back with their right leg. # 3 # 10.0 # spine

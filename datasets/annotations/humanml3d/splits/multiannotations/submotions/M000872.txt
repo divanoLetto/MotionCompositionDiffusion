@@ -1,0 +1,3 @@
+a man side steps to the left. # 0 # 3.24 # spine
+a person strafes one step to the left, our right. # 0 # 3.24 # spine
+a person while standing takes and step sideways. # 0 # 3.24 # spine

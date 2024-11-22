@@ -1,0 +1,2 @@
+A person holds both arms up at shoulder length. # 0 # 3 # right arm # left arm
+A person dances in a clockwise circle. # 3 # 10.0 # legs

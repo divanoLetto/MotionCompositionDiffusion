@@ -1,0 +1,4 @@
+A person is moving their hips repeatedly to the left and right. # 0 # 5 # spine # legs
+A person swings their left leg to the right. # 5 # 7 # legs
+A person bends forward from the hips. # 7 # 9 # spine
+A person is moving their body around. # 9 # 10.0 # spine # legs

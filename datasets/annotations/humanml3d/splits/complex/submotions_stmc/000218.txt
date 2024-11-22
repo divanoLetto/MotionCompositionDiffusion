@@ -1,0 +1,4 @@
+A person performs a ballerina balance pose, first on their right leg, before centralising and swapping to their left. # 0 # 5 # right arm # left arm # legs
+A person raises both arms in a circular motion. # 5 # 7 # right arm # left arm
+A person kicks with their left leg. # 7 # 9 # left arm # legs
+A person spins and extends their right arm. # 9 # 9.925 # right arm # spine

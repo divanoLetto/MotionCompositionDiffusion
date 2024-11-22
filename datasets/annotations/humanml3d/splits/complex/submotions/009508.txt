@@ -1,0 +1,3 @@
+A person skips forward while lifting their left foot to their right knee. # 0 # 4 # spine
+A person continues skipping forward. # 2 # 4.5 # spine
+A person lifts their right leg up and behind. # 4 # 4.5 # spine

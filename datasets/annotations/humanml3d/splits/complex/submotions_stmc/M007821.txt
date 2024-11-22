@@ -1,0 +1,4 @@
+A person sways their shoulders to the right. # 0 # 3 # spine
+A person steps to the right. # 3 # 5 # legs
+A person looks down at their hands. # 5 # 7 # head
+A person steps to the right. # 7 # 10.0 # legs

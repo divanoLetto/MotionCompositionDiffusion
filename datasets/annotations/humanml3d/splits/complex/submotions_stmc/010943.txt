@@ -1,0 +1,3 @@
+A person is spinning while moving to the left. # 0 # 5 # spine # legs
+A person raises both arms out to the side. # 0 # 5 # right arm # left arm
+A person continues to spin with arms extended. # 5 # 9.183 # spine # legs # right arm # left arm

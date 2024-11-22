@@ -1,0 +1,2 @@
+A person stands in a fighting position.  # 0 # 3 # spine # legs
+A person throws something with their right hand.  # 3 # 10.0 # right arm

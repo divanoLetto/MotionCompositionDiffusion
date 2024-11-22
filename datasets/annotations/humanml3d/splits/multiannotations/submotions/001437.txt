@@ -1,0 +1,3 @@
+the person turns to their left and begins walking up what seem to be 3 stair steps. after the third step the person turns around and takes one step back down. # 0 # 10 # spine
+he takes a step forward while turning and cautiously walks up, turns, and carefully walks back down. # 0 # 10 # spine
+the man climbs 3 tall stairs. # 0 # 10 # spine

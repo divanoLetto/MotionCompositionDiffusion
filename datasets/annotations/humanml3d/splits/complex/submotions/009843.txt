@@ -1,0 +1,3 @@
+A person swings both arms around while dancing. # 0 # 3 # spine
+A person shakes their legs while dancing. # 2 # 5 # spine
+A person raises both arms while dancing. # 4 # 6.2 # spine

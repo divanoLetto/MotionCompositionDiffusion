@@ -1,0 +1,4 @@
+A person is standing with their hips at an angle. # 0 # 3 # spine
+A person raises their right hand. # 0 # 5 # spine
+A person gestures with their right hand. # 3 # 7 # spine
+A person moves their right hand forward. # 5 # 10.0 # spine

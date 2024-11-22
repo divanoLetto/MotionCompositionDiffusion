@@ -1,0 +1,2 @@
+A person stands in a fighting stance. # 0 # 2 # spine
+A person kicks with their right foot. # 2 # 3.333 # spine

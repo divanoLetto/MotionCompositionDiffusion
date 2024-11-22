@@ -1,0 +1,3 @@
+the person waddles low to the ground and then stands up and walks back. # 0 # 10 # spine
+he moves around then stops # 0 # 10 # spine
+a person squatted down walks forward, stands, then walks backward. # 0 # 10 # spine

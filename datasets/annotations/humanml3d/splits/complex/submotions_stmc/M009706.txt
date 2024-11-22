@@ -1,0 +1,3 @@
+A person raises their right arm to swing. # 0 # 3.0 # right arm
+A person swings their right arm forward. # 3.0 # 5.5 # right arm
+A person bends their knees slightly. # 5.5 # 7.27 # legs

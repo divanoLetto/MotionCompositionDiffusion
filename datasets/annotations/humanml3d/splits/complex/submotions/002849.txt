@@ -1,0 +1,3 @@
+A person walks around and struts their stuff. # 0 # 5 # spine
+A person is moving their arms around. # 3 # 8 # spine
+A person waves their right hand. # 5 # 10.0 # spine

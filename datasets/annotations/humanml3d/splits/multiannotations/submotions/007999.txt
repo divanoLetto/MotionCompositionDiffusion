@@ -1,0 +1,3 @@
+a person doges to the left, then doges to the right. # 0 # 10 # spine
+a person stands up straight, turns over their right shoukder trying to dodge something, stumbles bacj to center and then turns over left shoukder trying to dodge something # 0 # 10 # spine
+the person is being punched by someone. # 0 # 10 # spine

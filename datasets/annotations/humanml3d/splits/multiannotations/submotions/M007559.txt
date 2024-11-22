@@ -1,0 +1,3 @@
+a person is walking, turns back and to their right, proceeds to walk again, trips, then turns back once more, limping now. # 0 # 10 # spine
+a person turns slowly to the right and walks forward, trips over something and then turns around and limps forward. # 0 # 10 # spine
+a man is trying to walk but stumbling and unsteady # 0 # 10 # spine

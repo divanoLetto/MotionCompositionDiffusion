@@ -1,0 +1,2 @@
+A person swings their right arm downwards.  # 0 # 2.0 # right arm
+A person slams their right arm down to the ground.  # 2.0 # 8.64 # right arm

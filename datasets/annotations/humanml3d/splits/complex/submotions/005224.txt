@@ -1,0 +1,5 @@
+A person extends their arms out to their sides. # 0 # 2 # spine
+A person brings both hands to their chest. # 2 # 4 # spine
+A person brings their arms inwards. # 4 # 6 # spine
+A person raises both arms above their head. # 6 # 8 # spine
+A person lowers their arms to their sides. # 8 # 10.0 # spine

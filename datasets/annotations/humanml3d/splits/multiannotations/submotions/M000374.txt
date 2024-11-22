@@ -1,0 +1,3 @@
+a person walks forward one foot in front of another # 0 # 7.93 # spine
+person is balancing and walking across something thin # 0 # 7.93 # spine
+person is walking down an incline with their hands out to the side as if they were walking on a balance beam trying to keep their balance # 0 # 7.93 # spine

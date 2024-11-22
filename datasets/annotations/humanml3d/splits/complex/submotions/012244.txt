@@ -1,0 +1,2 @@
+A person is standing in a fighting stance.  # 0 # 2.95 # spine
+A person moves their feet back and forth slightly.  # 2 # 5.85 # spine

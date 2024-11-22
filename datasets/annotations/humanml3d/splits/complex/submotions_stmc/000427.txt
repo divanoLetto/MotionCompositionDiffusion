@@ -1,0 +1,2 @@
+A person takes a quick step to their left side. # 0 # 2 # legs
+A person kicks with their left leg. # 2 # 2.85 # legs

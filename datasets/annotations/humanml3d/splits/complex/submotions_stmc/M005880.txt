@@ -1,0 +1,2 @@
+A person sways in a circular motion while moving their legs. # 0 # 5 # legs # spine
+A person raises both arms above their head. # 5 # 9.54 # right arm # left arm

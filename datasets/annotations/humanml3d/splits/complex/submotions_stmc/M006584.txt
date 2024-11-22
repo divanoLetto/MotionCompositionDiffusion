@@ -1,0 +1,2 @@
+A man stands with legs apart and slightly bent, as his arms are bent in front of him at shoulder height. # 0 # 2.0 # legs # right arm # left arm
+A person steps forward and then makes slow sweeping motions with their left hand near their head. # 2.0 # 2.833 # left arm # legs

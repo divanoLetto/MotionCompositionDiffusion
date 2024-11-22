@@ -1,0 +1,2 @@
+A person moves their hips repeatedly to the left and right. # 0 # 5 # spine # legs
+A person spins around while holding their arms out. # 5 # 10.0 # right arm # left arm # spine # legs

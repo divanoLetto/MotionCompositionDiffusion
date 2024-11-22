@@ -1,0 +1,2 @@
+A person shuffles to the side repeatedly.  # 0 # 4 # legs
+A person is spinning while moving to the left.  # 4 # 7.332999999999998 # spine # legs

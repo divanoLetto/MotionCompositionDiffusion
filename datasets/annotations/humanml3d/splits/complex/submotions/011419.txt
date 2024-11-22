@@ -1,0 +1,3 @@
+A person winds up and throws something with their right hand. # 0 # 3 # spine
+A person steps forward with their left foot. # 2 # 4 # spine
+A person raises their arms up as if they are setting something on a wall. # 3 # 4.2 # spine

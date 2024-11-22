@@ -1,0 +1,3 @@
+a person walks in a large circle. # 0 # 10 # spine
+a person walks in a clockwise circle # 0 # 10 # spine
+a person walks in a wide clockwise circle. # 0 # 10 # spine

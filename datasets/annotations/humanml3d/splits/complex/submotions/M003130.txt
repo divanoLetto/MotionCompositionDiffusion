@@ -1,0 +1,3 @@
+A person is moving hands and hips rapidly. # 0 # 3 # spine
+A person shakes their hips and waves hands rapidly by either side of the jaw. # 2 # 5 # spine
+A person raises both arms to his face, then drops them back to his sides. # 5 # 8.217 # spine

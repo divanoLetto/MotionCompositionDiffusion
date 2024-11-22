@@ -1,0 +1,3 @@
+this person is moving as if excited and animated while speaking. # 0 # 10 # spine
+waving hands up and down then walking around. # 0 # 10 # spine
+a person looks at the ground and steps forward, moves arms in a clockwise circle, looks down and centers himself, jumps twice and moves arms in counterclockwise circles twice, then turns to the left and stretches arms above head. # 0 # 10 # spine

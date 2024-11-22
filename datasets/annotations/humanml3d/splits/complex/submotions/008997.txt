@@ -1,0 +1,3 @@
+A person stands with arms at their side and then alternatively moves their shoulders up and down in a shimmying motion. # 0 # 2 # spine
+A person shakes shoulders on the spot. # 2 # 4 # spine
+A person side steps to the right and then to the left. # 4 # 5.008 # spine

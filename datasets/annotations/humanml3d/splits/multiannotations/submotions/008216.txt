@@ -1,0 +1,3 @@
+a man jumps down from a curve. # 0 # 3.817 # spine
+the person took a small jump forward. # 0 # 3.817 # spine
+a man jumps forward once. # 0 # 3.817 # spine

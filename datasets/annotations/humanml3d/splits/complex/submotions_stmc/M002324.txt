@@ -1,0 +1,2 @@
+A person raises both arms to signal.  # 0 # 4 # right arm # left arm
+A person lowers their arms after signaling.  # 4 # 10.0 # right arm # left arm

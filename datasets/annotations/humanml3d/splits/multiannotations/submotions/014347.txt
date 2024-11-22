@@ -1,0 +1,3 @@
+a person is sitting and puts their left hand to their head, and their right foot up on their left knee. # 0 # 9.9 # spine
+a person is sitting down, using a phone with their hands and puts it up to their ear. # 0 # 9.9 # spine
+this person is seated and appears to play the drums. # 0 # 9.9 # spine

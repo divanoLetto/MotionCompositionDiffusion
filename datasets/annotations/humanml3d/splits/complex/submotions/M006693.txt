@@ -1,0 +1,3 @@
+A person takes a step back with their left foot. # 0 # 2 # spine
+a person raises their arms and makes a throwing motion with their left arm. # 2 # 6 # spine
+a person is throwing something with both hands. # 6 # 10.0 # spine

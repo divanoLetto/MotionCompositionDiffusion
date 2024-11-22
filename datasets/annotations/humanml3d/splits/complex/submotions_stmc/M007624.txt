@@ -1,0 +1,2 @@
+A person throws an uppercut with his right arm. # 0 # 2.1 # right arm
+A person holds their left arm at a 90 degree angle. # 0 # 2.3 # left arm

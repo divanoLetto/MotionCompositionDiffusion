@@ -1,0 +1,3 @@
+A figure is digging with a shovel. # 0 # 5 # spine
+A figure is digging a hole. # 5 # 7 # spine
+A figure is placing something into the hole. # 7 # 10.0 # spine

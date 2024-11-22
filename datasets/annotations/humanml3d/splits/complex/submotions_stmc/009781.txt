@@ -1,0 +1,2 @@
+A person throws something with their left hand. # 0 # 2.0 # left arm
+A person punches out left and then right. # 2.0 # 2.542 # left arm

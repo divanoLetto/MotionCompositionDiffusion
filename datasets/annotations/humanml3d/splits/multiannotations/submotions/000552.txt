@@ -1,0 +1,3 @@
+person walks forward down two steps. # 0 # 7.67 # spine
+a person stepping over something # 0 # 7.67 # spine
+a man is walking with normal distance between feet and then steps forward a greater distance to step over something. # 0 # 7.67 # spine

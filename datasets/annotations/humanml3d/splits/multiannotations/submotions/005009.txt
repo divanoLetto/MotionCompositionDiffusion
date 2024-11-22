@@ -1,0 +1,3 @@
+a person moves right arm forward to shoulder length and then brings it down, while the left arm moves slightly outwards and back. # 0 # 3.775 # spine
+man standing forward with right arm reaching forward. # 0 # 3.775 # spine
+a person lifts right arm straifht in front to chin level and back down. # 0 # 3.775 # spine

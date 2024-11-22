@@ -1,0 +1,2 @@
+A person swings their arms in a circular motion. # 0 # 4 # right arm # left arm
+A person kicks alternating legs. # 4 # 10.000000000000002 # legs

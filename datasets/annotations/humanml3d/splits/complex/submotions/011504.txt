@@ -1,0 +1,4 @@
+A person locks their hands behind their back. # 0 # 3 # spine
+A person sweeps their legs to the left. # 2 # 5 # spine
+A person sweeps their legs to the right. # 4 # 7 # spine
+A person continues to sweep their legs left and right. # 6 # 10.0 # spine

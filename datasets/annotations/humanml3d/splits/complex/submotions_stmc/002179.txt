@@ -1,0 +1,2 @@
+A person kicks with their left leg. # 0 # 2.6 # legs
+A person stands in a defensive position. # 2.6 # 2.725 # legs

@@ -1,0 +1,4 @@
+A person gets into a fighting stance. # 0 # 2.95 # spine
+A person kicks with their left leg. # 2 # 5 # spine
+A person punches with their right hand. # 4 # 6 # spine
+A person kicks with their right leg. # 5 # 10.000000000000004 # spine

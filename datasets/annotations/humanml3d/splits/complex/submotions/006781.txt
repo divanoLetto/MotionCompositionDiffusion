@@ -1,0 +1,2 @@
+A person raises their right arm and prepares to throw something. # 0 # 2 # spine
+A person punches with their left hand. # 1.5 # 3.1 # spine

@@ -1,0 +1,3 @@
+a person stirs something with their right hand # 0 # 5.16 # spine
+figure waves hand in front of themselves. # 0 # 5.16 # spine
+a person berings their right arm forward and swipes left to right # 0 # 5.16 # spine

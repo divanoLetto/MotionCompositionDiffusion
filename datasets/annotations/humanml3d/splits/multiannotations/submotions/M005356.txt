@@ -1,0 +1,3 @@
+a person repeatedly blocks their face with their right arm. # 0 # 10 # spine
+the person steps forward and claps. # 0 # 10 # spine
+a person is blocking something with their right arm. # 0 # 10 # spine

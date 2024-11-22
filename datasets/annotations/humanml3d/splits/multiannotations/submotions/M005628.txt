@@ -1,0 +1,3 @@
+someone walks with difficulty on their left side, then tries to run # 0 # 10 # spine
+a person walks around with his arm to his side. # 0 # 10 # spine
+the person was limping forward then turned around and went the other direction. # 0 # 10 # spine

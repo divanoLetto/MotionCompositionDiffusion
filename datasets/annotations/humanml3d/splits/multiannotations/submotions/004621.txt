@@ -1,0 +1,3 @@
+slowly swinging the arms forward as the body walks slowly. # 0 # 2.283 # spine
+a stick figure walks from upper left to lower right # 0 # 2.283 # spine
+a person walks slightly in a right diagonal direction while holding his right arm still # 0 # 2.283 # spine

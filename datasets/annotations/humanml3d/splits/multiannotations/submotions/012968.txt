@@ -1,0 +1,2 @@
+this person zig zags forward then stops to the right. # 0 # 7.04 # spine
+walking forward with legs wide apart. # 0 # 7.04 # spine

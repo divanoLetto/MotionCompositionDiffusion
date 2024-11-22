@@ -1,0 +1,3 @@
+A person holds a violin with the left arm. # 0 # 3 # left arm
+A person plays the violin with the right arm. # 3 # 5.5 # right arm
+A person puts their hands down. # 5.5 # 5.98 # left arm # right arm

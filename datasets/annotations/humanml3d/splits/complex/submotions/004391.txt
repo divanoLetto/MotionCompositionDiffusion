@@ -1,0 +1,3 @@
+A person punches with their left hand. # 0 # 4 # spine
+A person punches with their right hand. # 2 # 6 # spine
+A person throws a left punch. # 4 # 10.0 # spine

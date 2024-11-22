@@ -1,0 +1,1 @@
+A person raises their right arm to hit a ball. # 0 # 1.0 # right arm

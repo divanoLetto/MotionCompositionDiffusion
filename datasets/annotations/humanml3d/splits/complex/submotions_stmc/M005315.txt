@@ -1,0 +1,4 @@
+A person stands with their legs shoulder width apart.  # 0 # 2 # legs # spine
+A person holds their arms out in front of them.  # 0 # 2 # right arm # left arm
+A person raises their right arm to throw something.  # 2 # 6 # right arm
+A person throws something with their right hand.  # 6 # 10.0 # right arm

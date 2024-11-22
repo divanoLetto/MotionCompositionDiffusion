@@ -1,0 +1,3 @@
+a person leans forward with their left hand as if to pick something up, walks to the right, turns left, and leans to pick something up again, then moves left arm as if to wipe something. # 0 # 10 # spine
+the human stick figure leaned to his right walked to left leaned and lift habd in circular motion. # 0 # 10 # spine
+a person picks something up, moves to the left, and then starts wiping something with their left arm. # 0 # 10 # spine

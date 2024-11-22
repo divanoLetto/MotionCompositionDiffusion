@@ -1,0 +1,3 @@
+a person walks in a counterclockwise circle and raises their hand to their face to yawn. # 0 # 10 # spine
+a person walks up touches his shoulder them walks a full circle and stops # 0 # 10 # spine
+a man walks forward a few steps, raises his right hand to his face, then continues walking in a circle. # 0 # 10 # spine

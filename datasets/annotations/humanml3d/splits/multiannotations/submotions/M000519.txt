@@ -1,0 +1,3 @@
+person uses left hand to hold and moves an item in a circular motion then grabs something with right hand and moves item in circular motion in front of them again # 0 # 10 # spine
+a person is shaking something with red arm and pouring something with blue arm. # 0 # 10 # spine
+a person is shaking something in their left hand, then picks up something with their right and shakes them both at the same time. # 0 # 10 # spine

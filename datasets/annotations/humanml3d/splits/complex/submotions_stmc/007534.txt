@@ -1,0 +1,2 @@
+A person walks sideways to the left. # 0 # 4 # legs
+A person steps backward. # 4 # 10.0 # legs

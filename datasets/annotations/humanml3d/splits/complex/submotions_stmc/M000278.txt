@@ -1,0 +1,2 @@
+A person raises their arms in a dance motion. # 0 # 4 # right arm # left arm
+A person moves their legs rhythmically. # 4 # 10.0 # legs

@@ -1,0 +1,2 @@
+A person makes a dribbling motion quickly with his left hand. # 0 # 5 # spine
+A person steps forward to kick a ball. # 5 # 10.0 # spine

@@ -1,0 +1,3 @@
+A man holds his arms up at shoulder length. # 0 # 3 # spine
+A man dances in a counterclockwise circle. # 2 # 10.0 # spine
+A man holds his left arm further from his body. # 0 # 5 # spine

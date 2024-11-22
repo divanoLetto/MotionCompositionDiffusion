@@ -1,0 +1,4 @@
+A person raises their arms like wings. # 0 # 3 # spine
+A person moves to the left. # 2 # 5 # spine
+A person moves to the right. # 4 # 7 # spine
+A person is dancing. # 6 # 10 # spine

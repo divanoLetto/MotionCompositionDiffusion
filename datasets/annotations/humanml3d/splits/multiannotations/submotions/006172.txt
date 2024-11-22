@@ -1,0 +1,3 @@
+a person holds their hands together and bows their head a few times. # 0 # 10 # spine
+person is praying while standing up # 0 # 10 # spine
+a person clasps their hands in front of them at chest level. # 0 # 10 # spine

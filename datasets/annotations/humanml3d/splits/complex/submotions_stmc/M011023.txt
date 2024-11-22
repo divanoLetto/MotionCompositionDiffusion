@@ -1,0 +1,4 @@
+A person raises their right arm. # 0 # 2 # right arm
+A person swings their right arm to hit something. # 2 # 6 # right arm
+A person raises their right arm again. # 6 # 8 # right arm
+A person swings their right arm again to hit something. # 8 # 10.0 # right arm

@@ -1,0 +1,2 @@
+A person is throwing something with both hands. # 0 # 5 # spine
+A person raises their left arm. # 3 # 5.108 # spine

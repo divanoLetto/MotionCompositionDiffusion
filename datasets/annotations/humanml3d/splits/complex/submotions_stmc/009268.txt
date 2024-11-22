@@ -1,0 +1,2 @@
+A person shuffles from side to side. # 0 # 3.5 # legs
+A person holds someone in their left arm. # 3.5 # 10.0 # left arm

@@ -1,0 +1,4 @@
+A person raises both arms above their head. # 0 # 3 # spine
+A person stands still with arms raised. # 2 # 5 # spine
+A person moves their arms around as if to play. # 4 # 7 # spine
+A person lowers their arms back down. # 8 # 10.0 # spine

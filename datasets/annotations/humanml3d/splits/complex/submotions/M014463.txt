@@ -1,0 +1,2 @@
+A person is dancing with their arms raised. # 0 # 6 # spine
+A person claps their hands together. # 6 # 10.0 # spine

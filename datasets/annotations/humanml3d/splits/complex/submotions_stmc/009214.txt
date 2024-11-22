@@ -1,0 +1,4 @@
+A person is walking forward. # 0 # 2 # legs
+A person turns to their left. # 2 # 4 # spine # head
+A person raises their arms above their head. # 4 # 8 # right arm # left arm
+A person taps something with their right hand. # 8 # 10.0 # right arm

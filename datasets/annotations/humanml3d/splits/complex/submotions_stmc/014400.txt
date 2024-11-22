@@ -1,0 +1,2 @@
+A person kicks with their right leg. # 0 # 6 # legs
+A person kicks with their left leg. # 6 # 9.999999999999998 # legs

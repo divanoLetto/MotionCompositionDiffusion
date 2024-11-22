@@ -1,0 +1,4 @@
+A person squats down. # 0 # 3 # spine
+A person stands up. # 2 # 5 # spine
+A person is dancing. # 4 # 7 # spine
+A person spins around. # 6 # 9.0 # spine

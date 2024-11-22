@@ -1,0 +1,3 @@
+A person raises their right arm in front of them. # 0 # 2 # right arm
+A person pushes with their right arm. # 2 # 4.9 # right arm
+A person holds their arms up in a boxing pose. # 4.9 # 4.908 # right arm # left arm

@@ -1,0 +1,2 @@
+A person holds something with their right hand. # 0 # 2.5 # right arm
+A person plays with their left hand. # 2.5 # 7.63 # left arm

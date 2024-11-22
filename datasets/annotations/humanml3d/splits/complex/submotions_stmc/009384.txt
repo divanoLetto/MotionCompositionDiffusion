@@ -1,0 +1,2 @@
+A person kicks with their right leg. # 0 # 4.0 # legs
+A person steps back with their left leg. # 4.0 # 4.8 # legs

@@ -1,0 +1,3 @@
+a person is lifting their left arm waving his hand then raising it above his shoulder while swaying back and forth. # 0 # 10 # spine
+the man is making gestures # 0 # 10 # spine
+the person is making a gesture with his left hand. # 0 # 10 # spine

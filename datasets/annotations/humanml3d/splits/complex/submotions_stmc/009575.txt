@@ -1,0 +1,3 @@
+A person raises both arms out to the side. # 0 # 3 # right arm # left arm
+A person moves their hips from side to side. # 3 # 6 # spine # legs
+A person continues to sway their arms. # 6 # 9.240000000000002 # right arm # left arm

@@ -1,0 +1,2 @@
+A person dances backward. # 0 # 3 # legs
+A person raises both arms out to the side. # 3 # 5.35 # right arm # left arm

@@ -1,0 +1,2 @@
+a person executes an uppercut punch with the left hand. # 0 # 1.5 # left arm
+the man made an 'uppercut' motion with his right arm leftwards. # 1.5 # 2.3 # right arm

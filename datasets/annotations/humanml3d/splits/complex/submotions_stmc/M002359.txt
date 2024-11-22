@@ -1,0 +1,2 @@
+A person leans to the left. # 0 # 2.7 # spine # head
+A person kicks with their right leg. # 2.7 # 5.8 # legs

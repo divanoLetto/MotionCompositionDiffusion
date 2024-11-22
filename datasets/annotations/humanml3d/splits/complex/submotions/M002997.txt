@@ -1,0 +1,2 @@
+A person raises their left arm and throws something. # 0 # 2 # spine
+A person throws something with both hands overhead. # 2 # 7.308 # spine

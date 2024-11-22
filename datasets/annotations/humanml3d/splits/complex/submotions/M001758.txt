@@ -1,0 +1,2 @@
+a person is jumping up and down. # 0 # 6.75 # spine
+a person is moving their hips repeatedly to the right and left. # 0 # 6 # spine

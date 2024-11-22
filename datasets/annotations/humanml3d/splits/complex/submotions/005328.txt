@@ -1,0 +1,2 @@
+A person raises both hands above their head. # 0 # 1.0 # spine
+A person holds their left hand to their chest. # 0.5 # 1.0 # spine

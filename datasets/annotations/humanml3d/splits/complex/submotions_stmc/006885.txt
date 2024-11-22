@@ -1,0 +1,2 @@
+A person is in a fighting stance, hip and legs bent.  # 0 # 5 # legs # spine
+A person dances around in place.  # 5 # 10.0 # legs

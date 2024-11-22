@@ -1,0 +1,2 @@
+A person raises their right arm and strums with their left. # 0 # 5 # right arm # left arm
+A person raises their left arm to their head. # 5 # 9.950000000000001 # left arm # head

@@ -1,0 +1,2 @@
+A person squats down, bending at the knees and extending their arms. # 0 # 6 # spine
+A person is squatting down, jumping into the air, and landing on the ground. # 6 # 10.0 # spine

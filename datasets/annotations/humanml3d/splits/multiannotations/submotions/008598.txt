@@ -1,0 +1,3 @@
+a person plays the air drums while standing, starting with the center drums, moving to the left and then all the way back to the right. # 0 # 10 # spine
+a person hits his drums. # 0 # 10 # spine
+a person is drumming on multiple drums. # 0 # 10 # spine

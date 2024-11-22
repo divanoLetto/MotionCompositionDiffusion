@@ -1,0 +1,4 @@
+A person raises their left hand. # 0 # 2 # left arm
+A person raises their right hand. # 2 # 4 # right arm
+A person moves their hips from side to side. # 4 # 8 # spine # legs
+A person claps their hands above their head. # 8 # 9.892 # right arm # left arm

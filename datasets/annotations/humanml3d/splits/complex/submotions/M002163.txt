@@ -1,0 +1,2 @@
+A person is punching with their left hand. # 0 # 2.0 # spine
+A person is punching with their right hand. # 2.0 # 4.55 # spine

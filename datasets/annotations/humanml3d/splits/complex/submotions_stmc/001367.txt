@@ -1,0 +1,2 @@
+A person is dancing.  # 0 # 5 # legs # spine
+A person spins while dancing.  # 5 # 10.0 # spine # legs

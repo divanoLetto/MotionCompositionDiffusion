@@ -1,0 +1,3 @@
+a person walks then stops briefly, he does a 180 degree turn and walks in that direction. # 0 # 10 # spine
+a man walks diagonally to his far right before turning backwards, then walks straight backwards before turning to his right. # 0 # 10 # spine
+a person is walking, turns around on their left foot and casually walks along the ground. # 0 # 10 # spine

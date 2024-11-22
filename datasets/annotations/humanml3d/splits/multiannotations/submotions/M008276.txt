@@ -1,0 +1,3 @@
+a person who is running # 0 # 2.98 # spine
+a person runs forward fast. # 0 # 2.98 # spine
+a person jogging forward whith their arms swinging # 0 # 2.98 # spine

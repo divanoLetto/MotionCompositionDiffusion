@@ -1,0 +1,2 @@
+A person turns their body towards the left. # 0 # 2.5 # spine
+A person kicks high with their left leg. # 2.5 # 4.09 # legs

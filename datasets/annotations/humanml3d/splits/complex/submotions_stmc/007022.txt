@@ -1,0 +1,3 @@
+A person is flapping his arms like a chicken. # 0 # 5.0 # right arm # left arm
+A person hops on their right leg. # 5 # 8.0 # legs
+A person swings both arms while hopping. # 8 # 10.0 # right arm # left arm

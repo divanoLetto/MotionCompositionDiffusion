@@ -1,0 +1,4 @@
+A person raises both arms out to the side. # 0 # 3 # spine
+A person performs a ballerina balance pose, first on their right leg. # 2 # 5 # spine
+A person swaps to their left leg. # 4 # 7 # spine
+A person spins around. # 6 # 10 # spine

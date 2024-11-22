@@ -1,0 +1,4 @@
+A person takes one step to the left. # 0 # 2.0 # legs
+A person takes one step to the right. # 2.0 # 4.0 # legs
+A person takes one step to the left. # 4.0 # 6.0 # legs
+A person takes one step to the right. # 6.0 # 8.26 # legs

@@ -1,0 +1,3 @@
+A person raises their right arm. # 0 # 2 # right arm
+A person moves their right arm back and forth. # 2 # 5 # right arm
+A person uses their left arm to play something. # 5 # 5.36 # left arm

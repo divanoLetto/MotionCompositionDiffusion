@@ -1,0 +1,3 @@
+a person slowly paces forward. # 0 # 7.13 # spine
+a person walks slowly forward # 0 # 7.13 # spine
+a person walking slowly forward with confidence # 0 # 7.13 # spine

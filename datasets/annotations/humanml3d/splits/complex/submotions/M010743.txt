@@ -1,0 +1,2 @@
+A person punches to the right with the right hand. # 0 # 2 # spine
+A person punches to the left with the left hand. # 2 # 3.1 # spine

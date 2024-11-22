@@ -1,0 +1,3 @@
+a man swings his left arm back repeatedly. # 0 # 10 # spine
+a person reaches down with his left hand and twists his wrists right and left. # 0 # 10 # spine
+a person does a repeated small action with their left hand, with a slight lean forward. # 0 # 10 # spine

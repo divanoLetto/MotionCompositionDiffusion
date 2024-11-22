@@ -1,0 +1,2 @@
+A person reaches down to pick something up with their right hand. # 0 # 3 # spine
+A person holds something in their right hand. # 2 # 10.0 # spine

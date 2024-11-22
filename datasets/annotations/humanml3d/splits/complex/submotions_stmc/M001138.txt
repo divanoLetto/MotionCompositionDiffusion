@@ -1,0 +1,2 @@
+A person walks forward with confidence. # 0 # 3.258 # legs
+A person gestures with both arms. # 3.258 # 10.0 # right arm # left arm

@@ -1,0 +1,3 @@
+the person is getting a shower and washing his left arm. # 0 # 7.99 # spine
+a person grabbing items with right hand. # 0 # 7.99 # spine
+the man is showering his left arm # 0 # 7.99 # spine

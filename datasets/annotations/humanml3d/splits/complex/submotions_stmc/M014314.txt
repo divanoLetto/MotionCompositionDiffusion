@@ -1,0 +1,2 @@
+A person crouches down with hands on their thighs. # 0 # 2 # legs # left arm # right arm
+A person hits with their right arm. # 2 # 3.242 # right arm

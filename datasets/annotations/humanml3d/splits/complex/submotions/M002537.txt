@@ -1,0 +1,2 @@
+A person does the box step. # 0 # 6 # spine
+A person lifts both hands up to above face level. # 6 # 10.0 # spine

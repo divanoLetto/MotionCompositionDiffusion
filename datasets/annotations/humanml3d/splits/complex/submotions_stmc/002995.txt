@@ -1,0 +1,3 @@
+A person crosses their arms left over right.  # 0 # 3.675 # left arm # right arm
+A person crosses their arms right over left.  # 3.675 # 7.35 # left arm # right arm
+A person raises both arms overhead.  # 7.35 # 10.0 # right arm # left arm

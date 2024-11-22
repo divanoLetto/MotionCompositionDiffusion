@@ -1,0 +1,3 @@
+the man moves to the side # 0 # 3.708 # spine
+person stands and folds arms in front of their body # 0 # 3.708 # spine
+an individal takes side steps, crosses arms, thenbsteps back to original poaition in-crossinf arms in pocess. # 0 # 3.708 # spine

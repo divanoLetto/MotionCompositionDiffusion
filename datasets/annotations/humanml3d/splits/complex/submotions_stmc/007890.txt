@@ -1,0 +1,3 @@
+A person walks forward with both arms raised high above their head. # 0 # 3 # legs # right arm # left arm
+A person leans forward with their spine. # 3 # 5 # spine
+A person makes a high kick with the right leg. # 5 # 9.25 # legs

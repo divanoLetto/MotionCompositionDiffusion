@@ -1,0 +1,2 @@
+A person is standing still. # 0 # 3 # spine # legs
+A person moves their hips to the left and right. # 3 # 10.000000000000002 # spine # legs

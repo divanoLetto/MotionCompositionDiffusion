@@ -1,0 +1,2 @@
+A person raises their right leg and bends the knee, pulling it up toward the chest. # 0 # 2 # spine
+A person kicks with their left leg twice, and then once with their right. # 2 # 5.13 # spine

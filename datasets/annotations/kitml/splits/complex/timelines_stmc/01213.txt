@@ -1,0 +1,3 @@
+A person walks forward. # 0 # 3 # legs
+A person raises both arms. # 3 # 6 # left arm # right arm
+A person moves side to side with the legs. # 6 # 12.49 # legs

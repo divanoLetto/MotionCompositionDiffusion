@@ -1,0 +1,3 @@
+A person walks forward while swinging their arms.  # 0 # 3 # legs # right arm # left arm
+A person spins around while keeping arms extended.  # 3 # 5.5 # spine # right arm # left arm
+A person turns around and walks backward.  # 5.5 # 8.083 # legs

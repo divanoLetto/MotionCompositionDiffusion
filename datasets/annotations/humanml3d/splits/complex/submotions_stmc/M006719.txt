@@ -1,0 +1,4 @@
+A person raises their right arm. # 0 # 3.0 # right arm
+A person swings their right arm. # 3.0 # 5.0 # right arm
+A person holds an object with their left hand. # 5.0 # 7.0 # left arm
+A person lowers their left arm. # 7.0 # 10.0 # left arm

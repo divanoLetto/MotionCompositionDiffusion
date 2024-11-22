@@ -1,0 +1,3 @@
+A person sways from side to side. # 0 # 5 # spine
+A person dances in a small area. # 3 # 8 # spine
+A person twirls in a circular motion. # 7 # 10.0 # spine

@@ -1,0 +1,3 @@
+a person is dancing the waltz, going in a clockwise direction with the right arm out. # 0 # 10 # spine
+this person is holding his arms out and dancing the walls. # 0 # 10 # spine
+a man is practicing the waltz with a partner # 0 # 10 # spine

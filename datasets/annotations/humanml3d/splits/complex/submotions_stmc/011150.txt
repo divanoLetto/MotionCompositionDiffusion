@@ -1,0 +1,2 @@
+A person raises their left arm to hold the bow. # 0 # 5 # left arm
+A person moves their right arm in a drawing motion. # 5 # 9.639999999999999 # right arm

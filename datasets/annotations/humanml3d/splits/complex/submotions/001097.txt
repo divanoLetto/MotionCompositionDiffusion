@@ -1,0 +1,2 @@
+A person performs martial arts with their left arm blocking 4 times at a high level, one time at a mid level, and one time at a lower level. # 0 # 10.0 # spine
+A person jogs in a circle to the right. # 0 # 10.0 # spine

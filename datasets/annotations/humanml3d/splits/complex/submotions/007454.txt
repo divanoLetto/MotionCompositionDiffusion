@@ -1,0 +1,3 @@
+A person is waving with both of their hands. # 0 # 5.53 # spine
+A person shakes with his left arm up, then puts it down and shakes with his right arm up. # 4 # 8.85 # spine
+A person is moving their hips repeatedly to the left and right. # 6 # 10 # spine

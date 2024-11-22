@@ -1,0 +1,3 @@
+a person walks slowly forward. # 0 # 10 # spine
+a person is walking very slow in forward direction. # 0 # 10 # spine
+a person slowly walked forward in left direction # 0 # 10 # spine

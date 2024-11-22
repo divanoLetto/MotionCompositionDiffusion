@@ -1,0 +1,2 @@
+A person raises their left arm.  # 0 # 2 # left arm
+A person swings a racket with their left arm.  # 2 # 8.55 # left arm

@@ -1,0 +1,2 @@
+A person is clapping their hands. # 0 # 6 # spine
+A person is moving their hips repeatedly to the right and left. # 0 # 10.0 # spine

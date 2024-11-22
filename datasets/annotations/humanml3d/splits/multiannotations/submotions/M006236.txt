@@ -1,0 +1,3 @@
+a figure jumps a few times clockwise, then quickly turns counterclockwise with one big twisting jump, then stumbles backward upon landing. # 0 # 9.083 # spine
+a person jumps while turning back and forth; they stumble back on their last jump since they try to do a 360 turn unsuccessfully # 0 # 9.083 # spine
+a person jumps to the right then jumps to the left then they try to do a double jump but stumbles backwards after regaining their composure starts walking back to starting position. # 0 # 9.083 # spine

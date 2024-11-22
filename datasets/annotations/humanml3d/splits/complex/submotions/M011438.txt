@@ -1,0 +1,2 @@
+A person is walking around the room. # 0 # 6 # spine
+A person is moving their hips up and down. # 4 # 10.0 # spine

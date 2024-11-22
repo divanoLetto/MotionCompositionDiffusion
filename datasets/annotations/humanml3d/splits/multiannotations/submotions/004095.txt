@@ -1,0 +1,3 @@
+person squats with knees facing inwards then stands up and quickly jogs before stopping # 0 # 10 # spine
+a person doign squats, then runs in place and stops. # 0 # 10 # spine
+a person does three squats and then runs in place # 0 # 10 # spine

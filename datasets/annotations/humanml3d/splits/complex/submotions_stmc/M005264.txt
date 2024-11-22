@@ -1,0 +1,2 @@
+A person stands with arms outstretched and knees bent, in a ballet pliea. # 0 # 6.7 # spine # right arm # left arm # legs
+A person lifts their leg and balances on the other. # 6.7 # 8.692 # spine # right arm # left arm # legs

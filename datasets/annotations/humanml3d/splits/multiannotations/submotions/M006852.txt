@@ -1,0 +1,3 @@
+a person pivots to the right twice with his left foot planted. # 0 # 10 # spine
+a man turns towards his right, steps back with his right foot to look over his right shoulder, then returns his right foot pauses, steps backwards with his left foot and looks over his left shoulder. # 0 # 10 # spine
+a man looks behind him then turns 90 degrees. # 0 # 10 # spine

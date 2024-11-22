@@ -1,0 +1,3 @@
+A person raises both arms to shoulder height. # 0 # 3 # right arm # left arm
+A person sways their body from side to side. # 3 # 6 # spine
+A person raises their right arm in a waving motion. # 6 # 10.0 # right arm

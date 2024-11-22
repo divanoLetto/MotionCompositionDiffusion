@@ -1,0 +1,2 @@
+A person stands using his left hand to play a guitar. # 0 # 3 # left arm # spine
+A person moves his left arm up and down. # 3 # 7.32 # left arm

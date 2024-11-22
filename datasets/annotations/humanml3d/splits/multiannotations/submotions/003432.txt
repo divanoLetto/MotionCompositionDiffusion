@@ -1,0 +1,3 @@
+a person sits on a ledge # 0 # 10 # spine
+a person sits down on a stool. # 0 # 10 # spine
+a person steps to a stool, turns clockwise and sits down, putting feet on rung, then puts hands in lap. # 0 # 10 # spine

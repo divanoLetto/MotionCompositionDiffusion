@@ -1,0 +1,3 @@
+a person walks back and forth, and every so often ducks down to the side suddenly. # 0 # 10 # spine
+a person is seen to be ducking out the way # 0 # 10 # spine
+a person takes a few steps, appears to be hit by something, takes a few more steps and then appears to be hit again. # 0 # 10 # spine

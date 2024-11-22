@@ -1,0 +1,2 @@
+A person lifts their right arm and swings it side to side.  # 0 # 5 # right arm
+A person moves their legs while hopping sideways.  # 5 # 10.0 # legs

@@ -1,0 +1,1 @@
+A person appears to throw something with their left arm. # 0 # 3.0 # left arm

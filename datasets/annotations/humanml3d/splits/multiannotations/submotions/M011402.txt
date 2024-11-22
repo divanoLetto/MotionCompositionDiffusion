@@ -1,0 +1,3 @@
+a person slowly walks in a 3/4 circle. # 0 # 10 # spine
+a man turns to his left, then steps forward, hesitating sometimes as though sneaking, making a wide counterclockwise square. # 0 # 10 # spine
+a persons walking slowly in a circle. # 0 # 10 # spine

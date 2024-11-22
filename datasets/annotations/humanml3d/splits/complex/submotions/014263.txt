@@ -1,0 +1,2 @@
+A person is jumping around in place. # 0 # 6 # spine
+A person is waving with their right hand. # 4 # 9.1 # spine

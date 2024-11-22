@@ -1,0 +1,2 @@
+A person taps with their right arm. # 0 # 2 # right arm
+A person lightly taps an object with their right arm. # 2 # 4.658 # right arm

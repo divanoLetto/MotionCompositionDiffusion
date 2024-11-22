@@ -1,0 +1,2 @@
+A person throws something with their right hand. # 0 # 7.167 # right arm
+A person runs forward with both arms swinging. # 7.167 # 10.0 # legs # right arm # left arm

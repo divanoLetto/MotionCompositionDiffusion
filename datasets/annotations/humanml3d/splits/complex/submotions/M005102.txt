@@ -1,0 +1,2 @@
+A person walks forward while bouncing something in their right hand. # 0 # 6 # spine
+A person spins in a circle. # 6 # 9.55 # spine

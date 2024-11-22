@@ -1,0 +1,2 @@
+A person raises their right arm to shoot a basketball. # 0 # 2.0 # right arm
+A person takes several steps forward. # 2.0 # 7.350000000000001 # legs

@@ -1,0 +1,3 @@
+a person runs forward and stops short. # 0 # 3.467 # spine
+a person is running fast then stops # 0 # 3.467 # spine
+person runs in a diagonal line. # 0 # 3.467 # spine

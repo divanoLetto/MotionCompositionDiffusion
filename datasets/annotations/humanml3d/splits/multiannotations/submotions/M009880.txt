@@ -1,0 +1,3 @@
+a man beginning with his left leg slides to the left side. # 0 # 4.01 # spine
+a person hops on one leg to the left with their right leg trailing behind them. # 0 # 4.01 # spine
+a person is pushed from the right and recovers balance. # 0 # 4.01 # spine

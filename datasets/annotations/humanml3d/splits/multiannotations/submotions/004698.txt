@@ -1,0 +1,3 @@
+a man walks forwards at medium pace with his arms swawing gently. # 0 # 4.13 # spine
+someone walks forward four steps rigidly. # 0 # 4.13 # spine
+subject walks forward and stops. # 0 # 4.13 # spine

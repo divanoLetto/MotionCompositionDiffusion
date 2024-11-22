@@ -1,0 +1,3 @@
+the person is crouched down and raises their right hand # 0 # 1.1 # spine
+a person squats and eats with his right hand. # 0 # 1.1 # spine
+a person sitting with right hand moving up. # 0 # 1.1 # spine

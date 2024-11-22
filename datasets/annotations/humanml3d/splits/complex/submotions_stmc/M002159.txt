@@ -1,0 +1,2 @@
+A person bends over and places a tee in the ground with their right hand. # 0 # 4.883 # right arm
+A person puts a golf ball on the tee with their right hand. # 4.883 # 5.125 # right arm

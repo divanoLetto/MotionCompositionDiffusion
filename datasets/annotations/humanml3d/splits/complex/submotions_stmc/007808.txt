@@ -1,0 +1,2 @@
+A person is doing jumping jacks. # 0 # 5.675 # right arm # left arm # legs
+A person jumps upwards with both arms raised above their head. # 5.675 # 10.1 # right arm # left arm # spine # legs

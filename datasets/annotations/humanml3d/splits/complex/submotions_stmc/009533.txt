@@ -1,0 +1,2 @@
+A person walks in a clockwise circle. # 0 # 4.45 # legs
+A person walks in a counterclockwise circle. # 4.45 # 6.7 # legs

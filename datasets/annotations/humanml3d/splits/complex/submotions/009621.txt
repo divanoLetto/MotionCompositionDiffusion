@@ -1,0 +1,2 @@
+A person punches with their right arm. # 0 # 2.45 # spine
+A person punches with their right arm. # 2.45 # 3.1 # spine

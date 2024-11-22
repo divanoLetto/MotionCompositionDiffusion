@@ -1,0 +1,3 @@
+a person taking two steps forward turns counterclockwise and turns around # 0 # 6.5 # spine
+a figure walks forward then turns on their heel to walk back where they came from # 0 # 6.5 # spine
+the person is walking forward turning left # 0 # 6.5 # spine

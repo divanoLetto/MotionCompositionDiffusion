@@ -1,0 +1,3 @@
+a person holds their arms near their face and searches left and right. # 0 # 6.275 # spine
+the person standing looking at a subject in his camera. # 0 # 6.275 # spine
+person has hands up in front of face # 0 # 6.275 # spine

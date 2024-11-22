@@ -1,0 +1,2 @@
+A person holds their arms out in front of them.  # 0 # 1.5 # right arm # left arm
+A person moves their arms up and down.  # 1.5 # 1.55 # right arm # left arm

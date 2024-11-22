@@ -1,0 +1,3 @@
+a man holds left hand to left side of head and begins panting like he's out of breath. # 0 # 10 # spine
+a person bends over and holds their head in pain. # 0 # 10 # spine
+a person grabs their head as if they are hurt. # 0 # 10 # spine

@@ -1,0 +1,2 @@
+A person sways from side to side. # 0 # 5 # spine # legs
+A person moves their right arm as if playing an imaginary guitar. # 5 # 6.7 # right arm

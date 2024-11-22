@@ -1,0 +1,2 @@
+A person holds something with their right hand. # 0 # 5 # right arm
+A person moves their right arm up and down. # 5 # 6.63 # right arm

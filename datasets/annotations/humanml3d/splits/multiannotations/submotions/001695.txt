@@ -1,0 +1,3 @@
+a person walks forward with their arms at their sides while slightly going right. # 0 # 3.558 # spine
+a person casually walking forward # 0 # 3.558 # spine
+forward walking and it ends # 0 # 3.558 # spine

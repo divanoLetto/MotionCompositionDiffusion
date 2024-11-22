@@ -1,0 +1,3 @@
+A person prepares by bending slightly at the knees and positioning their legs. # 0 # 3 # legs
+A person raises their right arm to prepare for a throw. # 3 # 6 # right arm
+A person makes a throwing motion with their right arm. # 6 # 8.208 # right arm

@@ -1,0 +1,2 @@
+A person walks counterclockwise in a circle. # 0 # 7.44 # spine
+A person punches with their left hand. # 5 # 10 # spine

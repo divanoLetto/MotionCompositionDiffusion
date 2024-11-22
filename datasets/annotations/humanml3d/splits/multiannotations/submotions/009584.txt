@@ -1,0 +1,3 @@
+a person is sneaking around # 0 # 10 # spine
+a person leans forward slightly and walks cautiously on the balls of their feet. # 0 # 10 # spine
+a man slowly walks forward with knees bent and his back curved. # 0 # 10 # spine

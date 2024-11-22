@@ -1,0 +1,3 @@
+A person raises their arms to prepare for a dance.  # 0 # 3 # spine
+A person performs dance movements with their legs.  # 2 # 6 # spine
+A person spins while dancing.  # 5 # 10 # spine

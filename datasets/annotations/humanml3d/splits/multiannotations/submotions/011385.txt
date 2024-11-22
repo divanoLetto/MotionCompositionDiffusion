@@ -1,0 +1,3 @@
+the person is picking something up and putting it on something. # 0 # 10 # spine
+a man uses his right hand to fill in something and bends to collect it down,turns and goes back. # 0 # 10 # spine
+a person turns off the faucet then unclogs the drain out of the bathtub # 0 # 10 # spine

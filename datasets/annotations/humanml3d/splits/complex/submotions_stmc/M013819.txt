@@ -1,0 +1,2 @@
+A person puts their hands together. # 0 # 2.5 # right arm # left arm
+A person swings their arms in a wide circle. # 2.5 # 3.642 # right arm # left arm

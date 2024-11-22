@@ -1,0 +1,2 @@
+A person raises their left arm up.  # 0 # 3 # spine
+A person lowers their left arm to waist level.  # 3 # 8.433 # spine

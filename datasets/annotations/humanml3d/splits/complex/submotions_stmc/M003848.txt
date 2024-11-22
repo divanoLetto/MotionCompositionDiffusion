@@ -1,0 +1,4 @@
+A person stands with their legs apart. # 0 # 1.5 # legs
+A person holds the golf club with both arms. # 1.5 # 3 # right arm # left arm
+A person swings the club back. # 3 # 4 # right arm # left arm
+A person swings the club forward with force. # 4 # 4.683 # right arm # left arm

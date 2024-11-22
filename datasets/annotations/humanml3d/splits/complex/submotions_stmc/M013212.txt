@@ -1,0 +1,2 @@
+A person scratches their right side with their right arm. # 0 # 5 # right arm
+A person raises their arms in a waving motion. # 5 # 10.0 # right arm # left arm

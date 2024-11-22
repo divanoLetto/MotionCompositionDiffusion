@@ -1,0 +1,3 @@
+a person sits down, stands up, and jumps in place. # 0 # 8.008 # spine
+the person jumps up from indian style sitting position onto two feet standing position. then the person leaps once. # 0 # 8.008 # spine
+a man sits down and then stand back up. # 0 # 8.008 # spine

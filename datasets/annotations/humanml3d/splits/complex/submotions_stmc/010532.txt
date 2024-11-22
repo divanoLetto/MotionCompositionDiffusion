@@ -1,0 +1,3 @@
+A person raises their left hand and walks forward. # 0 # 3.83 # left arm # legs
+A person swings their right arm in a circular motion. # 3.83 # 7.0 # right arm
+A person raises both arms. # 7.0 # 9.116999999999999 # right arm # left arm

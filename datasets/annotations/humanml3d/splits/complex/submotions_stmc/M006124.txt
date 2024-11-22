@@ -1,0 +1,3 @@
+A person holds their arms out in front of them. # 0 # 5 # right arm # left arm
+A person squats. # 5 # 8 # spine # legs
+A person swivels from side to side. # 8 # 10.0 # spine # legs

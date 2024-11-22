@@ -1,0 +1,2 @@
+A person kicks to the left with their right leg. # 0 # 5 # spine
+A person kicks to the right with their left leg. # 4 # 10.0 # spine

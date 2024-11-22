@@ -1,0 +1,3 @@
+A person attempts to do a handstand. # 0 # 2.0 # spine # head
+A person kicks with their legs. # 2.0 # 6.0 # legs
+A person holds a handstand. # 6.0 # 6.917000000000001 # spine # head

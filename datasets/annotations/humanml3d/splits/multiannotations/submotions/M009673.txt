@@ -1,0 +1,3 @@
+a person throws their left hand up # 0 # 0.8 # spine
+a person whith their hand raised, raises it higher. # 0 # 0.8 # spine
+a person lifts their left hand over their head and extends both knees upward. # 0 # 0.8 # spine

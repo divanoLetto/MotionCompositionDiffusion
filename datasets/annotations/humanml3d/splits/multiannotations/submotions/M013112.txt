@@ -1,0 +1,3 @@
+a person grabs a small invisible object from his right and places it directly in front of them. # 0 # 10 # spine
+a person grabbed something and put it somehwere # 0 # 10 # spine
+person bends down lifting something with their hands and moving the object to the left before bringing their arms back in front of them. # 0 # 10 # spine

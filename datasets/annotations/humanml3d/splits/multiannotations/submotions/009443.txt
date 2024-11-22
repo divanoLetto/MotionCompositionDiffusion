@@ -1,0 +1,3 @@
+a person attempts to get a rock out of their shoe. # 0 # 10 # spine
+the person is kneeling, stands up and bends over and stands back up again, only to grab their right foot. # 0 # 10 # spine
+a figure kneels and performs the gesture of tying a shoe # 0 # 10 # spine

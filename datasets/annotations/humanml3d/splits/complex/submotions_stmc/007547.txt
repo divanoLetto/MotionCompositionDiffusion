@@ -1,0 +1,2 @@
+A person stretches calves and tip toes. # 0 # 5 # legs
+A person performs a ballet pose. # 5 # 10.0 # spine # left arm # right arm

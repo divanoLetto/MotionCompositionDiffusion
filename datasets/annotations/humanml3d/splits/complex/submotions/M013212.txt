@@ -1,0 +1,2 @@
+A person hunches over, holds arms out wide and swings them side to side before scratching self under the arm. # 0 # 5 # spine
+A person is waving with both of their arms. # 4 # 10 # spine

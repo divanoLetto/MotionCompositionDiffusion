@@ -1,0 +1,2 @@
+A person raises their left arm to wind up.  # 0 # 3 # left arm
+A person throws something with their left hand.  # 3 # 7.042 # left arm

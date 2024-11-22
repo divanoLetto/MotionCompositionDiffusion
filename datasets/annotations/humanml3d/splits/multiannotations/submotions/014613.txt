@@ -1,0 +1,3 @@
+a person picking something up from the left and then placing it right # 0 # 9.21 # spine
+a person reaches form something on the left and moves it to the right. # 0 # 9.21 # spine
+a person picks something up and pours it out then sets it down again. # 0 # 9.21 # spine

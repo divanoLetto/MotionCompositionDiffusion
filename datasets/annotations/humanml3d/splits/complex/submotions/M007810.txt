@@ -1,0 +1,3 @@
+A person holds their hands out in front of them. # 0 # 2 # spine
+A person swings their arms back and forth. # 1 # 10.0 # spine
+A person raises their left hand. # 0 # 10.0 # spine

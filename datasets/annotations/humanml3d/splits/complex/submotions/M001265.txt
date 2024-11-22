@@ -1,0 +1,2 @@
+A person shakes their shoulders.  # 0 # 3.62 # spine
+A person holds their hands up.  # 0 # 3.62 # spine

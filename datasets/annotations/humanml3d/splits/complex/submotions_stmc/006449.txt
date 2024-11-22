@@ -1,0 +1,3 @@
+A person steps forward with their right foot. # 0 # 3 # legs
+A person kicks something with their left foot. # 3 # 6 # legs
+A person pulls their left foot back. # 6 # 10.0 # legs

@@ -1,0 +1,2 @@
+a person throws a low punch with their right hand. # 0 # 1.45 # right arm
+a person completes the punch into a final position. # 1.45 # 2.542 # right arm

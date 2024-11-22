@@ -1,0 +1,2 @@
+A person steps backwards. # 0 # 2.0 # spine
+A person kicks something with their left foot. # 1.5 # 3.0 # spine

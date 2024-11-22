@@ -1,0 +1,4 @@
+A person walks forward with both legs. # 0 # 5.0 # legs
+A person jabs with their left arm. # 5.0 # 7.0 # left arm
+A person jabs with their right arm. # 7.0 # 9.0 # right arm
+A person continues to walk forward with both legs. # 9.0 # 10.0 # legs

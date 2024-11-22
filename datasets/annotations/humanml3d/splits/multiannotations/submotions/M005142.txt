@@ -1,0 +1,3 @@
+the person slides to their left 3 times, slides to their right 4 times, and slides to their right 2 times, ending at their original position. # 0 # 9.475 # spine
+a person moved in left direction and in the right direction # 0 # 9.475 # spine
+a person shuffles to their left, then shuffles back to their right, then shuffles to their original position, all without crossing their legs. # 0 # 9.475 # spine

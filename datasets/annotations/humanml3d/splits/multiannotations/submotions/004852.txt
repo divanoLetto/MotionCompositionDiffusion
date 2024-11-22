@@ -1,0 +1,3 @@
+person is walking like they are on a beam, arms out. # 0 # 4.44 # spine
+a man raises both their arm and walks forward. # 0 # 4.44 # spine
+the body wake gracefully with arms out straight. # 0 # 4.44 # spine

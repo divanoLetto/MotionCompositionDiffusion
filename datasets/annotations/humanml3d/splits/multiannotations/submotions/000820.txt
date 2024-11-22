@@ -1,0 +1,3 @@
+using his left hand he smacks his right arm bicep. # 0 # 1.73 # spine
+the person is punching the air. # 0 # 1.73 # spine
+a person lashes out with their left hand, punching. # 0 # 1.73 # spine

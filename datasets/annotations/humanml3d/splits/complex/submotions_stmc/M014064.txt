@@ -1,0 +1,3 @@
+A person walks forward with legs. # 0 # 3 # legs
+A person sways gently with their upper body. # 3 # 7 # spine
+A person raises their right arm and waves. # 7 # 10.0 # right arm

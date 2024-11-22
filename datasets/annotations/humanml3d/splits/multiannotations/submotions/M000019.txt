@@ -1,0 +1,3 @@
+person jogs around to the right and left # 0 # 7.542 # spine
+a person is performing a left to right jogging move. # 0 # 7.542 # spine
+a man runs to the left then runs to the right then back to the middle. # 0 # 7.542 # spine

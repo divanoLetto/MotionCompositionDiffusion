@@ -1,0 +1,2 @@
+A person raises their left hand. # 0 # 6 # spine
+A person moves their right hand up and down. # 2 # 10.0 # spine

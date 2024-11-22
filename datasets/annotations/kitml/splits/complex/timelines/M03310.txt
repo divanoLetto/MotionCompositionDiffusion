@@ -1,0 +1,4 @@
+A person raises their arms to the side. # 0 # 3 # spine
+A person performs a kick with the left leg. # 2 # 5 # spine
+A person does a spinning motion. # 4 # 9 # spine
+A person jumps and lands. # 6 # 10 # spine

@@ -1,0 +1,2 @@
+A person bounces a ball a couple of times.  # 0 # 2.0 # right arm # left arm
+A person takes a step forward with their right leg.  # 2.0 # 2.975 # legs

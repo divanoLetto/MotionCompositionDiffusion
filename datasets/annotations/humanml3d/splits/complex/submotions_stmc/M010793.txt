@@ -1,0 +1,1 @@
+A person raises their left hand to box. # 0 # 1.5 # left arm

@@ -1,0 +1,4 @@
+A person crosses his arms on his chest. # 0 # 3.375 # left arm # right arm
+A person jumps up. # 3.375 # 5.0 # legs
+A person slaps something with his right arm. # 5.0 # 7.0 # right arm
+A person holds something with both hands. # 7.0 # 10.0 # left arm # right arm

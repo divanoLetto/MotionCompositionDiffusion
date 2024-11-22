@@ -1,0 +1,3 @@
+walking side to side. # 0 # 5.675 # spine
+a person grapevines to the right, turns, and then steps back to their starting position. # 0 # 5.675 # spine
+someone walks from the left side turning to the right # 0 # 5.675 # spine

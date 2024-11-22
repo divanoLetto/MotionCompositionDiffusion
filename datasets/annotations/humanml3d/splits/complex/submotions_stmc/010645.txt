@@ -1,0 +1,3 @@
+A person positions their right hand behind the left hand. # 0 # 2.5 # right arm # left arm
+A person lifts both hands. # 2.5 # 8.5 # right arm # left arm
+A person holds their spine straight. # 0 # 10.0 # spine

@@ -1,0 +1,2 @@
+a person winds their right arm up. # 0 # 4 # right arm
+a person rolls both arms. # 4 # 10.000000000000002 # right arm # left arm

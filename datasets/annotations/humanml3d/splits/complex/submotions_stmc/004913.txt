@@ -1,0 +1,2 @@
+A person throws a right hook. # 0 # 1.5 # right arm
+A person swings a right hook upwards above their head. # 1.5 # 1.9 # right arm

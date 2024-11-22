@@ -1,0 +1,3 @@
+the person raises both hands, then lowers their left hand. # 0 # 1.75 # spine
+a person throwing both hands # 0 # 1.75 # spine
+a man reaches both of his arms up in the air. # 0 # 1.75 # spine

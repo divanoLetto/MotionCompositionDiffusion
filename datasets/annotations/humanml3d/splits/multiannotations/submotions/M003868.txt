@@ -1,0 +1,3 @@
+a person taking something from a shelf. # 0 # 3.29 # spine
+a man moves his left arm forward and touches something. # 0 # 3.29 # spine
+a person taking something from a shelf with their left hand # 0 # 3.29 # spine

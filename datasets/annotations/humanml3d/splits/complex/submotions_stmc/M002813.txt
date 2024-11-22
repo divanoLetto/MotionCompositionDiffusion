@@ -1,0 +1,2 @@
+A person stands still with arms slightly raised. # 0 # 2 # right arm # left arm
+A person swings their right arm forward. # 2 # 4.683 # right arm

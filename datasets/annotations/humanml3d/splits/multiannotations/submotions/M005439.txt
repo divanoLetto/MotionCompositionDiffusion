@@ -1,0 +1,3 @@
+a person waves with their left hand # 0 # 10 # spine
+a standing person waves, walks in a half circle before waving again. # 0 # 10 # spine
+person lifts left arm turns counterclockwise then puts left arm above head fully extended and waves # 0 # 10 # spine

@@ -1,0 +1,3 @@
+a person walks forward and raises their arms in victory. # 0 # 4.47 # spine
+a figure walks with their hands in the air. # 0 # 4.47 # spine
+a person walks over a beam # 0 # 4.47 # spine

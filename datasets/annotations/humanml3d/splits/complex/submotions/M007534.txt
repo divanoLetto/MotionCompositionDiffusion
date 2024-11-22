@@ -1,0 +1,4 @@
+A person walks forward taking very small steps.  # 0 # 3 # spine
+A person moves to the right.  # 2 # 5 # spine
+A person moves to the left.  # 4 # 7 # spine
+A person walks backward.  # 6 # 10 # spine

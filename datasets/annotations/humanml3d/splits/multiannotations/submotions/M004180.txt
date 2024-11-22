@@ -1,0 +1,3 @@
+a person holds their arms out to their side and lifts their left leg off the floor to balance on their right leg # 0 # 9.183 # spine
+person balances on right leg then with arms up high has arms fully extended keeping balance on right leg # 0 # 9.183 # spine
+a person balances on their right foot with their left leg stretched to the left, then brings their left leg close to their right foot. # 0 # 9.183 # spine

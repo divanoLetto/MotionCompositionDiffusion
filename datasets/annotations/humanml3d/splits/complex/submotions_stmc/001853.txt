@@ -1,0 +1,2 @@
+A person raises both hands to chin level.  # 0 # 4 # right arm # left arm
+A person kicks forward with their left leg.  # 4 # 10.0 # legs

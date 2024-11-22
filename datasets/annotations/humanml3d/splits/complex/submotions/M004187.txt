@@ -1,0 +1,2 @@
+A person raises his left arm to prepare for a fight. # 0 # 2 # spine
+A person blocks using their right arm. # 1 # 2.942 # spine

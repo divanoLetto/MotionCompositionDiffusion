@@ -1,0 +1,2 @@
+A person performs a ballerina balance pose, first on their right leg. # 0 # 5 # legs # right arm # left arm
+A person swaps to their left leg and balances. # 5 # 10.000000000000002 # legs # right arm # left arm

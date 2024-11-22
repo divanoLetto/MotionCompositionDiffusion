@@ -1,0 +1,2 @@
+A person winds up their right arm to throw a punch. # 0 # 2.358 # right arm
+A person kicks forward with their left leg. # 2.358 # 6.4 # legs

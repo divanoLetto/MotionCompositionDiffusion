@@ -1,0 +1,2 @@
+A person walks forward.  # 0 # 4 # legs
+A person swings his arms from side to side while walking.  # 4 # 6.7 # right arm # left arm

@@ -1,0 +1,3 @@
+A person sways side to side. # 0 # 5 # spine
+A person raises their arms out to the side. # 5 # 8 # right arm # left arm
+A person lowers their arms to their sides. # 8 # 9.966999999999999 # right arm # left arm

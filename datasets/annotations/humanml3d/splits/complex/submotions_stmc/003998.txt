@@ -1,0 +1,4 @@
+A person steps to the left.  # 0 # 2 # legs
+A person steps to the right.  # 2 # 4 # legs
+A person raises both arms in the air.  # 4 # 8 # right arm # left arm
+A person taps their left foot to the ground.  # 8 # 9.008000000000001 # legs

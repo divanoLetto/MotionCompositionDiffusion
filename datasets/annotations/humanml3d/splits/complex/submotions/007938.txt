@@ -1,0 +1,3 @@
+A person raises their left hand to strum.  # 0 # 2 # spine
+A person strums with their right hand.  # 1 # 4 # spine
+A person lowers their left hand.  # 4 # 6.01 # spine

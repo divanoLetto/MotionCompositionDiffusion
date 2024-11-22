@@ -1,0 +1,4 @@
+A person goes four steps forward. # 0 # 4 # legs
+A person takes two steps to the side. # 4 # 10 # legs
+A person goes back two steps. # 10 # 12 # legs
+A person turns around. # 12 # 19.69 # spine

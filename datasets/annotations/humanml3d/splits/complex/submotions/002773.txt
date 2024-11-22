@@ -1,0 +1,5 @@
+A person dances to the left. # 0 # 2 # spine
+A person throws a punch with his right hand. # 2 # 4 # spine
+A person dances to the right. # 4 # 6 # spine
+A person throws a punch with his left hand. # 6 # 8 # spine
+A person dances back. # 8 # 10.0 # spine

@@ -1,0 +1,3 @@
+A person lifts their right arm. # 0 # 2.0 # right arm
+A person moves their right arm in a clockwise motion. # 2.0 # 6.0 # right arm
+A person pushes their right arm forward. # 6.0 # 7.22 # right arm

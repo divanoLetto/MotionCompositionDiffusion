@@ -1,0 +1,3 @@
+a person who seems to throw or hit something # 0 # 6.76 # spine
+the person smashed a tennis ball with his tennis racket. # 0 # 6.76 # spine
+person is practicing tennis techniques # 0 # 6.76 # spine

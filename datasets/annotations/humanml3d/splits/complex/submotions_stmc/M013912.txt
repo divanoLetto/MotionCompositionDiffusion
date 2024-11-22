@@ -1,0 +1,4 @@
+A person throws a punch with their right hand. # 0 # 2.358 # right arm
+A person kicks forward with their left leg. # 2.358 # 4.6 # left arm # legs
+A person throws a punch with their left hand. # 4.6 # 6.11 # left arm
+A person throws a punch with their right hand. # 6.11 # 10.0 # right arm

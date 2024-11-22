@@ -1,0 +1,3 @@
+someone nervously pacing around in a circle # 0 # 5.133 # spine
+the sim walks forward, reaching the end of the plane and looping backwards again. # 0 # 5.133 # spine
+a person is walking around. # 0 # 5.133 # spine

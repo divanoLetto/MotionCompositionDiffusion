@@ -1,0 +1,2 @@
+A person raises their arms and jumps around.  # 0 # 4 # spine # legs
+A person continues jumping and moving side to side.  # 4 # 10.0 # spine # legs

@@ -1,0 +1,2 @@
+a person is moving their hips in a circular motion with their arms stretched outward to the sides. # 0 # 5 # spine # legs # right arm # left arm
+the person is moving their upper body to the right and left. # 5 # 10.0 # spine

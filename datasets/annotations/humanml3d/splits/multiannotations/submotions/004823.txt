@@ -1,0 +1,3 @@
+a person walks down stairs holding on to something on the right. # 0 # 6.74 # spine
+a person puts their left hand on a surface then walks forward. # 0 # 6.74 # spine
+the person walks downstairs, gripping a railing with their left hand, and stops at the bottom of the stairs. # 0 # 6.74 # spine

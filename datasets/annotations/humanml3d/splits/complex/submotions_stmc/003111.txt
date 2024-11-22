@@ -1,0 +1,3 @@
+A person raises both arms to the side. # 0 # 4.0 # right arm # left arm
+A person moves their spine in a rhythmic motion. # 4.0 # 8.0 # spine
+A person jumps and lifts their arms above their head. # 8.0 # 10.0 # right arm # left arm # spine # legs

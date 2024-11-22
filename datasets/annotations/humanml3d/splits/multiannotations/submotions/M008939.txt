@@ -1,0 +1,3 @@
+the man walks forward then back # 0 # 10 # spine
+a person walks out, turns, walks back and bends and picks up something, turns and walks out again holding up something, turns and stops. # 0 # 10 # spine
+a person steps forward, turns clockwise, walks back, squats down, picks something up with their left hand, then turns clockwise and tosses the item over to his right hand as he walks back again. # 0 # 10 # spine

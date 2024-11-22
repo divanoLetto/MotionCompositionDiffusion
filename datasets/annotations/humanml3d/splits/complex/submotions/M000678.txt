@@ -1,0 +1,3 @@
+A person is laying face down. # 0 # 10.0 # spine
+A person moves their hands forward. # 2 # 10.0 # spine
+A person holds his arms up at his side and then moves them back performing a breast stroke movement. # 0 # 10.0 # spine

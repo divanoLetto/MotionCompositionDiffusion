@@ -1,0 +1,3 @@
+A person shifts their weight to the left with their legs. # 0 # 3 # legs
+A person shifts their weight to the right with their legs. # 3 # 6 # legs
+A person continues to shift their weight to the left. # 6 # 9.999999999999998 # legs

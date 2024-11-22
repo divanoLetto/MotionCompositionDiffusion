@@ -1,0 +1,2 @@
+A person kicks with their right foot. # 0 # 2 # spine
+A person raises their arms down and then up. # 2 # 7.475 # spine

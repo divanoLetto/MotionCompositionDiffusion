@@ -1,0 +1,4 @@
+A person stands with their arms raised.  # 0 # 3 # spine
+A person swings their right arm forward.  # 2 # 5 # spine
+A person swings their left arm forward.  # 4 # 7 # spine
+A person moves their feet side to side.  # 6 # 10.0 # spine

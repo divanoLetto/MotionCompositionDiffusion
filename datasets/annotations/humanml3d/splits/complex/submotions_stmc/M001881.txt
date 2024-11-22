@@ -1,0 +1,4 @@
+A person throws a right hook. # 0 # 2.725 # right arm
+A person throws a left hook. # 2.725 # 4.025 # left arm
+A person throws a jab. # 4.025 # 5.3 # right arm
+A man makes two spartan kicks. # 5.3 # 10.0 # legs

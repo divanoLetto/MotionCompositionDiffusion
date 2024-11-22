@@ -1,0 +1,3 @@
+he lifts dumbblell with two hands # 0 # 0.6 # spine
+a person stands with elbows bent, and proceeds to curl their arms from the elbow toward their shoulders. # 0 # 0.6 # spine
+a person moves both hands. # 0 # 0.6 # spine

@@ -1,0 +1,2 @@
+A person raises their right arm. # 0 # 2 # right arm
+A person swings their right arm to hit a ball. # 2 # 4.04 # right arm

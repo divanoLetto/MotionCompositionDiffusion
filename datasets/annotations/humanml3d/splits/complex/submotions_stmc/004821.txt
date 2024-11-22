@@ -1,0 +1,2 @@
+A person raises their left leg while bending the knee. # 0 # 3 # legs
+A person pulls the left leg upward toward the chest. # 3 # 6.76 # legs

@@ -1,0 +1,2 @@
+A person walks jauntily in place. # 0 # 5.99 # legs
+A person raises both arms out to the side. # 5.99 # 9.1 # right arm # left arm

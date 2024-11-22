@@ -1,0 +1,2 @@
+A person takes a step backwards with their left foot. # 0 # 2 # spine
+A person performs a kick, kicking out forward with that foot. # 2 # 6.9 # spine

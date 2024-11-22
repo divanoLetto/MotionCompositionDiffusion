@@ -1,0 +1,3 @@
+a person sways to swing their left foot followed by their right foot. # 0 # 4.775 # spine
+a person kicks thier left leg back and foward, then kicks thier right leg back and foward, and stands back straight # 0 # 4.775 # spine
+a person kicks something with his left leg, then his right leg, then stands. # 0 # 4.775 # spine

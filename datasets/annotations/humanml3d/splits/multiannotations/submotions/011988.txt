@@ -1,0 +1,3 @@
+this person bends forward as if to bow. # 0 # 3.52 # spine
+a person bends down forward. # 0 # 3.52 # spine
+a person bows forward to their waist somewhat slowly. # 0 # 3.52 # spine

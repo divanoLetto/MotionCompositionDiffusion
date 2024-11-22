@@ -1,0 +1,3 @@
+A person kicks with their right leg. # 0 # 2 # spine
+A person spins on their back. # 2 # 5 # spine
+A person raises their legs in the air. # 4 # 7.992 # spine

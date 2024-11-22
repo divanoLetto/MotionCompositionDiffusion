@@ -1,0 +1,2 @@
+A person shakes their hips and waves their hands side to side. # 0 # 3 # spine # legs # right arm # left arm
+A person sways their hips sideways repeatedly. # 3 # 6.4 # spine # legs

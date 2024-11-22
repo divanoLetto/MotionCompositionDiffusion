@@ -1,0 +1,3 @@
+A person does jumping jacks. # 0 # 5 # spine
+A person jumps up and down while raising its arms. # 4 # 6 # spine
+A person does jumping jacks. # 5 # 10.1 # spine

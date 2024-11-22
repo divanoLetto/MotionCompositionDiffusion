@@ -1,0 +1,3 @@
+A person punches with their left hand. # 0 # 2 # spine
+A person rolls objects forward with their left hand. # 2 # 6 # spine
+A person holds their left hand up. # 6 # 10.0 # spine

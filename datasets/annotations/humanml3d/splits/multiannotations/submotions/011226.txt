@@ -1,0 +1,3 @@
+the person uses the left to grab the right elbow and swing it. the right arm raises up. # 0 # 10 # spine
+a person moves his right hand like pendulum then brings his hands up # 0 # 10 # spine
+a man places his right arm across the left side of his chest and pulls it towards him with his left arm. # 0 # 10 # spine

@@ -1,0 +1,4 @@
+A person steps diagonally to their right. # 0 # 3.97 # legs
+A person steps backward. # 3.97 # 6.08 # legs
+A person steps diagonally to their right. # 6.08 # 9.0 # legs
+A person steps back to their original position. # 9.0 # 10.0 # legs

@@ -1,0 +1,3 @@
+A person stands still. # 0 # 2 # legs
+A person raises their right arm to throw something. # 2 # 4 # right arm
+A person throws something with their right arm. # 4 # 5.717 # right arm

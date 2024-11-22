@@ -1,0 +1,3 @@
+a person walks diagonally from upper right to lower left across the path. # 0 # 10 # spine
+this person was walking leisurely . # 0 # 10 # spine
+a person slowly walks to the left. # 0 # 10 # spine

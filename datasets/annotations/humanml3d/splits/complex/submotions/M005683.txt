@@ -1,0 +1,4 @@
+A person raises both arms to the side. # 0 # 3 # spine
+A person pretends to juggle with both hands. # 2 # 5 # spine
+A person moves both arms from side to side. # 4 # 7 # spine
+A person taps with both palms on a surface. # 6 # 10 # spine

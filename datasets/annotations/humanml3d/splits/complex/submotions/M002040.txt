@@ -1,0 +1,4 @@
+A person stands with both arms in front of the body bent at the elbows. # 0 # 3 # spine
+A person jabs with their right hand. # 3 # 6 # spine
+A person steps forward. # 6 # 8 # spine
+A person jabs with their left hand. # 8 # 10 # spine

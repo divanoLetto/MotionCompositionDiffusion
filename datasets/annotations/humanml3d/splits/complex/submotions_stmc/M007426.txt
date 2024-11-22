@@ -1,0 +1,2 @@
+a man swings his right arm across the body. # 0 # 3.0 # right arm
+a man swings his left arm across the body. # 3 # 3.433 # left arm

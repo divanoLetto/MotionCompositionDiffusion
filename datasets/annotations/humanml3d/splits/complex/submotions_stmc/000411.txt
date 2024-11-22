@@ -1,0 +1,3 @@
+A person kicks alternating legs. # 0 # 4 # legs
+A person steps backwards. # 4 # 7 # legs
+A person swings their arms back and forth. # 7 # 10.0 # right arm # left arm

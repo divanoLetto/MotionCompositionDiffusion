@@ -1,0 +1,1 @@
+A person is moving his arms and head like a chicken. # 0 # 10.0 # left arm # right arm # head

@@ -1,0 +1,3 @@
+a person is crouched and stands then resumes the crouched position. # 0 # 10 # spine
+a person get up and bend on the knee # 0 # 10 # spine
+a person is sitting and stands up. # 0 # 10 # spine

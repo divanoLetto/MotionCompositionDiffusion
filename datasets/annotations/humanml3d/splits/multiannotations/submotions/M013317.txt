@@ -1,0 +1,3 @@
+the person is holding his left arm up. # 0 # 1.55 # spine
+a person raised the left and right hand and warm them up # 0 # 1.55 # spine
+man stretching, maybe getting ready for an athletic event. # 0 # 1.55 # spine

@@ -1,0 +1,2 @@
+A person is waving their arms around. # 0 # 6 # spine
+A person is spinning his upper core body. # 4 # 10.0 # spine

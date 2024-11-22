@@ -1,0 +1,2 @@
+A person moves their arms in a dance-like motion. # 0 # 5 # right arm # left arm
+A person raises their arms above their head. # 5 # 9.999999999999998 # right arm # left arm

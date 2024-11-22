@@ -1,0 +1,2 @@
+A person holds both arms out at shoulder level. # 0 # 5 # right arm # left arm
+A person dances in a counterclockwise circle. # 5 # 10.0 # spine # legs

@@ -1,0 +1,2 @@
+A person swings their legs to the side. # 0 # 3 # legs
+A person moves their legs forward and backward. # 3 # 6.0 # legs

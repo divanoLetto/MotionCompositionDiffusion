@@ -1,0 +1,3 @@
+A person takes a quick step to their left side. # 0 # 3 # legs
+A person kicks with their left leg. # 3 # 6 # legs
+A person performs a karate move. # 6 # 9.999999999999998 # legs

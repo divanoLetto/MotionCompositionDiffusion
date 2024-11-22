@@ -1,0 +1,3 @@
+a person takes one step to the left, then takes multiple steps to the right. # 0 # 10 # spine
+a person shuffles in to the left and then to the right # 0 # 10 # spine
+a man sidesteps to his left twice, stops, then cross-steps to the right twice. # 0 # 10 # spine

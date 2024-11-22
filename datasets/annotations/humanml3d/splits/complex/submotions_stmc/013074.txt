@@ -1,0 +1,2 @@
+A person is moving their hips rapidly from side to side. # 0 # 5 # spine # legs
+A person raises both arms while continuing to dance. # 5 # 9.999999999999998 # right arm # left arm # spine

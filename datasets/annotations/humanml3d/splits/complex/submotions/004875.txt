@@ -1,0 +1,3 @@
+A person steps sideways. # 0 # 3 # spine
+A person twists their upper body to the left. # 2 # 6 # spine
+A person raises their arms out to the side. # 5 # 8.950000000000003 # spine

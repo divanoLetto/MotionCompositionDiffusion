@@ -1,0 +1,2 @@
+a person is swinging both legs and arms. # 0 # 6 # spine
+a person is moving using their body. # 4 # 9.992 # spine

@@ -1,0 +1,4 @@
+A person raises their arms to the side. # 0 # 3 # spine
+A person moves their feet to the left. # 2 # 5 # spine
+A person moves their feet to the right. # 4 # 7 # spine
+A person raises their left arm. # 6 # 10 # spine

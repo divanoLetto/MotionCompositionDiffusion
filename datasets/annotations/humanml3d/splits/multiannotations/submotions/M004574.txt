@@ -1,0 +1,3 @@
+a person clasps his hands in front of him, then swings his clasped hands back and forth. # 0 # 10 # spine
+a person moves his left arm outward, whilst his other arm is near their hip. the person then makes a shovelling movement with both their hands. # 0 # 10 # spine
+a person moves his right arm describing something, then uses his left arm to pretend playing golf # 0 # 10 # spine

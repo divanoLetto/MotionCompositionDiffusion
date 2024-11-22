@@ -1,0 +1,2 @@
+A person throws a punch with their right arm. # 0 # 4 # spine
+A person blocks their face with their left arm. # 2 # 10 # spine

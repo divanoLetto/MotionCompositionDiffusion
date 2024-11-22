@@ -1,0 +1,3 @@
+A person shakes both arms to loosen up. # 0 # 2 # spine
+A person walks backwards. # 2 # 6 # spine
+A person moves their right arm in a swimming motion. # 6 # 10.0 # spine

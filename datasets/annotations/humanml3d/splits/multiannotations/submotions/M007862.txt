@@ -1,0 +1,3 @@
+a person crosses their arms, then brings their arms back down. # 0 # 4.608 # spine
+a person who is standing with his hands by his sides, crosses his arms, then slightly adjusts his arms in the crossed position, then drops his arms to his original position. # 0 # 4.608 # spine
+a person crosses his arms and then drops them to his sides. # 0 # 4.608 # spine

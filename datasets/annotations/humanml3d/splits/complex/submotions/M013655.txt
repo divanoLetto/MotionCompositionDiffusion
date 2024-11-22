@@ -1,0 +1,2 @@
+A person flaps their arms like chicken wings. # 0 # 4.3 # spine
+A person raises both arms and imitates claws with their hands. # 0 # 4.3 # spine

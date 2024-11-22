@@ -1,0 +1,2 @@
+A person does a kick to the left with their left leg. # 0 # 5 # legs
+A person does another kick to the left with their left leg. # 5 # 10.0 # legs

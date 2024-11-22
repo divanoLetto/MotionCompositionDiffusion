@@ -1,0 +1,2 @@
+A person sways gently from foot to foot while waving with one hand in an increasingly energetic manner. # 0 # 4 # legs # right arm
+A person brings both arms out to the side while continuing to sway. # 4 # 7.367 # left arm # right arm # spine

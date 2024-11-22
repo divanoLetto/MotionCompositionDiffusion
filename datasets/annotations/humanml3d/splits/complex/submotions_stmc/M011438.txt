@@ -1,0 +1,2 @@
+A man is dancing.  # 0 # 5 # legs # spine
+A man raises his arms above his head.  # 5 # 9.9 # right arm # left arm

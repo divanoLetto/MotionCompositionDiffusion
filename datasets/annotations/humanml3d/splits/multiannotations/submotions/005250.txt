@@ -1,0 +1,3 @@
+a person pushes forward with one hand. # 0 # 10 # spine
+a person standing with both arms out moves something. # 0 # 10 # spine
+someone lowers both hands from above his head, then taps in front of him with his right hand. # 0 # 10 # spine

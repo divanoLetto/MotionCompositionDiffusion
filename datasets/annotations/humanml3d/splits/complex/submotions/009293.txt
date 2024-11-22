@@ -1,0 +1,4 @@
+A person raises both arms and imitates claws with their hands. # 0 # 3 # spine
+A person is punching and kicking the air. # 2 # 5 # spine
+A person moves their hands around. # 4 # 7 # spine
+A person is waving their arms up and down. # 6 # 10.0 # spine

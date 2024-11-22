@@ -1,0 +1,2 @@
+A person is moving their arms around. # 0 # 6 # spine
+A person is bending down and touching the ground with both hands. # 4 # 10.0 # spine

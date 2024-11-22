@@ -1,0 +1,3 @@
+A person walks forward towards someone. # 0 # 3 # spine
+A person raises both arms above their head. # 2 # 5 # spine
+A person sways back and forth while holding their hands near their face. # 4 # 10.0 # spine

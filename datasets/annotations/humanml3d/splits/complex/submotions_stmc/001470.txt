@@ -1,0 +1,3 @@
+A person waves with their left hand. # 0 # 3 # left arm
+A person dances while moving their spine. # 3 # 10.0 # spine # legs
+A person raises both arms while dancing. # 5 # 10.0 # right arm # left arm

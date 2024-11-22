@@ -1,0 +1,3 @@
+A person lifts their left hand up. # 0 # 2 # spine
+A person pushes with their left hand. # 2 # 6 # spine
+A person waves with their left hand. # 6 # 10.0 # spine

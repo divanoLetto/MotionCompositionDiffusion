@@ -1,0 +1,2 @@
+A person raises their left arm to hold something.  # 0 # 0.8 # left arm
+A person raises their right arm to play.  # 0.8 # 7.52 # right arm

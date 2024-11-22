@@ -1,0 +1,2 @@
+A person raises their right arm. # 0 # 2.0 # right arm
+A person makes a stirring motion with their right arm. # 2 # 5.96 # right arm

@@ -1,0 +1,3 @@
+A person moves their right forearm around in a random pattern. # 0 # 3.5 # right arm
+A person performs boxing motions with both arms. # 3.5 # 7.0 # right arm # left arm
+A person lifts their arms up and out to the sides. # 7.0 # 10.0 # right arm # left arm

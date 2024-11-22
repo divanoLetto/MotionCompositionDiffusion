@@ -1,0 +1,3 @@
+A person takes small steps while moving forward. # 0 # 4 # legs
+A person runs forward slightly to the right. # 4 # 7 # legs
+A person is balancing on one foot. # 7 # 10.0 # legs

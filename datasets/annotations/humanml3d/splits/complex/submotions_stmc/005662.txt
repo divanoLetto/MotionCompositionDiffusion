@@ -1,0 +1,3 @@
+A person kneels down on one knee. # 0 # 2.0 # legs
+A person stands up straight. # 2.0 # 3.5 # spine # legs
+A person raises both hands to shoulder height. # 3.5 # 3.758 # right arm # left arm

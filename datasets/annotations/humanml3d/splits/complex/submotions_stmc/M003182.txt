@@ -1,0 +1,3 @@
+A person turns their upper body to the left. # 0 # 3 # spine
+A person turns their upper body to the right. # 3 # 6 # spine
+A person waves their right arm. # 6 # 10.0 # right arm

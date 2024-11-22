@@ -1,0 +1,2 @@
+a person is making signals with both his hands. # 0 # 8.707 # right arm # left arm
+a person turns left and waves with their right hand. # 8.707 # 9.999999999999998 # right arm

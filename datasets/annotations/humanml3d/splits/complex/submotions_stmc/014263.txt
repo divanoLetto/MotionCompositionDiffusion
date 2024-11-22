@@ -1,0 +1,2 @@
+A person jumps in place.  # 0 # 5 # legs # spine
+A person raises both arms above their head.  # 5 # 9.1 # right arm # left arm

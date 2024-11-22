@@ -1,0 +1,2 @@
+A person runs backwards with both arms swinging. # 0 # 3 # legs # right arm # left arm
+A person turns around and runs forward. # 3 # 7.4 # legs

@@ -1,0 +1,2 @@
+A person stands and prepares for a swing. # 0 # 1.5 # spine # legs # head
+A person swings both arms. # 1.5 # 3.733 # right arm # left arm

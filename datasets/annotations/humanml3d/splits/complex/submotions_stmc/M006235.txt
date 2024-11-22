@@ -1,0 +1,2 @@
+A person sways from side to side with their spine. # 0 # 3 # spine
+A person raises both arms and waves them slowly. # 0 # 3.308 # right arm # left arm

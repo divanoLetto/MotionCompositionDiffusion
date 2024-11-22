@@ -1,0 +1,2 @@
+A person holds something up toward their face. # 0 # 6 # spine
+A person moves their right arm up and down. # 5 # 7.84 # spine

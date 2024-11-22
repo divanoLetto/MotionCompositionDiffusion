@@ -1,0 +1,2 @@
+A person sways from side to side. # 0 # 5 # spine
+A man turns to his left. # 5 # 10.0 # spine # head

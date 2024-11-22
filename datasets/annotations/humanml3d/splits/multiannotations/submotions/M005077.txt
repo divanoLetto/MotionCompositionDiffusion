@@ -1,0 +1,3 @@
+a person sidesteps to their right. # 0 # 4.517 # spine
+a man steps into his shoes with his right foot then his left # 0 # 4.517 # spine
+a person climbs a step while walking. # 0 # 4.517 # spine

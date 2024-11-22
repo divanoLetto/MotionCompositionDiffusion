@@ -1,0 +1,2 @@
+A person moves their hands in alternating circular motions. # 0 # 6 # spine
+A person is waving their arms. # 4 # 10.0 # spine

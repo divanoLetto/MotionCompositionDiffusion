@@ -1,0 +1,2 @@
+A person stands still while waiting.  # 0 # 3 # legs # spine
+A person jumps around the floor playfully.  # 3 # 10.0 # spine # legs

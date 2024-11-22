@@ -1,0 +1,3 @@
+a person takes small steps while holding something in both of their arms angled down towards the ground # 0 # 10 # spine
+a person moves around their space while sweeping. # 0 # 10 # spine
+a person is appears to be holding a broom, right hand over left hand, and sweeps toward the right, and then starts rotating to the left while sweeping toward the left. # 0 # 10 # spine

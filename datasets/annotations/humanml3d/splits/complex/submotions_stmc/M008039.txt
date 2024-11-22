@@ -1,0 +1,2 @@
+A person throws an uppercut punch with their left arm. # 0 # 1.75 # left arm
+A person raises their right arm. # 1.75 # 2.85 # right arm

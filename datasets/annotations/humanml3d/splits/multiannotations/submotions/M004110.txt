@@ -1,0 +1,3 @@
+a person jumping over a puddle # 0 # 4.9 # spine
+a person takes a small hop forward. # 0 # 4.9 # spine
+a person jumps forward carefully. # 0 # 4.9 # spine

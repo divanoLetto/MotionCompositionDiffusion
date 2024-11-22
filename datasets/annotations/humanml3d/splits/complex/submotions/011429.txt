@@ -1,0 +1,2 @@
+A person raises their right arm to play something. # 0 # 3 # spine
+A person moves their right arm back and forth. # 3 # 7.43 # spine

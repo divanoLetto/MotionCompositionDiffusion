@@ -1,0 +1,2 @@
+A person swings out with their right. # 0 # 2 # spine
+A person is swinging his hands down. # 2 # 3.767 # spine

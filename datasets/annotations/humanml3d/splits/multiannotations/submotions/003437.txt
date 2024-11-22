@@ -1,0 +1,3 @@
+a person quickly runs foward. # 0 # 2.87 # spine
+man running and stopping after # 0 # 2.87 # spine
+person walks quickly forward for 2 strides then stops. # 0 # 2.87 # spine

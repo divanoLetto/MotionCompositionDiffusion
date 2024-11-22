@@ -1,0 +1,2 @@
+a person is waving hello in a friendly manner with right hand. # 0 # 5 # spine
+a man bounces on his feet while waving enthusiastically with his left arm. # 4 # 10.0 # spine

@@ -1,0 +1,1 @@
+A person alternates flapping both arms and bending their neck forward multiple times, mimicking a chicken. # 0 # 10.0 # right arm # left arm # head

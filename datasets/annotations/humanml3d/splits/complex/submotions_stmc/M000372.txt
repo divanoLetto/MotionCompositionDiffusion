@@ -1,0 +1,2 @@
+A person raises both arms to play a saxophone. # 0 # 5 # right arm # left arm
+A person bows slightly. # 5 # 10.000000000000004 # spine

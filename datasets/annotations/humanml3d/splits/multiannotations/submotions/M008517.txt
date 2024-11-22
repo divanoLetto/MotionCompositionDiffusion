@@ -1,0 +1,3 @@
+a person moves an object from a position on his right to a position to his left. # 0 # 4.6 # spine
+this person uses both hands to lift an item that appears to be slightly heavy. # 0 # 4.6 # spine
+moving hands from side to side. # 0 # 4.6 # spine

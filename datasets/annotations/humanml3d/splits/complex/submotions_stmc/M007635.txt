@@ -1,0 +1,2 @@
+A person does a clockwise pirouette on their left leg. # 0 # 4.775 # spine # legs
+A person is spinning while moving to the right. # 4.775 # 6.008 # spine # legs

@@ -1,0 +1,2 @@
+a person walks in a circle # 0 # 5.0 # legs
+a person slowly walks clockwise in a complete circle # 5.0 # 5.9 # legs

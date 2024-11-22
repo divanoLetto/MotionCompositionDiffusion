@@ -1,0 +1,2 @@
+A person is waving with both hands. # 0 # 2 # left arm # right arm
+A person raises their right arm and moves the left arm up and down. # 2 # 4.26 # left arm # right arm

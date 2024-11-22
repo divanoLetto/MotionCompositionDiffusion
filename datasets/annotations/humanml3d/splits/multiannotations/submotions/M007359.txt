@@ -1,0 +1,3 @@
+a man lowers his arms, then looks to his right and left, then moves his head in a circle. # 0 # 10 # spine
+the man starts with both arms lifted to the sides then puts them down. he then looks side to side multiple times. # 0 # 10 # spine
+a man drops his hands from shoulder height and then rolls his neck # 0 # 10 # spine

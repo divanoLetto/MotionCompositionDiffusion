@@ -1,0 +1,3 @@
+A person stands in a fighting position with both hands raised. # 0 # 2 # spine
+A person kicks aggressively with their right foot. # 0 # 2 # spine
+A person raises their right leg and bends the knee. # 2 # 2.758 # spine

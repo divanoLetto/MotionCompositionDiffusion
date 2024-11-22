@@ -1,0 +1,2 @@
+a person rolls their fists together # 0 # 4 # left arm # right arm
+a person jabs with their left hand # 4 # 10.0 # left arm

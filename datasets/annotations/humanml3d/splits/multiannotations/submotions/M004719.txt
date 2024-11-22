@@ -1,0 +1,3 @@
+a person runs forward and then to the left. # 0 # 3.05 # spine
+a person runs forward then abruptly turns to the right and continues running # 0 # 3.05 # spine
+runs at a bend going right to left and increasing the speed along the way. # 0 # 3.05 # spine

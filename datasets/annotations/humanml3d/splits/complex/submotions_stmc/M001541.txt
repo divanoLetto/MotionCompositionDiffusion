@@ -1,0 +1,2 @@
+A person shakes their hips and waves hands rapidly by either side of the jaw. # 0 # 4.5 # spine # legs
+A person jumps up and down with their elbows bent and their arms out in front of them. # 4.5 # 10.95 # spine # legs

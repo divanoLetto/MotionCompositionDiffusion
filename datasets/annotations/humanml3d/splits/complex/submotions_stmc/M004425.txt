@@ -1,0 +1,2 @@
+A person raises their right leg to perform a kick. # 0 # 0.5 # legs
+A person kicks with their right leg. # 0.5 # 1.0 # legs

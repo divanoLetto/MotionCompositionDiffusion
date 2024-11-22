@@ -1,0 +1,2 @@
+A person walks in a figure eight pattern. # 0 # 6 # spine
+A person moves in a waltzing motion with their hands up as if they are holding onto a partner. # 6 # 10.0 # spine

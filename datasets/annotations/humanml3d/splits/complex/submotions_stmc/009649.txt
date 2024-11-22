@@ -1,0 +1,2 @@
+A person shifts to the right while moving forward. # 0 # 3 # legs
+A person shifts to the left while moving forward. # 3 # 6.65 # legs

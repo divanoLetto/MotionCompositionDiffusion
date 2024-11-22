@@ -1,0 +1,3 @@
+a person walks forwards casually. # 0 # 10 # spine
+a person walking to the left then turning around # 0 # 10 # spine
+a man walks forward with his arms swinging gently at his side. # 0 # 10 # spine

@@ -1,0 +1,3 @@
+a person lifts his right arm, then does a lunge with his left leg # 0 # 10 # spine
+the man is moving his legs and hands # 0 # 10 # spine
+person extends arms in the air as they wave # 0 # 10 # spine

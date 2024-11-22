@@ -1,0 +1,3 @@
+A person raises his right arm and waves. # 0 # 2 # spine
+A person punches with his left hand. # 2 # 6 # spine
+A person raises his left arm to shoulder height. # 6 # 10.0 # spine

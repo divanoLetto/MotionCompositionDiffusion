@@ -1,0 +1,4 @@
+A person raises both arms above their head. # 0 # 3 # spine
+A person steps forward with their left foot. # 1 # 4 # spine
+A person steps to the side with their right foot. # 3 # 6 # spine
+A person brings their left foot together with their right foot. # 5 # 7.09 # spine

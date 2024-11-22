@@ -1,0 +1,4 @@
+A person swings their right arm forward.  # 0 # 3 # spine
+A person raises their left arm to shoulder height.  # 2 # 5 # spine
+A person swings their left arm back.  # 4 # 7 # spine
+A person continues to swing their arms.  # 6 # 10 # spine

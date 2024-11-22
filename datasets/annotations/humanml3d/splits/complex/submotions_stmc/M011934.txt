@@ -1,0 +1,2 @@
+A person shakes both hands. # 0 # 3 # right arm # left arm
+A person raises both hands in the air. # 3 # 5.55 # right arm # left arm

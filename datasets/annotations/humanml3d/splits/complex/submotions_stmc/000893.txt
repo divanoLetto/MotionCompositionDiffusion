@@ -1,0 +1,2 @@
+A person walks forward starting with their left foot. # 0 # 5.26 # legs
+A person walks backwards. # 5.26 # 10.0 # legs

@@ -1,0 +1,5 @@
+A person skips backwards. # 0 # 2 # spine
+A person drops one hand to the ground. # 2 # 4 # spine
+A person pivots on their left foot. # 4 # 6 # spine
+A person raises both arms above their head. # 6 # 8 # spine
+A person bounces off their hand and stands up. # 8 # 10.0 # spine

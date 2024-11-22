@@ -1,0 +1,3 @@
+a person walks forward to the right, then takes several steps backwards, stumbles and steps to the right. # 0 # 10 # spine
+a person stumbles forward, then stumbles backwards, startling with a jolt and taking a few uneven sideways steps. # 0 # 10 # spine
+man walks forward then backwards then stumbles to his left then to his right # 0 # 10 # spine

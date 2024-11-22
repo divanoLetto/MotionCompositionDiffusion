@@ -1,0 +1,2 @@
+a person walks forward while curving to their right. # 0 # 2.0 # legs
+a person raises their arms, while walking forward. # 2.0 # 6.97 # right arm # left arm

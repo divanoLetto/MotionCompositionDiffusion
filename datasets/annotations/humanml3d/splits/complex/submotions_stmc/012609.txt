@@ -1,0 +1,2 @@
+A person stands in a golf stance. # 0 # 2 # legs # spine # head
+A person swings with their right arm. # 2 # 5.02 # right arm

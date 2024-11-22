@@ -1,0 +1,3 @@
+person walks forward slowly and hesitates before standing upright # 0 # 5.68 # spine
+person walks forward and slightly to the left # 0 # 5.68 # spine
+a person walking in the straight line forward. # 0 # 5.68 # spine

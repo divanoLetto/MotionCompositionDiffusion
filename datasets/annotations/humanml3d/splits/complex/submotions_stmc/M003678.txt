@@ -1,0 +1,5 @@
+A person walks backward. # 0 # 5.0 # legs
+A person walks forward. # 5.0 # 10.0 # legs
+A person walks in a clockwise circle. # 10.0 # 11.0 # legs
+A person continues walking forward. # 11.0 # 13.0 # legs
+A person walks backward. # 13.0 # 14.1 # legs

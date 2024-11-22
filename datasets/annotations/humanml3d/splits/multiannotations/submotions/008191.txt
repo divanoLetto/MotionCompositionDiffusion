@@ -1,0 +1,3 @@
+the man puts something down and walks # 0 # 10 # spine
+a person bends at the waist and seems to pick up something with their right hand, then walks forward and places it on something in front of them, then walks back. # 0 # 10 # spine
+the person bent over and pick something up. # 0 # 10 # spine

@@ -1,0 +1,2 @@
+A person walks forward.  # 0 # 4 # legs
+A person walks backward.  # 4 # 8.35 # legs

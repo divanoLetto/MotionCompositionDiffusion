@@ -1,0 +1,1 @@
+A person stands in one place while their arms and upper body move around. # 0 # 2.25 # left arm # right arm # spine

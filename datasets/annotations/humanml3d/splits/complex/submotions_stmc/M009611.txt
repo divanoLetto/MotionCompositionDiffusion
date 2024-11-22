@@ -1,0 +1,2 @@
+A person makes a dribbling motion with their right hand. # 0 # 5 # right arm
+A person dribbles with their left hand. # 5 # 10.0 # left arm

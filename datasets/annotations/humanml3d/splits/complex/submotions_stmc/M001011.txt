@@ -1,0 +1,3 @@
+A person dribbles a ball with both hands. # 0 # 2 # right arm # left arm
+A person passes the ball from their left hand to their right hand. # 2 # 3.5 # right arm # left arm
+A person shoots a basketball with their right hand. # 3.5 # 3.925 # right arm

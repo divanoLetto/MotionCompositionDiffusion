@@ -1,0 +1,3 @@
+A person walks forward gracefully with arms extended. # 0 # 4 # spine
+A person raises their arms above their head. # 2 # 7.625 # spine
+A person twirls multiple times while moving. # 5 # 7 # spine

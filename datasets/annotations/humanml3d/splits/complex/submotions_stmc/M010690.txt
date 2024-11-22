@@ -1,0 +1,4 @@
+A person holds their left arm out in front.  # 0 # 3 # left arm
+A person holds their right arm bent off to the side.  # 3 # 6 # right arm
+A person dances around by moving their legs forward.  # 6 # 8 # legs
+A person dances around by moving their legs to the right.  # 8 # 10.0 # legs

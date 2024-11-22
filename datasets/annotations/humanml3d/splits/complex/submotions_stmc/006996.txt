@@ -1,0 +1,2 @@
+A person raises both hands. # 0 # 2.0 # right arm # left arm
+A person slightly waivers. # 2 # 2.45 # spine

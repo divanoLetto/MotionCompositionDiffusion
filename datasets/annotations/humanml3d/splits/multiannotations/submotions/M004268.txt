@@ -1,0 +1,3 @@
+a man touches his upper left arm with his right hand, then reaches the right hand forward, then touches his right hand to his left sholder and reaches the right hand forward again before lowering it to his right side. # 0 # 10 # spine
+a person is picking something up and moving it from one location to another. # 0 # 10 # spine
+a person seems to be counting something on the shelves # 0 # 10 # spine

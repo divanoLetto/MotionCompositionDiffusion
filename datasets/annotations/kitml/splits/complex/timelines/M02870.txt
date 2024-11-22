@@ -1,0 +1,2 @@
+A person walks forward very slowly.  # 0 # 3.64 # spine
+A person is carefully and slowly walking forward.  # 2.64 # 3.642 # spine

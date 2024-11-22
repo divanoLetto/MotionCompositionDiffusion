@@ -1,0 +1,3 @@
+a man left steps, then right steps, turns clockwise, left steps, then right steps back full circle. # 0 # 6.0 # spine
+walking forward and then back. # 0 # 6.0 # spine
+taking two steps forward before making a right hand turn. # 0 # 6.0 # spine

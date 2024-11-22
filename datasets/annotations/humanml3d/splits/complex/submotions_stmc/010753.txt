@@ -1,0 +1,3 @@
+A person raises their left arm to meet their right arm. # 0 # 2.5 # left arm # right arm
+A person turns their body to the right. # 2.5 # 4.5 # spine
+A person lifts their left leg slightly. # 4.5 # 5.52 # legs

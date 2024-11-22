@@ -1,0 +1,3 @@
+a person moves his hand in front of him in a horizontal, clockwise, circular motion. # 0 # 9.49 # spine
+person standing still while stirring clockwise with right hand # 0 # 9.49 # spine
+person is stirring something with right hand # 0 # 9.49 # spine

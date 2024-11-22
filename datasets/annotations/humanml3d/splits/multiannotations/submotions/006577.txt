@@ -1,0 +1,3 @@
+the person is stopping with their left foot. # 0 # 4.54 # spine
+the man steps in something then thinks about it. # 0 # 4.54 # spine
+a person lifts their left foot, then places it back down quickly, then lifts their left hand toward their head. # 0 # 4.54 # spine

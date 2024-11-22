@@ -1,0 +1,3 @@
+a person sits down at a chair, then moves the chair around while they are still in it. # 0 # 10 # spine
+the person sits down in multiple chairs then stands up # 0 # 10 # spine
+person moves slightly counterclockwise then sits down on a chair and moves tip toed with chair to there left side # 0 # 10 # spine

@@ -1,0 +1,3 @@
+a walking person suddenly gets staggered to their left, then recovers. # 0 # 7.01 # spine
+someone begins walking then seems to trip to the right before correcting the path they were on. # 0 # 7.01 # spine
+a person walks a few steps, then loses their balance and waves their arms up while moving to the side, then takes a few more steps. # 0 # 7.01 # spine

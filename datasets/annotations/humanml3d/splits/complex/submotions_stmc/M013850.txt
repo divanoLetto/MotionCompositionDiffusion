@@ -1,0 +1,2 @@
+A person executes an uppercut punch with the right hand. # 0 # 1.5 # right arm
+A person performs a right handed uppercut. # 1.5 # 1.9 # right arm

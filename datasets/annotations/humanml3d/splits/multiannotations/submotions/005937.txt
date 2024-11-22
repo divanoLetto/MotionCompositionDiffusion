@@ -1,0 +1,3 @@
+a person walks diagonally forward # 0 # 4.18 # spine
+the man walked forward, forming a forty-five degree angle. # 0 # 4.18 # spine
+a person slowly walked forward # 0 # 4.18 # spine

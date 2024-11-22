@@ -1,0 +1,4 @@
+A person spins their hands around. # 0 # 2 # spine
+A person dips a knee to the left. # 2 # 4 # spine
+A person dips a knee to the right. # 4 # 5.308 # spine
+A person raises their hands up. # 4 # 5.308 # spine

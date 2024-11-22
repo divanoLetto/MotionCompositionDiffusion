@@ -1,0 +1,3 @@
+a person slowly paces back and forth. # 0 # 10 # spine
+the person who’s walking diagonally to the right. # 0 # 10 # spine
+a person strolls back and forth in a room # 0 # 10 # spine

@@ -1,0 +1,2 @@
+A person sways from side to side.  # 0 # 5 # spine # legs
+A person holds someone to his left while he waltzes. # 5 # 10.0 # right arm # left arm # spine

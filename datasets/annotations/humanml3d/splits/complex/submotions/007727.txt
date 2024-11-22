@@ -1,0 +1,3 @@
+A person dances to the left. # 0 # 2 # spine
+A person dances to the right. # 2 # 4 # spine
+A person twirls in a circular motion. # 4 # 10.0 # spine

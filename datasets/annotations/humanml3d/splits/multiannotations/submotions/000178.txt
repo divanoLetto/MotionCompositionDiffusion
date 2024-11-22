@@ -1,0 +1,3 @@
+someone walks backward beginning with the left foot while progressively swinging the left arm back and forth harder and harder with each swing. # 0 # 10 # spine
+a person starts to walk backwards. # 0 # 10 # spine
+a person takes thirteen steps backward # 0 # 10 # spine

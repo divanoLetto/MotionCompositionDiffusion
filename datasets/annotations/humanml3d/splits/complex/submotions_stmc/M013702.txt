@@ -1,0 +1,2 @@
+A person walks forward while swinging both arms in a windmill motion. # 0 # 5 # right arm # left arm # legs
+A person raises their right arm to serve a ball. # 5 # 10.0 # right arm

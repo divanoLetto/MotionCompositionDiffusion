@@ -1,0 +1,3 @@
+A person slides to the left three times. # 0 # 4.442 # spine
+A person swings their arms while standing. # 0 # 4 # spine
+A person slides to the left two times. # 4 # 4.442 # spine

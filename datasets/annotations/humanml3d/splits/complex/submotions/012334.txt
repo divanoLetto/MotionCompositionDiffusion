@@ -1,0 +1,2 @@
+A person holds right arm up and makes curling motions. # 0 # 6 # spine
+A person extends their left arm outwards then back to their shoulder, in a curling motion. # 6 # 9.975 # spine

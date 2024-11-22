@@ -1,0 +1,2 @@
+A person lifts both arms to the side. # 0 # 2 # right arm # left arm
+A person raises both arms. # 2 # 5.02 # right arm # left arm

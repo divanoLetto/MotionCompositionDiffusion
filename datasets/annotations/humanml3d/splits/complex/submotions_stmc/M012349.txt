@@ -1,0 +1,2 @@
+A person throws something with their left arm. # 0 # 4.0 # left arm
+A person finishes the throw and returns to a neutral position. # 4.0 # 7.267 # spine

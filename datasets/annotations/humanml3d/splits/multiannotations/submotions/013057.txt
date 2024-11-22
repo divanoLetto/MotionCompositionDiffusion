@@ -1,0 +1,3 @@
+swinging arm down then standing still. # 0 # 8.64 # spine
+a person raises their arm and takes a small step forward # 0 # 8.64 # spine
+the person lowers his right arm and takes a step forward. # 0 # 8.64 # spine

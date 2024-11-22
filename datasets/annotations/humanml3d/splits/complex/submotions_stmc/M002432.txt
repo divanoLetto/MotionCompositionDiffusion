@@ -1,0 +1,2 @@
+A person raises their left arm and then waves it back and forth. # 0 # 4.0 # left arm
+A person raises their right arm and makes signals. # 4.0 # 9.592000000000002 # right arm

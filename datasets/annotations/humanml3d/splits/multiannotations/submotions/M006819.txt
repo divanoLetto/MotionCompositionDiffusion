@@ -1,0 +1,3 @@
+person brings right forearm up to their eyesight like they are checking the time on a watch. # 0 # 3.742 # spine
+a man raises his left arm and holds it across his chest. # 0 # 3.742 # spine
+a person is standing, raising their left hand towards the center of their body, and then brings left hand back down to the side. # 0 # 3.742 # spine

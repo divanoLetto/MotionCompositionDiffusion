@@ -1,0 +1,2 @@
+a person takes many small jumps while shaking their arms and body. # 0 # 2.05 # spine
+a person is shaking their shoulders and arms. # 1 # 2 # spine

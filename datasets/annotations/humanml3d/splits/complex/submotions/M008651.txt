@@ -1,0 +1,2 @@
+A person stands looking left and right. # 0 # 6 # spine
+A person squats down. # 6 # 10.0 # spine

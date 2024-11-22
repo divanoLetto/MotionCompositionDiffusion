@@ -1,0 +1,3 @@
+the sim appears to be adjusting a watch that is placed on their right wrist. # 0 # 5.075 # spine
+a person touhes their right arms twice with their left hand. # 0 # 5.075 # spine
+the person is touching his right arm with his left hand. # 0 # 5.075 # spine

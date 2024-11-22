@@ -1,0 +1,2 @@
+A person swings their arms side to side.  # 0 # 5 # right arm # left arm
+A person steps forward while dancing.  # 5 # 9.867 # legs

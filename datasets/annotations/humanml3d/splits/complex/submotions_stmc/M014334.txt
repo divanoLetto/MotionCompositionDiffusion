@@ -1,0 +1,3 @@
+A person throws something with their left hand. # 0 # 4.542 # left arm
+A person bends down to pick something up. # 4.542 # 7.542 # spine # left arm
+A person throws something with their left hand. # 7.542 # 9.999999999999998 # left arm

@@ -1,0 +1,3 @@
+a person walks forward while twisting their torso side to side. # 0 # 6.7 # spine
+walking while swinging both arms from left to right # 0 # 6.7 # spine
+a man walks forward while swinging his shoulders from side to side. # 0 # 6.7 # spine

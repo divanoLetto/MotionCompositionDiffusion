@@ -1,0 +1,4 @@
+A person throws a left hook. # 0 # 2.725 # spine
+A person throws a right hook. # 2 # 5.45 # spine
+A person throws something with their right hand. # 4 # 6.76 # spine
+A person kicks with their left leg. # 5 # 10.0 # spine

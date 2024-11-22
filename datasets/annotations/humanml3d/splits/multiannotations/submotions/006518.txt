@@ -1,0 +1,3 @@
+a person boastfully meanders across a room in a confident manner. # 0 # 10 # spine
+a figure struts forward confidently # 0 # 10 # spine
+a person struts forward, diagonally to the left, then turns to the right. # 0 # 10 # spine

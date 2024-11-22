@@ -1,0 +1,3 @@
+the person is doing a dance move. # 0 # 10 # spine
+a man dances forard then back # 0 # 10 # spine
+a man walks from side to side while holding his right forearm with left hand, and then walks back. # 0 # 10 # spine

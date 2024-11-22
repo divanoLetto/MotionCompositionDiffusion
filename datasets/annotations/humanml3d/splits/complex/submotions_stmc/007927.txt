@@ -1,0 +1,2 @@
+A person shuffles their feet in circles.  # 0 # 4 # legs
+A person swings their arms.  # 4 # 9.75 # right arm # left arm

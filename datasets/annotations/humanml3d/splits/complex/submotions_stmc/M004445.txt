@@ -1,0 +1,4 @@
+A person raises both arms to the side. # 0 # 2.0 # right arm # left arm
+A person steps forward with the left foot. # 2.0 # 4.0 # legs
+A person steps to the side with the right foot. # 4.0 # 6.0 # legs
+A person steps together with both feet. # 6.0 # 7.09 # legs

@@ -1,0 +1,2 @@
+A person walks forward while swinging both arms. # 0 # 3 # spine
+A person continues to walk forward while dancing. # 3 # 6.7 # spine

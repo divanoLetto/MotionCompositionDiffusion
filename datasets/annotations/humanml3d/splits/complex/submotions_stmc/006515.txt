@@ -1,0 +1,2 @@
+A person shakes their hips from side to side. # 0 # 4.183 # spine # legs
+A person lifts both arms and shakes their hips. # 4.183 # 7.633 # right arm # left arm # spine

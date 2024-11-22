@@ -1,0 +1,4 @@
+A person stands up. # 0 # 2 # spine
+A person throws something with their right hand. # 2 # 6 # spine
+A person raises their left arm. # 6 # 8 # spine
+A person waves with their right hand. # 8 # 10 # spine

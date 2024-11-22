@@ -1,0 +1,3 @@
+a person walks forward normally # 0 # 6.325 # spine
+the person is walking forward slowly. # 0 # 6.325 # spine
+a person walking in a curved line # 0 # 6.325 # spine

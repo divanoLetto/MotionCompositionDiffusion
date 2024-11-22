@@ -1,0 +1,1 @@
+a person walks in a counterclockwise circle # 0 # 10.0 # legs

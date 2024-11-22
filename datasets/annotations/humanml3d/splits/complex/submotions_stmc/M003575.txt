@@ -1,0 +1,2 @@
+A person stands with their legs apart. # 0 # 4.2 # legs
+A person swings a club with their right arm. # 0 # 4.2 # right arm

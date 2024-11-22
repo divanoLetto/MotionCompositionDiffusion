@@ -1,0 +1,3 @@
+staying still with arms near chest. # 0 # 0.958 # spine
+a person has their elbows at chest height with hands in front of body. # 0 # 0.958 # spine
+squats up and down with both hands moving in an up and down motion. # 0 # 0.958 # spine

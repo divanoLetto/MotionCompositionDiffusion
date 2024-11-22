@@ -1,0 +1,3 @@
+a person who seems to slap something # 0 # 10 # spine
+a person slaps something with their right arm, raises their left arm onto something, and slaps something with their right arm again. # 0 # 10 # spine
+a person lifts their right arm and slaps something, then repeats the motion again. # 0 # 10 # spine

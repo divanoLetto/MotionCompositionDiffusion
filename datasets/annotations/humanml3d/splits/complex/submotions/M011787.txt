@@ -1,0 +1,3 @@
+A person sways from side to side. # 0 # 4 # spine
+A person stands still and kicks with their left foot. # 0 # 6 # spine
+A person kicks something with their left foot. # 4 # 6.675 # spine

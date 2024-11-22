@@ -1,0 +1,2 @@
+A person raises both arms. # 0 # 2.0 # right arm # left arm
+A person lowers their arms. # 2.0 # 4.95 # right arm # left arm

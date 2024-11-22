@@ -1,0 +1,3 @@
+the person is pacing back-and-forth. # 0 # 9.208 # spine
+person walks to their right then left then slightly right and stands still # 0 # 9.208 # spine
+a man walks from left to right with his hands loosely at his side. # 0 # 9.208 # spine

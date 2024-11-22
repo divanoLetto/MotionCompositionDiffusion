@@ -1,0 +1,4 @@
+A person leans to the right. # 0 # 2 # spine
+A person raises their left leg to knee height. # 2 # 4 # spine
+A person brings both hands together. # 4 # 6.59 # spine
+A person kicks with their left foot. # 5 # 6 # spine

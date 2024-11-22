@@ -1,0 +1,2 @@
+A person sways from side to side while lifting their legs slightly. # 0 # 4 # legs # spine
+A person shakes their shoulders up and down. # 4 # 5.008 # spine # head

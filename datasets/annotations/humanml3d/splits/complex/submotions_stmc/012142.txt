@@ -1,0 +1,2 @@
+A person raises both arms as if to hold something.  # 0 # 2 # right arm # left arm
+A person moves their arms in a circular motion as if playing.  # 2 # 6.65 # right arm # left arm

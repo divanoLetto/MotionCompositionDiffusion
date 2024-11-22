@@ -1,0 +1,3 @@
+A person stands in a strong stance. # 0 # 2 # spine
+A person raises their right arm up. # 2 # 6.675 # spine
+A person makes a throwing motion with their right arm. # 4 # 6 # spine

@@ -1,0 +1,2 @@
+A person moves forward with their right arm. # 0 # 3 # right arm
+A person performs a follow-through with their right arm. # 3 # 5.89 # right arm

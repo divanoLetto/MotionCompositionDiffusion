@@ -1,0 +1,4 @@
+A person raises both arms up and down. # 0 # 2.0 # right arm # left arm
+A person moves their right leg. # 2.0 # 4.0 # legs
+A person stops moving the right leg. # 4.0 # 5.0 # legs
+A person moves their left leg. # 5.0 # 5.85 # legs

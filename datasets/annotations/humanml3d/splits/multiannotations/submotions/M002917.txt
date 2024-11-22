@@ -1,0 +1,3 @@
+a man moves his hand up in the air. # 0 # 1.85 # spine
+a person is grabbing something on top of a waist high surface and is placing the item across from where it was on a higher shelf. # 0 # 1.85 # spine
+the video shows stick figure moving forward using his hands and feet. # 0 # 1.85 # spine

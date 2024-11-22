@@ -1,0 +1,2 @@
+A person raises their right arm to throw something. # 0 # 3 # spine
+A person throws something with their right arm. # 2 # 7.09 # spine

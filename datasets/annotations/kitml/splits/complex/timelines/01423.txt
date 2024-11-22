@@ -1,0 +1,2 @@
+A person raises their arms in front of them. # 0 # 3 # spine
+A person is performing a punching motion with both arms. # 2 # 6.54 # spine

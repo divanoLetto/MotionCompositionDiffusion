@@ -1,0 +1,2 @@
+A person is walking forward while making a dribbling motion with their right arm. # 0 # 4 # spine
+A person is throwing something with both hands. # 4 # 6.05 # spine

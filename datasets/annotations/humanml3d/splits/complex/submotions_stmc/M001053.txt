@@ -1,0 +1,4 @@
+A person takes a few steps forward. # 0 # 2 # legs
+A person bends their knees. # 2 # 4 # legs
+A person takes a step back. # 4 # 6 # legs
+A person extends their hands forward. # 6 # 8.4 # right arm # left arm

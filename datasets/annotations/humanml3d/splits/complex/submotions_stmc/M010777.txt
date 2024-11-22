@@ -1,0 +1,2 @@
+A person prepares to throw with their left arm.  # 0 # 4 # left arm
+A person throws something with their left arm.  # 4 # 10.0 # left arm

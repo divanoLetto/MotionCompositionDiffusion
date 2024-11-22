@@ -1,0 +1,3 @@
+A person turns to his left while dancing. # 0 # 3 # spine # legs
+A person raises both arms up while dancing. # 3 # 5 # right arm # left arm
+A person turns to his right while dancing. # 5 # 10.0 # spine # legs

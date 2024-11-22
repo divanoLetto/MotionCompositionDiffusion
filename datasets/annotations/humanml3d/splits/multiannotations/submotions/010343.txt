@@ -1,0 +1,3 @@
+running forward taking a right turn then running to the left # 0 # 2.817 # spine
+squat down place your palms on the floor and hop like a frog. # 0 # 2.817 # spine
+a person jogs forward a few steps, then turns sharply to his right and continues jogging. # 0 # 2.817 # spine

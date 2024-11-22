@@ -1,0 +1,2 @@
+A person jogs forward with legs moving. # 0 # 4 # legs
+A person jogs backward with legs moving. # 4 # 8.142 # legs

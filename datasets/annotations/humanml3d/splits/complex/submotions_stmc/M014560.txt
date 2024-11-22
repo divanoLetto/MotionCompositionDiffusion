@@ -1,0 +1,1 @@
+A person walks forward and strokes an object with his right hand. # 0 # 5.93 # right arm

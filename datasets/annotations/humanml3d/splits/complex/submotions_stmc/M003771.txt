@@ -1,0 +1,4 @@
+A person raises both arms and steps forward. # 0 # 3.0 # right arm # left arm # legs
+A person throws a fake punch with the right arm. # 3 # 5 # right arm
+A person throws a fake punch with the left arm. # 5 # 7 # left arm
+A person raises both arms to their face. # 7 # 10.0 # right arm # left arm

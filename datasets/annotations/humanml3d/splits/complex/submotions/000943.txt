@@ -1,0 +1,2 @@
+A person is walking forward. # 0 # 6 # spine
+A person is dancing with their arms raised. # 0 # 10.0 # spine

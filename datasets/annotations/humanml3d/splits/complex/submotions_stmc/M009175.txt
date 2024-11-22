@@ -1,0 +1,2 @@
+A person throws something with their left hand. # 0 # 2.0 # left arm
+A person follows through the motion with their left arm. # 2.0 # 4.292 # left arm

@@ -1,0 +1,2 @@
+A person lifts their arms up while playing an instrument. # 0 # 3 # right arm # left arm
+A person moves their fingers on the instrument. # 3 # 7.43 # right arm # left arm

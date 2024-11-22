@@ -1,0 +1,2 @@
+A person raises their right arm.  # 0 # 2 # spine
+A person performs a throwing motion with their right hand.  # 2 # 5.36 # spine

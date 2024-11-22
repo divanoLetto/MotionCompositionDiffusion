@@ -1,0 +1,3 @@
+person is walking with his arms out like he is balancing. # 0 # 10 # spine
+this person has both arms extended out to his sides and stumbles. # 0 # 10 # spine
+the person raises both of their hands and walks, teetering, over a tight rope. # 0 # 10 # spine

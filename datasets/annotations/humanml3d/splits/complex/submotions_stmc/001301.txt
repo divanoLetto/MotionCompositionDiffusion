@@ -1,0 +1,2 @@
+A person bends down slightly with their spine. # 0 # 2 # spine
+A person holds something with their right arm. # 2 # 3.642 # right arm

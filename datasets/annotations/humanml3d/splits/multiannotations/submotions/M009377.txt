@@ -1,0 +1,3 @@
+the person is walking forward and turn around like a monster # 0 # 10 # spine
+person moves forward sluggishly then runs in other direction # 0 # 10 # spine
+a person takes a few steps forwards then turns around and tries to jog. # 0 # 10 # spine

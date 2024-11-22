@@ -1,0 +1,4 @@
+A person is moving their arms in a circular motion. # 0 # 3 # spine
+A person is throwing punches with their left hand. # 2 # 5 # spine
+A person is stepping forward and throwing with their right hand. # 4 # 7 # spine
+A person is in a fighting stance. # 6 # 10 # spine

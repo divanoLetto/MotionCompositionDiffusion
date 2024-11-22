@@ -1,0 +1,2 @@
+A person is swimming using both arms. # 0 # 6 # spine
+A person kicks with their legs. # 4 # 10.0 # spine

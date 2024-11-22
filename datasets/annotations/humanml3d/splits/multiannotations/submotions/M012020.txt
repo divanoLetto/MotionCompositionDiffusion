@@ -1,0 +1,3 @@
+a person, standing still with their arms at their sides, seems to wince/twitch, then continues standing. # 0 # 5.26 # spine
+a person flinches at the shoulders. # 0 # 5.26 # spine
+a person stands still with hand to the side, until their left shoulder moves in a bummped motion. # 0 # 5.26 # spine

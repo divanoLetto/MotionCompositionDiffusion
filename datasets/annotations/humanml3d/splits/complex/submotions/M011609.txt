@@ -1,0 +1,2 @@
+A person ducks from flying objects. # 0 # 2 # spine
+A person swings out with their right arm. # 2 # 4.74 # spine

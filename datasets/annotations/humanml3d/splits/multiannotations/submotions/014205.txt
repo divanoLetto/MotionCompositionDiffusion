@@ -1,0 +1,3 @@
+a person side steps to the right 3 times then to the left 3 times then to the right once more to end where they started. # 0 # 7.308 # spine
+person steps to the right two steps then steps to the left two steps then steps back to where he started. # 0 # 7.308 # spine
+figure appears to be side stepping # 0 # 7.308 # spine

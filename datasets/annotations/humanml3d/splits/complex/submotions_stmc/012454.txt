@@ -1,0 +1,2 @@
+A person sways left to right while swaying their arms from hip to hip. # 0 # 6.642 # right arm # left arm # spine # legs
+A person jumps in place while flinging their arms and leg out and in. # 6.642 # 9.25 # right arm # left arm # spine # legs

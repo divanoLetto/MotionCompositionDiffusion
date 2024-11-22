@@ -1,0 +1,2 @@
+A person stands with their hands up in a fighting stance. # 0 # 2.5 # spine
+A person swings their right arm forward to punch. # 2 # 2.5 # spine

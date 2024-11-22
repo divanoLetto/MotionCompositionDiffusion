@@ -1,0 +1,5 @@
+A person is swirling their arms in a circle. # 0 # 6 # spine
+A person is kicking with their left leg. # 2 # 10.0 # spine
+A person steps to the left. # 4 # 10.0 # spine
+A person jumps to the left. # 6 # 10.0 # spine
+A person kicks with their right leg behind them. # 8 # 10.0 # spine

@@ -1,0 +1,3 @@
+A person walks diagonally to the left. # 0 # 2 # spine
+A person walks forward. # 2 # 4 # spine
+A person takes a step backwards. # 8 # 10.0 # spine

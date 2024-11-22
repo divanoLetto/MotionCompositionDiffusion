@@ -1,0 +1,3 @@
+A person flaps their arms like wings. # 0 # 3 # right arm # left arm
+A person bends at the waist. # 3 # 5 # spine
+A person wobbles their head. # 5 # 7.183 # head

@@ -1,0 +1,2 @@
+A person is moving their hips from left to right. # 0 # 5 # spine # legs
+A person steps forward while holding their arms out. # 5 # 9.54 # right arm # left arm # legs

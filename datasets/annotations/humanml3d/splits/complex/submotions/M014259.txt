@@ -1,0 +1,3 @@
+A person walks forward. # 0 # 4 # spine
+A person twirls around. # 3 # 7 # spine
+A person walks back to the starting position. # 5 # 7.967 # spine

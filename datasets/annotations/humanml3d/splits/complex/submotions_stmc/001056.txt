@@ -1,0 +1,2 @@
+A person dances around.  # 0 # 1.5 # legs # spine
+A person spins while dancing.  # 1.5 # 2.0 # spine # legs

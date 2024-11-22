@@ -1,0 +1,3 @@
+drunk walking animation turning around # 0 # 10 # spine
+a person limping around loosely. # 0 # 10 # spine
+a person walks with a limp leg. # 0 # 10 # spine

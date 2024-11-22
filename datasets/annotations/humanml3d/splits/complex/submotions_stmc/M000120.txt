@@ -1,0 +1,3 @@
+A person walks forward in a square pattern. # 0 # 6 # legs
+A person looks down. # 6 # 8 # head
+A person steps backward. # 8 # 10.0 # legs

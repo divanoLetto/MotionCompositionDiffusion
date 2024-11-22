@@ -1,0 +1,3 @@
+A person raises their right arm.  # 0 # 3 # right arm
+A person moves their left arm as if strumming.  # 3 # 7 # left arm
+A person continues to move their right arm.  # 7 # 8.88 # right arm

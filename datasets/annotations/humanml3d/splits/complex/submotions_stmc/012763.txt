@@ -1,0 +1,2 @@
+A person is swaying, moving his hips to the left and right. # 0 # 5 # spine # legs
+A person raises both arms out to the side. # 5 # 10.0 # right arm # left arm

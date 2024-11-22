@@ -1,0 +1,2 @@
+A person raises both arms to the side. # 0 # 2.15 # right arm # left arm
+A person stretches both arms forward. # 2.15 # 5.858 # right arm # left arm

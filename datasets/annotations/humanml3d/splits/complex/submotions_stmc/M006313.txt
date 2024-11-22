@@ -1,0 +1,1 @@
+A person throws with the right arm. # 0 # 1.45 # right arm

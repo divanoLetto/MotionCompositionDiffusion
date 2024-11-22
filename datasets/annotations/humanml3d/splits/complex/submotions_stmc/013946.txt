@@ -1,0 +1,2 @@
+A person raises their left arm to throw something. # 0 # 2 # left arm
+A person throws something with their left hand. # 2 # 7.233 # left arm

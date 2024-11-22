@@ -1,0 +1,2 @@
+A person raises both hands in front of their face. # 0 # 3.008 # right arm # left arm
+A person makes rapid jabbing motions with their left arm. # 3.008 # 3.65 # left arm

@@ -1,0 +1,2 @@
+A person does a high kick with his right leg and then pushes out with both hands. # 0 # 6 # spine
+A person walks forward with right foot and hand forward first and then stops. # 6 # 10.0 # spine

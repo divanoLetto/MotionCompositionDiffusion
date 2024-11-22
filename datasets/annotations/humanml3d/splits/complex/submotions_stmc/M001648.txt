@@ -1,0 +1,2 @@
+A person steps back on their left leg. # 0 # 2.5 # legs
+A person pitches a baseball forward with their right arm. # 2.5 # 3.525 # right arm

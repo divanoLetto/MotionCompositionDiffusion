@@ -1,0 +1,3 @@
+a man crawls forward on his stomach. # 0 # 10 # spine
+this person crawls on all fours with belly close to the ground. # 0 # 10 # spine
+the person is doing a military crawl across the floor # 0 # 10 # spine

@@ -1,0 +1,2 @@
+A man raises both arms to the side. # 0 # 2 # right arm # left arm
+A man begins to dance with his legs. # 2 # 10.0 # legs

@@ -1,0 +1,4 @@
+A person is swinging their arms back and forth. # 0 # 2.35 # right arm # left arm
+A person turns their body around. # 2.35 # 4.35 # spine
+A person side steps. # 4.35 # 6.35 # legs
+A person raises their right arm in the air. # 6.35 # 9.617 # right arm

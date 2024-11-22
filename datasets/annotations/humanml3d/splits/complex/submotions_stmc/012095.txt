@@ -1,0 +1,2 @@
+A person fakes a shot to the right.  # 0 # 0.5 # right arm # left arm
+A person dribbles the ball with both hands.  # 0.5 # 1.0 # right arm # left arm

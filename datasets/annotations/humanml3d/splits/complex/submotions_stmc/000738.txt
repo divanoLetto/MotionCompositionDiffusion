@@ -1,0 +1,3 @@
+A person throws something with their right hand. # 0 # 4.0 # right arm
+A person swings their left arm back. # 4.0 # 6.0 # left arm
+A person follows through the movement with their right arm. # 6.0 # 8.100000000000001 # right arm

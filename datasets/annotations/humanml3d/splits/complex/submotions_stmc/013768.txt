@@ -1,0 +1,2 @@
+A person raises their right arm high in the air. # 0 # 3 # right arm
+A person holds a bow with their left hand. # 0 # 9.14 # left arm

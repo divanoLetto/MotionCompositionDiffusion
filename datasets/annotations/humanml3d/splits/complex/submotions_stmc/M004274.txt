@@ -1,0 +1,2 @@
+A person bounces a ball with both hands. # 0 # 5.0 # right arm # left arm
+A person walks forward while bouncing something in their left hand against the floor. # 5.0 # 10.0 # legs # left arm

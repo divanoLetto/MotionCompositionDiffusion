@@ -1,0 +1,3 @@
+a man walks forward with arms relatively stiff at sides. # 0 # 4.26 # spine
+the person walks forward and speeds up as if pushed from behind. # 0 # 4.26 # spine
+a person saunters forward slowly. # 0 # 4.26 # spine

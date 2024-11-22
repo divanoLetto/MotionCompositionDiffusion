@@ -1,0 +1,3 @@
+a person rolls their arms and shoulders. # 0 # 10 # spine
+moving the hands slowly like dancing. # 0 # 10 # spine
+person is making animal like gestures # 0 # 10 # spine

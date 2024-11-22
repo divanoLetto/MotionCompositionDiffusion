@@ -1,0 +1,2 @@
+A person moves their arms in a circular motion. # 0 # 6 # spine
+A person jumps up while spreading the legs and lifting the arms up above the head. # 4 # 10.0 # spine

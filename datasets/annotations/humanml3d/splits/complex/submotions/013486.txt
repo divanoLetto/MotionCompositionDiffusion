@@ -1,0 +1,2 @@
+A person is performing martial arts with their left arm blocking 4 times at a high level. # 0 # 5 # spine
+A person is performing martial arts with their right arm blocking 4 times at a high level. # 4 # 9.400000000000002 # spine

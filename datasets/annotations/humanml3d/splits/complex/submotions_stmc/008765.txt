@@ -1,0 +1,3 @@
+A person backs up. # 0 # 3 # legs
+A person catches something with both hands. # 3 # 6 # right arm # left arm
+A person squats down. # 6 # 10.0 # legs # spine

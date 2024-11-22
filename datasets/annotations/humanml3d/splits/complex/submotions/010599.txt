@@ -1,0 +1,2 @@
+A person is swinging both legs and arms. # 0 # 3.617 # spine
+A person is lifting up both their arms. # 0 # 3 # spine

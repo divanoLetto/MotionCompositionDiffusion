@@ -1,0 +1,4 @@
+A person steps forward. # 0 # 2 # legs
+A person raises their left hand. # 2 # 5 # left arm
+A person raises their right hand. # 5 # 8 # right arm
+A person lowers both hands. # 8 # 10.0 # left arm # right arm

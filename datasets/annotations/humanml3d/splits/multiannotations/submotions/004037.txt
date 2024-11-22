@@ -1,0 +1,3 @@
+takes a step forward while right hand goes above the left hand in a circle motion and vice versa , then the right hand goes towards the head, and back down. # 0 # 10 # spine
+this person stands stills and looks to be making a drink. # 0 # 10 # spine
+using hands to wipe something # 0 # 10 # spine

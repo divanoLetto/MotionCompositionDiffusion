@@ -1,0 +1,3 @@
+a person who is standing with his arms down by his sides raises his hands shoulder high, looks slightly to the right, turns his body to the left and drops his hands to his sides and faces forward. # 0 # 4.408 # spine
+a man raises their arms swings right then swings left, then back to the middle. # 0 # 4.408 # spine
+the person is taking a photograph of some thing. # 0 # 4.408 # spine

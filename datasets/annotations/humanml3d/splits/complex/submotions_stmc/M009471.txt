@@ -1,0 +1,2 @@
+A person sways their hips from side to side while dancing.  # 0 # 6 # spine # legs
+A person raises both arms while dancing.  # 6 # 10.0 # right arm # left arm

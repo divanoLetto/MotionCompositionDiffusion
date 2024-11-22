@@ -1,0 +1,3 @@
+a person is throwing and catching a ball. # 0 # 10 # spine
+a person makes an underhanded throw with his right arm, as if rolling a ball, before raising both arms into the air as if throwing a ball, then he takes two steps back and runs forwards quickly. # 0 # 10 # spine
+someone playing a sport or hitting a volleyball # 0 # 10 # spine

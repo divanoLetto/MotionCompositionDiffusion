@@ -1,0 +1,3 @@
+a person lunges over and gets back up. # 0 # 10 # spine
+a man bends his knee to the ground then stands upleft and start swinging his arm forward # 0 # 10 # spine
+pitcher picking up the ball and preparing to throw it # 0 # 10 # spine

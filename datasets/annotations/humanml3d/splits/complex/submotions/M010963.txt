@@ -1,0 +1,2 @@
+A person is doing the waltz in a circle. # 0 # 6 # spine
+A person is practicing a throw with the left arm, and receives with the right. # 4 # 10.0 # spine

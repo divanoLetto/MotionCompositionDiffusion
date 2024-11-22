@@ -1,0 +1,4 @@
+A person stays on the place. # 0 # 3 # spine
+A person raises their right hand. # 3 # 6.51 # spine
+A person holds something in front of them. # 4 # 6 # spine
+A person moves their right hand in a circular motion. # 5 # 6 # spine

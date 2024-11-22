@@ -1,0 +1,3 @@
+a person squats down and pushes up into a big jump several times. # 0 # 4.4 # spine
+a person does two full-bend deep-knee squat jumps. # 0 # 4.4 # spine
+a person jumping up and down. # 0 # 4.4 # spine

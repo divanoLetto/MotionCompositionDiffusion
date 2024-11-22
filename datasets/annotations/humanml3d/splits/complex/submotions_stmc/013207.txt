@@ -1,0 +1,2 @@
+A person runs forward using both legs. # 0 # 1.75 # legs
+A person holds a football with their right arm. # 1.75 # 1.783 # right arm

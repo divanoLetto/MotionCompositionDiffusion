@@ -1,0 +1,2 @@
+A person raises their arms in front of them. # 0 # 3 # left arm # right arm
+A person kicks with the right foot. # 3 # 5.71 # legs

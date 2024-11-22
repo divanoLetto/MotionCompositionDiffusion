@@ -1,0 +1,2 @@
+A person performs a breast stroke with his arms. # 0 # 5 # right arm # left arm
+A person kicks with his legs. # 5 # 10.0 # legs

@@ -1,0 +1,3 @@
+a person moves their right hand; left, right, up and down. # 0 # 7.01 # spine
+the person who does arms straight out and then it’s doing something with their right hand in front of their face. # 0 # 7.01 # spine
+a man raises their right hand and gestures around. # 0 # 7.01 # spine

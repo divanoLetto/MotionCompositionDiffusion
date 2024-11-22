@@ -1,0 +1,3 @@
+A person runs forward while dribbling a basketball with their right arm. # 0 # 5 # right arm # legs
+A person quickly moves the basketball to keep it away. # 5 # 9.733 # right arm
+A person uses their left arm to shield the ball. # 5 # 9 # left arm

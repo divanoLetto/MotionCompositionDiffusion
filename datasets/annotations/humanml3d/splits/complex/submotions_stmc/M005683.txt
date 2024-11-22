@@ -1,0 +1,4 @@
+A person lifts both arms out to their side. # 0 # 2.0 # right arm # left arm
+A person is pretending to juggle with both hands. # 2 # 6.0 # right arm # left arm
+A person moves their arms side to side. # 6 # 8.0 # right arm # left arm
+A person taps on a drum with both palms. # 8 # 10.0 # right arm # left arm

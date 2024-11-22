@@ -1,0 +1,4 @@
+A person raises their arms to stretch their back and waist. # 0 # 3 # spine
+A person stretches their arms out to the sides. # 2 # 5 # spine
+A person raises both arms above their head. # 4 # 7 # spine
+A person dances while moving their hips. # 6 # 10 # spine

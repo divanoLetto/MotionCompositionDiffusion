@@ -1,0 +1,3 @@
+a person doing a meditation. # 0 # 10 # spine
+a person moves from kneeling with their hands on their ground to having their feet and hands on the ground # 0 # 10 # spine
+the person is crawling. # 0 # 10 # spine

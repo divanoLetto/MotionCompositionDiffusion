@@ -1,0 +1,3 @@
+A person takes a stance.  # 0 # 3 # spine
+A person drops their hands to their sides.  # 2 # 5 # spine
+A person raises their arms.  # 4 # 10 # spine

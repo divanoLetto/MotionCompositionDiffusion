@@ -1,0 +1,2 @@
+A person stands with their arms out to the side. # 0 # 3.0 # right arm # left arm
+A person raises their left arm to drink something. # 3.0 # 7.13 # left arm

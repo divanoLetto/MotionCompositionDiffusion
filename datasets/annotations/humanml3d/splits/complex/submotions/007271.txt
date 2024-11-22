@@ -1,0 +1,3 @@
+A person is moving to the right. # 0 # 4 # spine
+A person is moving to the left. # 2 # 6 # spine
+A person is spinning his upper core body. # 4 # 10.0 # spine

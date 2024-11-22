@@ -1,0 +1,4 @@
+A person hops forward. # 0 # 2.0 # spine
+A person moves backwards. # 1.5 # 3.0 # spine
+A person moves forward. # 2.5 # 3.0 # spine
+A person throws punches with their right hand. # 2.0 # 3.0 # spine

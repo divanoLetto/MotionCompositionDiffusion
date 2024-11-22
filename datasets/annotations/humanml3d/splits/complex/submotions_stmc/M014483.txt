@@ -1,0 +1,4 @@
+A person steps forward starting with their right foot. # 0 # 2.0 # legs
+A person steps backward. # 2.0 # 5.0 # legs
+A person turns around. # 5.0 # 7.0 # spine
+A person continues to dance. # 7.0 # 10.0 # legs

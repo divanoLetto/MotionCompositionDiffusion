@@ -1,0 +1,2 @@
+A person raises both arms.  # 0 # 3 # right arm # left arm
+A person moves their right arm as if playing a violin.  # 3 # 7.19 # right arm

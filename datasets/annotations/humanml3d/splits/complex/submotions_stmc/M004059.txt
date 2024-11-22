@@ -1,0 +1,2 @@
+A person is moving to the right with their legs. # 0 # 5 # legs
+A person is moving to the left with their legs. # 5 # 10.0 # legs

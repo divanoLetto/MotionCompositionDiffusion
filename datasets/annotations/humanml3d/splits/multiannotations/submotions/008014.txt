@@ -1,0 +1,3 @@
+the man is doing jumping jacks # 0 # 9.9 # spine
+a person performing jumping jacks # 0 # 9.9 # spine
+both hands and feet jump out towards the side and back down a few times. # 0 # 9.9 # spine

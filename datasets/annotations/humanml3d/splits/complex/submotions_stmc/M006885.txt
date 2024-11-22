@@ -1,0 +1,2 @@
+A person is in a fighting stance.  # 0 # 2 # legs # right arm # left arm
+A person moves around in place with their arms up.  # 2 # 10.0 # spine # right arm # left arm

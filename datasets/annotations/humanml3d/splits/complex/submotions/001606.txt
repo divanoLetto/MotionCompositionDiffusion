@@ -1,0 +1,3 @@
+A person raises their hands and makes some movements. # 0 # 4 # spine
+A person is waving with both hands. # 4 # 8 # spine
+A person is moving their arms. # 6 # 10.0 # spine

@@ -1,0 +1,3 @@
+the man turns right calmly # 0 # 5.94 # spine
+a person is walking, turns around and then walks back # 0 # 5.94 # spine
+the person look forward and then turned around to the right. # 0 # 5.94 # spine

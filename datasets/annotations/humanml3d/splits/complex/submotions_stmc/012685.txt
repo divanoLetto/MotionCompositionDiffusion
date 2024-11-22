@@ -1,0 +1,3 @@
+A person raises both arms to prepare to shoot. # 0 # 2 # right arm # left arm
+A person shoots the basketball. # 2 # 5 # right arm # left arm
+A person walks forward. # 5 # 7.350000000000001 # legs

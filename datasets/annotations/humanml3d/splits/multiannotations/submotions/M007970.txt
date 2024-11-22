@@ -1,0 +1,3 @@
+the person was pushed but didnt fall # 0 # 7.62 # spine
+a man takes 1 step to the right. # 0 # 7.62 # spine
+a person slowly moved in right direction # 0 # 7.62 # spine

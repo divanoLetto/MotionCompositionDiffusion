@@ -1,0 +1,3 @@
+a person sprinting ahead, and then slowing down. # 0 # 1.783 # spine
+the person was running with a straight drive in the football in his hand. # 0 # 1.783 # spine
+running forward then stopping. # 0 # 1.783 # spine

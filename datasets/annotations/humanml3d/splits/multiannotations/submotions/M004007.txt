@@ -1,0 +1,3 @@
+a person facing forward takes a large step to their right, they turn their body to the left while kneeling down and crawl across the floor to the edge of the mat and face forward. # 0 # 10 # spine
+a person takes a side step to thoer right, then kneels down to the ground and starts crawling. # 0 # 10 # spine
+person is staying on the ground crawling back and forth. # 0 # 10 # spine

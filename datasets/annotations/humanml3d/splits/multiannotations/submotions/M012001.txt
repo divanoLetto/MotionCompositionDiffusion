@@ -1,0 +1,3 @@
+a man picks up an object moves it a few inches to the left then places it back down # 0 # 4.78 # spine
+person is moving something from right to left with both arms # 0 # 4.78 # spine
+a person bends at their knees turns to their right to pick something up, turn to their left, and place the object down. # 0 # 4.78 # spine

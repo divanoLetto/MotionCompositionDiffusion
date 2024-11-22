@@ -1,0 +1,3 @@
+person moves to side and climbs some steps # 0 # 10 # spine
+walked right then went up ladder, holding on with both arms then reached with right arm to grab something # 0 # 10 # spine
+a person walks towards a ladder then climbs it when he reaches the top he picks up a object with his right hand # 0 # 10 # spine

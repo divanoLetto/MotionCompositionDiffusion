@@ -1,0 +1,2 @@
+A person raises their right arm to prepare for a swing. # 0 # 2.0 # right arm
+A person swings their right arm in a wide arc. # 2.0 # 3.642 # right arm

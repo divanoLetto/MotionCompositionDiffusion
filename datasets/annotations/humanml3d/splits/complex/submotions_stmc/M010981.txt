@@ -1,0 +1,2 @@
+A person raises both arms up in the air. # 0 # 2 # right arm # left arm
+A person keeps their arms raised. # 2 # 3.75 # right arm # left arm

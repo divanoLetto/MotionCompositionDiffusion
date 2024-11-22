@@ -1,0 +1,3 @@
+a person walking in a counter clockwise direction # 0 # 6.67 # spine
+person appears to walk in a circle clockwise. # 0 # 6.67 # spine
+the person is walking in a counter clockwise circle. # 0 # 6.67 # spine

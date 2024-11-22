@@ -1,0 +1,2 @@
+A person is jumping up and down while swinging legs outward and inward, swinging arms from side to overhead and back to side. # 0 # 6 # spine
+A person walks to the left. # 7 # 9.283 # spine

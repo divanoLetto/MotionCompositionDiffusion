@@ -1,0 +1,3 @@
+the person raises their left foot up to their kinee and then kicks their foot out, then returns their foot to their knee. # 0 # 10 # spine
+a person grab with left hand the stand, and doing the spesific motion with left leg, turning in different directions # 0 # 10 # spine
+standing on their right foot, a person flexes their knee forward and back and side to side, toward the right first and then the left. # 0 # 10 # spine

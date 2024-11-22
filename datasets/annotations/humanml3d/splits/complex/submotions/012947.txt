@@ -1,0 +1,2 @@
+A person does martial arts kicks with both legs while moving forward. # 0 # 6 # spine
+A person raises his arms up to around chest height as he does the kick. # 4 # 10.0 # spine

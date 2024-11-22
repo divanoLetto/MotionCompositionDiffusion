@@ -1,0 +1,2 @@
+A person holds their arms out in front of them. # 0 # 4 # right arm # left arm
+A person moves their hips side to side. # 4 # 10.000000000000002 # spine # legs

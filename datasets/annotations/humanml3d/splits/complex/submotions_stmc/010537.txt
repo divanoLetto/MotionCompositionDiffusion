@@ -1,0 +1,1 @@
+A person runs forward using both legs. # 0 # 1.45 # legs

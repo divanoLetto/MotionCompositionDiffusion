@@ -1,0 +1,2 @@
+A person raises their arms while bouncing.  # 0 # 3 # right arm # left arm # spine # legs
+A person jumps around the floor playfully.  # 3 # 4.75 # spine # legs

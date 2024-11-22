@@ -1,0 +1,3 @@
+a person does a drinking motion with his left arm # 0 # 10 # spine
+a figure seems to look upward and to use their hand to help them look at or read something eye level or higher # 0 # 10 # spine
+a person lunges toward the right while lifting their left arm up, then repeats the motion. # 0 # 10 # spine

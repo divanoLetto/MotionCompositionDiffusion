@@ -1,0 +1,3 @@
+a person bends both arms in front of body at shoulder level,flaps them and then unfolds them. # 0 # 2.883 # spine
+a person is standing while waving their arms seven times rapidly from their elbows and stops. # 0 # 2.883 # spine
+the person is leading his hands # 0 # 2.883 # spine

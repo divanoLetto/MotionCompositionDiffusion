@@ -1,0 +1,2 @@
+A person raises both arms while dancing. # 0 # 3 # spine
+A person moves backward. # 2 # 5.35 # spine

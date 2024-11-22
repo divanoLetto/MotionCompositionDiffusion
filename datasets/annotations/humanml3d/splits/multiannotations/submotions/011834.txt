@@ -1,0 +1,3 @@
+a person slowly walked forward # 0 # 9.14 # spine
+walking forward with legs apart. # 0 # 9.14 # spine
+a figure carefully tip toes across a path # 0 # 9.14 # spine

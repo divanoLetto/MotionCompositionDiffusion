@@ -1,0 +1,3 @@
+A person stands still.  # 0 # 2 # spine
+A person raises their right arm.  # 2 # 4 # spine
+A person swings their right arm forward.  # 4 # 4.658 # spine

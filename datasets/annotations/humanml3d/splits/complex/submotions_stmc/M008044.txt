@@ -1,0 +1,2 @@
+A person throws a punch with their left hand. # 0 # 1.75 # left arm
+A person chops with their left hand. # 1.75 # 3.233 # left arm

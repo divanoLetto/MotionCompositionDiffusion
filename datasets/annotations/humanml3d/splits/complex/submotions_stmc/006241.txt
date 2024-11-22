@@ -1,0 +1,2 @@
+A person hops on their left foot and brings their right leg in.  # 0 # 2 # legs
+A person hops on their right foot and brings their left leg in. # 2 # 4.9 # legs

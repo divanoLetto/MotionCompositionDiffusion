@@ -1,0 +1,3 @@
+A person raises their left hand. # 0 # 3 # spine
+A person plays the piano. # 2 # 7 # spine
+A man pats himself on the head. # 5 # 10 # spine

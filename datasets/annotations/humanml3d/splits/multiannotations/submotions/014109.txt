@@ -1,0 +1,3 @@
+person is standing forward doing jumping jacks. # 0 # 6.008 # spine
+the man is doing jumping jacks # 0 # 6.008 # spine
+person proceeds to perform jumping jacks. # 0 # 6.008 # spine

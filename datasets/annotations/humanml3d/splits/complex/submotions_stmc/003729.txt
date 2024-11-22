@@ -1,0 +1,4 @@
+A person stands with legs apart. # 0 # 2 # legs
+A person punches with their right hand. # 2 # 5 # right arm
+A person raises their left arm. # 5 # 8 # left arm
+A person throws a punch with their left hand. # 8 # 10.0 # left arm

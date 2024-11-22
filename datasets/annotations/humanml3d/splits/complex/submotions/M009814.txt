@@ -1,0 +1,3 @@
+A person takes a large diagonal step to the left. # 0 # 2 # spine
+A person walks diagonally backwards. # 2 # 6 # spine
+A person walks forward and to the left. # 6 # 10.0 # spine

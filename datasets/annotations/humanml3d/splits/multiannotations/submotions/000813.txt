@@ -1,0 +1,3 @@
+a standing person lifts their left hand and slowly touches their head # 0 # 2.942 # spine
+person stands still and lifts right hand to face and mouth area # 0 # 2.942 # spine
+person is scratching their head. # 0 # 2.942 # spine

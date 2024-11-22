@@ -1,0 +1,2 @@
+A person stands with hands clasped together. # 0 # 2 # spine
+A person is moving their arms up and down. # 2 # 4.05 # spine

@@ -1,0 +1,4 @@
+A person walks slowly forward. # 0 # 2.0 # legs
+A person takes one step backwards. # 2.0 # 4.0 # legs
+A person walks slowly forward. # 4.0 # 6.0 # legs
+A person takes one step backwards. # 6.0 # 7.09 # legs

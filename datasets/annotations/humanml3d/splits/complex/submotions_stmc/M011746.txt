@@ -1,0 +1,2 @@
+A person steps forward.  # 0 # 2.5 # legs
+A person steps backward.  # 2.5 # 5.5 # legs

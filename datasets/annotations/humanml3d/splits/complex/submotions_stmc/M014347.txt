@@ -1,0 +1,2 @@
+A person raises their arms while sitting down. # 0 # 3 # right arm # left arm
+A person moves their arms as if playing drums. # 3 # 9.9 # right arm # left arm

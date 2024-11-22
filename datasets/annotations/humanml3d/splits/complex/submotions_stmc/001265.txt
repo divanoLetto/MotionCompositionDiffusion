@@ -1,0 +1,2 @@
+A person raises both arms above their head. # 0 # 2.0 # right arm # left arm
+The person is shaking their shoulders. # 2.0 # 3.62 # spine

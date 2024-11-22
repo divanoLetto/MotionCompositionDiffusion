@@ -1,0 +1,2 @@
+A person uses their left hand to play an instrument. # 0 # 4 # left arm
+A person lifts their left hand while playing an instrument. # 4 # 9.93 # left arm

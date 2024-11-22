@@ -1,0 +1,1 @@
+A person throws an overhand right punch. # 0 # 1.45 # right arm

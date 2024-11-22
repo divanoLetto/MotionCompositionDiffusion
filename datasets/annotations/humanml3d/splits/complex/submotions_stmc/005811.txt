@@ -1,0 +1,2 @@
+A person moves their legs to the left while dancing. # 0 # 4 # legs
+A person moves their legs to the right while dancing. # 4 # 8.082999999999998 # legs

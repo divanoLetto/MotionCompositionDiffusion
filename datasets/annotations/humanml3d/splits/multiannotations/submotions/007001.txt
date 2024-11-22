@@ -1,0 +1,3 @@
+i person side steps to his right, sliding his feet across the ground. # 0 # 9.0 # spine
+the person was push and manage to stand up. # 0 # 9.0 # spine
+a person takes a long single step to the right, maintaining composure. # 0 # 9.0 # spine

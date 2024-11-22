@@ -1,0 +1,2 @@
+A person adjusts themselves to a wider stance.  # 0 # 3 # spine
+A person moves their hands as if tapping on something.  # 2 # 10 # spine

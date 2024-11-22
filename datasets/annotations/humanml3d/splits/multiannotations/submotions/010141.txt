@@ -1,0 +1,3 @@
+a man gets on all fours and crawls around and gets back up. # 0 # 9.008 # spine
+the figure kneels down and begins to crawl on their hands and knees before standing back upright. # 0 # 9.008 # spine
+a person gets on all fours and starts crawling around. # 0 # 9.008 # spine

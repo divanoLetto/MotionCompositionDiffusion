@@ -1,0 +1,2 @@
+A man is laying face down. # 0 # 2 # spine # legs # head
+A man moves his right arm forward. # 2 # 6.475 # right arm

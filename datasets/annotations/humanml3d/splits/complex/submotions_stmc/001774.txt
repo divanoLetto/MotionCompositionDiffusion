@@ -1,0 +1,2 @@
+A person brings up both hands to eye level. # 0 # 3.175 # right arm # left arm
+A person is walking forward. # 3.175 # 3.733 # legs

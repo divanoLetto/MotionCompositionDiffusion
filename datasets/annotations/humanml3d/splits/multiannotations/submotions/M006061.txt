@@ -1,0 +1,3 @@
+person takes a quick step forward # 0 # 5.81 # spine
+he takes two short quick steps forward. # 0 # 5.81 # spine
+a person staggers one step forward. # 0 # 5.81 # spine

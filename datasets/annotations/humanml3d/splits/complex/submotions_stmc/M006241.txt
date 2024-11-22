@@ -1,0 +1,2 @@
+A person hops in place repeatedly. # 0 # 2.5 # legs
+A person waves both arms in circles. # 2.5 # 4.9 # right arm # left arm

@@ -1,0 +1,3 @@
+a person who has his arms raised head high raises his arms above his head and lowers them three times. # 0 # 4.55 # spine
+a standing person holding an object in each hand pushes overhead while turning hands inward at bottom of the movement. # 0 # 4.55 # spine
+a person stand center of square and proceeds to push both arms up over the head and back down several times as if lifting a barbell weight # 0 # 4.55 # spine

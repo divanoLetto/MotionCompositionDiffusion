@@ -1,0 +1,3 @@
+a man lifts something with his hands, and then places it back. # 0 # 9.65 # spine
+a man places his left hand onto his right biceps the returns of to his side. # 0 # 9.65 # spine
+a man lifts an object and realized that he hurt his right arm so he grabs it with his left hand. # 0 # 9.65 # spine

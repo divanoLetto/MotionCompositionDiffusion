@@ -1,0 +1,3 @@
+A person stands in a ready position with their legs apart. # 0 # 3 # legs
+A person bends their knees slightly. # 3 # 5 # legs
+A person raises their right arm in preparation. # 5 # 8.208 # right arm

@@ -1,0 +1,2 @@
+A person is flapping his arms like a chicken. # 0 # 5 # right arm # left arm
+A person brings their hands to their armpits. # 5 # 10.0 # right arm # left arm

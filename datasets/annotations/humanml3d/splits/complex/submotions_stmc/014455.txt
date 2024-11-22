@@ -1,0 +1,2 @@
+A person stands and moves arms in a sway motion off balance before raising arms up. # 0 # 5 # left arm # right arm
+A person holds arms out to the side, then brings them together and moves their legs rhythmically. # 5 # 10.0 # left arm # right arm # legs

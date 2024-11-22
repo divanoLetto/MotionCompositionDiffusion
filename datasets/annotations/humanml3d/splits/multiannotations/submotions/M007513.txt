@@ -1,0 +1,3 @@
+a person swings their left arm over their head as if they were spiking a volleyball. # 0 # 1.65 # spine
+a person throws something with their left hand. # 0 # 1.65 # spine
+a person pumps their left fist. # 0 # 1.65 # spine

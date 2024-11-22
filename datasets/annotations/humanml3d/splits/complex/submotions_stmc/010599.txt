@@ -1,0 +1,2 @@
+A person walks sideways to the right. # 0 # 2.5 # legs
+A person raises both arms out to the side. # 2.5 # 3.617 # right arm # left arm

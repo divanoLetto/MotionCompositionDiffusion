@@ -1,0 +1,4 @@
+A person crosses their arms in front of their chest. # 0 # 3 # spine
+A person jumps up. # 3 # 5 # spine
+A person slaps something with their right hand. # 5 # 7 # spine
+A person holds something with both hands. # 7 # 10.0 # spine

@@ -1,0 +1,3 @@
+a person throws with right hand. # 0 # 2.5 # spine
+person moving arm in up motion # 0 # 2.5 # spine
+a person stretches their right shoulder back and fourth. # 0 # 2.5 # spine

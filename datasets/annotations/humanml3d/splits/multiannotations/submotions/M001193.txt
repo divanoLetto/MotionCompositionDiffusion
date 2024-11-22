@@ -1,0 +1,3 @@
+a man jumps once and then wobbles a little while moving legs apart. # 0 # 4.375 # spine
+a person jumps once hitting feet together, then lands and has trouble regaining balance. # 0 # 4.375 # spine
+a person does a jump and taps his heels. # 0 # 4.375 # spine

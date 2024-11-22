@@ -1,0 +1,3 @@
+a person crawling from left to right and vice versa # 0 # 10 # spine
+a person crawls on the ground from east to west then goes back # 0 # 10 # spine
+on hands and knees crawling to the left side then the right side. # 0 # 10 # spine

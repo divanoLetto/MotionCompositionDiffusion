@@ -1,0 +1,2 @@
+A person performs a punch with his left hand. # 0 # 6.68 # spine
+A person is waving with his left hand. # 6 # 10 # spine

@@ -1,0 +1,2 @@
+A person raises their right arm while preparing to dance forward. # 0 # 2.35 # right arm
+A person steps forward with their left leg. # 2.35 # 4.375 # legs

@@ -1,0 +1,4 @@
+A person stands with their legs slightly apart.  # 0 # 1.5 # legs
+A person holds a golf club with their right arm.  # 1.5 # 3 # right arm
+A person swings a golf club with their right arm.  # 3 # 4.5 # right arm
+A person completes a swing and resets.  # 4.5 # 4.683 # legs

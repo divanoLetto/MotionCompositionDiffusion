@@ -1,0 +1,2 @@
+A person raises their arms up and down. # 0 # 5 # right arm # left arm
+A person sways their body side to side. # 5 # 10.0 # spine

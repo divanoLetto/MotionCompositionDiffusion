@@ -1,0 +1,3 @@
+a person throws and object and then catches another object # 0 # 4.908 # spine
+a person throws with left hand and catches with both hands. # 0 # 4.908 # spine
+a person puts their left arm out infront of them and pushes. both arms are then held in a boxing pose, with fingers exposed. # 0 # 4.908 # spine

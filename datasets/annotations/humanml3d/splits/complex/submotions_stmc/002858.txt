@@ -1,0 +1,2 @@
+A person holds their arms out to the side, moving them up and down slightly. # 0 # 2.1 # right arm # left arm
+A person moves their hips in a dancing motion. # 0 # 2.1 # spine # legs

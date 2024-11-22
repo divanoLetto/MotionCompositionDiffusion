@@ -1,0 +1,3 @@
+a person hops to the left two times then hops to the right. # 0 # 10 # spine
+a person who first performed a 90 degree counterclockwise jumping spin the a 180 degree spin and then a 360 spin # 0 # 10 # spine
+the person is jumping in a circle while turning their body. # 0 # 10 # spine

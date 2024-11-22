@@ -1,0 +1,2 @@
+person jogs forwards while turning slightly to the left. # 0 # 1.467 # spine
+a person runs towards the left side. # 0 # 1.467 # spine

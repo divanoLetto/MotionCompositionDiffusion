@@ -1,0 +1,2 @@
+A person raises both hands in a strong gesture. # 0 # 5 # right arm # left arm
+A person lowers their hands and sways their upper body. # 5 # 10.0 # spine

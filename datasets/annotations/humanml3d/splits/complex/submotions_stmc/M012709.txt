@@ -1,0 +1,2 @@
+A person holds a ballerina pose. # 0 # 4.0 # spine
+A person moves their right arm while dancing. # 4.0 # 9.525 # right arm

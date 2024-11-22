@@ -1,0 +1,3 @@
+A person backs up.  # 0 # 3 # spine
+A person catches a ball with both hands.  # 2 # 5 # spine
+A person squats down.  # 4 # 10 # spine

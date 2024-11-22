@@ -1,0 +1,2 @@
+A person holds his hands forward. # 0 # 3 # spine
+A person performs a punching motion. # 2 # 7.367 # spine

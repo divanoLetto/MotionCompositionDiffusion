@@ -1,0 +1,2 @@
+A person raises their hands to face level. # 0 # 3 # right arm # left arm
+A person makes rapid jabbing motions with their right arm. # 3 # 3.65 # right arm

@@ -1,0 +1,2 @@
+A person walks in a clockwise circle.  # 0 # 6 # legs # spine
+A person spins while moving.  # 6 # 10.0 # spine # legs

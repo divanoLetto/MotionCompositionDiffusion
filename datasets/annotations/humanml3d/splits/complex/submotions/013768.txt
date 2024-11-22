@@ -1,0 +1,2 @@
+A person raises their right arm up. # 0 # 6 # spine
+A person holds a bow with their left hand. # 2 # 9.99 # spine

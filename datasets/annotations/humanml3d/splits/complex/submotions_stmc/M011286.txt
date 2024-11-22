@@ -1,0 +1,3 @@
+A person shuffles to the side quickly.  # 0 # 3 # legs
+A person spins to the right.  # 3 # 6 # spine # legs
+A person shuffles to the side quickly.  # 6 # 7.332999999999998 # legs

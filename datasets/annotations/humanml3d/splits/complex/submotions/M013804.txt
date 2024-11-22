@@ -1,0 +1,2 @@
+A person raises their arms and dances. # 0 # 5 # spine
+A person jumps around the floor playfully. # 4 # 10 # spine

@@ -1,0 +1,3 @@
+A person is walking around with excitement. # 0 # 6 # legs
+A person jumps joyfully back and forth. # 6 # 10.0 # legs
+A person has both hands together and is moving them in the air. # 6 # 10.0 # right arm # left arm

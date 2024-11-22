@@ -1,0 +1,2 @@
+A person is moving their feet to the left and right. # 0 # 5 # spine
+A person raises their arms while dancing. # 4 # 8.433 # spine

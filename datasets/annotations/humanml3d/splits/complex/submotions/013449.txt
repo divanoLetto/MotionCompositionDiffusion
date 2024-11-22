@@ -1,0 +1,5 @@
+A person jumps slightly while raising both arms. # 0 # 2 # spine
+A person throws a punch with their left hand. # 2 # 4 # spine
+A person throws a punch with their right hand. # 4 # 6 # spine
+A person jumps slightly while raising both arms. # 6 # 8 # spine
+A person throws a punch with their left hand. # 8 # 10.0 # spine

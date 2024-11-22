@@ -1,0 +1,2 @@
+A person raises their right arm to hit the ball. # 0 # 4 # right arm # spine
+A person brings their right arm back down. # 4 # 10.0 # right arm

@@ -1,0 +1,3 @@
+A person is moving their hips back and forth.  # 0 # 5 # spine
+A person steps slightly to the left.  # 5 # 8 # legs
+A person steps slightly to the right.  # 8 # 10.0 # legs

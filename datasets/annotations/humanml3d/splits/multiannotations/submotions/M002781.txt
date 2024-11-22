@@ -1,0 +1,3 @@
+a man walks around in a complete circle. # 0 # 7.21 # spine
+a person slowly walks in a counterclockwise circle. # 0 # 7.21 # spine
+a person walks in a circular counterclockwise direction one time before returning back to his/her original position. # 0 # 7.21 # spine

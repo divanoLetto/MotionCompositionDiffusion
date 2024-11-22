@@ -1,0 +1,3 @@
+a person is putting both hands to his face. # 0 # 10 # spine
+a person with their hands raised slightly moves it up and down, then sets it all the way down. # 0 # 10 # spine
+take the both the hands and put into the hand. # 0 # 10 # spine

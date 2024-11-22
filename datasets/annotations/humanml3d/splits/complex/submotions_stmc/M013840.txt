@@ -1,0 +1,3 @@
+A person raises their right arm to signal. # 0 # 2 # right arm
+A person walks forward using both legs. # 2 # 6 # legs
+A person turns their head to look at the coach. # 6 # 10.000000000000002 # head

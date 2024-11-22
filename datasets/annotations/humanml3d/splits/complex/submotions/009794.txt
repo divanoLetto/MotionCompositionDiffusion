@@ -1,0 +1,2 @@
+A person throws something with their left hand. # 0 # 2.1 # spine
+A person throws a left hook. # 2 # 3.25 # spine

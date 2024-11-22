@@ -1,0 +1,4 @@
+A person raises their right arm to serve a ball. # 0 # 2 # right arm
+A person leans slightly forward with their spine. # 2 # 5 # spine
+A person holds the ball with their right arm. # 5 # 8 # right arm
+A person pushes off with their legs to serve. # 8 # 10.0 # legs

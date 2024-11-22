@@ -1,0 +1,2 @@
+A person flaps both of their arms like a chicken. # 0 # 5 # right arm # left arm
+A person claps both of their hands together. # 5 # 10.0 # right arm # left arm

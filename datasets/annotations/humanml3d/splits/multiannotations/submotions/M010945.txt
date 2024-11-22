@@ -1,0 +1,3 @@
+a person walks forward and gets pushed, he stumbles to the right and then returns to his original path # 0 # 6.1 # spine
+a person looks to be pushed back and then walks back towards the thing that pushed them. # 0 # 6.1 # spine
+the person was pushed from the front. # 0 # 6.1 # spine

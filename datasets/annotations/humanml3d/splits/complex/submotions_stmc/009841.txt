@@ -1,0 +1,2 @@
+A person prepares to swing a golf club with their right arm. # 0 # 2.5 # right arm
+A person swings a golf club with their right arm. # 2.5 # 4.942 # right arm

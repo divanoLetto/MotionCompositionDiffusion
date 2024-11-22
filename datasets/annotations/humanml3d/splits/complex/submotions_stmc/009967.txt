@@ -1,0 +1,2 @@
+A person performs multiple kicks with their left leg. # 0 # 5 # legs
+A person jumps while balancing on one leg. # 5 # 8.442 # legs # spine

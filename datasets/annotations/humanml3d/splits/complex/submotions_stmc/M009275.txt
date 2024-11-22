@@ -1,0 +1,4 @@
+A person dances to his right. # 0 # 3 # legs
+A person turns his body to the left. # 3 # 5 # spine
+A person raises both arms. # 5 # 7 # right arm # left arm
+A person dances to his left. # 7 # 10.0 # legs

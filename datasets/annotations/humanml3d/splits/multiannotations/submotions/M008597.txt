@@ -1,0 +1,3 @@
+a person is washing a window # 0 # 10 # spine
+a person moves their arm in broad strokes up and down, and then back and forth. # 0 # 10 # spine
+a person is waving their left arm up and down and then side to side. # 0 # 10 # spine

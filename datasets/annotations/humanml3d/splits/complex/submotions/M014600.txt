@@ -1,0 +1,2 @@
+A person raises both hands together to head height. # 0 # 2 # spine
+A person is doing a throwing motion with their right arm. # 2 # 8.008 # spine

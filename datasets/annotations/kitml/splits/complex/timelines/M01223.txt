@@ -1,0 +1,3 @@
+A person walks a quarter circle to the right. # 0 # 4 # spine
+A person performs a jump to the right. # 4 # 8 # spine
+A person turns right. # 6 # 8.71 # spine

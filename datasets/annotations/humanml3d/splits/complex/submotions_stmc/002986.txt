@@ -1,0 +1,3 @@
+A person brings their hands together. # 0 # 2 # right arm # left arm
+A person lifts their right arm. # 2 # 4 # right arm
+A person does a throwing motion with their right arm. # 4 # 6.45 # right arm

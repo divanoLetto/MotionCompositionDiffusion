@@ -1,0 +1,3 @@
+a person does a jumping jack # 0 # 3.6 # spine
+a person does many jumping jacks. # 0 # 3.6 # spine
+a figure does slow jumping jacks # 0 # 3.6 # spine

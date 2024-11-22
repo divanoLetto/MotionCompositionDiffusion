@@ -1,0 +1,3 @@
+the man holds something above his left shoulder and rubs it with his right hand. # 0 # 10 # spine
+the person is strumming the violin . # 0 # 10 # spine
+a person fiddles a violin with their right hand. # 0 # 10 # spine

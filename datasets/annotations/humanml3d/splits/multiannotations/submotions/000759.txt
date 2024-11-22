@@ -1,0 +1,3 @@
+a person walks unbalanced as if they are on a tight rope. # 0 # 4.44 # spine
+a person walks forward several steps then loses their balance, hesitates and leans towards the right; takes several more steps with their body swaying towards the left, # 0 # 4.44 # spine
+a person walks on a balance beam, briefly losing his balance, regaining his balance, and he continues on. # 0 # 4.44 # spine

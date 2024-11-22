@@ -1,0 +1,3 @@
+A person bows down. # 0 # 2 # spine
+A person raises their head. # 2 # 4 # head
+A person stands in a ready stance with legs apart. # 4 # 4.292 # legs

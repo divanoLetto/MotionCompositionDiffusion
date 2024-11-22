@@ -1,0 +1,3 @@
+A person is moving forward with both legs. # 0 # 3 # legs
+A person is moving backward with both legs. # 3 # 6 # legs
+A person raises their right arm to punch forward. # 6 # 10.0 # right arm

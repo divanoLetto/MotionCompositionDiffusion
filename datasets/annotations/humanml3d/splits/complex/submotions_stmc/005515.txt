@@ -1,0 +1,2 @@
+A person raises both arms in front of them. # 0 # 1.5 # left arm # right arm
+A person pushes something in front of them. # 1.5 # 3.05 # right arm # left arm

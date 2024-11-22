@@ -1,0 +1,3 @@
+some performs two jumping jacks from a standing position. # 0 # 2.575 # spine
+the person does 2 jumping jacks in place. # 0 # 2.575 # spine
+moving the hands and legs like a exercises. # 0 # 2.575 # spine

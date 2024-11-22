@@ -1,0 +1,3 @@
+A person walks forward. # 0 # 2 # spine
+A person walks backward. # 2 # 4 # spine
+A person is dancing. # 4 # 10.0 # spine

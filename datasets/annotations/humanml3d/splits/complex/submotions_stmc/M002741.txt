@@ -1,0 +1,2 @@
+A person raises their right arm.  # 0 # 2 # right arm
+A person swings a racket with their right arm.  # 2 # 5.62 # right arm

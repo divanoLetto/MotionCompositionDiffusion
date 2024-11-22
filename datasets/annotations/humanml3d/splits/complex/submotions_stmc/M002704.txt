@@ -1,0 +1,2 @@
+A person is dancing by moving their legs side to side. # 0 # 5 # legs
+A person raises their right arm and waves it in the air. # 5 # 9.999999999999996 # right arm

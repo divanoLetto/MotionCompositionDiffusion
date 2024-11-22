@@ -1,0 +1,3 @@
+a person walks forward at moderate pace. # 0 # 4.85 # spine
+a person walks downwards in a straight line and stops in a slightly brisk manner. # 0 # 4.85 # spine
+the man moves forward at a normal pace # 0 # 4.85 # spine

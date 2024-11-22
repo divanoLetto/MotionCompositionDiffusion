@@ -1,0 +1,2 @@
+A person raises their right arm to hold an object. # 0 # 2 # right arm
+A person swings a golf club with their right arm. # 2 # 4.108 # right arm

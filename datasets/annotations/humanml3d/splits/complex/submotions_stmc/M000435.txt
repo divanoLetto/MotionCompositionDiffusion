@@ -1,0 +1,2 @@
+A person holds an object with both hands. # 0 # 3 # right arm # left arm
+A person evades by moving to the left. # 3 # 6.65 # legs # spine

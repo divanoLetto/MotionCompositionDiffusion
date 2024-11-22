@@ -1,0 +1,3 @@
+a person is carefully drinking from a cup # 0 # 10 # spine
+a person stands while eating with his right and drinking with his left hand # 0 # 10 # spine
+a person is standing and moves their arms up to their face to take a sip of something in their hand. # 0 # 10 # spine

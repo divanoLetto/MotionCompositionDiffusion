@@ -1,0 +1,1 @@
+A person is jogging in place.  # 0 # 6.05 # legs

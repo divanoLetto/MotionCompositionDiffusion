@@ -1,0 +1,3 @@
+a person walks quickly and intentionally in a zig-zag pattern forward. # 0 # 9.96 # spine
+someones walks forward in a side to side pattern. # 0 # 9.96 # spine
+walking from left to right to left then back to right # 0 # 9.96 # spine

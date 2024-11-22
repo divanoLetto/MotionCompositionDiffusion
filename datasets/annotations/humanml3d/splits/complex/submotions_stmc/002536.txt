@@ -1,0 +1,4 @@
+A person throws something with their left arm. # 0 # 2.342 # left arm
+A person punches with right hand. # 2.342 # 4.042 # right arm
+A person raises their left arm in front of their face. # 4.042 # 6.342 # left arm
+A person lifts their right arm and strums with their left. # 6.342 # 10.0 # right arm # left arm

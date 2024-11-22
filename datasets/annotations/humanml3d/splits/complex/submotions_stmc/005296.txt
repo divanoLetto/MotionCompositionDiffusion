@@ -1,0 +1,2 @@
+A person bounces around while swinging arms up and down. # 0 # 4 # right arm # left arm
+A person swings their arms from side to side. # 4 # 10.0 # right arm # left arm

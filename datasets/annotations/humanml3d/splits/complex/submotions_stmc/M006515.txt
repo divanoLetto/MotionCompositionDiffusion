@@ -1,0 +1,2 @@
+A person shakes their hips to the left and right quickly. # 0 # 3 # spine # legs
+A person lifts both arms above their head while shaking their hips. # 3 # 7.633 # right arm # left arm # spine

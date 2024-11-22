@@ -1,0 +1,2 @@
+A person leans forward while holding something with their left hand. # 0 # 3 # left arm # spine
+A person holds an object with their left hand. # 3 # 3.642 # left arm

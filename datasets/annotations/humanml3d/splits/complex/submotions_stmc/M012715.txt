@@ -1,0 +1,2 @@
+A person twists at the waist. # 0 # 1.975 # spine
+A person raises their left arm. # 1.975 # 6.15 # left arm

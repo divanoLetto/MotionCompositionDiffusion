@@ -1,0 +1,2 @@
+A person is throwing something with both hands overhead. # 0 # 1.95 # spine
+A person is preparing to throw something with their right arm. # 0 # 1.95 # spine

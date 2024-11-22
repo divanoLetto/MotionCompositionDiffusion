@@ -1,0 +1,3 @@
+A person stands balancing on one leg. # 0 # 2 # spine
+A person raises their left leg. # 2 # 10.0 # spine
+A person stands balancing on one leg. # 3 # 5 # spine

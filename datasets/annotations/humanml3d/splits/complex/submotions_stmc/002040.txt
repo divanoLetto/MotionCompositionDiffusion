@@ -1,0 +1,3 @@
+A person holds both arms in front of them, bent at the elbows. # 0 # 3 # right arm # left arm
+A person steps forward with their legs. # 3 # 7.1 # legs
+A person throws a punch with their right hand. # 7.1 # 10.0 # right arm

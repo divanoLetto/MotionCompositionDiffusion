@@ -1,0 +1,3 @@
+a man waves and then beckons with his left hand. # 0 # 10 # spine
+person is waving with the left hand. # 0 # 10 # spine
+a person waves with their left hand, then makes a similar motion but towards their mouth # 0 # 10 # spine

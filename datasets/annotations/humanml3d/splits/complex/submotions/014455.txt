@@ -1,0 +1,2 @@
+A person raises both arms above their head while bending their knees. # 0 # 6 # spine
+A person jumps up and down. # 4 # 10.0 # spine

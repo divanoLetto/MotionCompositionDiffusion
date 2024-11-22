@@ -1,0 +1,2 @@
+A person bends on the knees. # 0 # 4 # spine
+A man swings his right arm in a slapping motion. # 1.671 # 8.75 # spine

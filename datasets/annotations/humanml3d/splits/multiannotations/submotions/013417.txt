@@ -1,0 +1,3 @@
+a person starts walking then starts leaping clockwise # 0 # 10 # spine
+a person walks slowly and then begins to jump around and wave their arms in the air. # 0 # 10 # spine
+the person is walking around. # 0 # 10 # spine

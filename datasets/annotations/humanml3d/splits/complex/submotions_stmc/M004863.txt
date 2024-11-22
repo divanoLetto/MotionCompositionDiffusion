@@ -1,0 +1,2 @@
+A person walks forward to approach someone. # 0 # 5 # legs
+A person sways slowly while standing close. # 5 # 10.0 # spine # legs

@@ -1,0 +1,4 @@
+A person throws a punch with their left hand. # 0 # 3 # left arm
+A person throws a left uppercut punch. # 3 # 5 # left arm
+A person crouches down. # 5 # 7 # legs
+A person punches down with their left hand. # 7 # 10.0 # left arm

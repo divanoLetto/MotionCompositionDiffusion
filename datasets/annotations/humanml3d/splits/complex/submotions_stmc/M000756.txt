@@ -1,0 +1,4 @@
+A person raises their left arm while swaying.  # 0 # 3 # left arm
+A person raises their right arm while swaying.  # 3 # 6 # right arm
+A person turns to the right using their spine and legs.  # 6 # 8 # spine # legs
+A person turns to the left using their spine and legs.  # 8 # 9.442 # spine # legs

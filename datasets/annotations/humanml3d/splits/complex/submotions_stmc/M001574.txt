@@ -1,0 +1,2 @@
+A person swings their arms side to side while stepping in place. # 0 # 4 # right arm # left arm # legs
+A person takes steps forward and backward while turning. # 4 # 10.000000000000004 # legs # spine

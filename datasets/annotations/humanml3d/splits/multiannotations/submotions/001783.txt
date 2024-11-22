@@ -1,0 +1,3 @@
+person slides forward diagonally with right leg. # 0 # 3.48 # spine
+a person takes a step to the right. # 0 # 3.48 # spine
+a person makes a step to the right. # 0 # 3.48 # spine

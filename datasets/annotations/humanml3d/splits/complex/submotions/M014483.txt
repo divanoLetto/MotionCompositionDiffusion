@@ -1,0 +1,2 @@
+A person is moving their hips back and forth, right and left. # 0 # 6 # spine
+A person is waving with both arms. # 0 # 10.0 # spine

@@ -1,0 +1,2 @@
+A person is doing jumping jacks. # 0 # 6 # spine
+A person jumps repeatedly, raising their arms up and extending their legs. # 6 # 10.0 # spine

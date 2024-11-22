@@ -1,0 +1,3 @@
+a figure claps around shoulder height # 0 # 4.442 # spine
+person raises hands together neck height and claps # 0 # 4.442 # spine
+both hands meet in the center of the body and starts clapping. # 0 # 4.442 # spine

@@ -1,0 +1,2 @@
+A person sways their arms back and forth while moving their hips. # 0 # 5 # right arm # left arm # spine # legs
+A person moves their hips to the left and right. # 5 # 10.0 # spine # legs

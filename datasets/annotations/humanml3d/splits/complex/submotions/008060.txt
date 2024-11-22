@@ -1,0 +1,3 @@
+A person dances around. # 0 # 5 # spine
+A person punches with their left hand. # 3 # 5 # spine
+A person punches with their right hand. # 5 # 10.0 # spine

@@ -1,0 +1,3 @@
+a person waving one hands in a horizontal circular motion in front of them # 0 # 5.29 # spine
+a person grabbed something with right hand # 0 # 5.29 # spine
+a person makes a circular motion with their right hand. # 0 # 5.29 # spine

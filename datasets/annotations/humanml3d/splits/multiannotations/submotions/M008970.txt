@@ -1,0 +1,3 @@
+a person who is standing with his arms by his sides raises his arms above his head, leans to his right, leans to his left and then drops his arms and resumes his standing position. # 0 # 6.208 # spine
+person lifts hands above head and stretches from side to side # 0 # 6.208 # spine
+the man is stretching his hips # 0 # 6.208 # spine

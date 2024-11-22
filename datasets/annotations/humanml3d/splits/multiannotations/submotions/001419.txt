@@ -1,0 +1,3 @@
+walks side ways but back and forth # 0 # 3.475 # spine
+a person steps to the right and then back to the left horizontally. # 0 # 3.475 # spine
+a man side steps to the right and then to the left. # 0 # 3.475 # spine

@@ -1,0 +1,2 @@
+A man lifts his right arm up while playing. # 0 # 5 # right arm
+A man uses both arms to hold the violin. # 5 # 10.0 # right arm # left arm

@@ -1,0 +1,2 @@
+a person is waving both hands at the same time. # 0 # 4 # right arm # left arm
+a person moves his hands around in the air. # 4 # 10.0 # right arm # left arm

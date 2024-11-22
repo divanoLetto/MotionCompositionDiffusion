@@ -1,0 +1,2 @@
+A man stands completely still. # 0 # 5 # legs # spine
+A man begins to dance around. # 5 # 10.0 # legs # spine

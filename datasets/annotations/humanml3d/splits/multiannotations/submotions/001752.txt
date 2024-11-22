@@ -1,0 +1,3 @@
+a person stands still then they throw a football # 0 # 5.717 # spine
+a person pitching a baseballl # 0 # 5.717 # spine
+a person carries something it their hands and then uses their right hand to throw it # 0 # 5.717 # spine

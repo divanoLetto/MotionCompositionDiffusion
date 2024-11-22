@@ -1,0 +1,2 @@
+A person stands with both hands on hips. # 0 # 3 # spine
+A person raises their right hand. # 2 # 3.5 # spine

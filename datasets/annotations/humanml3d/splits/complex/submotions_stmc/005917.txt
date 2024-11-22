@@ -1,0 +1,3 @@
+A person stands on their left leg. # 0 # 3 # legs
+A person raises their right leg. # 3 # 5 # legs
+A person throws something with their right hand. # 5 # 8.133000000000001 # right arm

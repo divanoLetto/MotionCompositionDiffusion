@@ -1,0 +1,2 @@
+A person swings their arms back and forth while dancing.  # 0 # 5 # right arm # left arm
+A person is wiggling their hips to the rhythm.  # 5 # 10.0 # spine # legs

@@ -1,0 +1,2 @@
+A person bends down and places a tee in the ground with their left hand. # 0 # 4.883 # left arm # spine
+A person swings their right arm as if to putt. # 4.883 # 5.65 # right arm

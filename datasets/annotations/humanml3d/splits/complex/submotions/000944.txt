@@ -1,0 +1,2 @@
+a person runs forward with both arms swinging. # 0 # 4 # spine
+a person jumps in the air with both arms raised above their head. # 3 # 10.0 # spine

@@ -1,0 +1,4 @@
+A person stands up from a sitting position. # 0 # 3 # spine # legs
+A person throws something with their right hand. # 3 # 6 # right arm
+A person throws something with their left hand. # 6 # 8 # left arm
+A person makes a shooting motion with their right arm. # 8 # 10.0 # right arm

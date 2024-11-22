@@ -1,0 +1,2 @@
+A person steps to the right. # 0 # 3 # legs
+A person continues to move to the right. # 3 # 7.625 # legs

@@ -1,0 +1,3 @@
+A person swings their legs in front and behind.  # 0 # 4 # legs
+A person swings their arms lightly at their sides.  # 4 # 8 # right arm # left arm
+A person walks to the left.  # 8 # 9.283 # legs

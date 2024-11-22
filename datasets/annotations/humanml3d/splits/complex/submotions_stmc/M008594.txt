@@ -1,0 +1,1 @@
+A person slightly crouches and then jumps, bringing his arms up as he does. # 0 # 2.0 # right arm # left arm # legs

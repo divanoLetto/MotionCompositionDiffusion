@@ -1,0 +1,3 @@
+A person raises both arms into the air.  # 0 # 3.0 # right arm # left arm
+A person moves arms from side to side.  # 3.0 # 8.0 # right arm # left arm
+A person stands still while swaying left and right.  # 8.0 # 10.0 # spine

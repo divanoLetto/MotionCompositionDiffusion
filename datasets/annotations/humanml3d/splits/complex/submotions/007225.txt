@@ -1,0 +1,2 @@
+A person is marching like a soldier. # 0 # 2.408 # spine
+A person raises their right arm. # 0 # 2.408 # spine

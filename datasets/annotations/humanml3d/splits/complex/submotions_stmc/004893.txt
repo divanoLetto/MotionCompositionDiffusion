@@ -1,0 +1,3 @@
+A person bends down, picks something up with their left hand, and then stands up. # 0 # 4 # left arm
+A person walks forward. # 4 # 7 # legs
+A person performs a chopping motion with both hands. # 7 # 10.0 # right arm # left arm

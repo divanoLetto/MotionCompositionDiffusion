@@ -1,0 +1,2 @@
+A person raises both hands above their head. # 0 # 3 # spine
+A person dances while moving their hips. # 2 # 10.0 # spine

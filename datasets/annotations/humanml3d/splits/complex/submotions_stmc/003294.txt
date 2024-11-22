@@ -1,0 +1,2 @@
+A person stands in a fighting stance with their right arm raised. # 0 # 2.0 # spine # right arm
+A person turns their body to prepare for a block. # 2.0 # 3.0 # spine

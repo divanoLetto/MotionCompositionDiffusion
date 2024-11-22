@@ -1,0 +1,3 @@
+a person walks in a counterclockwise circle while holding something over their left shoulder. # 0 # 10 # spine
+a man walking around in a counterclockwise circle with his left arm hovering over his left shoulder as he walks. # 0 # 10 # spine
+a man walks in a counterclockwise circle while holding something to his right shoulder. # 0 # 10 # spine

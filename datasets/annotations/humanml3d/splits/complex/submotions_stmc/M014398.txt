@@ -1,0 +1,4 @@
+A person steps forward. # 0 # 2 # legs
+A person raises both arms above their head. # 2 # 5 # right arm # left arm
+A person moves their arms in a circle. # 5 # 7 # right arm # left arm
+A person walks forward. # 7 # 10.0 # legs

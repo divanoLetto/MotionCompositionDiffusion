@@ -1,0 +1,4 @@
+A person raises their arms above their head.  # 0 # 5 # right arm # left arm
+A person shakes out their right hand.  # 5 # 10 # right arm
+A person stands up.  # 10 # 14 # spine # legs
+A person sways back and forth.  # 14 # 18.95 # spine

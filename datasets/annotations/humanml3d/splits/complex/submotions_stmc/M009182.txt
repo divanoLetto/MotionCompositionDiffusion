@@ -1,0 +1,4 @@
+A person punches out left. # 0 # 3 # left arm
+A person punches out right. # 3 # 6 # right arm
+A person punches out left. # 6 # 9 # left arm
+A person punches out right. # 9 # 10.0 # right arm

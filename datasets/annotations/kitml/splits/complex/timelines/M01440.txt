@@ -1,0 +1,2 @@
+A person raises the left arm and moves the right arm up and down quickly. # 0 # 4.0 # spine
+A person raises the right arm and moves the left arm up and down. # 3.0 # 5.49 # spine

@@ -1,0 +1,3 @@
+a person walks forward to bow then place hands on shoulders of other person and bows again. # 0 # 10 # spine
+a person slowly walked forward in righr direction and after person raised right and left hand # 0 # 10 # spine
+the man moves forward and puts his arms down # 0 # 10 # spine

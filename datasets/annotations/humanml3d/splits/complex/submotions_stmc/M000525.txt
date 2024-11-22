@@ -1,0 +1,2 @@
+A person shakes their hips quickly from side to side. # 0 # 3 # spine # legs
+A person shakes their arms rapidly at their sides. # 3 # 5.333 # right arm # left arm

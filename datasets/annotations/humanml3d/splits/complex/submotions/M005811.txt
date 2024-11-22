@@ -1,0 +1,2 @@
+A person is moving their arms in a circular motion. # 0 # 6 # spine
+A person is swaying slightly from right to left. # 4 # 10.0 # spine

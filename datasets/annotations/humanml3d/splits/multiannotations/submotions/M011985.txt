@@ -1,0 +1,3 @@
+a person slowly walked forward after in right direction # 0 # 7.26 # spine
+person is holding onto a handrail # 0 # 7.26 # spine
+a person careful walks forward while balancing on a hand rail and then turns and walks right. # 0 # 7.26 # spine

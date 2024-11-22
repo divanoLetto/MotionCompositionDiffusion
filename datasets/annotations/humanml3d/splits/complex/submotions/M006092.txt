@@ -1,0 +1,2 @@
+A person puts their arms out in front of them. # 0 # 4 # spine
+A person raises their arms and dances. # 4 # 10 # spine

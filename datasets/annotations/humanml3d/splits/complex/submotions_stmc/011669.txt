@@ -1,0 +1,2 @@
+A person raises their right arm in a throwing position. # 0 # 2 # right arm
+A person brings their head into their elbow. # 2 # 3.508 # head # left arm

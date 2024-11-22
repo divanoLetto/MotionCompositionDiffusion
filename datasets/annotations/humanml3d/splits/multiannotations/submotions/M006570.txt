@@ -1,0 +1,3 @@
+a person stands still with their arms stretched out. # 0 # 3.0 # spine
+a person stands still with both arms extended at their sides. # 0 # 3.0 # spine
+a person stands still with their arms wide open # 0 # 3.0 # spine

@@ -1,0 +1,3 @@
+the person is holding onto to handrails. # 0 # 10 # spine
+man walking slowly forward with his hands out to his sides as he walks using an object on either side for balance. # 0 # 10 # spine
+a person balances themselves steadily walking over a rope bridge. # 0 # 10 # spine

@@ -1,0 +1,3 @@
+a figure is boxing upercuts with is left blue arm and his right red arm stays at a 90 degree angle. # 0 # 2.3 # spine
+a person is throwing an object with his right hand. # 0 # 2.3 # spine
+a person holds a disc in their right hand and then turns to throw it. # 0 # 2.3 # spine

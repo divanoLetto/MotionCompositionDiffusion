@@ -1,0 +1,3 @@
+A person raises both arms to hold something in front of them. # 0 # 3 # right arm # left arm
+A person dances by moving their hips from side to side. # 3 # 7 # spine # legs
+A person shifts their body from the right side to the left side. # 7 # 8.71 # spine # legs

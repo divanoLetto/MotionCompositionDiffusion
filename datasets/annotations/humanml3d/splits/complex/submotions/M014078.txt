@@ -1,0 +1,2 @@
+a person moves their arms in circles. # 0 # 6 # spine
+a person moves their legs as if jogging. # 4 # 10.0 # spine

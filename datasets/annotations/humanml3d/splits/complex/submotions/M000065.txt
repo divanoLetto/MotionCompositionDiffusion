@@ -1,0 +1,2 @@
+A person raises their arms and dances. # 0 # 5 # spine
+A person moves their hips side to side. # 4 # 10 # spine

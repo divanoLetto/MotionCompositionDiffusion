@@ -1,0 +1,2 @@
+A person scratches under their left arm with their left hand. # 0 # 3 # spine
+A person waves with both of their arms. # 2 # 10 # spine

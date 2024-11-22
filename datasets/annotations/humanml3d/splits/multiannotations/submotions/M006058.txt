@@ -1,0 +1,3 @@
+the sim walks down the plane in a wobbly fashion. # 0 # 5.07 # spine
+a person walks while holding on to handrails. # 0 # 5.07 # spine
+a man carefully and slowly walks across a room. # 0 # 5.07 # spine

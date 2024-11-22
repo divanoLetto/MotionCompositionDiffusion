@@ -1,0 +1,3 @@
+the man take 4 excited steps forward. # 0 # 3.18 # spine
+person quickly runs forward before stopping # 0 # 3.18 # spine
+a person fastly walked forward # 0 # 3.18 # spine

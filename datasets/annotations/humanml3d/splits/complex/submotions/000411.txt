@@ -1,0 +1,2 @@
+A person raises their arms up and down enthusiastically. # 0 # 6 # spine
+A person bounces on their feet. # 0 # 10.0 # spine

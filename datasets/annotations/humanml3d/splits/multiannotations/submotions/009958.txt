@@ -1,0 +1,3 @@
+a person walks backward in a counterclockwise circle # 0 # 10 # spine
+a person slowly walks backwards in a counter clockwise motion while dragging their left foot. # 0 # 10 # spine
+a person moving backwards anti clockwise while drawing a line with its feat # 0 # 10 # spine

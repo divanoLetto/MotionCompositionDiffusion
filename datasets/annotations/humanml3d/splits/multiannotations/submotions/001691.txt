@@ -1,0 +1,3 @@
+person pick some thing up on the left and moved it to the right. # 0 # 6.31 # spine
+picks up something and moves arms over to the left to place it down # 0 # 6.31 # spine
+a man picks up a flat object with both hands and places it on the left side. # 0 # 6.31 # spine

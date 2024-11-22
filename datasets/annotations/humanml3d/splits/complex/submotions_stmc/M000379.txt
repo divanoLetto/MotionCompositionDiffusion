@@ -1,0 +1,2 @@
+A person is shimming their hips and shoulders side to side. # 0 # 6.85 # spine # legs # head
+A person moves their arms in rhythm with their hips. # 6.85 # 9.142 # right arm # left arm

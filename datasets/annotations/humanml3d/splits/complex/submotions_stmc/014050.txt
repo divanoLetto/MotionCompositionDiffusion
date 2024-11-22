@@ -1,0 +1,2 @@
+A person stands still and moves their arms around.  # 0 # 5 # right arm # left arm
+A person throws with their right arm.  # 5 # 10.000000000000002 # right arm

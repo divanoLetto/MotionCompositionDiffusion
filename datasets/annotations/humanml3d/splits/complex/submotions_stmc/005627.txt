@@ -1,0 +1,4 @@
+A person raises both arms. # 0 # 3 # right arm # left arm
+A person shakes out their left hand. # 3 # 6 # left arm
+A person stands up. # 6 # 9 # spine
+A person sways back and forth. # 9 # 18.95 # spine

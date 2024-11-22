@@ -1,0 +1,2 @@
+A person jumps around in a circle.  # 0 # 3 # spine # legs
+A person dances while moving in a circular motion.  # 3 # 9.107999999999999 # spine

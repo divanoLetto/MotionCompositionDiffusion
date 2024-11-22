@@ -1,0 +1,3 @@
+a figure uses a rail or bannister to support itself as it climbs up stairs # 0 # 5.95 # spine
+the person is walking upstairs. # 0 # 5.95 # spine
+the person holds the rail while walking up the stairs # 0 # 5.95 # spine

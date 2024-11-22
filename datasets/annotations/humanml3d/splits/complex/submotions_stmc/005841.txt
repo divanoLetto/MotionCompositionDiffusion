@@ -1,0 +1,2 @@
+A person holds the saxophone with both hands. # 0 # 3 # right arm # left arm
+A person blows into the saxophone. # 3 # 10.0 # head

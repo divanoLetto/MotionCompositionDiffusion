@@ -1,0 +1,2 @@
+A person winds up their right arm. # 0 # 2 # right arm
+A person raises their right arm. # 2 # 4.2 # right arm

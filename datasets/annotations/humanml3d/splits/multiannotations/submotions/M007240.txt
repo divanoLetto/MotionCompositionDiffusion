@@ -1,0 +1,3 @@
+a person walks straight going slightly to the right # 0 # 2.917 # spine
+a person walks in a diagonal line leaning toward the right. # 0 # 2.917 # spine
+a person quickly walks forward # 0 # 2.917 # spine

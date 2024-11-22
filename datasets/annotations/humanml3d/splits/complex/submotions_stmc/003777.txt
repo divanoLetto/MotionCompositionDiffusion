@@ -1,0 +1,3 @@
+A person sways from side to side. # 0 # 4 # spine
+A person raises both arms to the side. # 4 # 7 # right arm # left arm
+A person spins in a circular motion. # 7 # 10.0 # spine # legs

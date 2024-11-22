@@ -1,0 +1,3 @@
+walking forward while waving. # 0 # 10 # spine
+the person makes the sign of the cross three times with their left hand. # 0 # 10 # spine
+the person is doing the sign of the cross. # 0 # 10 # spine

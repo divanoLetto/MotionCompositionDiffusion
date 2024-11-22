@@ -1,0 +1,3 @@
+A person raises their right arm.  # 0 # 3.0 # right arm
+A person turns to the right.  # 3.0 # 7.0 # spine
+A person turns to the left.  # 7.0 # 10.0 # spine

@@ -1,0 +1,2 @@
+a person strolls forward towards the right # 0 # 5.42 # spine
+a person takes four steps forward, and turns to their right while doing so, to end up facing to their right. # 0 # 5.42 # spine

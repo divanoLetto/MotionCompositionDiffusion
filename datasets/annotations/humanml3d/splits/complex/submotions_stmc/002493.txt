@@ -1,0 +1,1 @@
+A robot uses both legs to perform rhythmic movements. # 0 # 2.608 # legs

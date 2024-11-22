@@ -1,0 +1,2 @@
+A person raises their arms to shoulder height. # 0 # 2 # spine
+A person holds up a gun to shoot. # 2 # 5.03 # spine

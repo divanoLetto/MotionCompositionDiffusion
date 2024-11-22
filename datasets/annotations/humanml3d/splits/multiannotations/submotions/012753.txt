@@ -1,0 +1,3 @@
+the person is walking and turning left. # 0 # 6.82 # spine
+walking forward then backwards. # 0 # 6.82 # spine
+a person walks forwards and turns around on their left foot. # 0 # 6.82 # spine

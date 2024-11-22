@@ -1,0 +1,2 @@
+A person is making a couple of steps while dancing. # 0 # 4 # spine
+A person performs a sidestep to the left. # 3 # 10 # spine

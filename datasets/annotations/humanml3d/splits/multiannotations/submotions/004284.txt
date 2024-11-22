@@ -1,0 +1,3 @@
+a person walks with side steps to the right and then walks forward, then turn around and walks back # 0 # 10 # spine
+the person is walking then runnijg. # 0 # 10 # spine
+a person sidesteps around the room, then runs forward # 0 # 10 # spine

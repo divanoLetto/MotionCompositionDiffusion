@@ -1,0 +1,3 @@
+a person walks, stepping onto a big object. # 0 # 10 # spine
+aman steps up on a platform then steps back down again. # 0 # 10 # spine
+a figure slowly lumbers forward before turning around and stepping up, then stepping down. # 0 # 10 # spine

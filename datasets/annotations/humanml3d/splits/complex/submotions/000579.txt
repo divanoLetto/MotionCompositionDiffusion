@@ -1,0 +1,2 @@
+a person is standing still. # 0 # 2.0 # spine
+a person is moving their hands. # 0.5 # 2.0 # spine

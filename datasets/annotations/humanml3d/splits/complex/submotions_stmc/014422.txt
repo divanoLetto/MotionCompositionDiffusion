@@ -1,0 +1,2 @@
+A person raises their left hand to mimic holding a viola. # 0 # 2.5 # left arm
+A person moves their left hand up and down as if playing. # 2.5 # 6.49 # left arm

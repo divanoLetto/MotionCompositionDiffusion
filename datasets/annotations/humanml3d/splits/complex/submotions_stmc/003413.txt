@@ -1,0 +1,2 @@
+A person steps forward to kick a ball. # 0 # 2.0 # legs
+A person kicks something with their right foot. # 2.0 # 3.092 # legs

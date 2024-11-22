@@ -1,0 +1,2 @@
+A person moves their arms outwards to their side and begins hopping while moving their arms in circles like they are jumping rope. # 0 # 5.0 # right arm # left arm
+A person is jumping rope. # 5.0 # 10.0 # legs

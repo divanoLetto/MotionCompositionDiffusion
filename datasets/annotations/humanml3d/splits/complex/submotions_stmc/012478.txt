@@ -1,0 +1,2 @@
+A person is moving their hips in a circular motion. # 0 # 5 # spine # legs
+A person is moving their upper body to the right and left. # 5 # 10.0 # spine # head

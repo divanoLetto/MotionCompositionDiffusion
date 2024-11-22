@@ -1,0 +1,3 @@
+a man reaches over and picks up some wet soap, and washes his hands with it. # 0 # 10 # spine
+person makes a motion as if picking up soap, then straightens and rubs hands together as if washing hands # 0 # 10 # spine
+a person is washing their hands. # 0 # 10 # spine

@@ -1,0 +1,3 @@
+A person raises their left hand high.  # 0 # 3 # left arm
+A person waves with their left hand.  # 3 # 6 # left arm
+A person gestures to the side with their right hand.  # 6 # 9.592000000000002 # right arm

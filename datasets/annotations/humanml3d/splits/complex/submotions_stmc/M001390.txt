@@ -1,0 +1,4 @@
+A person pretends to throw something with their right arm. # 0 # 3 # right arm
+A person shoots something with their right arm. # 3 # 5 # right arm
+A person shoots something with their right arm. # 5 # 7 # right arm
+A person dribbles a ball with both hands. # 7 # 10.0 # right arm # left arm

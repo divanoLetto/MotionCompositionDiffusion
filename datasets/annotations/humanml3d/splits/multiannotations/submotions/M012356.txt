@@ -1,0 +1,3 @@
+a person is dancing and starts to take a drink with their right hand. # 0 # 3.45 # spine
+a man runs on a flat surface # 0 # 3.45 # spine
+the man is drinking with his right hand # 0 # 3.45 # spine

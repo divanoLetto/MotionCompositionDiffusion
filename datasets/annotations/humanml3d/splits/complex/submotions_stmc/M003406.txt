@@ -1,0 +1,2 @@
+A person lifts something with his right hand. # 0 # 3 # right arm
+A person plays something with both hands. # 3 # 8.43 # right arm # left arm

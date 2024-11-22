@@ -1,0 +1,4 @@
+A person walks in a clockwise circle. # 0 # 8 # spine
+A person raises their arms for balance. # 0 # 3 # spine
+A person swings their arms gently. # 3 # 6 # spine
+A person continues walking in a circle. # 6 # 9.999999999999998 # spine

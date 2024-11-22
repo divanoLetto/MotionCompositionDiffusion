@@ -1,0 +1,3 @@
+A person raises both arms to their face. # 0 # 2.808 # spine
+A person swings their arms forward and backward. # 2 # 6 # spine
+A person jumps with both arms raised above their head. # 5 # 10 # spine

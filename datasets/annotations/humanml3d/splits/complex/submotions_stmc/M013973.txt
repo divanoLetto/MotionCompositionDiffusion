@@ -1,0 +1,1 @@
+a person throws a punch with their right hand. # 0 # 1.55 # right arm

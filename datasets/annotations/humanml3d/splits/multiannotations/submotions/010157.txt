@@ -1,0 +1,3 @@
+the person was taking a left drive and then to the right. # 0 # 2.542 # spine
+a person runs to their right and then curves to the left and continues to run then stops. # 0 # 2.542 # spine
+a person running to the right # 0 # 2.542 # spine

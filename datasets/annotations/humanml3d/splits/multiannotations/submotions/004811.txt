@@ -1,0 +1,3 @@
+person walks forward then turns to their right and carry on walking then stop # 0 # 5.617 # spine
+a person walks around two edges of a room. # 0 # 5.617 # spine
+walked straight to end then turned left and waked to end # 0 # 5.617 # spine

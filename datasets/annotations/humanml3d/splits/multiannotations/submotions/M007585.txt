@@ -1,0 +1,3 @@
+a person who is standing with his hands by his sides takes two steps forward, angles to his right as he continues walking and then stops. # 0 # 5.52 # spine
+a person is walking and bends right # 0 # 5.52 # spine
+a person walks in a clockwise half circle. # 0 # 5.52 # spine

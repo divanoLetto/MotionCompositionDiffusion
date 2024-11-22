@@ -1,0 +1,3 @@
+a man runs away, forword he goes with his hand over his head. # 0 # 10 # spine
+a person leans right with both feet planted, gathers items, gathers items from their left, then centers before bringing their right hand to their face. # 0 # 10 # spine
+this person waves his hands and arms right to left then to the center. # 0 # 10 # spine

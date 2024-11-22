@@ -1,0 +1,2 @@
+A person jumps sideways to the left. # 0 # 5.28 # legs
+A person dances while moving their arms. # 5.28 # 10.000000000000002 # right arm # left arm # spine

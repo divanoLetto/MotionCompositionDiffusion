@@ -1,0 +1,3 @@
+a person walking around bouncing a ball. # 0 # 10 # spine
+a person is dribbling a basketball while trying to keep the ball away from another player. # 0 # 10 # spine
+the person is walking around doing something # 0 # 10 # spine

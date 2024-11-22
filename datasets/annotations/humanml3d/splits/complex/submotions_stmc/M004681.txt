@@ -1,0 +1,2 @@
+A person is walking around.  # 0 # 5 # legs
+A person moves their arms in a circular motion.  # 5 # 7.95 # right arm # left arm

@@ -1,0 +1,3 @@
+a person casually struts in a counterclockwise oval almost back to their original position, swinging their arms lightly at their side as they walk. # 0 # 7.26 # spine
+this person walks in a clockwise direction. # 0 # 7.26 # spine
+a man is walking around in a circle. # 0 # 7.26 # spine

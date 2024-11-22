@@ -1,0 +1,3 @@
+a person walks away diagonally to his right, picks something up, walks back, and then he again walks diagonally to his right and picks something up. # 0 # 10 # spine
+a person walks around and stops. # 0 # 10 # spine
+the person is pacing in a diagonal motion. # 0 # 10 # spine

@@ -1,0 +1,2 @@
+A person swings their right arm.  # 0 # 2.5 # right arm
+A person follows through the swing with their right arm ending the motion.  # 2.5 # 5.87 # right arm

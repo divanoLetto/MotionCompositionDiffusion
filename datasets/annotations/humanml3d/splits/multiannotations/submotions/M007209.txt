@@ -1,0 +1,3 @@
+this person waves widely with his right arm. # 0 # 10 # spine
+the man waves steps back and swats at something then steps forward again. # 0 # 10 # spine
+a man pushes an object with his right hand and then steps back. # 0 # 10 # spine

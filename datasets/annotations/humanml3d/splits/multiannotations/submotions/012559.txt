@@ -1,0 +1,2 @@
+a person walking side to side. # 0 # 10 # spine
+a man turns to his right and walks, then turns around counterclockwise and walks, turns once more clockwise and walks back, turning one final time as he stops in a standing position. # 0 # 10 # spine

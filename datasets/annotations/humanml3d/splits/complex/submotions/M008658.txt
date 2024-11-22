@@ -1,0 +1,2 @@
+A person is swaying from side to side. # 0 # 6 # spine
+A person is moving their hips in a circle. # 4 # 10.0 # spine

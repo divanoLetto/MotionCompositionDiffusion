@@ -1,0 +1,2 @@
+the person is standing straight and raises their right arm. # 0 # 0.65 # right arm
+the person throws two punches with the right arm. # 0.65 # 1.3 # right arm

@@ -1,0 +1,3 @@
+the person takes a big step left with its red leg. # 0 # 5.708 # spine
+a person slowly moved forward in right direction # 0 # 5.708 # spine
+a person takes a step to his right. # 0 # 5.708 # spine

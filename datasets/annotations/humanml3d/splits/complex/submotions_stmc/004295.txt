@@ -1,0 +1,2 @@
+A person reaches out with their left hand to hold someone.  # 0 # 4 # left arm
+A person moves their body while dancing.  # 4 # 9.999999999999998 # spine # legs

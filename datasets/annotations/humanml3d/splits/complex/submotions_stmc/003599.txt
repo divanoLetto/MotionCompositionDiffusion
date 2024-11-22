@@ -1,0 +1,2 @@
+A person raises their arms above their head. # 0 # 2 # right arm # left arm
+A person swings both arms down to the side. # 2 # 3.225 # right arm # left arm

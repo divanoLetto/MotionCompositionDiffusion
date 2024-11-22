@@ -1,0 +1,2 @@
+A man raises his arms to head height with elbows bent. # 0 # 2 # spine
+A person dances in a clockwise circle. # 2 # 9.04 # spine

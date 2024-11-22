@@ -1,0 +1,4 @@
+A person bounces on their right leg while their left leg is raised.  # 0 # 3 # legs
+A person waves their right arm in a rhythmic motion.  # 3 # 5 # right arm
+A person bounces on their left leg while their right leg is raised.  # 5 # 8 # legs
+A person waves their left arm in a rhythmic motion.  # 8 # 10.0 # left arm

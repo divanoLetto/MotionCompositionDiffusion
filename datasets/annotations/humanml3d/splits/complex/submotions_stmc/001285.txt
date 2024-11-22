@@ -1,0 +1,2 @@
+A person lifts their arms to the side while bending their neck forward. # 0 # 5.0 # left arm # right arm # head
+A person flaps their arms like a chicken. # 5.0 # 10.0 # left arm # right arm

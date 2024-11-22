@@ -1,0 +1,2 @@
+A person is taking a golf swing. # 0 # 3 # spine
+A person raises their right arm and waves. # 3 # 5.53 # spine

@@ -1,0 +1,5 @@
+A person raises both arms. # 0 # 4 # spine
+A person steps forward. # 2 # 6 # spine
+A person bows. # 4 # 6 # spine
+A person raises their right arm. # 6 # 8.642 # spine
+A person performs ballet steps. # 7 # 8.642 # spine

@@ -1,0 +1,2 @@
+A person is standing and making a strumming gesture. # 0 # 5.85 # right arm
+A person raises their right arm. # 5.85 # 7.5 # right arm

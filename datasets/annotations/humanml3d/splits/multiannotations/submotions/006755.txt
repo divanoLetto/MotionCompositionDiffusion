@@ -1,0 +1,3 @@
+a person moves to the left side and then to the right side, then stops # 0 # 6.608 # spine
+a person sidesteps back and forth. # 0 # 6.608 # spine
+a man sidesteps from the right to the left multiple times. # 0 # 6.608 # spine

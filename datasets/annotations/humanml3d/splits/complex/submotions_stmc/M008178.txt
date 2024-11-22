@@ -1,0 +1,2 @@
+A person swings their left arm.  # 0 # 2.0 # left arm
+A person throws something with their left arm.  # 2.0 # 7.050000000000001 # left arm

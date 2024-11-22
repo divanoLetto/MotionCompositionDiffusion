@@ -1,0 +1,2 @@
+A person raises their arms and moves their body.  # 0 # 3 # right arm # left arm # spine
+A person moves their legs to the rhythm.  # 3 # 6.899999999999999 # legs

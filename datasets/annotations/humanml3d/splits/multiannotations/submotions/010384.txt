@@ -1,0 +1,3 @@
+a person walks forward and picks things up and puts them down with their hands. # 0 # 10 # spine
+walking forward and bending down. # 0 # 10 # spine
+he does double pour and mixing # 0 # 10 # spine

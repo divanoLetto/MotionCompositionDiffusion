@@ -1,0 +1,4 @@
+A person stands with his hands at his sides. # 0 # 2 # spine
+A person raises both arms above his head. # 2 # 4 # spine
+A person gestures with both arms. # 4 # 6 # spine
+A person walks forward. # 6 # 10.0 # spine

@@ -1,0 +1,2 @@
+A person throws an uppercut with his right hand. # 0 # 1.5 # spine
+A person swings a right hook upwards above their head. # 1.5 # 1.9 # spine

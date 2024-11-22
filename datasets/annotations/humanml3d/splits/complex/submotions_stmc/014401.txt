@@ -1,0 +1,1 @@
+a person walks forward like a robot. # 0 # 10.0 # legs

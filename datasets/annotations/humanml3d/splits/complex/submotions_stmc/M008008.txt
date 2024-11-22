@@ -1,0 +1,4 @@
+A person walks forward. # 0 # 2.5 # legs
+A person moves the right arm forward. # 2.5 # 5.0 # right arm
+A person walks forward. # 5.0 # 7.5 # legs
+A person moves the left arm forward. # 7.5 # 10.0 # left arm

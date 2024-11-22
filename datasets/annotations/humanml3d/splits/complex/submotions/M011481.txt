@@ -1,0 +1,3 @@
+A person stands still. # 0 # 1 # spine
+A person raises both hands above their head. # 1 # 7 # spine
+A person moves their hands as if strumming. # 5 # 7.13 # spine

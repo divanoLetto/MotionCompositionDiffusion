@@ -1,0 +1,3 @@
+person stands with arms outstretched then walks diagonally two steps to their left and sits down on a chair # 0 # 10 # spine
+someone walking then sitting down in a chair. # 0 # 10 # spine
+a man starts off in an up left position with botg arms extended out by his sides, he then brings his arms down to his body and claps his hands together. after this he wals down amd to the right where he proceeds to sit on a seat # 0 # 10 # spine

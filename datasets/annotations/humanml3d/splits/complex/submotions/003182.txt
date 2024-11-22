@@ -1,0 +1,4 @@
+A person waves both their hands. # 0 # 5 # spine
+A person stands with their arms out straight. # 3 # 7 # spine
+A person turns to their left. # 5 # 8 # spine
+A person turns to their right. # 8 # 10.0 # spine

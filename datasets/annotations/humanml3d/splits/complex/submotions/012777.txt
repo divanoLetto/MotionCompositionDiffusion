@@ -1,0 +1,2 @@
+A person raises their left arm up and swings it forward. # 0 # 2 # spine
+A person swings their right arm back and forth. # 2 # 5.358 # spine

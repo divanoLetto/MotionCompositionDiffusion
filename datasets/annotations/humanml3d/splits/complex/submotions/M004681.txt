@@ -1,0 +1,3 @@
+A person is moving their left leg. # 0 # 3 # spine
+A person is moving their right leg. # 2 # 5 # spine
+A person sways from side to side. # 4 # 7.95 # spine

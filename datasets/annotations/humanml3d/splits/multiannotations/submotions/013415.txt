@@ -1,0 +1,3 @@
+the person is reaching for something with his right arm. # 0 # 10 # spine
+a person reaches forwards with their right hand then does a rowing motion with both hands. # 0 # 10 # spine
+raising hands and swinging them. # 0 # 10 # spine

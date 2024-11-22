@@ -1,0 +1,3 @@
+A person kicks with their right leg. # 0 # 2.5 # legs
+A person kicks with their left leg. # 2.5 # 5.0 # legs
+A person is doing multiple kicking motions with his legs. # 5.0 # 10.0 # legs

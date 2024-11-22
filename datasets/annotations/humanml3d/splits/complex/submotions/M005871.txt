@@ -1,0 +1,2 @@
+A person is hitting something with their left hand over and over again. # 0 # 2 # spine
+A person is waving their arms around in front of them. # 2 # 2.71 # spine

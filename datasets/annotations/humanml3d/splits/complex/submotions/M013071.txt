@@ -1,0 +1,2 @@
+A person stands in a martial arts ready position and raises their right hand. # 0 # 2.692 # spine
+A person blocks with the right arm. # 2 # 2.692 # spine

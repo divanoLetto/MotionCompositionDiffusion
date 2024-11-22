@@ -1,0 +1,4 @@
+A person kicks with their left leg. # 0 # 2 # spine
+A person kicks with their right leg. # 2 # 4 # spine
+A person kicks with their left leg again. # 4 # 6 # spine
+A person kicks with their right leg again. # 6 # 10.0 # spine

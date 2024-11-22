@@ -1,0 +1,3 @@
+A person walks forward slowly. # 0 # 3 # legs
+A person walks backwards. # 3 # 7 # legs
+A person rotates at the waist. # 7 # 10.0 # spine

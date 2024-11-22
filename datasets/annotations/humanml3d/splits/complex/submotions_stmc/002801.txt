@@ -1,0 +1,2 @@
+A person performs various kicks while moving from one side to the other. # 0 # 6 # legs
+A person jumps up and down with his spine extended and legs bent. # 6 # 10.0 # spine # legs

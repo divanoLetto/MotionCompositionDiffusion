@@ -1,0 +1,3 @@
+A person holds something in their right hand. # 0 # 3 # spine
+A person hits with their left hand. # 2 # 5 # spine
+A person hits with their right hand. # 5 # 8.35 # spine

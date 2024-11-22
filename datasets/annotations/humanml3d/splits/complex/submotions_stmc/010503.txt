@@ -1,0 +1,2 @@
+A person jumps up from a standing position. # 0 # 3.508 # legs
+A person continues skating forward. # 3.508 # 8.76 # legs

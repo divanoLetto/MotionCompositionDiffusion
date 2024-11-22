@@ -1,0 +1,2 @@
+A person sways back and forth. # 0 # 4 # spine
+A person raises their right arm as if playing an instrument. # 4 # 6.7 # right arm

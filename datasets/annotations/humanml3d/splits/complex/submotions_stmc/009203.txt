@@ -1,0 +1,4 @@
+A person takes a step to the left. # 0 # 2 # legs
+A person takes a step backward. # 2 # 4 # legs
+A person takes a step to the right. # 4 # 6 # legs
+A person takes a step forward. # 6 # 10.0 # legs

@@ -1,0 +1,2 @@
+A person is moving their legs to the left and right. # 0 # 5 # legs
+A person is shifting their weight from one leg to another. # 5 # 9.0 # legs

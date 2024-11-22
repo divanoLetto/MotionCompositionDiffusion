@@ -1,0 +1,2 @@
+A person raises their right arm. # 0 # 2.0 # right arm
+A person jabs with their right arm. # 2 # 5.05 # right arm

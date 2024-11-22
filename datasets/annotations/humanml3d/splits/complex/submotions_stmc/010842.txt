@@ -1,0 +1,2 @@
+A person steps forward to the left with their legs. # 0 # 4 # legs
+A person turns slightly to the right with their spine. # 4 # 8.28 # spine

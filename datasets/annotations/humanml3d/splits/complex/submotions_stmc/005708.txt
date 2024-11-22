@@ -1,0 +1,1 @@
+A person holds something with their right hand. # 0 # 5.84 # right arm

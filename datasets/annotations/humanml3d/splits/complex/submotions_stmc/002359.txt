@@ -1,0 +1,3 @@
+A person turns to their right.  # 0 # 3 # spine # head
+A person leans to the right. # 3 # 5 # spine
+A person kicks with their left leg. # 5 # 5.8 # legs

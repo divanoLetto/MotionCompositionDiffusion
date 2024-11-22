@@ -1,0 +1,2 @@
+A person flaps their arms like a chicken. # 0 # 6 # spine
+A person mimics a chicken by putting their hands under their armpits. # 4 # 10.0 # spine

@@ -1,0 +1,2 @@
+A person throws a punch with their left hand. # 0 # 5 # left arm
+A person throws another punch with their left hand. # 5 # 10.0 # left arm

@@ -1,0 +1,1 @@
+A person is doing robotic like movements. # 0 # 10.0 # right arm # left arm # spine # legs

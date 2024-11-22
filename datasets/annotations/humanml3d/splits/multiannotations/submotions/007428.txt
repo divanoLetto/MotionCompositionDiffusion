@@ -1,0 +1,3 @@
+user is pointing with left hand in multiple directions # 0 # 10 # spine
+moving arm towards face repeatedly. # 0 # 10 # spine
+a person is standing with a gap between their feet, extending their left hand four times at chin level, inward then back out, lowing their left hand to do the same motion at lower chest level twice, swaying their body slightly. # 0 # 10 # spine

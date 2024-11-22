@@ -1,0 +1,3 @@
+A person raises their arms to the side while turning slightly. # 0 # 4 # right arm # left arm
+A person takes small steps to the left. # 4 # 8 # legs
+A person balances on one leg while extending the opposite arm. # 8 # 10.0 # right arm # legs

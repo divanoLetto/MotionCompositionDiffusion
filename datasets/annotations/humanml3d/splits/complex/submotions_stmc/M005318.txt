@@ -1,0 +1,2 @@
+A person makes a dribbling motion with their left hand. # 0 # 1.783 # left arm
+A person walks forward using their legs. # 0 # 1.783 # legs

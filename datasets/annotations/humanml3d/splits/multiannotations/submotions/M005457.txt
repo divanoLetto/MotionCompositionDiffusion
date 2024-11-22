@@ -1,0 +1,3 @@
+person stands still with both arms raised at shoulder height # 0 # 3.0 # spine
+the person is standing with their arms out . # 0 # 3.0 # spine
+figure appears to be standing still # 0 # 3.0 # spine

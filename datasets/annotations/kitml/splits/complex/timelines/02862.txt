@@ -1,0 +1,2 @@
+A person swings a bat. # 0 # 3 # spine
+A person takes a step forward. # 2 # 3.225 # spine

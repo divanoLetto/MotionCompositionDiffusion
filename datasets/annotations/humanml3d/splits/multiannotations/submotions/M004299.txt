@@ -1,0 +1,3 @@
+a man is picking an object up from the right side and then places it to his left side. # 0 # 4.88 # spine
+a man begins with his arms by his side. he then picks up something with both hands on the left side of his body and then moves it to the right side of his body. # 0 # 4.88 # spine
+a person moving things around # 0 # 4.88 # spine

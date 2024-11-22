@@ -1,0 +1,2 @@
+A person is making hand gestures. # 0 # 5 # right arm # left arm
+A person raises both arms up and moves them around. # 5 # 10.0 # right arm # left arm

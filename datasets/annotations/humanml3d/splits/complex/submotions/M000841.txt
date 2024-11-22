@@ -1,0 +1,2 @@
+A person walks forward slightly then kicks with their right leg. # 0 # 5 # spine
+A person continues to kick with their right leg. # 4 # 10 # spine

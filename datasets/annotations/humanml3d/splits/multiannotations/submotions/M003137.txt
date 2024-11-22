@@ -1,0 +1,3 @@
+a man waved his one arm in the air and then he put it down and waved his other arm in the air. # 0 # 2.85 # spine
+a person is warming up # 0 # 2.85 # spine
+a person flails his arms with his right arm raised above his head and his left arm down, then moves his right arm down and left arm up and flails his arms again # 0 # 2.85 # spine

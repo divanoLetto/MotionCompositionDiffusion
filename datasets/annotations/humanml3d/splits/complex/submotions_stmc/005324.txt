@@ -1,0 +1,3 @@
+A person walks backwards. # 0 # 3 # legs
+A person sways from side to side. # 3 # 6 # spine
+A person lifts their feet. # 6 # 10.0 # legs

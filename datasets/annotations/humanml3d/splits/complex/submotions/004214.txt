@@ -1,0 +1,2 @@
+A person blocks using their right arm. # 0 # 5 # spine
+A person practices blocking a punch with their right arm several times. # 3 # 10.0 # spine

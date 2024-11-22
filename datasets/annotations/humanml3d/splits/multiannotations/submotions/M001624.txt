@@ -1,0 +1,3 @@
+he walks while holding onto a handrail. # 0 # 4.73 # spine
+a man walks and steadies himself with a handrail. # 0 # 4.73 # spine
+person walks while putting left hand on the wall. # 0 # 4.73 # spine

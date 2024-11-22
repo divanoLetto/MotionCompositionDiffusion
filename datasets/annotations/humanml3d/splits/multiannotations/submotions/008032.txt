@@ -1,0 +1,3 @@
+moving arms up and down. # 0 # 10 # spine
+he rows on a big boat # 0 # 10 # spine
+a person is standing still before. pushing and object with both hands three times, making a cranking motion with their right hand, before pushing the object once more. # 0 # 10 # spine

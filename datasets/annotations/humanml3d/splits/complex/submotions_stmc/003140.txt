@@ -1,0 +1,1 @@
+A person is flapping their arms as if trying to act like a bird or other flying animal. # 0 # 10.0 # right arm # left arm

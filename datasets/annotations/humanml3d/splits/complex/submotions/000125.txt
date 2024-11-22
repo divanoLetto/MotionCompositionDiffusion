@@ -1,0 +1,4 @@
+A person walks forward quickly. # 0 # 5 # spine
+A person raises their right hand above their head. # 4.8 # 9 # spine
+A person twirls with their arms up. # 4.5 # 10.0 # spine
+A person swings their arms as if doing ballet. # 5 # 10.0 # spine

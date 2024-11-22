@@ -1,0 +1,3 @@
+a person is holding something in his or her hand, turns it upward, he looks down at it and puts his hand down # 0 # 7.2 # spine
+someone slightly moves their right hand in front of them, turning it over before putting it by their side. # 0 # 7.2 # spine
+a person slowly moves their right arm near their stomach # 0 # 7.2 # spine

@@ -1,0 +1,4 @@
+A person stands in a t pose. # 0 # 2 # right arm # left arm
+A person begins to turn to the left. # 2 # 5 # spine # legs
+A person raises their arms to the sides while turning. # 5 # 8 # right arm # left arm
+A person finishes with a turn to the right. # 8 # 10.0 # spine # legs

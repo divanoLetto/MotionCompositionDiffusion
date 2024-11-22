@@ -1,0 +1,3 @@
+person runs quickly straight forward # 0 # 0.82 # spine
+a person runs forward in a line. # 0 # 0.82 # spine
+a person runs forward and slightly to the right for 3 or 4 steps. # 0 # 0.82 # spine

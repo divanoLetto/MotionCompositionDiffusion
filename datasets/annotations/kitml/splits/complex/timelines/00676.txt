@@ -1,0 +1,2 @@
+A person is waving with both of their arms. # 0 # 5.742 # spine
+A person sways left to right. # 4 # 6.7 # spine

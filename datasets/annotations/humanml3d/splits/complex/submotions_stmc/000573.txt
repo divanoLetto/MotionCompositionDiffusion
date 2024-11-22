@@ -1,0 +1,2 @@
+A person dances while moving their legs.  # 0 # 4 # legs
+A person sways their spine gracefully.  # 4 # 7.79 # spine

@@ -1,0 +1,3 @@
+a person walks in an s shape pattern. # 0 # 10 # spine
+a person is walking in an s shape # 0 # 10 # spine
+the man is walking in a zig zag pattern back and forth across the area. # 0 # 10 # spine

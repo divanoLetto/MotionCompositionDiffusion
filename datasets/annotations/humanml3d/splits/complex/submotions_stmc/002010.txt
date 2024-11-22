@@ -1,0 +1,2 @@
+a person has both arms spread out and starts walking in a circle. # 0 # 5 # right arm # left arm
+a person walks in a counterclockwise circle. # 5 # 10.0 # legs

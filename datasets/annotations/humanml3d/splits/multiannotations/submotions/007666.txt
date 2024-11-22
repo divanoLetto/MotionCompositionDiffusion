@@ -1,0 +1,3 @@
+the person lifts his right hand up and puts it back down. # 0 # 3.475 # spine
+a person holds out their right hand. # 0 # 3.475 # spine
+from a stationary position a person raises their right hand shoulder height and back to their side. # 0 # 3.475 # spine

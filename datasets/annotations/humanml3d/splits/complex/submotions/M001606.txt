@@ -1,0 +1,2 @@
+A person is waving with both of their arms. # 0 # 5 # spine
+A person raises their arms and dances. # 4 # 10 # spine

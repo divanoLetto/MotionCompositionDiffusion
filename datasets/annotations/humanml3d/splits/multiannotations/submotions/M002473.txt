@@ -1,0 +1,3 @@
+a person is holding something in front of them and swings to the left. # 0 # 4.2 # spine
+the person has their hands together in front of them and then swings them to their right. # 0 # 4.2 # spine
+holding hands together, a person moves them to the left slightly while holding them in front # 0 # 4.2 # spine

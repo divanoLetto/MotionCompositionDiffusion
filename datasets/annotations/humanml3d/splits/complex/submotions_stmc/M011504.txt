@@ -1,0 +1,3 @@
+A person clamped both hands together behind their back. # 0 # 3.0 # right arm # left arm
+A person sweeps their legs to the right. # 3.0 # 6.0 # legs
+A person sweeps their legs to the left. # 6.0 # 10.0 # legs

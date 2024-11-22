@@ -1,0 +1,2 @@
+A person bends over and places a tee in the ground with their left hand. # 0 # 4.883 # spine
+A person stands back up. # 4 # 5.125 # spine

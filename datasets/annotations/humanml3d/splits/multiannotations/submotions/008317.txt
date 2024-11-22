@@ -1,0 +1,3 @@
+a person walks straight and turns to the right # 0 # 5.24 # spine
+a person walks and turns right # 0 # 5.24 # spine
+a person walks in a clockwise quarter circle. # 0 # 5.24 # spine

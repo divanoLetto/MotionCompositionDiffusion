@@ -1,0 +1,4 @@
+A person walks side to side. # 0 # 3.0 # legs
+A person holds their arms out in front of them. # 0 # 3.0 # right arm # left arm
+A person continues to walk side to side. # 3.0 # 9.942 # legs
+A person moves their arms side to side. # 3.0 # 9.0 # right arm # left arm

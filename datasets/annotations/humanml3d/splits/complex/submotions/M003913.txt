@@ -1,0 +1,2 @@
+A person walks backward. # 0 # 3 # spine
+A person throws something with their right hand. # 2 # 10 # spine

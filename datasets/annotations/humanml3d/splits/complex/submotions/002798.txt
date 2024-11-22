@@ -1,0 +1,2 @@
+A person is jumping up and cheering. # 0 # 4 # spine
+A person raises both of their hands in the air and shakes their hips from side to side. # 3 # 8.550000000000004 # spine

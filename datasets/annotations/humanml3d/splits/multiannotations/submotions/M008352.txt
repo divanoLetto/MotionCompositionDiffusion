@@ -1,0 +1,3 @@
+a person running in a line # 0 # 1.43 # spine
+running forward in a diagonal line # 0 # 1.43 # spine
+a man runs straight forward with his right hand positioned at mid level. # 0 # 1.43 # spine

@@ -1,0 +1,2 @@
+A person raises both hands to the face. # 0 # 3 # right arm # left arm
+A person kicks with the right leg. # 3 # 10.0 # legs

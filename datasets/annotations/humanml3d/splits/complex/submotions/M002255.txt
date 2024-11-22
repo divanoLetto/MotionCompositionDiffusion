@@ -1,0 +1,2 @@
+A person stands on one leg and kicks with the other. # 0 # 5 # spine
+A person balances on one foot while kicking with the other leg. # 4 # 10 # spine

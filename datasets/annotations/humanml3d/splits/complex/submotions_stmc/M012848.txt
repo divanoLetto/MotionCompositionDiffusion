@@ -1,0 +1,2 @@
+A person jumps in place while dancing. # 0 # 3 # spine # legs
+A person continues to jump in place. # 3 # 5.45 # spine # legs

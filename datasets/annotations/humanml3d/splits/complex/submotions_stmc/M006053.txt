@@ -1,0 +1,4 @@
+A person hops on their left leg. # 0 # 0.75 # legs
+A person hops on their right leg. # 0.75 # 1.5 # legs
+A person makes a clockwise circle with their left arm. # 1.5 # 1.925 # left arm
+A person jumps to shoot a basketball. # 1.5 # 1.925 # legs

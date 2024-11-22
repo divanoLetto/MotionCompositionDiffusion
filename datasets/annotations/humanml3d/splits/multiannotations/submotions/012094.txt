@@ -1,0 +1,3 @@
+a person placing something in their hand and then throwing it while twisting their body. # 0 # 5.308 # spine
+the person is throwing a ball with his right hand. # 0 # 5.308 # spine
+a person throws an object with his right hand, then holds both hands up over his head # 0 # 5.308 # spine

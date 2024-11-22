@@ -1,0 +1,2 @@
+A person walks forward with a natural gait. # 0 # 5.1 # legs
+A person swings their arms while walking. # 5.1 # 6.7 # right arm # left arm

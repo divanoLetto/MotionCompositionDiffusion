@@ -1,0 +1,4 @@
+A person throws an uppercut punch with their left arm. # 0 # 2 # spine
+A person raises their arms for defense. # 1 # 5 # spine
+A person dodges to the side. # 3 # 6 # spine
+A person throws a few punches with their right hand. # 5 # 10 # spine

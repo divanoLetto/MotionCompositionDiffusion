@@ -1,0 +1,2 @@
+A person stands with slightly outstretched arms balancing on their left leg while doing ballet moves with their right leg. # 0 # 4.375 # spine
+A person brings the right leg forward. # 2 # 4.375 # spine

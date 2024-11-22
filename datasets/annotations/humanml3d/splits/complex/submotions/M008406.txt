@@ -1,0 +1,2 @@
+A person holds their arms up at shoulder height. # 0 # 2 # spine
+A person dances in a clockwise circle. # 2 # 10.0 # spine

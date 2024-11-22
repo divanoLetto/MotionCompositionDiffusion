@@ -1,0 +1,2 @@
+A person raises their arms up and down multiple times. # 0 # 2.73 # spine
+A person claps their hands together. # 0 # 2.73 # spine

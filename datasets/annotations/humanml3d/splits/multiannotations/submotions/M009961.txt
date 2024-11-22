@@ -1,0 +1,3 @@
+a person is practicing karate moves across the floor # 0 # 10 # spine
+person steps forward and block with the left arm. they turn clockwise 270 degrees and step forward to punch with the left arm. then they turn counterclockwise 280 degrees and punch with the right arm. then they turn clockwise 90 degrees and punch three times while walking forward # 0 # 10 # spine
+a person is performing a martial arts routine that includes punches and moving around in various directions. # 0 # 10 # spine

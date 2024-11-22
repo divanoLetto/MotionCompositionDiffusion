@@ -1,0 +1,3 @@
+the man is running and scrambling # 0 # 2.767 # spine
+this person moves quickly right then left to sit down. # 0 # 2.767 # spine
+this person swings both arms as though he is doing a workout, and moves quickly with his whole body. # 0 # 2.767 # spine

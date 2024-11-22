@@ -1,0 +1,2 @@
+A person kicks with the right leg. # 0 # 2.0 # legs
+A person stands straight. # 2.0 # 2.725 # spine

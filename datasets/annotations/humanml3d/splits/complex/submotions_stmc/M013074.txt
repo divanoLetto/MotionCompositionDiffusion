@@ -1,0 +1,3 @@
+A person shakes their shoulders. # 0 # 3.0 # spine
+A person raises both arms up. # 3.0 # 6.0 # right arm # left arm
+A person swings both arms back and forth. # 6.0 # 9.999999999999998 # right arm # left arm

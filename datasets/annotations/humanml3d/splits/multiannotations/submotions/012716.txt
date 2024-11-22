@@ -1,0 +1,3 @@
+a person continuously jogs counter clockwise. # 0 # 10 # spine
+the sim is jogging in circles. # 0 # 10 # spine
+the person is jogging to the left in a circle. # 0 # 10 # spine

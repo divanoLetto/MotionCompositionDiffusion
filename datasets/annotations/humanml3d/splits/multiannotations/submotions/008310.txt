@@ -1,0 +1,3 @@
+person is walking backwards with their toes bent . # 0 # 10 # spine
+a person walks slowly backwards while on their toes. # 0 # 10 # spine
+a person is walking backward while looking at the ground. # 0 # 10 # spine

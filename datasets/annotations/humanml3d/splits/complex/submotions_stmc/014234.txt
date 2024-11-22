@@ -1,0 +1,2 @@
+A person makes repeated punches with their right hand. # 0 # 2 # right arm
+A person makes repeated punches with their left hand. # 2 # 4.65 # left arm

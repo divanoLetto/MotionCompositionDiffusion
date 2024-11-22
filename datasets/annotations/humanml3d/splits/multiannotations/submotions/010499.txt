@@ -1,0 +1,3 @@
+this person steps forward then sits on a stool to brush off his shoe. # 0 # 10 # spine
+a person puts his hands together and sits down. # 0 # 10 # spine
+aperson slowly walked forward, adn sit down on somewhere # 0 # 10 # spine

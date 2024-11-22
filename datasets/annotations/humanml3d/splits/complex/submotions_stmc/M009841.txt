@@ -1,0 +1,2 @@
+A person raises their right arm to prepare for a swing. # 0 # 3 # right arm
+A person swings their right arm to hit the ball. # 3 # 4.942 # right arm

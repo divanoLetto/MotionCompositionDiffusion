@@ -1,0 +1,3 @@
+a person jumps forward with both feet. # 0 # 4.4 # spine
+jumping forward one time slowly. # 0 # 4.4 # spine
+a person take a big leap forward # 0 # 4.4 # spine

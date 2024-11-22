@@ -1,0 +1,3 @@
+staying still then backing up. # 0 # 10 # spine
+a figure falls backwards slightly in a straight line # 0 # 10 # spine
+a person slowly stepped backwards # 0 # 10 # spine

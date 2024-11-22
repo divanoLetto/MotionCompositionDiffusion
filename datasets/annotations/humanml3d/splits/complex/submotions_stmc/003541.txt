@@ -1,0 +1,3 @@
+A person stands very still then extends both arms out to form a cross. # 0 # 5 # right arm # left arm
+A person rotates both wrists. # 5 # 7 # right arm # left arm
+A person moves their legs up one at a time. # 7 # 10.0 # legs

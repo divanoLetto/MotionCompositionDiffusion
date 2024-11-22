@@ -1,0 +1,3 @@
+A person stretches their left arm out to the side.  # 0 # 3 # left arm
+A person stretches their right arm out to the side.  # 3 # 6 # right arm
+A person moves their body to the left.  # 6 # 10.0 # spine

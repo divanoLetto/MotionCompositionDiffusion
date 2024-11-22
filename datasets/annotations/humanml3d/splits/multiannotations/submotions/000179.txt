@@ -1,0 +1,3 @@
+a person holds their right arm bent at the elbow and bends their left arm up and down # 0 # 2.35 # spine
+someone strains to raise and lower a dumbell in their left hand. # 0 # 2.35 # spine
+a person stands with their right arm out, bent at the elbow. their left arm is forward, curling up at the elbow. # 0 # 2.35 # spine

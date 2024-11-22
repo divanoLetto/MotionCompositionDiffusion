@@ -1,0 +1,3 @@
+a person jumps up and then lands # 0 # 2.625 # spine
+a person jumps over an object in front of them # 0 # 2.625 # spine
+the sim takes a jump forward. # 0 # 2.625 # spine

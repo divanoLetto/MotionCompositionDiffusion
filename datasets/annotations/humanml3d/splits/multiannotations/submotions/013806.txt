@@ -1,0 +1,3 @@
+the figure takes a few steps forward before pick something up turning around and walking back to where they were and crouching down to pick something up. # 0 # 10 # spine
+the person is rearranging and clearing the walkway # 0 # 10 # spine
+a person slowly walked forward and returned # 0 # 10 # spine

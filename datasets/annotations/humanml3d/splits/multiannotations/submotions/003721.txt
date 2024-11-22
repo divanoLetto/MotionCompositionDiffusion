@@ -1,0 +1,3 @@
+the person is walking forward in an odd way. # 0 # 1.783 # spine
+figure walks forward 3 steps with arms straight in front of him # 0 # 1.783 # spine
+a person walks like a zombie. # 0 # 1.783 # spine

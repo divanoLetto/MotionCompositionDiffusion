@@ -1,0 +1,3 @@
+A person raises the left arm. # 0 # 2.0 # left arm
+A person strums with the left arm. # 2 # 5 # left arm
+A person leans the head slightly forward. # 5 # 7.13 # head

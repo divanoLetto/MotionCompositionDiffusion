@@ -1,0 +1,3 @@
+a person who is jumping around with one leg but alternating the legs every jump # 0 # 10 # spine
+a person leaps forwards, then leaps to the right, and then to the left. # 0 # 10 # spine
+a person jumps forward, turns around 90 degrees to their left and jumps again, they turn again 90 degrees to their right and jump back to their starting position. # 0 # 10 # spine

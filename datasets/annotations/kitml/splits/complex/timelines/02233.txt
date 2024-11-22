@@ -1,0 +1,2 @@
+A person performs a punching motion. # 0 # 5 # spine
+A person is performing a punch with his right hand. # 4 # 6.46 # spine

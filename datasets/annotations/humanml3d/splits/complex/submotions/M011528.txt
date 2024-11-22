@@ -1,0 +1,2 @@
+A person is doing jumping jacks. # 0 # 6 # spine
+A person is waving with their left hand. # 5 # 10.0 # spine

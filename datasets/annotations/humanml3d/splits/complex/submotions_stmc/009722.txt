@@ -1,0 +1,2 @@
+A person raises their arms to the chest.  # 0 # 2 # right arm # left arm
+A person shuffles slightly with their legs.  # 2 # 3.0 # legs

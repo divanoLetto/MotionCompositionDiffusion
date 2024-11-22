@@ -1,0 +1,3 @@
+A person raises both hands above their head and swats at something. # 0 # 3.0 # right arm # left arm
+A person swings both arms forward. # 3.0 # 8.0 # right arm # left arm
+A person lowers their arms down. # 8.0 # 10.0 # right arm # left arm

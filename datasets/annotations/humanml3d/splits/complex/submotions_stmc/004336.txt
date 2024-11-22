@@ -1,0 +1,2 @@
+A person prepares to throw something. # 0 # 3 # right arm # left arm
+A person throws something with their right arm. # 3 # 10.000000000000002 # right arm

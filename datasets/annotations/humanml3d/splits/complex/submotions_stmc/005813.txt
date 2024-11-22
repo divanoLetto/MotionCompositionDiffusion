@@ -1,0 +1,3 @@
+A person is spinning while moving to the left. # 0 # 2.5 # spine # legs
+A person raises both arms out to the side. # 0 # 2.5 # right arm # left arm
+A person shakes their hips and waves hands rapidly by either side of the jaw. # 2.5 # 5.35 # spine # legs

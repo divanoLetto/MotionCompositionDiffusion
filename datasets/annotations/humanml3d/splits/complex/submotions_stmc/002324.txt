@@ -1,0 +1,2 @@
+A person raises both arms above their head to signal. # 0 # 5 # right arm # left arm
+A person extends their right arm to indicate a foul. # 5 # 10.0 # right arm

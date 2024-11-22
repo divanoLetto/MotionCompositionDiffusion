@@ -1,0 +1,2 @@
+A person is moving arms around in a floating motion. # 0 # 6 # spine
+A person does large reverse arm circles with their left arm. # 6 # 10.0 # spine

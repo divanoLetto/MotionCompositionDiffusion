@@ -1,0 +1,2 @@
+A person is moving their arms around. # 0 # 5 # spine
+A person walks forward and to the left. # 4 # 9.999999999999998 # spine

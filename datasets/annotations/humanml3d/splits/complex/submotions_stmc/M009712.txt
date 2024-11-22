@@ -1,0 +1,2 @@
+A person performs a ballerina balance pose, first on their left leg. # 0 # 5.0 # spine # legs
+A person performs a ballerina balance pose, then swaps to their right leg. # 5.0 # 7.167 # spine # legs

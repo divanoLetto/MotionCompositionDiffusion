@@ -1,0 +1,2 @@
+A person is flapping their wings. # 0 # 6 # spine
+A person is acting like a chicken. # 4 # 10.0 # spine

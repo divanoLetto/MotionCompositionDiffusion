@@ -1,0 +1,4 @@
+A person takes a small step to the side. # 0 # 2.0 # legs
+A person takes a step back. # 2.0 # 4.0 # legs
+A person pivots while turning. # 4.0 # 7.0 # spine # legs
+A person takes a step forward. # 7.0 # 10.0 # legs

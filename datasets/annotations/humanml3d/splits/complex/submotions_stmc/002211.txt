@@ -1,0 +1,4 @@
+A person raises both hands to shoulder height. # 0 # 2.0 # right arm # left arm
+A person lowers both hands. # 2.0 # 4.0 # right arm # left arm
+A person raises both hands to shoulder height like holding an instrument. # 4.0 # 6.0 # right arm # left arm
+A person puts both hands down. # 6.0 # 8.683 # right arm # left arm

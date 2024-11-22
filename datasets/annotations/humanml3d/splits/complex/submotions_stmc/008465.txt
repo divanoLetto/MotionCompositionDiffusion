@@ -1,0 +1,2 @@
+A person raises their right arm to put something down. # 0 # 2.5 # right arm
+A person lowers their right arm to place an object on the ground. # 2.5 # 4.658 # right arm

@@ -1,0 +1,4 @@
+a person raises their arms to the left. # 0 # 3 # right arm # left arm
+a person swings their arms to the left again. # 3 # 6 # right arm # left arm
+a person turns to the back. # 6 # 8 # spine
+a person swings their arms to the right. # 8 # 10.000000000000002 # right arm # left arm

@@ -1,0 +1,2 @@
+a person bends over to begin charging forward, turns around with arms raised, and charges back to original position. # 0 # 10 # spine
+the person is walking around. # 0 # 10 # spine

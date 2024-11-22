@@ -1,0 +1,3 @@
+A person is holding both hands up.  # 0 # 3 # right arm # left arm
+A person makes a signaling motion with both hands.  # 3 # 8 # right arm # left arm
+A person turns slightly while keeping their arms up.  # 8 # 10.0 # spine # head

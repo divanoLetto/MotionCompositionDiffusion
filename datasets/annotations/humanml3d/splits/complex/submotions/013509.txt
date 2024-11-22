@@ -1,0 +1,2 @@
+A person bends on the knees. # 0 # 4 # spine
+a man swings his right arm. # 2 # 7.0 # spine

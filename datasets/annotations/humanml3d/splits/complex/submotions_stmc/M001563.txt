@@ -1,0 +1,2 @@
+A person raises both their arms to their face. # 0 # 1.5 # right arm # left arm
+A person takes a step forward while raising their right arm. # 1.5 # 3.5 # right arm # legs

@@ -1,0 +1,2 @@
+A person lowers their arms at their sides while bending forward. # 0 # 3 # left arm # right arm # spine
+A person swings their arms like a gorilla. # 3 # 10.0 # left arm # right arm

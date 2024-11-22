@@ -1,0 +1,2 @@
+A person raises their left arm up and down. # 0 # 1.45 # spine
+A person moves their left arm in a circular motion. # 1 # 1.45 # spine

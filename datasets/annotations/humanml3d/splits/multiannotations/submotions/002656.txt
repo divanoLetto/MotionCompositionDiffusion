@@ -1,0 +1,3 @@
+a person pers someing with right hand then scratches something with left have and then steps backwards # 0 # 10 # spine
+the person walks forward a step, grabs a cucumber to slice, slices it, and then steps back. # 0 # 10 # spine
+a person is trying to open up a jar # 0 # 10 # spine

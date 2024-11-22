@@ -1,0 +1,3 @@
+a person stands with his two feet apart and light hops in that position 14 times. # 0 # 6.36 # spine
+man tippy-toeing (hopping but not leaving the ground) with both feet # 0 # 6.36 # spine
+a person quickly and repeatedly jumps slightly up and down. # 0 # 6.36 # spine

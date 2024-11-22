@@ -1,0 +1,2 @@
+A person waves with their left hand. # 0 # 3 # left arm
+A person shakes both hands. # 3 # 5.55 # right arm # left arm

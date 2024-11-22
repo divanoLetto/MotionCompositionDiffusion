@@ -1,0 +1,4 @@
+A person throws something with their left arm. # 0 # 2 # left arm
+A person switches the ball to the right hand. # 2 # 4 # right arm
+A person grabs the ball with both hands. # 4 # 4.5 # right arm # left arm
+A person shoots the ball with their right hand. # 4.5 # 4.542 # right arm

@@ -1,0 +1,3 @@
+A person scratches their left armpit with their left arm. # 0 # 3 # left arm
+A person raises both arms. # 3 # 7 # right arm # left arm
+A person waves their arms in a 's' figure. # 7 # 10.0 # right arm # left arm

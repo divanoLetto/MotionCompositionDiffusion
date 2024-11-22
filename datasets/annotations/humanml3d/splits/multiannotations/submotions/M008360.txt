@@ -1,0 +1,3 @@
+a person is walking forward. # 0 # 3.783 # spine
+a man walks forward in a steady pace. # 0 # 3.783 # spine
+a person continuously walks forward. # 0 # 3.783 # spine

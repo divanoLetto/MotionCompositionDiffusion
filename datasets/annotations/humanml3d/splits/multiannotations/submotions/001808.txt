@@ -1,0 +1,3 @@
+the person is standing there. # 0 # 5.28 # spine
+this person stands still then lifts his right foot. # 0 # 5.28 # spine
+a man leans forward slightly, stands on one foot, and kicks his other foot out behind him quickly # 0 # 5.28 # spine

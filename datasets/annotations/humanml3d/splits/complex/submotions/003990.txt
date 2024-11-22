@@ -1,0 +1,3 @@
+A person is standing straight up with their arms out to the side. # 0 # 2 # spine
+A person is moving their arms in a circular motion. # 2 # 6.475 # spine
+A person is waving their arms like a bird. # 4 # 6 # spine

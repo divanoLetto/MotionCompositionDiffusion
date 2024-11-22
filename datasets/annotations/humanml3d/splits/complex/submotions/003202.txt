@@ -1,0 +1,2 @@
+A person is squatting.  # 0 # 2.8 # spine
+A person moves their hips around in a circle.  # 2 # 2.8 # spine

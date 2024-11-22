@@ -1,0 +1,3 @@
+A person stands still and raises both hands above their head. # 0 # 4 # spine
+A person bends their knees slightly. # 2 # 6 # spine
+A person prepares to throw something with their right hand. # 4 # 10.0 # spine

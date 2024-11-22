@@ -1,0 +1,2 @@
+A person shakes their upper body. # 0 # 2.0 # spine
+A person is moving their arms up and down. # 1 # 2.0 # spine

@@ -1,0 +1,3 @@
+A person raises their right arm to throw. # 0 # 2 # right arm
+A person shifts their body weight onto their legs. # 2 # 4 # legs
+A person throws something with their right arm. # 4 # 6.675 # right arm

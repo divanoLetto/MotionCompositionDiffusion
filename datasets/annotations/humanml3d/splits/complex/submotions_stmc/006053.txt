@@ -1,0 +1,3 @@
+A person hops from one foot to another. # 0 # 1 # legs
+A person makes a counterclockwise circle with their right arm. # 0.5 # 1.925 # right arm
+A person jumps. # 1 # 1.925 # legs

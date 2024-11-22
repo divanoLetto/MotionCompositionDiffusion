@@ -1,0 +1,3 @@
+a man walks in a s-shape. # 0 # 10 # spine
+a person takes two large steps, turns right, and then walks back and fourth in a wide "s" shape. # 0 # 10 # spine
+a person walks in the shape of an s # 0 # 10 # spine

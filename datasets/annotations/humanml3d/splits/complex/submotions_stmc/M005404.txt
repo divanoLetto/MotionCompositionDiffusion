@@ -1,0 +1,2 @@
+A person claps their hands together while standing.  # 0 # 5 # right arm # left arm
+A person moves their feet forward and backward.  # 5 # 10.0 # legs

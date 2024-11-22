@@ -1,0 +1,2 @@
+A person raises their left arm and strums with their right. # 0 # 3 # left arm # right arm
+A person continues to strum with their right arm. # 3 # 5.96 # right arm

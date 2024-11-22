@@ -1,0 +1,2 @@
+A person raises their right hand. # 0 # 3 # spine
+A person moves their right hand back and forth. # 2 # 9.93 # spine

@@ -1,0 +1,2 @@
+A person shakes their hips and waves their hands.  # 0 # 4 # legs # right arm # left arm
+A person continues to wave their arms while moving their body.  # 4 # 8.589999999999998 # right arm # left arm

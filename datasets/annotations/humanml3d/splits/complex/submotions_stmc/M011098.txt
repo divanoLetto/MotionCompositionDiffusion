@@ -1,0 +1,2 @@
+A person walks in a cool manner and does a spin. # 0 # 5 # legs # right arm # left arm
+A person raises their arms above their head. # 5 # 7.367 # right arm # left arm

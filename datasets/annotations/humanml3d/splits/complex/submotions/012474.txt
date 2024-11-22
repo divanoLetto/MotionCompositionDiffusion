@@ -1,0 +1,2 @@
+A person steps forward with their left foot. # 0 # 2.0 # spine
+A person swings their right arm over their head. # 1 # 2.0 # spine

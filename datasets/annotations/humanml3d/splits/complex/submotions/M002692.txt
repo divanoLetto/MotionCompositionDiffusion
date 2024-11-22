@@ -1,0 +1,4 @@
+A person stands in a defensive position, bringing their right leg forward in a kick. # 0 # 4 # spine
+A person raises their arms to protect their face. # 2 # 6 # spine
+A person does a defensive shuffle to the left. # 4 # 8 # spine
+A person kicks with their left leg in an upward motion. # 6 # 10.0 # spine

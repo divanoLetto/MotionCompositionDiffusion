@@ -1,0 +1,2 @@
+A person gathers force to kick a ball. # 0 # 3 # legs
+A person kicks a football. # 3 # 10.0 # legs

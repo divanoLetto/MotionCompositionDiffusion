@@ -1,0 +1,2 @@
+A person raises their left hand to head height. # 0 # 1.3 # spine
+A person moves their left hand upwards. # 0.5 # 1.3 # spine

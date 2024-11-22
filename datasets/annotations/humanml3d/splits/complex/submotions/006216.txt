@@ -1,0 +1,3 @@
+A person waltzes, taking large steps in a circle rhythmically. # 0 # 3 # spine
+A person raises their right arm. # 2 # 4 # spine
+A person waltzes, taking large steps in a circle rhythmically. # 4 # 6.43 # spine

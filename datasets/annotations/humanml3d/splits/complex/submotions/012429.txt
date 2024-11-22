@@ -1,0 +1,4 @@
+A person bounces on their feet. # 0 # 2 # spine
+A person holds something with both hands. # 2 # 6 # spine
+A person steps forward. # 4 # 8 # spine
+A person throws something with their right hand. # 6 # 10.0 # spine

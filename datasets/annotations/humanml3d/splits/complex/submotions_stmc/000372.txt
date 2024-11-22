@@ -1,0 +1,2 @@
+A person raises both arms. # 0 # 5 # right arm # left arm
+A person bows from the waist. # 5 # 10.000000000000004 # spine

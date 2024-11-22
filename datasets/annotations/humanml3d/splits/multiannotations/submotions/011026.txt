@@ -1,0 +1,3 @@
+a person walks diagonally across a room from left to right. # 0 # 4.69 # spine
+the person is walking towards the left. # 0 # 4.69 # spine
+a person walks in a curved movement to the left # 0 # 4.69 # spine

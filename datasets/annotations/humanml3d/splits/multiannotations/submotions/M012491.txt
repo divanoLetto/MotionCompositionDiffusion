@@ -1,0 +1,3 @@
+the person move his arm to the left hand side up then right and left. # 0 # 3.95 # spine
+a person slowly thrusts left arm forward and then right arm forward as if throwing a slow punch or exercise motion. # 0 # 3.95 # spine
+the sim appears to be boxing with both their right & left arms. # 0 # 3.95 # spine

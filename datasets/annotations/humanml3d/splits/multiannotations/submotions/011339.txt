@@ -1,0 +1,3 @@
+a person who is standing with his hands at his sides quickly runs forward and stops. # 0 # 4.22 # spine
+a figure jogs forward then halts # 0 # 4.22 # spine
+a person moves quickly in a forward direction. # 0 # 4.22 # spine

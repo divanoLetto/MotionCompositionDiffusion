@@ -1,0 +1,2 @@
+A person goes forward very slowly. # 0 # 3 # legs
+A person raises both hands and moves them up and down. # 3 # 12.25 # left arm # right arm

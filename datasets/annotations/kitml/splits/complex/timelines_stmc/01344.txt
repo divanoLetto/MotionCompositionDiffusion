@@ -1,0 +1,2 @@
+A person raises their right arm.  # 0 # 2.5 # right arm
+A person swings their right arm back and forth.  # 2.5 # 5.84 # right arm

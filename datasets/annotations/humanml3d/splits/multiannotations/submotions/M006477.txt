@@ -1,0 +1,3 @@
+walking forward then bending down # 0 # 10 # spine
+this person walks forward then bends to the right and suddenly steps back. # 0 # 10 # spine
+a person sets something down and walks backward. # 0 # 10 # spine

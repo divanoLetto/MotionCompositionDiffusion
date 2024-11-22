@@ -1,0 +1,3 @@
+A person steps to the left. # 0 # 3 # legs
+A person twists his torso to the left. # 3 # 6 # spine
+A person bends their knees while twisting. # 6 # 8.950000000000003 # spine # legs

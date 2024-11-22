@@ -1,0 +1,2 @@
+A person steps to the side and does hops while swinging hands in little circles. # 0 # 5 # legs # right arm # left arm
+A person raises their left hand to look at their watch, then lowers it. # 5 # 10.0 # left arm

@@ -1,0 +1,2 @@
+A person holds their left arm out to the side.  # 0 # 5 # left arm
+A person moves their right arm in a bowing motion.  # 5 # 9.2 # right arm

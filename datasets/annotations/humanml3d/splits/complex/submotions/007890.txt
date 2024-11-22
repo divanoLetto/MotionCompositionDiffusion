@@ -1,0 +1,2 @@
+A person walks forward slowly. # 0 # 6.55 # spine
+A person moves forward with both arms extended to side of body waist height then lifts right leg up and balance on left leg whilst keeping arms in air for balance. # 5.0 # 9.25 # spine

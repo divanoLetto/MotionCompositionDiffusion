@@ -1,0 +1,2 @@
+A person raises their right arm to play an instrument. # 0 # 2.5 # right arm
+A person moves their left arm as if strumming. # 2.5 # 5.62 # left arm

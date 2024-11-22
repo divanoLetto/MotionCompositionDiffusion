@@ -1,0 +1,2 @@
+A person is stepping side to side. # 0 # 6 # spine
+A person is swaying their arms. # 4 # 10.0 # spine

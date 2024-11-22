@@ -1,0 +1,3 @@
+a person punches the air with their arms. # 0 # 1.55 # spine
+a person boxing has block left to right # 0 # 1.55 # spine
+a person holds both arms in front of them, bent at the elbow and jabs the air if front of them in a motion that appears to be like boxing. # 0 # 1.55 # spine

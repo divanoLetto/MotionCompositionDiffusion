@@ -1,0 +1,2 @@
+A person holds their arms out in front of them. # 0 # 2 # right arm # left arm
+A person swivels from side to side. # 2 # 10.000000000000002 # spine # legs

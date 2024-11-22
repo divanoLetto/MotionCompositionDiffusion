@@ -1,0 +1,3 @@
+a person is standing straight with their arms bowed forward, twisting their hips left and stretching their left arm in the process. # 0 # 10 # spine
+a person makes several tossing motions with their right hand. # 0 # 10 # spine
+a person reaches with their right arm to the right and then turns their upper body to the left. # 0 # 10 # spine

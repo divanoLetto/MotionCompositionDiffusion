@@ -1,0 +1,2 @@
+A person catches something with both hands. # 0 # 2.0 # right arm # left arm
+A person throws something with their left hand. # 2.0 # 5.442 # left arm

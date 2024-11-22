@@ -1,0 +1,2 @@
+A person is dancing from right to left. # 0 # 6 # spine
+A person raises their arms while moving. # 4 # 10.0 # spine

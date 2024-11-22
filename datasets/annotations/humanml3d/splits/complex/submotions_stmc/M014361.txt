@@ -1,0 +1,4 @@
+A person holds something with both hands. # 0 # 3 # right arm # left arm
+A person bends slightly at the waist. # 3 # 5 # spine
+A person raises their right arm. # 5 # 8 # right arm
+A person steps forward with their left leg. # 8 # 10.0 # legs

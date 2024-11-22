@@ -1,0 +1,3 @@
+A person pivots their left knee towards the right knee. # 0 # 2.0 # legs
+A person pivots their right knee towards the left knee. # 2.0 # 3.875 # legs
+A person swings their hands counterclockwise. # 0 # 3.875 # right arm # left arm

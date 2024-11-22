@@ -1,0 +1,2 @@
+A person walks in a counter-clockwise circle. # 0 # 7.47 # legs
+A person throws a punch with their left hand. # 7.47 # 10.0 # left arm

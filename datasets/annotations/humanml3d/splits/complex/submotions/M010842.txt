@@ -1,0 +1,2 @@
+A person has their arms outstretched as though they are around another person, and they waltz around in a clockwise circle. # 0 # 6 # spine
+A man is doing the waltz in a circle. # 6 # 10.0 # spine

@@ -1,0 +1,2 @@
+A person raises their arms and moves from side to side.  # 0 # 5 # right arm # left arm # spine
+A person shifts their weight from one leg to another.  # 5 # 10.0 # legs # spine

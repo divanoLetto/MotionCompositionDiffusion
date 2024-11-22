@@ -1,0 +1,3 @@
+a person with their hands by their sides jumps twice on their left leg while bending their right knee and then jumps twice on their right leg, they then jump twice on their right leg while bending their left knee. they repeat this pattern of jumps one more time before stopping. # 0 # 4.133 # spine
+a person hops on one leg at a time with a lot of energy. # 0 # 4.133 # spine
+a person hops on left foot, then right foot, then left foot, then right foot, and then puts both feet on ground. # 0 # 4.133 # spine

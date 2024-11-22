@@ -1,0 +1,3 @@
+A person raises their arms to shoulder height and lowers them. # 0 # 3 # right arm # left arm
+A person moves both arms in a circular motion. # 3 # 6 # right arm # left arm
+A person bounces and adjusts their legs while dancing. # 6 # 10.0 # legs

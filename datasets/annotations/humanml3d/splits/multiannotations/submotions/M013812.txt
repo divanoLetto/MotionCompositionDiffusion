@@ -1,0 +1,3 @@
+person raises right arm out to the side. # 0 # 2.842 # spine
+a person lifts up their right arm to the side. # 0 # 2.842 # spine
+someone raises their left arm and then puts it back down # 0 # 2.842 # spine

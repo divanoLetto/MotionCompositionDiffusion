@@ -1,0 +1,4 @@
+A person throws a punch with their right arm. # 0 # 2.1 # right arm
+A person punches with their left hand. # 2.1 # 4.2 # left arm
+A person walks forward for several steps. # 4.2 # 4.59 # legs
+A person walks backward for several steps. # 4.59 # 5.65 # legs

@@ -1,0 +1,3 @@
+person appears to be holding some thing with both hands and then throws it forward with their right hand. # 0 # 5.008 # spine
+a man clasps object with both hands and then throws it with his right hand. # 0 # 5.008 # spine
+the person is throwing hard. # 0 # 5.008 # spine

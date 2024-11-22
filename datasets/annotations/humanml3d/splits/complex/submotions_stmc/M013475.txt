@@ -1,0 +1,2 @@
+A person raises both arms in a strong gesture.  # 0 # 5 # right arm # left arm
+A person spins on one foot and raises the other foot.  # 5 # 9.467 # spine # legs

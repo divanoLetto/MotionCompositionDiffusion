@@ -1,0 +1,2 @@
+A person raised the hands and started to hit with arms. # 0 # 6 # right arm # left arm
+A person alternates right and left hands hitting something. # 6 # 8.35 # right arm # left arm

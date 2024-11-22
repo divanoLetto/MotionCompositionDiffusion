@@ -1,0 +1,2 @@
+A person uppercuts with their left arm. # 0 # 2.3 # spine
+A person holds their right arm at a 90 degree angle. # 0 # 2.3 # spine

@@ -1,0 +1,2 @@
+A person is standing as a robot. # 0 # 1.5 # spine # legs
+A person moves their arms like a robot. # 1.5 # 3.25 # right arm # left arm

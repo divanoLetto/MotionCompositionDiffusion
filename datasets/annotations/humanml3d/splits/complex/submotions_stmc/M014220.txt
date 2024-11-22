@@ -1,0 +1,2 @@
+A person moves their left leg up and down in a rhythmic pattern. # 0 # 4.0 # legs
+A person sways their arms side to side. # 4.0 # 10.0 # right arm # left arm

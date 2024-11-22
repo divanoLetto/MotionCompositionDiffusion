@@ -1,0 +1,2 @@
+A person throws a punch with their left hand. # 0 # 2 # left arm
+A person moves back. # 2 # 2.442 # legs

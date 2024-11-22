@@ -1,0 +1,3 @@
+user takes a couple steps forwards then precedes to turn around pivoting on right foot # 0 # 5.75 # spine
+person walks forwards at a fast pace, turns around 180 degrees clockwise using only their right leg as support, and then walks forwards again. # 0 # 5.75 # spine
+man walks forwards, pivots back in a half turn to the right, and walks back the way he came. # 0 # 5.75 # spine

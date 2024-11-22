@@ -1,0 +1,4 @@
+A person jabs with the left arm. # 0 # 3 # left arm
+A person throws a fully extended punch with the right arm. # 3 # 6 # right arm
+A person turns around jauntily. # 6 # 8 # spine
+A person outstretches both arms up. # 8 # 10.0 # right arm # left arm

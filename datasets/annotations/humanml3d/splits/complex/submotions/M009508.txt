@@ -1,0 +1,5 @@
+A person is skipping forward. # 0 # 4 # spine
+A person lifts their right foot to their left knee. # 0 # 4 # spine
+A person continues skipping forward. # 4 # 4.5 # spine
+A person lifts their left leg up and behind. # 4 # 4.5 # spine
+A person simulates flying with their arms out. # 4 # 4.5 # spine

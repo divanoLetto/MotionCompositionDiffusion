@@ -1,0 +1,2 @@
+A person hops on their left foot. # 0 # 4 # legs
+A person hops on their right foot. # 4 # 9.85 # legs

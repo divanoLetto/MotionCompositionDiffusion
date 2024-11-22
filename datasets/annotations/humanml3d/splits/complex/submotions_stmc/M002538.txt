@@ -1,0 +1,2 @@
+A person raises both their hands.  # 0 # 3 # right arm # left arm
+A person mimics strumming with their right hand.  # 3 # 8.42 # right arm

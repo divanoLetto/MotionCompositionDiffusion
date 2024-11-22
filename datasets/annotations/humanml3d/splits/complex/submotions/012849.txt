@@ -1,0 +1,2 @@
+A person stands in a strong stance. # 0 # 6 # spine
+A person raises their arms to the front at shoulder level. # 6 # 10.0 # spine

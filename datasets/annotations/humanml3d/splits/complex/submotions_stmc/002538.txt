@@ -1,0 +1,2 @@
+A person raises their right arm and strums with their left. # 0 # 4.0 # right arm # left arm
+A person holds their left arm up while swaying. # 4.0 # 8.42 # left arm

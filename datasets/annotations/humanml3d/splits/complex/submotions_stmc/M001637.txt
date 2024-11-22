@@ -1,0 +1,2 @@
+A person slightly sways left to right.  # 0 # 5 # spine # legs
+A person raises their arms up and moves them back down.  # 5 # 10.0 # right arm # left arm

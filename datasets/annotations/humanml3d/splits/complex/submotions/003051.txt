@@ -1,0 +1,2 @@
+A person raises their hands in front of their face. # 0 # 1.4 # spine
+A person punches with their left hand. # 1.2 # 1.4 # spine

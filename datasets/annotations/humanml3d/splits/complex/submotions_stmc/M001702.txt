@@ -1,0 +1,4 @@
+A person swings their arms back and forth. # 0 # 2 # right arm # left arm
+A person turns their body around. # 2 # 5 # spine
+A person side steps to the left. # 5 # 7 # legs
+A person raises their left arm in the air. # 7 # 9.617 # left arm

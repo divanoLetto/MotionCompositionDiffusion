@@ -1,0 +1,3 @@
+the person was laying down and then they got up. # 0 # 10 # spine
+the man is laying down and get up # 0 # 10 # spine
+start in laying position, then get up. # 0 # 10 # spine

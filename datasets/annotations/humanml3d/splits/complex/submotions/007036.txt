@@ -1,0 +1,4 @@
+A person swings their arms below the waist. # 0 # 2 # spine
+A person hesitates while pivoting back and forth. # 2 # 6 # spine
+A person swings their arms over their torso. # 6 # 10.0 # spine
+A person prepares to throw an object. # 6 # 10.0 # spine

@@ -1,0 +1,4 @@
+A person steps sideways to the right. # 0 # 2.0 # legs
+A person steps sideways to the left. # 2.0 # 4.0 # legs
+A person raises both arms and claps their hands above their head. # 4.0 # 8.0 # right arm # left arm
+A person claps their hands in front of them. # 8.0 # 10.0 # right arm # left arm

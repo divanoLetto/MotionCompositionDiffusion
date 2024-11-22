@@ -1,0 +1,4 @@
+A person touches their left elbow to their right knee. # 0 # 3 # spine
+A person touches their right elbow to their left knee. # 2 # 5 # spine
+A person stands straight. # 4 # 7 # spine
+A person bends at the knees. # 6 # 9.999999999999998 # spine

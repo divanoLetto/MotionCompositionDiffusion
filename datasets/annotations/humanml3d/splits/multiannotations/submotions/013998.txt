@@ -1,0 +1,3 @@
+a man raises his left hand to this face then lowers it back down. # 0 # 4.5 # spine
+person slowly raises left arm towards mouth gently. # 0 # 4.5 # spine
+the person is putting his hand to his mouth. # 0 # 4.5 # spine

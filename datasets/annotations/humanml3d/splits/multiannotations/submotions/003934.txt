@@ -1,0 +1,3 @@
+a person stands, waving back and forth with one arm. # 0 # 5.742 # spine
+a person turns their upper body to the left and right at the waist white waving their right hand. # 0 # 5.742 # spine
+a person waves with their right hand to a large group of people around them # 0 # 5.742 # spine

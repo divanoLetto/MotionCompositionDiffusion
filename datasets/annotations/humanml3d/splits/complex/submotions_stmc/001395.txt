@@ -1,0 +1,2 @@
+A person holds both arms in front of their body. # 0 # 3 # right arm # left arm
+A person kicks with their right foot. # 3 # 10.000000000000002 # legs

@@ -1,0 +1,3 @@
+A person puts their hands out forward. # 0 # 5 # right arm # left arm
+A person bends forward from the hips. # 5 # 8 # spine
+A person moves their body around. # 8 # 8.199999999999996 # spine # legs

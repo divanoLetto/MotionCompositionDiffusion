@@ -1,0 +1,3 @@
+A person lifts their left leg and bends their knee. # 0 # 3 # spine
+A person pulls their knee to their chest. # 2 # 5 # spine
+A person balances on their right leg. # 4 # 6.76 # spine

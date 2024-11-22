@@ -1,0 +1,3 @@
+A person takes a step to the left. # 0 # 3 # spine
+A person takes a step to the right. # 2 # 5 # spine
+A person takes a step to the left. # 4 # 10 # spine

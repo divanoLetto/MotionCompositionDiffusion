@@ -1,0 +1,2 @@
+A person walks in a clockwise circle.  # 0 # 2.0 # legs
+A person continues to dance with their feet.  # 2.0 # 5.475 # legs

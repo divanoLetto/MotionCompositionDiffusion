@@ -1,0 +1,3 @@
+A person raises both hands up in the air. # 0 # 3 # left arm # right arm
+A person moves their body side to side. # 3 # 6 # spine
+A person looks around. # 6 # 10.000000000000002 # head

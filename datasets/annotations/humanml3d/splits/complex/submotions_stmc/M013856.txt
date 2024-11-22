@@ -1,0 +1,3 @@
+A person raises both arms to the sides. # 0 # 3 # left arm # right arm
+A person moves both arms in a circular motion. # 3 # 6 # left arm # right arm
+A person brings both arms back down. # 6 # 10.0 # left arm # right arm

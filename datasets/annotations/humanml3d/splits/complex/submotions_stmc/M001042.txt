@@ -1,0 +1,2 @@
+A person steps forward, back, to the side, back, and then forward again while their hands are around their partner. # 0 # 4 # legs
+A person raises both arms out to the side. # 4 # 8.3 # right arm # left arm

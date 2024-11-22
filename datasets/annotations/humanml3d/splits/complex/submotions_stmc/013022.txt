@@ -1,0 +1,2 @@
+A person sways their hips back and forth.  # 0 # 5 # spine # legs
+A person raises both arms up and down.  # 5 # 7.049999999999999 # right arm # left arm

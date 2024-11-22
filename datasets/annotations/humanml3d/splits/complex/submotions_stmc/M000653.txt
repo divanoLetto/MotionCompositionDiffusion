@@ -1,0 +1,2 @@
+A person moves their hips in a circular motion while dancing. # 0 # 5 # spine # legs
+A person raises their arms and sways them from side to side. # 5 # 10.0 # right arm # left arm # spine

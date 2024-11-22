@@ -1,0 +1,3 @@
+A person raises both arms above their head. # 0 # 2 # spine
+A person dances around with arms moving. # 2 # 6 # spine
+A person kicks with their right leg. # 6 # 9.642 # spine

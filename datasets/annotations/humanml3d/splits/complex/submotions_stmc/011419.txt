@@ -1,0 +1,2 @@
+A person is standing with knees bent and arms out to the side. # 0 # 2 # spine # right arm # left arm
+A person winds up their right arm. # 2 # 4.2 # right arm

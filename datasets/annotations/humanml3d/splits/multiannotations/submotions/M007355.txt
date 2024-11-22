@@ -1,0 +1,3 @@
+the person extending their right leg. # 0 # 7.18 # spine
+a person walks turning to the left and walks forward. # 0 # 7.18 # spine
+person bends body forward then walks half circle in a counterclockwise direction # 0 # 7.18 # spine

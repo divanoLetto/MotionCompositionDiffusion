@@ -1,0 +1,2 @@
+A person is performing various kicks while moving from one side to the other. # 0 # 6 # legs
+A person jumps up with both arms raised above their head. # 6 # 10.0 # spine # legs

@@ -1,0 +1,3 @@
+a person walked forward in left direction adn jumped # 0 # 1.917 # spine
+a person who is running launches off of his left foot, jumps forward, lands on both feet and continues running. # 0 # 1.917 # spine
+the toon runs then jumps. # 0 # 1.917 # spine

@@ -1,0 +1,2 @@
+A person raises their arms above their head. # 0 # 6 # spine
+A person moves their arms in a circular motion. # 4 # 10.0 # spine

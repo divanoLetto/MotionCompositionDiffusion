@@ -1,0 +1,2 @@
+A person raises their left arm to strum.  # 0 # 3.0 # left arm
+A person strums with their right arm.  # 3.0 # 6.5 # right arm

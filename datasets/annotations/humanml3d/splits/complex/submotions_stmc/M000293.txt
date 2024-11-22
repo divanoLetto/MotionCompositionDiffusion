@@ -1,0 +1,1 @@
+A person does a dribbling motion with their right hand while moving forward. # 0 # 2.975 # right arm # legs

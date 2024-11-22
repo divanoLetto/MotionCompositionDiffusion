@@ -1,0 +1,3 @@
+the person does 2 cartwheels # 0 # 10 # spine
+a stick figure does a cartwheel and turns clockwise and does another cartwheel. # 0 # 10 # spine
+a person's left hand moves towards the ground, the right hand, right leg, and left leg touch the ground in order. the person turns and starts the same movement beginning with the person's right hand. # 0 # 10 # spine

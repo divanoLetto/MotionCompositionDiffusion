@@ -1,0 +1,3 @@
+a person squats several times while lifting dumbbells. # 0 # 4.4 # spine
+a person lifts dumb bells # 0 # 4.4 # spine
+this person bends at the knees with arms up at his head as if the bench weights. # 0 # 4.4 # spine

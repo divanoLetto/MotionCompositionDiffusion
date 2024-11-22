@@ -1,0 +1,2 @@
+A person is standing still and moving both hands in a synchronized motion. # 0 # 4.5 # right arm # left arm
+A person raises both arms above their head. # 4.5 # 8.467 # right arm # left arm

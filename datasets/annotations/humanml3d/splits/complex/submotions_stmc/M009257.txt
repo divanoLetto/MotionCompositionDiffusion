@@ -1,0 +1,4 @@
+A person throws an object with their left hand. # 0 # 3.0 # left arm
+A person catches something with both hands. # 3.0 # 5.0 # right arm # left arm
+A person throws an object with their left hand. # 5.0 # 8.0 # left arm
+A person catches something with both hands. # 8.0 # 10.0 # right arm # left arm

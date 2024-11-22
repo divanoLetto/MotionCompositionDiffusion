@@ -1,0 +1,2 @@
+A person raises both arms to perform jabbing motions. # 0 # 1.5 # right arm # left arm
+A person uses their right arm to jab forward. # 1.5 # 1.85 # right arm

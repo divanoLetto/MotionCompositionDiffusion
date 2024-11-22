@@ -1,0 +1,3 @@
+a figure does jumping jacks # 0 # 4.375 # spine
+the man does 3 jumping jacks. # 0 # 4.375 # spine
+the person is doing jumping jacks. # 0 # 4.375 # spine

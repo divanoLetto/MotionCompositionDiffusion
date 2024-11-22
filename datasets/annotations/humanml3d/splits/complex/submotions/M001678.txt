@@ -1,0 +1,3 @@
+A person lays on their stomach. # 0 # 2 # spine
+A person moves their arms in a paddling motion. # 2 # 8 # spine
+A person raises their left arm. # 8 # 10.0 # spine

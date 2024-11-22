@@ -1,0 +1,2 @@
+A person kicks forward with his left leg twice. # 0 # 5 # legs
+A person kicks forward with his right leg twice. # 5 # 9.999999999999998 # legs

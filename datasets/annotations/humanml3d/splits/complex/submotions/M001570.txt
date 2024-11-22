@@ -1,0 +1,2 @@
+a man raises his right hand to box. # 0 # 0.85 # spine
+a person punches the air multiple times. # 0.5 # 0.85 # spine

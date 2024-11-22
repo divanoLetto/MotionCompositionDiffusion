@@ -1,0 +1,3 @@
+the person is trying to hit a bug. # 0 # 10 # spine
+the man is making gestures # 0 # 10 # spine
+a person is circling to their right as they gesture in a striking motion with their left hand, then they gesture the same way with their right hand, before turning back and gesturing in an overhead throwing motion with their left hand. # 0 # 10 # spine

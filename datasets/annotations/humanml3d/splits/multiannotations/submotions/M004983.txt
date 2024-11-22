@@ -1,0 +1,3 @@
+a person bends their left elbow repeatedly, raising their hand. # 0 # 6.7 # spine
+a person lifts something with their left arm. # 0 # 6.7 # spine
+someone lifts heavy weight with their left hand using a slight bit of effort. # 0 # 6.7 # spine

@@ -1,0 +1,2 @@
+A person raises their left arm.  # 0 # 3 # spine
+A person uses their left hand to play something.  # 3 # 7.22 # spine

@@ -1,0 +1,2 @@
+A person swings their right arm back and forth.  # 0 # 4 # spine
+A person walks forward while swinging their arms.  # 3 # 10.0 # spine

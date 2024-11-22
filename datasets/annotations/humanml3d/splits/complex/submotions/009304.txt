@@ -1,0 +1,4 @@
+A person throws something with their right arm. # 0 # 3 # spine
+A person catches with both hands. # 2 # 5 # spine
+A person throws something with their right arm. # 5 # 8 # spine
+A person raises both arms to his face. # 8 # 10.0 # spine

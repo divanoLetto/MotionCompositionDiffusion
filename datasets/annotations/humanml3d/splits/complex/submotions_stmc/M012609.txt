@@ -1,0 +1,2 @@
+A person stands in a golf stance with their legs apart. # 0 # 2 # legs
+A person swings their right arm to hit a ball. # 2 # 5.02 # right arm

@@ -1,0 +1,2 @@
+A person jumps up and down. # 0 # 2 # spine
+A person stands balancing on one leg. # 2 # 6.55 # spine

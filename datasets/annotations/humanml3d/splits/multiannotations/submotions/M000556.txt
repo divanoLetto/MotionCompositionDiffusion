@@ -1,0 +1,3 @@
+a person appears to be doing a dance. # 0 # 10 # spine
+man has hands up to hold a partner as he dances. # 0 # 10 # spine
+a person raises their left hand to their chest and their right hand out, then step to the right and left rhythmically. # 0 # 10 # spine

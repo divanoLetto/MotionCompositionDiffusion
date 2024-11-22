@@ -1,0 +1,3 @@
+the person is waving at someone with the left hand. # 0 # 3.542 # spine
+the figure quickly raises it left hand and proceeds to wave towards the camera. # 0 # 3.542 # spine
+a person waves his hand enthusiastically # 0 # 3.542 # spine

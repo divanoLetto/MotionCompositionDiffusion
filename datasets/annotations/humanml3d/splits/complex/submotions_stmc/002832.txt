@@ -1,0 +1,2 @@
+A person spins around with arms extended out.  # 0 # 5 # spine # right arm # left arm
+A person continues spinning and raises both arms.  # 5 # 8.15 # spine # right arm # left arm

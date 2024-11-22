@@ -1,0 +1,4 @@
+A person brings both arms towards their chest by bending both arms in a curling motion. # 0 # 5.2 # right arm # left arm
+A person holds their left arm toward their stomach. # 5.2 # 8.5 # left arm
+A person holds their right arm toward their stomach. # 5.2 # 8.5 # right arm
+A person bends forward. # 8.5 # 8.975 # spine

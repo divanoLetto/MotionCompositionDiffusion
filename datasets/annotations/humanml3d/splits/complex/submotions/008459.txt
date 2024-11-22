@@ -1,0 +1,3 @@
+A person moves to the right. # 0 # 3 # spine
+A person moves to the left. # 2 # 5 # spine
+A person raises both arms to the side. # 4 # 7.52 # spine

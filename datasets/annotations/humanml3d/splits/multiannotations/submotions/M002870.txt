@@ -1,0 +1,3 @@
+a person walks from side to side with their arms hanging loosely. # 0 # 7.808 # spine
+a person paces back and forth # 0 # 7.808 # spine
+a person walks right and left as if they are nervously pacing. # 0 # 7.808 # spine

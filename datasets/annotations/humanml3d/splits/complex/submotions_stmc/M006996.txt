@@ -1,0 +1,3 @@
+A person holds both hands up. # 0 # 1.5 # right arm # left arm
+A person slightly waivers with their spine. # 1.5 # 2.0 # spine
+A person prepares to box by raising both fists. # 2.0 # 2.45 # right arm # left arm

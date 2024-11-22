@@ -1,0 +1,2 @@
+A person is hopping slightly up and down very fast with their hands up in the air. # 0 # 6 # spine
+A person is bouncing on their feet while waving enthusiastically with their arms. # 0 # 10.0 # spine

@@ -1,0 +1,3 @@
+a person is jogging on a treadmill # 0 # 10 # spine
+a person is jogging on a treadmill. # 0 # 10 # spine
+the person is jogging on the treadmill. # 0 # 10 # spine

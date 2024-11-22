@@ -1,0 +1,3 @@
+A person is dancing.  # 0 # 4 # spine # legs
+A person raises their right arm.  # 4 # 6 # right arm
+A person spins while moving to the left.  # 6 # 8.283 # spine # legs

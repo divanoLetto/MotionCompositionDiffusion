@@ -1,0 +1,3 @@
+A person stands still with arms bent at the elbows. # 0 # 3 # spine # left arm # right arm
+A person steps forward with their legs. # 3 # 5 # legs
+A person jabs outwards with their right arm. # 5 # 10.0 # right arm

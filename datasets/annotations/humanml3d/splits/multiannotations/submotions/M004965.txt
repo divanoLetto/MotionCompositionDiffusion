@@ -1,0 +1,3 @@
+a person walks forward to the right, picks something up and walks back and then shakes what is in the hand. # 0 # 10 # spine
+a person walks up to something, picks it up, brings it back to where they were, and begins to make a washing motion with their hand. # 0 # 10 # spine
+a man walks forward, picks up an object with his left hand and walks back to his position. then shakes his left hand # 0 # 10 # spine

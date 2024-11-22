@@ -1,0 +1,2 @@
+A person walks forward. # 0 # 5 # spine
+A person raises both hands in the air. # 4.5 # 9.05 # spine

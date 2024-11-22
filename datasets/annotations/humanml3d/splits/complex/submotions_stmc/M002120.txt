@@ -1,0 +1,1 @@
+A person shakes their right leg. # 0 # 1.25 # legs

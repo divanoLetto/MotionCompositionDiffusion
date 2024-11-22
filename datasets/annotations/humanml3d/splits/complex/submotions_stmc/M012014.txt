@@ -1,0 +1,2 @@
+A person is standing still with their arms out to the side. # 0 # 5 # right arm # left arm
+A person walks forward while swinging both arms. # 5 # 10.0 # right arm # left arm # legs

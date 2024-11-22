@@ -1,0 +1,2 @@
+A person walks around in a circle. # 0 # 4 # legs
+A person turns to the left while walking. # 4 # 6.7 # legs # spine

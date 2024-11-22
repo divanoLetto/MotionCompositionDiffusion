@@ -1,0 +1,3 @@
+a man stands on the ground ,walks clockwise and then stops. # 0 # 4.26 # spine
+a man walks and angled path forward towards his right. # 0 # 4.26 # spine
+a person walks in a curved path to the right. # 0 # 4.26 # spine

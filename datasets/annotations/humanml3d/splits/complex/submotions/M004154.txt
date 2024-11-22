@@ -1,0 +1,2 @@
+A person raises both arms to shoulder height. # 0 # 6 # spine
+A person moves both hands away from their body. # 2 # 10.0 # spine

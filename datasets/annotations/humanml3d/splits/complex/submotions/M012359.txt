@@ -1,0 +1,2 @@
+A person is swirling their arms in a circle. # 0 # 6 # spine
+A person moves their arms in circular motions. # 4 # 10.0 # spine

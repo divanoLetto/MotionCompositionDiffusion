@@ -1,0 +1,4 @@
+A person takes several small steps forward. # 0 # 3 # legs
+A person gestures with both hands several times. # 3 # 6 # right arm # left arm
+A person turns to the right. # 6 # 7 # spine
+A person walks in small steps. # 7 # 10.0 # legs

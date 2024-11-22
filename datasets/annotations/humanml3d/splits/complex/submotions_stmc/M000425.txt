@@ -1,0 +1,4 @@
+A person takes a step back. # 0 # 2.0 # legs
+A person swings their right arm. # 2.0 # 4.0 # right arm
+A person swings their left arm. # 4.0 # 6.0 # left arm
+A person runs forward. # 6.0 # 6.65 # legs

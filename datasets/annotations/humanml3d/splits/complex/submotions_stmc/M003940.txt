@@ -1,0 +1,2 @@
+A person kicks with the right foot. # 0 # 2.342 # legs
+A person kicks with the left foot. # 2.342 # 5.44 # legs

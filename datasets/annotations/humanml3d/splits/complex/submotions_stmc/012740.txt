@@ -1,0 +1,4 @@
+A person stands with their legs apart. # 0 # 2 # legs
+A person holds an object with both hands. # 2 # 4 # right arm # left arm
+A person swings their right arm backwards. # 4 # 5.2 # right arm
+A person follows through the swing. # 5.2 # 5.53 # right arm

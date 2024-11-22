@@ -1,0 +1,3 @@
+a person walks forward, takes large step with left leg then slowly walks back to the right. # 0 # 5.54 # spine
+the person pushes off their leg to move forward # 0 # 5.54 # spine
+figure walks forward then zags to right before walking left. # 0 # 5.54 # spine

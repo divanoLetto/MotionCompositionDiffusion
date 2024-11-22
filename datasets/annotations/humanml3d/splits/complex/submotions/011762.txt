@@ -1,0 +1,2 @@
+A person throws something with their right arm. # 0 # 2.0 # spine
+A person catches with both hands. # 1.5 # 10.0 # spine

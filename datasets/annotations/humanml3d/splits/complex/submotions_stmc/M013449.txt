@@ -1,0 +1,4 @@
+a person punches quickly with their left hand. # 0 # 3.3 # left arm
+a person throws a punch with his left arm. # 3.3 # 5.8 # left arm
+a person punches out left and then right. # 5.8 # 8.2 # left arm
+a person raises both hands together to head height. # 8.2 # 10.0 # left arm # right arm

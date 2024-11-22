@@ -1,0 +1,3 @@
+a person is lifting a dumbbell with their right arm. # 0 # 2.5 # spine
+person lifting imaginary dumbbell with their right hand. # 0 # 2.5 # spine
+a person lifts their right arm up then down. # 0 # 2.5 # spine

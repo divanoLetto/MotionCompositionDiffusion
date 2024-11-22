@@ -1,0 +1,2 @@
+A person raises their arms as if to hit something. # 0 # 4 # right arm # left arm
+A person repeatedly hits with both arms. # 4 # 8.850000000000001 # right arm # left arm

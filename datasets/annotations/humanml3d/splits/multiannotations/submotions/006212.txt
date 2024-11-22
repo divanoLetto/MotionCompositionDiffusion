@@ -1,0 +1,3 @@
+person walks forward in a semi-straight line with arms extended out to the sides. # 0 # 4.45 # spine
+a person walks while holding the hand rail # 0 # 4.45 # spine
+person walks forwards with left hand supporting, # 0 # 4.45 # spine

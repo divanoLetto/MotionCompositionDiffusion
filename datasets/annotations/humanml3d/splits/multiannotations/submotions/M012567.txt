@@ -1,0 +1,3 @@
+a person rests their hands on their knees while squatting. # 0 # 10 # spine
+a person with knees bent stands and holds arms out to the sides, drops them down to his side # 0 # 10 # spine
+the person stands still while crouching. # 0 # 10 # spine

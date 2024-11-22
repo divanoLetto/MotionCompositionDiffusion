@@ -1,0 +1,2 @@
+A person throws something with their right hand. # 0 # 1.6 # right arm
+A person throws something with their left hand. # 1.6 # 1.65 # left arm

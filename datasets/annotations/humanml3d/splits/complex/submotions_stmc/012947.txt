@@ -1,0 +1,3 @@
+A person is standing in a fighting stance.  # 0 # 2 # legs
+A person kicks with their right leg.  # 2 # 5 # legs
+A person raises their arms.  # 5 # 10.0 # right arm # left arm

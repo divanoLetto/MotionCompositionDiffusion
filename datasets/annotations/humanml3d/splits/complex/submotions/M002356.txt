@@ -1,0 +1,2 @@
+A person is performing various kicks while moving from one side to the other. # 0 # 5 # spine
+A person kicks with their right leg. # 4 # 10 # spine

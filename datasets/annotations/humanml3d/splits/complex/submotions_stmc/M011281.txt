@@ -1,0 +1,2 @@
+A person takes a few steps backward. # 0 # 2.0 # legs
+A person kicks something with their left foot. # 2.0 # 3.0 # left arm

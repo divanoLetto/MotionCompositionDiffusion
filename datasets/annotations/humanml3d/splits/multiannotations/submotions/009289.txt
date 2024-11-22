@@ -1,0 +1,3 @@
+the person walked forward and leaned over the table. # 0 # 9.66 # spine
+person walks forward, leans on table and reaches up for an item # 0 # 9.66 # spine
+a person leans forward on their left leg while reaching forward with their right arm, then stands back up. # 0 # 9.66 # spine

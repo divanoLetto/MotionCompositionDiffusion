@@ -1,0 +1,3 @@
+the man performed a tennis smash that won the match. # 0 # 5.62 # spine
+a person throws something from their left hand. # 0 # 5.62 # spine
+the person is striking a tennis ball unenthusiastically # 0 # 5.62 # spine

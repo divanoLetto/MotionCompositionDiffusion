@@ -1,0 +1,2 @@
+A person jumps while raising both arms and moving their legs.  # 0 # 5 # right arm # left arm # legs
+A person stands still with arms raised, then spins around.  # 5 # 10.0 # right arm # left arm # spine

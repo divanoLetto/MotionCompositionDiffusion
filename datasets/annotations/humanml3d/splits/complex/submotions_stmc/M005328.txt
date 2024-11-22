@@ -1,0 +1,1 @@
+A person raises both hands to their chest. # 0 # 1.0 # right arm # left arm

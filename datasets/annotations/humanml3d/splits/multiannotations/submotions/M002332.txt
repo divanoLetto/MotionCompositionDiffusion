@@ -1,0 +1,3 @@
+a person walks straight forward quickly # 0 # 3.65 # spine
+a man walks forward with a wider stance. # 0 # 3.65 # spine
+a person strides forward for a few steps, then slows and stops. # 0 # 3.65 # spine

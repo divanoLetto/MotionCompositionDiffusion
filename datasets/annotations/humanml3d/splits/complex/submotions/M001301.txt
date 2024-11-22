@@ -1,0 +1,3 @@
+A person is bending over. # 0 # 2 # spine
+A person is holding something with both hands. # 0 # 3 # spine
+A person stands still. # 2 # 3.642 # spine

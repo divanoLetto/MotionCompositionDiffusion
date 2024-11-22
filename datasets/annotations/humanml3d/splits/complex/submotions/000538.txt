@@ -1,0 +1,2 @@
+A person walks forward to kick a ball. # 0 # 2.925 # spine
+A person kicks with their right leg. # 2.925 # 4.367 # spine

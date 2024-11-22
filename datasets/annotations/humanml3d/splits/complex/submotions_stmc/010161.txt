@@ -1,0 +1,2 @@
+A person raises both arms above their head. # 0 # 5 # right arm # left arm
+A person moves both arms in a signaling manner. # 5 # 10.0 # right arm # left arm

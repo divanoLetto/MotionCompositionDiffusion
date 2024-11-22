@@ -1,0 +1,3 @@
+a person is lifting dumbbell over their head # 0 # 2.0 # spine
+a person standing lifting arms up # 0 # 2.0 # spine
+a person who is holding his hands at the level of his head lifts both of his arms above his head two times. # 0 # 2.0 # spine

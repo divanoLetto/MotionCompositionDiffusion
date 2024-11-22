@@ -1,0 +1,3 @@
+person moves forward to their right side and picks something up and does a full turn back # 0 # 10 # spine
+a person walks diagonally from right to left then beds down to touch something as if they are switch a radio on or off then they walk back to where they started. # 0 # 10 # spine
+a person walk forward, picks something up, then walks back while tossing it up. # 0 # 10 # spine

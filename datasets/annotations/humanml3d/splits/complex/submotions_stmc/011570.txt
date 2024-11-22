@@ -1,0 +1,4 @@
+A person raises their arms while in a ballet pose. # 0 # 3 # right arm # left arm
+A person holds their head high. # 0 # 4 # head
+A person stands on their toes. # 3 # 5 # legs
+A person turns their body gracefully. # 5 # 10.0 # spine

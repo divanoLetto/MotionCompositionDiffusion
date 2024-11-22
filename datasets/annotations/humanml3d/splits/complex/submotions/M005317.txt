@@ -1,0 +1,2 @@
+A person raises their right arm to swing something.  # 0 # 3 # spine
+A person swings a club with their right arm.  # 3 # 6.31 # spine

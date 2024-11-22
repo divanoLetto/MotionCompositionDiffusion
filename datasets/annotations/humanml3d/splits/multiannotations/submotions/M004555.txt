@@ -1,0 +1,3 @@
+a person who uses his right arm to reach his left leg twice # 0 # 10 # spine
+a person picks up a cup pours a drink and puts it back. # 0 # 10 # spine
+a person pouring something down and putting the object back # 0 # 10 # spine

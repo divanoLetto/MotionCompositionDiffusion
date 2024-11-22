@@ -1,0 +1,3 @@
+a person steps forward to the right and then stops. # 0 # 3.908 # spine
+a person carefully taking steps into or around something. # 0 # 3.908 # spine
+someone is staggering forward in a drunken manner # 0 # 3.908 # spine

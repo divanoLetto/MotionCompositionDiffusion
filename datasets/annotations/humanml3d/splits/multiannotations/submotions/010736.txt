@@ -1,0 +1,3 @@
+a person taking a bow forward. turning to his/her right, then taking another bow before returning to his/her original position. # 0 # 10 # spine
+a person facing forward bows then turns to his right and bows again. # 0 # 10 # spine
+a man steps forward, bows, then turns to his right, bows again, and then turns once again to his right. # 0 # 10 # spine

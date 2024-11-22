@@ -1,0 +1,3 @@
+A person twists his body back and forth. # 0 # 1.975 # spine
+A person raises both arms. # 1.975 # 5.0 # right arm # left arm
+A person waves their arms while turning. # 5.0 # 6.15 # right arm # left arm

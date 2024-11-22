@@ -1,0 +1,3 @@
+A person licks their lips.  # 0 # 2 # head
+A person licks their lips.  # 2 # 4 # head
+A person punches forward with their right arm.  # 4 # 10.0 # right arm

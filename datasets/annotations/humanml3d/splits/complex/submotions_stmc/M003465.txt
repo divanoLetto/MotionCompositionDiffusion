@@ -1,0 +1,2 @@
+A person puts on headphones and begins moving their body to the music. # 0 # 9.467 # spine # legs
+A person sways their arms to the rhythm of the music. # 0 # 6 # right arm # left arm

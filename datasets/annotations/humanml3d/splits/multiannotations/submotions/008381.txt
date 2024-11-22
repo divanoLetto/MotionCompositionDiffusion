@@ -1,0 +1,3 @@
+person turns around, picks something up, put it to face, turns back forward. # 0 # 6.908 # spine
+a person reaching over an item with his right arm which is a glass and drinking it, then he returns the glass on the table and turns around to his original position. # 0 # 6.908 # spine
+a person stood sideways i put his hand on his head and then turn back around forward. # 0 # 6.908 # spine

@@ -1,0 +1,2 @@
+A person stands in one place while their arms and upper body move around. # 0 # 6 # right arm # left arm # spine
+A person mimics the movement of a gorilla by swaying their arms. # 6 # 10.0 # right arm # left arm

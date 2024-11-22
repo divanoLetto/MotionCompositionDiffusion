@@ -1,0 +1,4 @@
+A person raises both hands to chest level. # 0 # 2.5 # right arm # left arm
+A person moves both hands in a circular motion. # 2.5 # 5.0 # right arm # left arm
+A person extends both arms slightly above their head. # 5.0 # 8.0 # right arm # left arm
+A person brings their hands back down. # 8.0 # 9.9 # right arm # left arm

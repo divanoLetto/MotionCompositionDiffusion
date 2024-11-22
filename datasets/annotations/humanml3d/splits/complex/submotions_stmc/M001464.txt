@@ -1,0 +1,1 @@
+A person is walking in a counterclockwise circle. # 0 # 10.0 # spine # legs

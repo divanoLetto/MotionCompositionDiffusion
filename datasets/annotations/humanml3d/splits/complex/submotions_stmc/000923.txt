@@ -1,0 +1,4 @@
+A person bounces a basketball with both hands. # 0 # 2.0 # right arm # left arm
+A person takes two big steps forward. # 1.0 # 4.0 # legs
+A person jumps upwards with the basketball in both hands. # 4.0 # 5.783 # spine # legs
+A person releases the basketball to score a point. # 4.5 # 5.783 # right arm # left arm

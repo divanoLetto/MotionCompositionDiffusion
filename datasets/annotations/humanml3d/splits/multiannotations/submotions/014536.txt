@@ -1,0 +1,3 @@
+person takes step forward with right leg before kicking out with left foot, swinging left arm simultaneously. # 0 # 4.75 # spine
+a person slowly walked forward and kicked with left leg # 0 # 4.75 # spine
+a person lightly runs forward for two steps, swings their leg as if kicking something, then returns to rest while swaying their arms. # 0 # 4.75 # spine

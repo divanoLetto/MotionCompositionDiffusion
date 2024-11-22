@@ -1,0 +1,2 @@
+A person stands with their legs apart. # 0 # 2 # spine
+A person holds a golf club with their right hand. # 2 # 5.85 # spine

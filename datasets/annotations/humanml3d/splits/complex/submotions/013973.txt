@@ -1,0 +1,2 @@
+A person throws a punch with their left hand. # 0 # 1.55 # spine
+A person stands with their arms in a defensive position. # 0 # 1.55 # spine

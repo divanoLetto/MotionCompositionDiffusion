@@ -1,0 +1,2 @@
+A person swings their arms side to side. # 0 # 4 # right arm # left arm
+A person moves their hips from right to left. # 4 # 9.45 # spine # legs

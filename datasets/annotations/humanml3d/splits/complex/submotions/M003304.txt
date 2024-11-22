@@ -1,0 +1,4 @@
+A person does a high kick with his left leg. # 0 # 2 # spine
+A person does a high kick with his right leg. # 2 # 4 # spine
+A person does a high kick with his left leg. # 4 # 6 # spine
+A person does a high kick with his right leg. # 6 # 10.0 # spine

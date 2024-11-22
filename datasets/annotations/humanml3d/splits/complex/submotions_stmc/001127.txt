@@ -1,0 +1,2 @@
+A person walks forward to kick an object very hard. # 0 # 5.25 # legs
+A person kicks something with their right foot. # 5.25 # 10.0 # legs

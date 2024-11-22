@@ -1,0 +1,3 @@
+the person is doing something at the counter and moving it to the right. # 0 # 10 # spine
+a person presses things in front of them with their right hand. # 0 # 10 # spine
+a person touches things in front of them with their right arm. # 0 # 10 # spine

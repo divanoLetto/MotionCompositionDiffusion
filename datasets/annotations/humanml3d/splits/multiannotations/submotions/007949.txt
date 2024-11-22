@@ -1,0 +1,3 @@
+a person turns clockwise and then spins multiple times counterclockwise. # 0 # 10 # spine
+a man spins around in a clockwise circle, and then spins counter-clockwise many times with his arms out. # 0 # 10 # spine
+a man spins in one counter clockwise circle with arms extended at shoulder then rverses and does five or more circles with arms still extended # 0 # 10 # spine

@@ -1,0 +1,3 @@
+stick person is spinning in circles with arms flaling around and hopping or skippinh to the right # 0 # 10 # spine
+a person is performing a dance and spinning around # 0 # 10 # spine
+a oerson does a series of dance twirls with arms outstreeched moving to the right. # 0 # 10 # spine

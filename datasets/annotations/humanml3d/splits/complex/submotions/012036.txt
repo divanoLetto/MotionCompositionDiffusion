@@ -1,0 +1,2 @@
+A person is waving with both of their arms. # 0 # 10.0 # spine
+A person is moving their legs. # 3 # 5.742 # spine

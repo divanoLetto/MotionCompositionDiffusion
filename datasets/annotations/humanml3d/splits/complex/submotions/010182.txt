@@ -1,0 +1,4 @@
+A person raises both hands above their head. # 0 # 3 # spine
+A person moves their hips from side to side. # 2 # 5 # spine
+A person raises their right arm. # 3 # 6 # spine
+A person raises their left arm. # 5 # 10.0 # spine

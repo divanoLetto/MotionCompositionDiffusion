@@ -1,0 +1,2 @@
+A person raises their right arm up near shoulder height. # 0 # 10.0 # spine
+A person moves their left hand in a circular motion. # 2 # 10.0 # spine

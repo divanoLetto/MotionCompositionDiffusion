@@ -1,0 +1,4 @@
+A person throws a punch with their left hand. # 0 # 2.1 # left arm
+A person throws a punch with their right hand. # 2.1 # 4.2 # right arm
+A person punches with their left hand. # 4.2 # 6.1 # left arm
+A person punches with their right hand. # 6.1 # 10.0 # right arm

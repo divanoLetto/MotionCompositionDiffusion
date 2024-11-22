@@ -1,0 +1,3 @@
+a person swam in free style # 0 # 10 # spine
+swimming diagonally to the left # 0 # 10 # spine
+a person swims freestyle. # 0 # 10 # spine

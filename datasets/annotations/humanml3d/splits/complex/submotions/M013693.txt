@@ -1,0 +1,2 @@
+A person walks forward. # 0 # 4 # spine
+A person waves their arms above their head. # 3 # 9.867 # spine

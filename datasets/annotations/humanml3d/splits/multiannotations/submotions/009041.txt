@@ -1,0 +1,3 @@
+a person does a throwing motion with his right arm # 0 # 5.45 # spine
+a person walks forward from a neutral position and throws an object with right hand and right leg kicks back. # 0 # 5.45 # spine
+the sim appears to throw an object. # 0 # 5.45 # spine

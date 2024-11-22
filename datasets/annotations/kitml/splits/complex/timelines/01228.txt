@@ -1,0 +1,4 @@
+A person raises their arms to the side. # 0 # 3 # spine
+A person performs a sidestep to the left. # 2 # 6 # spine
+A person performs a sidestep to the right. # 5 # 9 # spine
+A person holds his arms at the height of his shoulders. # 8 # 10 # spine

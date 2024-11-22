@@ -1,0 +1,2 @@
+A person is throwing something with their right hand. # 0 # 6 # spine
+A person is standing still and then throws an object with both hands. # 4 # 6.917 # spine

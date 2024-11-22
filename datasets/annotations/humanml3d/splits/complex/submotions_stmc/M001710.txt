@@ -1,0 +1,3 @@
+A person raises both arms up. # 0 # 3 # right arm # left arm
+A person sways their body from side to side. # 3 # 5 # spine
+A person continues to dance, moving their legs. # 5 # 8.008 # legs

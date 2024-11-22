@@ -1,0 +1,2 @@
+A person holds their arms out in front of them. # 0 # 2 # right arm # left arm
+A person moves their arms as if strumming a guitar. # 2 # 7.44 # right arm # left arm

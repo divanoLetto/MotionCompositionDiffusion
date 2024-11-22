@@ -1,0 +1,2 @@
+A person raises both hands and shows some gesture. # 0 # 5 # left arm # right arm
+A person waves his left hand while pivoting from one leg to the other. # 5 # 10.0 # left arm

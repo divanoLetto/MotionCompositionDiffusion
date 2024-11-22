@@ -1,0 +1,5 @@
+A person steps back. # 0 # 2 # spine
+A person side steps to the left. # 1 # 4 # spine
+A person steps forward. # 3 # 5 # spine
+A person side steps to the right. # 4 # 6 # spine
+A person steps back again. # 5 # 10.0 # spine

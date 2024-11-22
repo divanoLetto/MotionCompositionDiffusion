@@ -1,0 +1,3 @@
+person walks forwards straight while stumbling # 0 # 3.76 # spine
+a person walks forward on a beam. # 0 # 3.76 # spine
+a person slowly walked forward # 0 # 3.76 # spine

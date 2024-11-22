@@ -1,0 +1,2 @@
+A man performs martial arts with his right arm blocking 4 times at a high level. # 0 # 5 # right arm
+A man performs martial arts with his left arm blocking 4 times at a high level. # 5 # 10.0 # left arm

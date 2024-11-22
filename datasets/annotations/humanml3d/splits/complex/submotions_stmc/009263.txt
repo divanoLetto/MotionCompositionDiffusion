@@ -1,0 +1,2 @@
+A person looks to be preparing for a kick. # 0 # 2 # legs
+A person kicks a football with their right foot. # 2 # 5.375 # legs

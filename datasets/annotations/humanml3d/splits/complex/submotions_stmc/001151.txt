@@ -1,0 +1,2 @@
+A person raises both arms in a strong gesture. # 0 # 5 # right arm # left arm
+A person moves their arms in a circular motion at chest level with the right arm. # 5 # 10.0 # right arm

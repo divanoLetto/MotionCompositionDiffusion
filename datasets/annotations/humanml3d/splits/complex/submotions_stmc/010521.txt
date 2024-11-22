@@ -1,0 +1,2 @@
+A person moves arms and legs in various ranges of movement. # 0 # 5 # legs # right arm # left arm
+A person is raising his arms and moving to the left. # 5 # 10.0 # right arm # left arm

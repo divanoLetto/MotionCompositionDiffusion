@@ -1,0 +1,4 @@
+A person raises both arms. # 0 # 3 # spine
+A person moves their arms around. # 2 # 5 # spine
+A person is making gestures with both arms. # 4 # 7 # spine
+A person swings their arms. # 6 # 10 # spine

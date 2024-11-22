@@ -1,0 +1,2 @@
+A person takes a jab step with their right leg. # 0 # 1.2 # legs
+A person sprints using their legs. # 1.2 # 1.467 # legs

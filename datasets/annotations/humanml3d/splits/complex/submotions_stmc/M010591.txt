@@ -1,0 +1,2 @@
+A person balances shakily on her left foot, while her right leg moves back and forth. # 0 # 5 # left arm # right arm # legs
+A person holds one arm up as she tries to maintain balance. # 5 # 10.0 # left arm # right arm # spine

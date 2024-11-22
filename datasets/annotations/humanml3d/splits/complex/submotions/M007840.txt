@@ -1,0 +1,2 @@
+A person rotates their arms in circular motions, in varying sizes. # 0 # 6 # spine
+A person lifts their arms above their head. # 4 # 10.0 # spine

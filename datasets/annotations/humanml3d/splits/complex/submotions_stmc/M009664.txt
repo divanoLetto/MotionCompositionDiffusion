@@ -1,0 +1,1 @@
+A person raises their left arm. # 0 # 1.2 # left arm

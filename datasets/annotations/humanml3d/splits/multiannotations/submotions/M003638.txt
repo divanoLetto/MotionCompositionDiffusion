@@ -1,0 +1,3 @@
+a figure speedily swings its arms first in a counterclockwise motion then backwards in an clockwise motion while slightly facing to the left # 0 # 10 # spine
+a person rotates both arms in an clockwise rotation # 0 # 10 # spine
+a person makes several large circles with both arms and then does one reverse circle. # 0 # 10 # spine

@@ -1,0 +1,2 @@
+a person bends their arms with their hands under their armpits and flaps their arms like wings # 0 # 5 # left arm # right arm
+a person puts their hands to their armpits and wiggles their elbows # 5 # 10.0 # left arm # right arm

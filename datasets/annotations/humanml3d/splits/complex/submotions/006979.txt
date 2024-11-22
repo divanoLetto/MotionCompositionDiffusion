@@ -1,0 +1,2 @@
+A person kicks with their left leg.  # 0 # 3 # spine
+A person punches with their left and right hands repeatedly.  # 2 # 10.0 # spine

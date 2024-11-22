@@ -1,0 +1,2 @@
+A person walks forward happily. # 0 # 5 # legs
+A person moves their arms in rhythm with their body. # 5 # 10.0 # right arm # left arm # spine

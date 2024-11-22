@@ -1,0 +1,2 @@
+A person side stepping to the left. # 0 # 5 # legs
+A person side stepping to the right. # 5 # 10.0 # legs

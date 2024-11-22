@@ -1,0 +1,2 @@
+A person bows down. # 0 # 3 # spine # head
+A person walks forward. # 3 # 10.0 # legs

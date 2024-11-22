@@ -1,0 +1,2 @@
+A person is in a squat position with both hands on knees. # 0 # 5 # legs # right arm # left arm
+A person brushes their left knee. # 5 # 10.0 # left arm # legs

@@ -1,0 +1,2 @@
+A person is spinning in place while moving their arms. # 0 # 6 # spine
+A person raises their arms above their head. # 6 # 8.633 # spine

@@ -1,0 +1,2 @@
+A person hops forward using their legs. # 0 # 2.5 # legs
+A person kicks a ball with their right foot. # 2.5 # 3.442 # right arm

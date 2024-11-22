@@ -1,0 +1,2 @@
+A person swings his right arm. # 0 # 3 # spine
+A person is throwing something with both hands overhead. # 2 # 3.25 # spine

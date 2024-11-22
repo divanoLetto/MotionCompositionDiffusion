@@ -1,0 +1,4 @@
+A person flings their left arm into the air. # 0 # 2.5 # left arm
+A person drops their left arm back to their waist. # 2.5 # 5 # left arm
+A person flings their right arm into the air. # 5 # 7.5 # right arm
+A person drops their right arm back to their waist. # 7.5 # 10.0 # right arm

@@ -1,0 +1,1 @@
+A person kneels and then does a dribbling motion with both hands. # 0 # 10.0 # left arm # right arm

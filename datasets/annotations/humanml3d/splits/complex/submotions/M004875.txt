@@ -1,0 +1,2 @@
+A person steps to the left. # 0 # 2 # spine
+A person twists their body to the right. # 2 # 10.0 # spine

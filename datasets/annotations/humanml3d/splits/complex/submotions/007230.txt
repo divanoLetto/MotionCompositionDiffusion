@@ -1,0 +1,2 @@
+A person is doing the macarena. # 0 # 6 # spine
+A person walks in a counterclockwise circle. # 6 # 10.0 # spine

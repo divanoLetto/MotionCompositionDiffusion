@@ -1,0 +1,3 @@
+A person raises their right arm. # 0 # 3 # right arm
+A person moves both arms in front of them. # 3 # 8 # right arm # left arm
+A person waves with their left hand. # 8 # 10.0 # left arm

@@ -1,0 +1,2 @@
+A person is dancing with their feet in circular motions.  # 0 # 5 # spine
+A person is moving their arms in a circular motion.  # 3 # 5.475 # spine

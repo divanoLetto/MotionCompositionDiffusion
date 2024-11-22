@@ -1,0 +1,3 @@
+person walks straight in pretty slow phase, turns around and walks in oppsite direction. # 0 # 6.06 # spine
+the person is walking and making a right turn. # 0 # 6.06 # spine
+a person slowly walked forward and returned back # 0 # 6.06 # spine

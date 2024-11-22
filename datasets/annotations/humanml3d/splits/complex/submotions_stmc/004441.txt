@@ -1,0 +1,2 @@
+A person raises both arms.  # 0 # 3 # right arm # left arm
+A person moves side to side.  # 3 # 10.0 # legs

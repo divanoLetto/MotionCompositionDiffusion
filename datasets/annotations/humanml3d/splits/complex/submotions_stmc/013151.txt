@@ -1,0 +1,2 @@
+A person walks in a zig-zag pattern. # 0 # 5.0 # legs
+A person continues to walk in a zig-zag pattern. # 5.0 # 10.0 # legs

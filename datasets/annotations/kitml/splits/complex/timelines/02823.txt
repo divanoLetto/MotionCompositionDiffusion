@@ -1,0 +1,3 @@
+A person raises their arms to the sides. # 0 # 5 # spine
+A person performs a movement with their hips. # 3 # 8 # spine
+A person lifts their arms above the head. # 6 # 10 # spine

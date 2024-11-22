@@ -1,0 +1,3 @@
+A person rotates his hips with his arms bent. # 0 # 3 # spine
+A person does body twists left to right. # 2 # 5 # spine
+A person leans from side to side. # 4 # 6.15 # spine

@@ -1,0 +1,2 @@
+A person raises their left arm while playing an instrument. # 0 # 3 # left arm
+A person raises their right arm while playing an instrument. # 3 # 7.51 # right arm

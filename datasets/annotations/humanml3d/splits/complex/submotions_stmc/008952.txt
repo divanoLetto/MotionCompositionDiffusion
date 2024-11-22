@@ -1,0 +1,2 @@
+A person raises both hands to signal.  # 0 # 4.0 # right arm # left arm
+A person waves with their left hand.  # 4.0 # 10.0 # left arm

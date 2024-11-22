@@ -1,0 +1,3 @@
+A person kicks with their legs. # 0 # 2.5 # legs
+A person flips backwards. # 2.5 # 5 # spine # legs # head
+A person lands on both feet. # 5 # 6.267 # legs

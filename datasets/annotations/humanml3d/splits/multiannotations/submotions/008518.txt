@@ -1,0 +1,3 @@
+person is leaving in a circular motion. # 0 # 6.57 # spine
+the man is standing in front of a counter and starts wiping the counter with a circular motion. # 0 # 6.57 # spine
+this person stand stills and uses his left arm as if to clean a counter. # 0 # 6.57 # spine

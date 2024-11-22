@@ -1,0 +1,2 @@
+A person shakes hands using both hands. # 0 # 4.0 # left arm # right arm
+A person continues to shake hands. # 4.0 # 10.0 # left arm # right arm

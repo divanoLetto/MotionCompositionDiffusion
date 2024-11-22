@@ -1,0 +1,2 @@
+a person is dribbling a ball # 0 # 3.0 # right arm # left arm
+a person steps to the right and then recovers their original position by stepping to the left # 3.0 # 3.992 # legs

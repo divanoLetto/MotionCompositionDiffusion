@@ -1,0 +1,2 @@
+A person holds their left hand on someone else's back. # 0 # 3 # left arm
+A person extends their left hand to hold their partner's hand. # 3 # 9.05 # left arm

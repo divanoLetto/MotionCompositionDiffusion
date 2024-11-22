@@ -1,0 +1,2 @@
+a person bends forward and flaps their arms like a chicken # 0 # 3 # spine # left arm # right arm
+a person raises their arms at the elbows and moves them up and down repeatedly # 3 # 3.26 # left arm # right arm

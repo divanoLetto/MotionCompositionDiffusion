@@ -1,0 +1,2 @@
+A person steps forward with their right foot. # 0 # 2 # spine
+A person makes a throwing motion with their left arm. # 0 # 10.0 # spine

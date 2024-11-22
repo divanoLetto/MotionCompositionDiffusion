@@ -1,0 +1,2 @@
+A person raises the left arm and moves the right arm to swing an object. # 0 # 4 # left arm # right arm
+A person raises the right arm to follow through. # 4 # 7.09 # right arm

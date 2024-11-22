@@ -1,0 +1,1 @@
+A person throws a ball with both hands. # 0 # 1.65 # right arm # left arm

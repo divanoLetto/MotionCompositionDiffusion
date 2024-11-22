@@ -1,0 +1,3 @@
+a person propels himself and takes a long jump # 0 # 3.908 # spine
+a person jumps forward and to the right. # 0 # 3.908 # spine
+a person slowly jumped forward # 0 # 3.908 # spine

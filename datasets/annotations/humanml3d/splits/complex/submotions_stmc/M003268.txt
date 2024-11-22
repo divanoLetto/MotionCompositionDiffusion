@@ -1,0 +1,2 @@
+A person walks diagonally to their left. # 0 # 5 # legs
+A person takes a step backward. # 5 # 10.0 # legs

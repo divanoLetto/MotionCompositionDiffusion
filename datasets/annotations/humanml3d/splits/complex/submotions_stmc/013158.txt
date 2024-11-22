@@ -1,0 +1,4 @@
+A person kicks with their right leg. # 0 # 3 # legs
+A person punches with their right hand. # 3 # 5 # right arm
+A person punches with their left hand. # 5 # 7 # left arm
+A person starts shadowboxing. # 7 # 10.000000000000004 # right arm # left arm

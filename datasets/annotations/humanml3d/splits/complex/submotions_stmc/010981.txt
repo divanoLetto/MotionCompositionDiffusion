@@ -1,0 +1,2 @@
+A person throws their hands in the air.  # 0 # 3 # right arm # left arm
+A person raises their arms up.  # 3 # 3.75 # right arm # left arm

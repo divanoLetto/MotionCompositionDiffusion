@@ -1,0 +1,2 @@
+A person throws a punch with their right arm. # 0 # 1.5 # right arm
+A person throws a right hook. # 1.5 # 1.55 # right arm

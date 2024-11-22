@@ -1,0 +1,2 @@
+A person leans to the left while shifting weight onto his left foot. # 0 # 3 # legs # spine
+A person extends both arms horizontally. # 3 # 6.675 # right arm # left arm

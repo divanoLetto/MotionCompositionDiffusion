@@ -1,0 +1,2 @@
+A person walks backwards with both arms at their side. # 0 # 6.39 # spine
+A person swings their arms around. # 5.0 # 6.65 # spine

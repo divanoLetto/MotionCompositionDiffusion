@@ -1,0 +1,2 @@
+A person kicks with their right leg. # 0 # 3 # legs
+A person punches forward with their right arm. # 3 # 10.0 # right arm

@@ -1,0 +1,3 @@
+A person raises both arms to shoulder height. # 0 # 5.4 # right arm # left arm
+A person performs a quick jab with their right arm. # 5.4 # 8.4 # right arm
+A person performs a quick jab with their left arm. # 8.4 # 10.0 # left arm

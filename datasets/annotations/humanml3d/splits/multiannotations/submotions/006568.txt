@@ -1,0 +1,3 @@
+a person wipes down a tabletop. # 0 # 7.69 # spine
+person is wiping table with left hand # 0 # 7.69 # spine
+uses left hand and circles it counter clock-wise. # 0 # 7.69 # spine

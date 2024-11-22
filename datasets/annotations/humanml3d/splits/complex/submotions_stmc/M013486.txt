@@ -1,0 +1,4 @@
+A person raises their left arm to throw. # 0 # 2.0 # left arm
+A person punches with the right hand. # 2.0 # 4.0 # right arm
+A person kicks with the right leg. # 4.0 # 7.0 # legs
+A person lowers their body slightly. # 7.0 # 9.400000000000002 # spine

@@ -1,0 +1,2 @@
+A person walks in a clockwise circle. # 0 # 6 # legs
+A person moves their arms in rhythm with the legs. # 6 # 10.0 # right arm # left arm

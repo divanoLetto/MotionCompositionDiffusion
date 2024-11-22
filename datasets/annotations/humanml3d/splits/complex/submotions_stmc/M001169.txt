@@ -1,0 +1,3 @@
+A person raises their left hand to punch.  # 0 # 3 # left arm
+A person raises their right hand to punch.  # 3 # 6 # right arm
+A person moves their legs while maintaining balance.  # 0 # 10.0 # legs

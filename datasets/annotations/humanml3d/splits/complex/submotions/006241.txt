@@ -1,0 +1,2 @@
+A person hops on their left foot then stands on both feet. # 0 # 2.5 # spine
+A person hops on their right foot then stands on both feet. # 2.5 # 4.9 # spine

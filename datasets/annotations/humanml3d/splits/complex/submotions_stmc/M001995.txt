@@ -1,0 +1,3 @@
+A person lowers both arms down to the side. # 0 # 3 # left arm # right arm
+A person extends the left arm out. # 3 # 7 # left arm
+A person raises and jabs with the left arm. # 7 # 10.0 # left arm

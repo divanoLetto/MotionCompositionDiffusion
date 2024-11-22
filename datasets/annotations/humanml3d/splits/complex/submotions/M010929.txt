@@ -1,0 +1,3 @@
+A person waves their arms around. # 0 # 3 # spine
+A person dances back and forth. # 2 # 7 # spine
+A person waves their arms while dancing. # 5 # 7.609999999999999 # spine

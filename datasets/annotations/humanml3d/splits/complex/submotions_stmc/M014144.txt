@@ -1,0 +1,4 @@
+A person walks forward.  # 0 # 2 # legs
+A person kicks with their left leg.  # 2 # 4 # legs
+A person dances some more.  # 4 # 5.75 # legs # spine
+A person kicks with their right leg.  # 5.75 # 9.25 # legs

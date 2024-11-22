@@ -1,0 +1,5 @@
+A person takes a few steps forward. # 0 # 2 # spine
+A person bends at the knees. # 2 # 4 # spine
+A person takes a step back. # 4 # 6 # spine
+A person shoots with both hands extended forward. # 6 # 10.0 # spine
+A person drops their hands. # 8 # 10.0 # spine

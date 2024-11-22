@@ -1,0 +1,2 @@
+A person moves their left arm in a circular motion.  # 0 # 4.4 # left arm
+A person moves their right arm in a circular motion.  # 4.4 # 8.88 # right arm

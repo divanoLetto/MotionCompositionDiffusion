@@ -1,0 +1,4 @@
+A person stands with arms out to the sides. # 0 # 2 # spine
+A person brings hands together in front of him. # 2 # 4 # spine
+A person leans forward. # 4 # 5.89 # spine
+A person strokes from left to right. # 4 # 5.89 # spine

@@ -1,0 +1,4 @@
+A person raises their right arm to throw something. # 0 # 2 # spine
+A person throws something with their right hand. # 2 # 7.199999999999999 # spine
+A person takes quick steps forward. # 2 # 5 # spine
+A person swings a racket with their left arm. # 5 # 7.199999999999999 # spine

@@ -1,0 +1,4 @@
+A person dances forward with their arms swinging. # 0 # 2 # spine
+A person kicks with their right foot. # 2 # 4 # spine
+A person dances some more. # 4 # 6 # spine
+A person kicks with their left foot. # 6 # 9.25 # spine

@@ -1,0 +1,2 @@
+A person raises their right arm to position for a putt. # 0 # 3 # right arm
+A person swings the right arm forward to make a putt. # 3 # 5.65 # right arm

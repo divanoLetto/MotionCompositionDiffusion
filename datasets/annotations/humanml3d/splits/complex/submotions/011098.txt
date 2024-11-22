@@ -1,0 +1,3 @@
+A person kicks backwards with their left leg. # 0 # 2 # spine
+A person dances in place. # 2 # 6 # spine
+A person raises their arms. # 6 # 7.367 # spine

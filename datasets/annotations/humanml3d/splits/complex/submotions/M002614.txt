@@ -1,0 +1,3 @@
+A person steps forward with their right foot. # 0 # 2 # spine
+A person kicks with their left foot. # 1 # 2.283 # spine
+A person returns to a fighting stance. # 2 # 2.283 # spine

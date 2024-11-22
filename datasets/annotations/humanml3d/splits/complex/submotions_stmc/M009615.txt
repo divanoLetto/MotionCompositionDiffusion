@@ -1,0 +1,2 @@
+A person raises both hands above their head.  # 0 # 5 # right arm # left arm
+A person brings one foot forward while holding arms outward. # 5 # 10.0 # legs # right arm # left arm

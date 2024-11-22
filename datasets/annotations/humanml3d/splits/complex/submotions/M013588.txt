@@ -1,0 +1,3 @@
+A person throws something with their left hand. # 0 # 2 # spine
+A person raises both arms above their head. # 2 # 10.0 # spine
+A person is preparing to shoot a basketball. # 4 # 10.0 # spine

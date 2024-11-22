@@ -1,0 +1,1 @@
+A person mimics a chicken by putting their hands under their armpits, flapping their arms, and bobbing their head. # 0 # 10.0 # right arm # left arm # head

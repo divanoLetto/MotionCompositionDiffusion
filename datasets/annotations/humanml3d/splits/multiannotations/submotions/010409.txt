@@ -1,0 +1,3 @@
+the person moves backwards as if pushed by someone in front of them. # 0 # 4.6 # spine
+a person loses balance and walks backwards to the right. # 0 # 4.6 # spine
+person stumbles to their left back diagonal. # 0 # 4.6 # spine

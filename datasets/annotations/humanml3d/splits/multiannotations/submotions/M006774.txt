@@ -1,0 +1,3 @@
+a person raised the hand and start to make some pushs # 0 # 6.708 # spine
+the persons turns sideways and does 2 push out movements with its arms. # 0 # 6.708 # spine
+a person turns facing their side, then does three rows with both arms, then turns back to start position. # 0 # 6.708 # spine

@@ -1,0 +1,3 @@
+a man takes small steps backwards and forwards, sits cross-legged on the ground, then returns to a standing position. # 0 # 10 # spine
+a person lowers and sits cross legged and then stands back up. # 0 # 10 # spine
+a person takes a few small steps back, steps forward, sits down on the ground, and then gets back up. # 0 # 10 # spine

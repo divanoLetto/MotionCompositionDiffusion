@@ -1,0 +1,2 @@
+A person holds both hands near their face. # 0 # 3 # spine
+A person raises their right arm to throw something. # 2 # 10 # spine

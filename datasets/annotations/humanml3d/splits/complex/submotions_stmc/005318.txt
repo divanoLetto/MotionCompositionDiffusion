@@ -1,0 +1,1 @@
+A person walks forward while making a dribbling motion with their right arm. # 0 # 1.783 # right arm # legs

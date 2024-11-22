@@ -1,0 +1,3 @@
+a person points forward with their right hand. # 0 # 4.075 # spine
+a person reaches forward with their right arm # 0 # 4.075 # spine
+a person rings doorbell with right hand. # 0 # 4.075 # spine

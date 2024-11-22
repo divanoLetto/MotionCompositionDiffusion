@@ -1,0 +1,2 @@
+A person is walking forward. # 0 # 6 # spine
+A person raises both arms to hit something. # 4 # 10.0 # spine

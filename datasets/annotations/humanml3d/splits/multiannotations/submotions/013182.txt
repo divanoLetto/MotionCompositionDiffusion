@@ -1,0 +1,3 @@
+person moves left and right leg slowly then quickly moves them in a fast motion # 0 # 4.133 # spine
+a person bounces quickly between their feet and moves their arms in time with their feet. # 0 # 4.133 # spine
+a person vigorously runs in place. # 0 # 4.133 # spine

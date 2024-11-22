@@ -1,0 +1,3 @@
+a person standing lifts their shoulders slightly and shimmies from side to side. # 0 # 2.4 # spine
+a person shrugs their shoulders and wiggles their arms. # 0 # 2.4 # spine
+a person shakes shoulders on the spot. # 0 # 2.4 # spine

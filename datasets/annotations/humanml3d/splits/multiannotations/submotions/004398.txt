@@ -1,0 +1,3 @@
+a man takes sideways steps to his right, then immediately takes sideways steps to his left back towards his original position. # 0 # 10 # spine
+a persons steps sideways to their right three times, then sideways to their left four times and finishes with a half sideways step to the right. # 0 # 10 # spine
+a person sidesteps to the right three times, sidesteps to the left 4 times, and then sidesteps to the right once. # 0 # 10 # spine

@@ -1,0 +1,3 @@
+a person walks slowly backwards # 0 # 9.72 # spine
+the person is backing up standing. # 0 # 9.72 # spine
+a person sways while walking backwards. # 0 # 9.72 # spine

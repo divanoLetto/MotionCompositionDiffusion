@@ -1,0 +1,3 @@
+a person bent slightly over and picked something up with right hand and turned to right and shaking item, looks as if is cooking and adding items to a pot of water. # 0 # 10 # spine
+a person picks something up with their left hand and begins rubbing their hands on something round in front of them that would be at their eye level # 0 # 10 # spine
+a person stands up from sitting on the ground, then runs to the left and jumps, then runs to the right and jumps. # 0 # 10 # spine

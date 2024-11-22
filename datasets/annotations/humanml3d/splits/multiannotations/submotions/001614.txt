@@ -1,0 +1,3 @@
+a person walks while dragging his feet. # 0 # 10 # spine
+a person staggers around slowly in an anticlockwise movement # 0 # 10 # spine
+the person is walking with a limp. # 0 # 10 # spine

@@ -1,0 +1,2 @@
+A person is moving their hands up and down. # 0 # 6 # spine
+A person is moving their legs like exercises. # 4 # 10.0 # spine

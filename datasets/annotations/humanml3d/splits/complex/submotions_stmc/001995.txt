@@ -1,0 +1,3 @@
+A person holds their arms straight out from their sides. # 0 # 3 # left arm # right arm
+A person puts their arms down by their sides. # 3 # 5 # left arm # right arm
+A person extends their right arm forward. # 5 # 10.0 # right arm

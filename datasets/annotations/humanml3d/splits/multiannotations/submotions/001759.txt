@@ -1,0 +1,3 @@
+he tries to clean the floor # 0 # 4.967 # spine
+person takes step down then two steps on the same spot and then big jump down and half turn to the right # 0 # 4.967 # spine
+a person walks forwards, and steps up and over a structure. # 0 # 4.967 # spine

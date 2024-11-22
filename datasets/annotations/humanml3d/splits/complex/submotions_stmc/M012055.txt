@@ -1,0 +1,4 @@
+A person walks forward a few steps. # 0 # 2.0 # legs
+A person stops. # 2.0 # 3.0 # legs
+A person pivots slightly to the right. # 3.0 # 4.0 # spine
+A person bends his arms in front of him. # 4.0 # 4.383 # right arm # left arm

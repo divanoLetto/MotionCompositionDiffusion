@@ -1,0 +1,2 @@
+A person raises both arms up. # 0 # 2 # spine
+A person moves their left arm in a circular motion. # 2 # 6.74 # spine

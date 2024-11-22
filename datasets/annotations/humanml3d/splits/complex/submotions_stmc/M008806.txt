@@ -1,0 +1,2 @@
+A person walks in a clockwise circle. # 0 # 6.67 # legs
+A person raises their right hand. # 0 # 6.67 # right arm

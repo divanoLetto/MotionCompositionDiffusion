@@ -1,0 +1,3 @@
+walking forward and then back. # 0 # 4.0 # spine
+a person steps forward, then quickly turns and steps backwards. # 0 # 4.0 # spine
+a person is walking and then turns around and walks back # 0 # 4.0 # spine

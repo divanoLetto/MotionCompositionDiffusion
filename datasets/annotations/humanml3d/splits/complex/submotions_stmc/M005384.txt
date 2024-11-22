@@ -1,0 +1,2 @@
+A person throws an uppercut punch with their right hand. # 0 # 1.5 # right arm
+A person moves their right hand upwards. # 1.5 # 1.75 # right arm

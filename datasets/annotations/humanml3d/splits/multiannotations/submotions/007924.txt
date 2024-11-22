@@ -1,0 +1,3 @@
+a person raised the hands grabbed something and made some jesture # 0 # 10 # spine
+spinning hands in a circle near chest. # 0 # 10 # spine
+a person signals with their hands by moving in a circular motion. # 0 # 10 # spine

@@ -1,0 +1,3 @@
+the person goes for a short jog # 0 # 4.01 # spine
+figure jogs forward, arms bent in front of them # 0 # 4.01 # spine
+a person drops their hands to their side in a somber gesture and walks slowly. # 0 # 4.01 # spine

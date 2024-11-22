@@ -1,0 +1,3 @@
+A person stands with their legs apart. # 0 # 3 # legs
+A person swings their right arm. # 3 # 6 # right arm
+A person swings their left arm. # 6 # 10.0 # left arm

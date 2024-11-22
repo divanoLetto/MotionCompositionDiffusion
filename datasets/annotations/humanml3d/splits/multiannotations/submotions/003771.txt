@@ -1,0 +1,3 @@
+a person acting like a tiger # 0 # 10 # spine
+the man is pretending to be a mouse # 0 # 10 # spine
+a boxer lumbers up ready for a fight with a series of faux jabs. # 0 # 10 # spine

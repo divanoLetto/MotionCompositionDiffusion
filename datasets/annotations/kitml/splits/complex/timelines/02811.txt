@@ -1,0 +1,2 @@
+A person throws something with their right hand. # 0 # 6 # spine
+A person throws something with their left hand. # 5 # 10 # spine

@@ -1,0 +1,3 @@
+a person starts in a squat position with both hands on their knees # 0 # 2 # legs # right arm # left arm # spine
+a person brushes their right knee # 2 # 7 # right arm # legs
+a person remains in a squat position # 7 # 10.0 # legs # spine

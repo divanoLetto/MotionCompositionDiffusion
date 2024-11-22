@@ -1,0 +1,5 @@
+A person jogs on the spot. # 0 # 2 # spine
+A person turns to the right. # 2 # 4 # spine
+A person holds both arms out to the sides and jabs with both hands. # 4 # 8 # spine
+A person turns to the left. # 8 # 9 # spine
+A person jogs on the spot. # 9 # 9.05 # spine

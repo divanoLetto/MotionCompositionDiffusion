@@ -1,0 +1,3 @@
+A person is walking forward. # 0 # 3 # legs
+A person is waving his left hand. # 3 # 6 # left arm
+A person raises his right arm. # 6 # 8.07 # right arm

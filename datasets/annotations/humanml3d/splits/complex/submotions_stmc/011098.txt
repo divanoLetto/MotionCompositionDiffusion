@@ -1,0 +1,2 @@
+A person moves their hips from right to left. # 0 # 3.0 # spine # legs
+A person raises both arms out to the side. # 3.0 # 7.367 # right arm # left arm

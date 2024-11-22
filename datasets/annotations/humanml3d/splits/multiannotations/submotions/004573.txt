@@ -1,0 +1,3 @@
+a person clas their hands out in front of them, drops them, then repeats. # 0 # 10 # spine
+a person standing in place claps both hands for a short while, stops and puts arms down, then begins to clap hands again. # 0 # 10 # spine
+a person claps, stops briefly, and then continues to clap # 0 # 10 # spine

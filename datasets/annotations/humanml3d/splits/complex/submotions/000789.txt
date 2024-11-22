@@ -1,0 +1,3 @@
+A person holds an object with his right hand. # 0 # 6 # spine
+A person is moving their hips repeatedly to the right and left. # 0 # 10.0 # spine
+A person steps side to side to the right. # 0 # 10.0 # spine

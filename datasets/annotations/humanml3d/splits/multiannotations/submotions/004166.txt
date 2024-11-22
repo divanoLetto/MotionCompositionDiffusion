@@ -1,0 +1,3 @@
+person walks forward and makes a clockwise motion with hands, and then moves to the left side. # 0 # 10 # spine
+a person is acting like a dog with their hands up at chest level and hopping around. # 0 # 10 # spine
+a man walks cautiously forward, opens something, and then walks to the left. # 0 # 10 # spine

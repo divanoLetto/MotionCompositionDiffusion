@@ -1,0 +1,4 @@
+A person raises their right arm to serve a ball. # 0 # 2 # right arm
+A person steps forward with their left leg. # 2 # 5 # legs
+A person swings their right arm forward. # 5 # 8 # right arm
+A person follows through with their right arm. # 8 # 10.0 # right arm

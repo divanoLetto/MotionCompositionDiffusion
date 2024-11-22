@@ -1,0 +1,3 @@
+walking backwards and stopping. # 0 # 4.9 # spine
+a man walks backwards without looking behind himself. # 0 # 4.9 # spine
+a person walks straight backwards. # 0 # 4.9 # spine

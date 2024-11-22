@@ -1,0 +1,2713 @@
+{
+    "000000": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000001": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000002": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000003": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000004": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000005": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000008": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "head"
+        ]
+    },
+    "000009": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000010": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000011": {
+        "body parts": [
+            "right arm",
+            "legs"
+        ]
+    },
+    "000012": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000013": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000014": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000017": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000018": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000019": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000020": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000021": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000022": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000023": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000024": {
+        "body parts": [
+            "right arm",
+            "left arm",
+            "head"
+        ]
+    },
+    "000026": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000027": {
+        "body parts": [
+            "right arm",
+            "legs"
+        ]
+    },
+    "000028": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000029": {
+        "body parts": [
+            "right arm",
+            "head"
+        ]
+    },
+    "000031": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000033": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000034": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000035": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000036": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000038": {
+        "body parts": [
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000039": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000040": {
+        "body parts": [
+            "head",
+            "spine"
+        ]
+    },
+    "000041": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000042": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000043": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000044": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000045": {
+        "body parts": [
+            "right arm",
+            "left arm",
+            "head"
+        ]
+    },
+    "000047": {
+        "body parts": [
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000048": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000049": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000050": {
+        "body parts": [
+            "legs",
+            "head"
+        ]
+    },
+    "000051": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000053": {
+        "body parts": [
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000054": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000055": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000056": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000057": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000058": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000059": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000060": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000061": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000062": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000063": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000064": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000066": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000067": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000069": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000073": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000074": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000075": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000076": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000077": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000078": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm",
+            "spine",
+            "head"
+        ]
+    },
+    "000080": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000081": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000083": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000084": {
+        "body parts": [
+            "head",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000086": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000087": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000089": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000090": {
+        "body parts": [
+            "legs",
+            "spine",
+            "legs"
+        ]
+    },
+    "000091": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000092": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000093": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000094": {
+        "body parts": [
+            "head",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000098": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000099": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000101": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000102": {
+        "body parts": [
+            "left arm"
+        ]
+    },
+    "000103": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000106": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000107": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000108": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000109": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000110": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000111": {
+        "body parts": [
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000112": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000113": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000114": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000115": {
+        "body parts": [
+            "legs",
+            "legs",
+            "legs",
+            "legs"
+        ]
+    },
+    "000116": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000117": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000118": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000119": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000122": {
+        "body parts": [
+            "left arm"
+        ]
+    },
+    "000123": {
+        "body parts": [
+            "right arm",
+            "head"
+        ]
+    },
+    "000124": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000126": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000127": {
+        "body parts": [
+            "left arm",
+            "head"
+        ]
+    },
+    "000128": {
+        "body parts": [
+            "legs",
+            "right arm"
+        ]
+    },
+    "000129": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000130": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000131": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000132": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000133": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000134": {
+        "body parts": [
+            "right arm",
+            "left arm",
+            "legs"
+        ]
+    },
+    "000136": {
+        "body parts": [
+            "head"
+        ]
+    },
+    "000137": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000139": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000140": {
+        "body parts": [
+            "left arm"
+        ]
+    },
+    "000142": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000144": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000145": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000146": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000147": {
+        "body parts": [
+            "legs",
+            "legs",
+            "legs",
+            "legs"
+        ]
+    },
+    "000148": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000149": {
+        "body parts": [
+            "head",
+            "right arm"
+        ]
+    },
+    "000150": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000151": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000152": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000153": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000155": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000156": {
+        "body parts": [
+            "head",
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000157": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000159": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000160": {
+        "body parts": [
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000162": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000163": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000164": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000165": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000166": {
+        "body parts": [
+            "right arm",
+            "head"
+        ]
+    },
+    "000167": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000169": {
+        "body parts": [
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000170": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000171": {
+        "body parts": [
+            "legs",
+            "left arm"
+        ]
+    },
+    "000173": {
+        "body parts": [
+            "legs",
+            "right arm"
+        ]
+    },
+    "000174": {
+        "body parts": [
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000175": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000176": {
+        "body parts": [
+            "left arm"
+        ]
+    },
+    "000177": {
+        "body parts": [
+            "legs",
+            "right arm"
+        ]
+    },
+    "000178": {
+        "body parts": [
+            "legs",
+            "left arm"
+        ]
+    },
+    "000180": {
+        "body parts": [
+            "right arm",
+            "left arm",
+            "legs"
+        ]
+    },
+    "000181": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000183": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000185": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm",
+            "legs",
+            "right arm",
+            "legs"
+        ]
+    },
+    "000186": {
+        "body parts": [
+            "legs",
+            "right arm"
+        ]
+    },
+    "000187": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000188": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000189": {
+        "body parts": [
+            "left arm"
+        ]
+    },
+    "000190": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000191": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000192": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000193": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "head"
+        ]
+    },
+    "000194": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "legs"
+        ]
+    },
+    "000195": {
+        "body parts": [
+            "right arm",
+            "head"
+        ]
+    },
+    "000070": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000096": {
+        "body parts": [
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000100": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000141": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000143": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000196": {
+        "body parts": [
+            "legs",
+            "right arm"
+        ]
+    },
+    "000197": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000198": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000199": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000200": {
+        "body parts": [
+            "legs",
+            "spine",
+            "legs"
+        ]
+    },
+    "000202": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000203": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000204": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000205": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000206": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000207": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000209": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000210": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000211": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000212": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000213": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000214": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000215": {
+        "body parts": [
+            "legs",
+            "legs"
+        ]
+    },
+    "000216": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "legs",
+            "legs"
+        ]
+    },
+    "000217": {
+        "body parts": [
+            "legs",
+            "spine",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000219": {
+        "body parts": [
+            "head",
+            "right arm"
+        ]
+    },
+    "000220": {
+        "body parts": [
+            "right arm",
+            "legs"
+        ]
+    },
+    "000221": {
+        "body parts": [
+            "left arm"
+        ]
+    },
+    "000222": {
+        "body parts": [
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000223": {
+        "body parts": [
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000224": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000225": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000226": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000227": {
+        "body parts": [
+            "legs",
+            "right arm"
+        ]
+    },
+    "000228": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000229": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000230": {
+        "body parts": [
+            "legs",
+            "right arm"
+        ]
+    },
+    "000231": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000234": {
+        "body parts": [
+            "head"
+        ]
+    },
+    "000235": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000236": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000237": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000239": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000240": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000006": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm",
+            "spine",
+            "head"
+        ]
+    },
+    "000104": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000179": {
+        "body parts": [
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000201": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000208": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000233": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000241": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000242": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000243": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000246": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000247": {
+        "body parts": [
+            "legs",
+            "head",
+            "spine"
+        ]
+    },
+    "000249": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000250": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000251": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000252": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000253": {
+        "body parts": [
+            "legs",
+            "spine",
+            "head"
+        ]
+    },
+    "000254": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000255": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000256": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000257": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000258": {
+        "body parts": [
+            "legs",
+            "spine",
+            "head"
+        ]
+    },
+    "000259": {
+        "body parts": [
+            "legs",
+            "head",
+            "spine"
+        ]
+    },
+    "000260": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "head"
+        ]
+    },
+    "000261": {
+        "body parts": [
+            "legs",
+            "spine",
+            "left arm",
+            "head"
+        ]
+    },
+    "000262": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000263": {
+        "body parts": [
+            "legs",
+            "spine",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000264": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000265": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "spine",
+            "head"
+        ]
+    },
+    "000266": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000267": {
+        "body parts": [
+            "legs",
+            "spine",
+            "head"
+        ]
+    },
+    "000268": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000270": {
+        "body parts": [
+            "legs",
+            "spine",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000271": {
+        "body parts": [
+            "left arm"
+        ]
+    },
+    "000272": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "head"
+        ]
+    },
+    "000273": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000274": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000275": {
+        "body parts": [
+            "legs",
+            "spine",
+            "head"
+        ]
+    },
+    "000276": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "head"
+        ]
+    },
+    "000279": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000280": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000281": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm",
+            "spine",
+            "head"
+        ]
+    },
+    "000282": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000283": {
+        "body parts": [
+            "legs",
+            "head",
+            "spine"
+        ]
+    },
+    "000284": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000285": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000286": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000287": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000288": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000289": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000290": {
+        "body parts": [
+            "left arm",
+            "legs",
+            "left arm",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000291": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000294": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm",
+            "head",
+            "spine"
+        ]
+    },
+    "000295": {
+        "body parts": [
+            "legs",
+            "spine",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000296": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000297": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000299": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000301": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "head"
+        ]
+    },
+    "000302": {
+        "body parts": [
+            "legs",
+            "spine",
+            "head"
+        ]
+    },
+    "000304": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000306": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000307": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000308": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000309": {
+        "body parts": [
+            "left arm"
+        ]
+    },
+    "000310": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000311": {
+        "body parts": [
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000312": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000313": {
+        "body parts": [
+            "legs",
+            "spine",
+            "right arm"
+        ]
+    },
+    "000314": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "head"
+        ]
+    },
+    "000315": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000316": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm",
+            "spine",
+            "head"
+        ]
+    },
+    "000317": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000318": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "legs",
+            "spine"
+        ]
+    },
+    "000319": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000320": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000321": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm",
+            "spine",
+            "head"
+        ]
+    },
+    "000322": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000323": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000324": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000325": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000326": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000327": {
+        "body parts": [
+            "right arm",
+            "spine",
+            "legs"
+        ]
+    },
+    "000328": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000329": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000330": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000331": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "spine"
+        ]
+    },
+    "000332": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000333": {
+        "body parts": [
+            "right arm",
+            "spine"
+        ]
+    },
+    "000334": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000335": {
+        "body parts": [
+            "left arm",
+            "head"
+        ]
+    },
+    "000336": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000337": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000338": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm",
+            "spine"
+        ]
+    },
+    "000339": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000340": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "head"
+        ]
+    },
+    "000341": {
+        "body parts": [
+            "right arm",
+            "legs",
+            "spine",
+            "head"
+        ]
+    },
+    "000342": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm",
+            "spine"
+        ]
+    },
+    "000343": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000344": {
+        "body parts": [
+            "left arm"
+        ]
+    },
+    "000346": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000347": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000348": {
+        "body parts": [
+            "legs",
+            "right arm"
+        ]
+    },
+    "000349": {
+        "body parts": [
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000350": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000351": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000352": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "head"
+        ]
+    },
+    "000353": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000354": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000355": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000356": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "spine",
+            "head"
+        ]
+    },
+    "000357": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000359": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000360": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000361": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "spine",
+            "head"
+        ]
+    },
+    "000362": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000363": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000365": {
+        "body parts": [
+            "legs",
+            "spine",
+            "head"
+        ]
+    },
+    "000366": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000367": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000368": {
+        "body parts": [
+            "legs",
+            "spine",
+            "head"
+        ]
+    },
+    "000369": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000370": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000371": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000374": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000375": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000376": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000378": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000380": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000381": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000382": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000383": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "left arm",
+            "spine"
+        ]
+    },
+    "000384": {
+        "body parts": [
+            "legs",
+            "spine",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000385": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000386": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000387": {
+        "body parts": [
+            "legs",
+            "spine",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000389": {
+        "body parts": [
+            "spine",
+            "head"
+        ]
+    },
+    "000390": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000391": {
+        "body parts": [
+            "legs",
+            "spine",
+            "head"
+        ]
+    },
+    "000392": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000393": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "head"
+        ]
+    },
+    "000394": {
+        "body parts": [
+            "legs",
+            "spine",
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000395": {
+        "body parts": [
+            "left arm"
+        ]
+    },
+    "000396": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000397": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000398": {
+        "body parts": [
+            "left arm"
+        ]
+    },
+    "000399": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000400": {
+        "body parts": [
+            "legs",
+            "right arm"
+        ]
+    },
+    "000401": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000403": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000404": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000405": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000406": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000407": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000408": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000409": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000410": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000412": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000413": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000414": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "spine",
+            "head"
+        ]
+    },
+    "000416": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000417": {
+        "body parts": [
+            "left arm",
+            "legs",
+            "spine"
+        ]
+    },
+    "000418": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000419": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000420": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000421": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000422": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000423": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000424": {
+        "body parts": [
+            "legs",
+            "spine",
+            "head"
+        ]
+    },
+    "000426": {
+        "body parts": [
+            "legs",
+            "spine",
+            "head"
+        ]
+    },
+    "000428": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000430": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000431": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000432": {
+        "body parts": [
+            "legs",
+            "spine",
+            "head"
+        ]
+    },
+    "000434": {
+        "body parts": [
+            "legs",
+            "right arm"
+        ]
+    },
+    "000436": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000437": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000438": {
+        "body parts": [
+            "spine",
+            "head"
+        ]
+    },
+    "000441": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "spine",
+            "head"
+        ]
+    },
+    "000443": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000444": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000446": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000447": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000448": {
+        "body parts": [
+            "legs",
+            "spine",
+            "head",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000449": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000450": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000451": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000452": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000453": {
+        "body parts": [
+            "head",
+            "legs",
+            "right arm",
+            "left arm",
+            "spine"
+        ]
+    },
+    "000454": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000455": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "spine",
+            "head"
+        ]
+    },
+    "000456": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000457": {
+        "body parts": [
+            "legs",
+            "right arm"
+        ]
+    },
+    "000458": {
+        "body parts": [
+            "legs",
+            "spine",
+            "head",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000460": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000462": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000463": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000464": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000465": {
+        "body parts": [
+            "legs",
+            "spine",
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000466": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000467": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000468": {
+        "body parts": [
+            "right arm",
+            "head"
+        ]
+    },
+    "000469": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000470": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000471": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000472": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "head"
+        ]
+    },
+    "000473": {
+        "body parts": [
+            "legs",
+            "spine",
+            "head"
+        ]
+    },
+    "000475": {
+        "body parts": [
+            "legs",
+            "spine",
+            "head"
+        ]
+    },
+    "000476": {
+        "body parts": [
+            "legs",
+            "head",
+            "spine"
+        ]
+    },
+    "000477": {
+        "body parts": [
+            "left arm",
+            "head"
+        ]
+    },
+    "000478": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000479": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000480": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000481": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000482": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000484": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000485": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000486": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000488": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "spine"
+        ]
+    },
+    "000489": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000491": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000492": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000493": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000495": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000496": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000497": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000499": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000500": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000501": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000502": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000503": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000504": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000506": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000507": {
+        "body parts": [
+            "right arm",
+            "legs",
+            "spine"
+        ]
+    },
+    "000508": {
+        "body parts": [
+            "right arm"
+        ]
+    },
+    "000510": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "head"
+        ]
+    },
+    "000511": {
+        "body parts": [
+            "left arm"
+        ]
+    },
+    "000515": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000516": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000517": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000518": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000519": {
+        "body parts": [
+            "right arm",
+            "left arm"
+        ]
+    },
+    "000520": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000521": {
+        "body parts": [
+            "legs"
+        ]
+    },
+    "000522": {
+        "body parts": [
+            "left arm",
+            "right arm"
+        ]
+    },
+    "000523": {
+        "body parts": [
+            "legs",
+            "right arm"
+        ]
+    },
+    "000524": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000526": {
+        "body parts": [
+            "legs",
+            "spine",
+            "head"
+        ]
+    },
+    "000528": {
+        "body parts": [
+            "legs",
+            "right arm",
+            "spine"
+        ]
+    },
+    "000529": {
+        "body parts": [
+            "legs",
+            "spine"
+        ]
+    },
+    "000530": {
+        "body parts": [
+            "legs",
+            "left arm",
+            "right arm",
+            "head",
+            "spine"
+        ]
+    },
+    "000531": {
+        "body parts": [
+            "left arm",
+            "right arm",
+            "head"
+        ]
+    }
+}

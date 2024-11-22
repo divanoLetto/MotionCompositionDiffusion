@@ -1,0 +1,4 @@
+a red a blue stick figure takes even steps walking forward starting on the left foot. # 0 # 4.41 # spine
+a person walks forward and towards the right hand side. # 0 # 4.41 # spine
+the person is walking in a straight line. # 0 # 4.41 # spine
+the figure facing forward, starting with its right, walks four steps in the direction it is facing. # 0 # 4.41 # spine

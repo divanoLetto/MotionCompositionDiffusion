@@ -1,0 +1,3 @@
+a person walks towards the right making a wide 's' shape. # 0 # 10 # spine
+person walks in a s-shape before coming to a stop # 0 # 10 # spine
+the man steps in an s shape. # 0 # 10 # spine

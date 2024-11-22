@@ -1,0 +1,3 @@
+A person holds hands at side, then moves left hand across body and up in front of body. # 0 # 4 # left arm
+A person raises their right arm to shoulder height and then lowers it. # 4 # 6 # right arm
+A person moves their right hand in a circular motion as if playing drums. # 6 # 10.0 # right arm

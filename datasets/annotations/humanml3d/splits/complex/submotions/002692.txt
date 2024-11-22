@@ -1,0 +1,2 @@
+A person blocks with their left arm. # 0 # 6 # spine
+A person dodges by moving their left arm. # 4 # 10.0 # spine

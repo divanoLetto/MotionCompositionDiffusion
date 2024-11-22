@@ -1,0 +1,2 @@
+A person turns their head to the right. # 0 # 3 # head
+A person turns their head to the left. # 3 # 6.45 # head

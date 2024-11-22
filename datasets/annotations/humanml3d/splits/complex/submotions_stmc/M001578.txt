@@ -1,0 +1,2 @@
+A person steps forward with their left foot. # 0 # 1.0 # legs
+A person throws a punch using their left hand. # 1.0 # 1.717 # left arm

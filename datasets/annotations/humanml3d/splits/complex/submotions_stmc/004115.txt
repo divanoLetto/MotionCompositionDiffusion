@@ -1,0 +1,2 @@
+A person gestures with both arms.  # 0 # 2 # right arm # left arm
+A person takes small steps to the side.  # 2 # 4.75 # legs

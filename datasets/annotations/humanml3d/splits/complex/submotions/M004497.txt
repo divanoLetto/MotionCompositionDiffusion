@@ -1,0 +1,3 @@
+A person bobs up and down in a boxing stance. # 0 # 4 # spine
+A person throws a left punch. # 2 # 6 # spine
+A person throws a right punch. # 6 # 10.0 # spine

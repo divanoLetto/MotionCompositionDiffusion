@@ -1,0 +1,3 @@
+a person takes in big steps in a hurry walking into the rectangular area while hands are dangling and swinging. # 0 # 2.85 # spine
+person walks forward quickly in the centre # 0 # 2.85 # spine
+person walks quickly down a short incline # 0 # 2.85 # spine

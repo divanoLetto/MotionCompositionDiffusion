@@ -1,0 +1,2 @@
+A person bounces on their feet. # 0 # 6 # spine
+A person moves their right arm up and back to the knee. # 0 # 10.0 # spine

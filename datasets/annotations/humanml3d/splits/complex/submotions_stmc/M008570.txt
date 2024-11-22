@@ -1,0 +1,2 @@
+A person takes small steps while moving forward. # 0 # 3.5 # legs
+A person continues to take small steps while moving forward. # 3.5 # 10.0 # legs

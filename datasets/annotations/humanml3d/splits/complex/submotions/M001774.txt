@@ -1,0 +1,2 @@
+A person holds both hands up towards their face. # 0 # 2 # spine
+A person advances forward in a straight line. # 2 # 3.733 # spine

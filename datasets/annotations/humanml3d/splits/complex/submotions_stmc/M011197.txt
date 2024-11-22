@@ -1,0 +1,2 @@
+A person walks forward.  # 0 # 4 # legs
+A person swings both arms in a rhythmic motion.  # 4 # 10.0 # right arm # left arm

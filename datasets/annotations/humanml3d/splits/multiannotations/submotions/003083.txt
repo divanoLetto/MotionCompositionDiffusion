@@ -1,0 +1,3 @@
+the person starts by sitting and dials with their right hand then holds the phone with their left and starts by turning in their chair, before standing up walking to the left around the back of the chair then sitting down again. # 0 # 10 # spine
+someone is sitting and pivoting back and forth before standing up and staggering back and forth. # 0 # 10 # spine
+a person is sitting with their feet on the floor, the rotate to the left before standing up, as they stand up the take a couple steps backwards, then proceed to go forward before bending over. # 0 # 10 # spine

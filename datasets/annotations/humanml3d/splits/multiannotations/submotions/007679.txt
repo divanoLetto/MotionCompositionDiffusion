@@ -1,0 +1,3 @@
+a person takes a step forward then shuffles to the left. they take a step back and shuffle to the right. they do both motions again, then turn to the right before taking a step forward. # 0 # 10 # spine
+the guy is stumbling around backwards and forwards. # 0 # 10 # spine
+he walks from one side to the other # 0 # 10 # spine

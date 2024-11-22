@@ -1,0 +1,2 @@
+The person is warming up their arms. # 0 # 6 # spine
+A person throws something with their right hand. # 6 # 10.0 # spine

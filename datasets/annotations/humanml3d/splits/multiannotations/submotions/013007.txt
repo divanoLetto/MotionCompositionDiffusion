@@ -1,0 +1,3 @@
+the man walks in a forward facing zig zag motion. # 0 # 10 # spine
+walking in a random pattern. # 0 # 10 # spine
+the person is walking back-and-forth in a wiggly line. # 0 # 10 # spine

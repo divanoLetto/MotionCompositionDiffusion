@@ -1,0 +1,2 @@
+A person waves with their left hand. # 0 # 4.108 # left arm
+A person swings their arms and moves their legs while dancing. # 4.108 # 10.0 # legs # right arm # left arm

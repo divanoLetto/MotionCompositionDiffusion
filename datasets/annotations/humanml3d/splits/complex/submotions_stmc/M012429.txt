@@ -1,0 +1,3 @@
+a person is stretching their left leg. # 0 # 3.0 # left arm # legs
+a person raises both arms above their head. # 3.0 # 6.0 # right arm # left arm
+a person is warming up their pectoral muscles. # 6.0 # 9.999999999999996 # spine

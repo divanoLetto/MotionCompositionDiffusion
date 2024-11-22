@@ -1,0 +1,4 @@
+A person raises their right arm in an undulating motion. # 0 # 3 # right arm
+A person raises their left arm in an undulating motion. # 3 # 6 # left arm
+A person turns their body to the left. # 6 # 8 # spine
+A person turns their body to the right. # 8 # 9.442 # spine

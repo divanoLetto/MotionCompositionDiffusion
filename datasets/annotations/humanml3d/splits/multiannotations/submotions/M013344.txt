@@ -1,0 +1,3 @@
+in a fighting stance, person punches downward with their right hand. # 0 # 2.175 # spine
+person is boxing with someone. # 0 # 2.175 # spine
+punching arms while standing still. # 0 # 2.175 # spine

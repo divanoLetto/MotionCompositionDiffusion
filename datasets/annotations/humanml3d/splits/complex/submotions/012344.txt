@@ -1,0 +1,2 @@
+A person takes a quick step to their left. # 0 # 1.467 # spine
+A person runs quickly forward. # 0.5 # 1.467 # spine

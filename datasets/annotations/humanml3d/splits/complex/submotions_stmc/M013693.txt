@@ -1,0 +1,2 @@
+A person walks forward.  # 0 # 5 # legs
+A person moves their arms up and down like in disco dancing.  # 5 # 9.867 # right arm # left arm

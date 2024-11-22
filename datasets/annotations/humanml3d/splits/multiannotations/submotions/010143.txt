@@ -1,0 +1,3 @@
+a person slowly walked forward # 0 # 4.36 # spine
+a man walks forward with a slight arc to the left. # 0 # 4.36 # spine
+the person is walking towards the left. # 0 # 4.36 # spine

@@ -1,0 +1,3 @@
+a stick figure jumps side ways. # 0 # 4.19 # spine
+a person takes a jump sideways to their right. # 0 # 4.19 # spine
+a man jumps to his right. # 0 # 4.19 # spine

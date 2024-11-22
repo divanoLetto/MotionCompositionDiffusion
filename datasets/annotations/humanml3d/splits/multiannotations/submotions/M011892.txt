@@ -1,0 +1,3 @@
+the person is running back-and-forth in a crescent shape # 0 # 10 # spine
+a person jogs around in a semi circle and then back, before walking. # 0 # 10 # spine
+a person was runnin by making the circle and return # 0 # 10 # spine

@@ -1,0 +1,2 @@
+A person runs forward and stops. # 0 # 2 # spine
+A person stands still. # 2 # 2.717 # spine

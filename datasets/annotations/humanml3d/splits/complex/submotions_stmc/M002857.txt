@@ -1,0 +1,2 @@
+A person sidesteps to their left. # 0 # 5 # legs
+A person sidesteps to their right. # 5 # 10.0 # legs

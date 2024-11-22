@@ -1,0 +1,3 @@
+A person stands still and raises both arms in front of them. # 0 # 5 # right arm # left arm
+A person lowers their arms back down. # 5 # 8 # right arm # left arm
+A person raises both arms out to the side. # 8 # 10.0 # right arm # left arm

@@ -1,0 +1,2 @@
+A person raises both arms to make signals.  # 0 # 5 # right arm # left arm
+A person moves their arms around.  # 5 # 10.000000000000002 # right arm # left arm

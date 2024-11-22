@@ -1,0 +1,3 @@
+person moves i a anticlockwise direction in a circle by sprinting # 0 # 2.542 # spine
+the person was running to the right and then to the left very quickly. # 0 # 2.542 # spine
+a person drives forward to the right and then curves to the left. # 0 # 2.542 # spine

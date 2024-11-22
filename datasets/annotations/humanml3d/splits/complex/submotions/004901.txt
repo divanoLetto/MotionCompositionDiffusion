@@ -1,0 +1,3 @@
+A person raises their right arm to strum. # 0 # 2 # spine
+A person moves their left hand in a circular motion. # 1 # 4 # spine
+A person continues to strum with their right hand. # 3 # 5.82 # spine

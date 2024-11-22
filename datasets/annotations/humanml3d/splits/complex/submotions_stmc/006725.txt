@@ -1,0 +1,3 @@
+A person sways their hips back and forth. # 0 # 4 # legs
+A person raises their arms from beside their body to shoulder height. # 4 # 8 # right arm # left arm
+A person moves their arms in small circles. # 8 # 10.0 # right arm # left arm

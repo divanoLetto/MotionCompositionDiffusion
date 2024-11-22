@@ -1,0 +1,2 @@
+A person raises their right arm to swing something. # 0 # 6 # spine
+A person steps forward while holding something with both hands. # 4 # 10.0 # spine

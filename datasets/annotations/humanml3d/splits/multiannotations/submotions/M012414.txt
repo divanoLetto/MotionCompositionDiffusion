@@ -1,0 +1,3 @@
+a person runs diagonally across a room with their arms swinging hands down. # 0 # 1.28 # spine
+a person runs slight towards the left. # 0 # 1.28 # spine
+a person runs forward with their arms swinging side to side in front of their body. # 0 # 1.28 # spine

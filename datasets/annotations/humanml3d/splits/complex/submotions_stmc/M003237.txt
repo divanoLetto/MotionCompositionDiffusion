@@ -1,0 +1,3 @@
+a person punches with their left hand # 0 # 2 # left arm
+a person punches with their right hand # 2 # 3.5 # right arm
+a person punches with their left hand # 3.5 # 3.933 # left arm

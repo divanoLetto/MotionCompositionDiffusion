@@ -1,0 +1,2 @@
+A person is running forward. # 0 # 3 # spine
+A person raises both arms out to the side. # 2 # 5.85 # spine

@@ -1,0 +1,4 @@
+A person does a squat. # 0 # 3 # legs # spine
+A person stands up. # 3 # 5 # legs # spine
+A person spins in a clockwise circle. # 5 # 8 # spine # legs
+A person continues to dance. # 8 # 9.0 # spine

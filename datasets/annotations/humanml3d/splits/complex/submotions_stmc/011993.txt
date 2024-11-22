@@ -1,0 +1,2 @@
+A person raises their left arm as if playing something.  # 0 # 4 # left arm
+A person moves their right arm as if playing something.  # 4 # 9.2 # right arm

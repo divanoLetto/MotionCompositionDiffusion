@@ -1,0 +1,3 @@
+a man continuing bending forward at the waist with his arms dangling in front of him. # 0 # 10 # spine
+stretching while standing still. # 0 # 10 # spine
+the sim is standing at a crouch, shaking both arms in front of them in a defensive position. # 0 # 10 # spine

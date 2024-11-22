@@ -1,0 +1,2 @@
+A person puts both hands together. # 0 # 2 # spine
+A person swings both arms to the left. # 2 # 7.51 # spine

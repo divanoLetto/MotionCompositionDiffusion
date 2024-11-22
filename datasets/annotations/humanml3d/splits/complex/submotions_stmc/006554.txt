@@ -1,0 +1,3 @@
+A person stands still with arms raised.  # 0 # 2 # spine # right arm # left arm
+A person jumps up. # 2 # 4 # spine # legs
+A person lands and lowers their arms. # 4 # 8.7 # spine # right arm # left arm

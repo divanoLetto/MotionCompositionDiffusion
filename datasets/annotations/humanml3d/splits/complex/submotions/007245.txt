@@ -1,0 +1,3 @@
+A person raises their right arm. # 0 # 2 # spine
+A person holds up both arms. # 2 # 2.95 # spine
+A person is making a throwing motion. # 2.5 # 2.95 # spine

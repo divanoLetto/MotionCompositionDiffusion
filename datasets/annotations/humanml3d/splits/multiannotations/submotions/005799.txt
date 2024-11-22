@@ -1,0 +1,3 @@
+man walks forward while upper body is leaning slightly to the left and steps are unbalanced and slow. # 0 # 10 # spine
+person staggers side to side from a standing position # 0 # 10 # spine
+a person hobbles around trying to walk. # 0 # 10 # spine

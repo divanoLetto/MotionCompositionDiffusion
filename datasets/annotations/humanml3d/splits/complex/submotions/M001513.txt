@@ -1,0 +1,2 @@
+A person is moving left and right briskly. # 0 # 6 # spine
+A person raises their left arm out to the side. # 4 # 10.0 # spine

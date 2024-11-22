@@ -1,0 +1,2 @@
+A person raises their right arm.  # 0 # 2 # right arm
+A person swings their right arm in a wide circle.  # 2 # 6.03 # right arm

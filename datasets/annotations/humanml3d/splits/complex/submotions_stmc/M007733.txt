@@ -1,0 +1,2 @@
+A person drops their hands to their sides. # 0 # 2.5 # right arm # left arm
+A person stands in a dancing stance. # 2.5 # 10.0 # spine # legs

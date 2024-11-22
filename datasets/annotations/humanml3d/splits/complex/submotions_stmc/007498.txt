@@ -1,0 +1,4 @@
+A person stands still with arms crossed over chest. # 0 # 3 # left arm # right arm
+A person jumps upward while using their arms. # 3 # 6 # spine # legs # left arm # right arm
+A person holds an object with both hands and pushes it. # 6 # 9 # left arm # right arm
+A person jumps upwards while shooting with one hand. # 9 # 10.0 # spine # legs # right arm

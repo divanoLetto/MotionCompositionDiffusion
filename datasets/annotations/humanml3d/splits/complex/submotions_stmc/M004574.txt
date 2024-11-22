@@ -1,0 +1,2 @@
+A person uses his right arm to describe something. # 0 # 3 # right arm
+A person pretends to play golf with his left arm. # 3 # 10.0 # left arm

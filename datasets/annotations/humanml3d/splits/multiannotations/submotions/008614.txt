@@ -1,0 +1,3 @@
+a man slowly leans forward and moves around and carries a heavy object. # 0 # 10 # spine
+a person leans forward then hops back trying to catch something # 0 # 10 # spine
+the figure man is moving in a theatrical ways, hunching and walking sadly and dramatically. # 0 # 10 # spine

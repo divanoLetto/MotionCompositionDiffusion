@@ -1,0 +1,3 @@
+a person bends both arms up and down at the elbow twice. # 0 # 2.0 # spine
+a person plays drums while standing up. # 0 # 2.0 # spine
+a person strikes something with with his left hand while repeatedly striking something with his right hand # 0 # 2.0 # spine

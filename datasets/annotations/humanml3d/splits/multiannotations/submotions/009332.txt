@@ -1,0 +1,3 @@
+walking forward and then stopping. # 0 # 10 # spine
+the person is walking back and forth. # 0 # 10 # spine
+the person quickly walks forward, and picks something up. # 0 # 10 # spine

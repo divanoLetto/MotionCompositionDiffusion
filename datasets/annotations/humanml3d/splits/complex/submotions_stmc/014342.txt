@@ -1,0 +1,2 @@
+A person strikes with their right arm. # 0 # 5 # right arm
+A person kicks with their left leg. # 5 # 10.0 # legs

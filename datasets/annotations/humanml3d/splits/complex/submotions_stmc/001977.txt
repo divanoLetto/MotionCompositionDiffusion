@@ -1,0 +1,2 @@
+A person hops forward on only their left foot. # 0 # 2.0 # legs
+A person takes small hops on their left foot. # 2.0 # 3.408 # legs

@@ -1,0 +1,3 @@
+A person swings their arms below the waist. # 0 # 3 # right arm # left arm
+A person hesitates while pivoting back and forth. # 3 # 7 # spine
+A person swings their arms over their torso. # 7 # 10.0 # right arm # left arm

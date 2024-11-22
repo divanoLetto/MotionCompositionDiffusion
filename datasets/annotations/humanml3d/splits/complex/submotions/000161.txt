@@ -1,0 +1,4 @@
+A person runs forward quickly. # 0 # 3 # spine
+A person bends down to catch something with their right hand. # 2 # 5 # spine
+A person backs up while standing straight. # 5 # 8 # spine
+A person bends down to catch something with their right hand again. # 6 # 8.65 # spine

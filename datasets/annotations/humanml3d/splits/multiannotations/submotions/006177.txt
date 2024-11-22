@@ -1,0 +1,3 @@
+waving hands in and out. # 0 # 10 # spine
+a person raises both arms and waves. # 0 # 10 # spine
+he waves both of his hands # 0 # 10 # spine

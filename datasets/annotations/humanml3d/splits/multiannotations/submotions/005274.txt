@@ -1,0 +1,3 @@
+a person brings their right arm up and bends their elbow so it is across their stomach. # 0 # 3.175 # spine
+the person checks their right wrist as if checking the time. # 0 # 3.175 # spine
+a person standing in one spot lifts their right wrist up to their face like they are checking the time on their watch. # 0 # 3.175 # spine

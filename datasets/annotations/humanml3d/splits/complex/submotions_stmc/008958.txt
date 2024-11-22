@@ -1,0 +1,2 @@
+A man holds an object with his left hand. # 0 # 4.0 # left arm
+A man holds an object with his right hand. # 4.0 # 8.350000000000001 # right arm

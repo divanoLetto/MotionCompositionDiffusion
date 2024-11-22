@@ -1,0 +1,3 @@
+A person is warming up their body like preparing for a sport. # 0 # 5 # spine
+A person performs a punching motion. # 4 # 10 # spine
+A person is moving both arms up and down towards the side. # 6 # 10 # spine

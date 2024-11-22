@@ -1,0 +1,2 @@
+A person skates forward using their legs. # 0 # 5 # legs
+A person glides while balancing with their spine. # 5 # 10.0 # spine # legs

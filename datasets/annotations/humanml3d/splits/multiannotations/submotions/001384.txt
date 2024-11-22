@@ -1,0 +1,3 @@
+a person lifts his left hand and waves his hand to say hello then puts left hand back down # 0 # 5.43 # spine
+a person waves their left hand out in front of their chest. # 0 # 5.43 # spine
+a man waves with his left hand. # 0 # 5.43 # spine

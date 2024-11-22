@@ -1,0 +1,2 @@
+A person swings their arms from side to side.  # 0 # 5 # right arm # left arm
+A person steps from side to side.  # 5 # 10.0 # legs

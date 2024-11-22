@@ -1,0 +1,3 @@
+person is making stepping motion in place # 0 # 3.37 # spine
+a person person walks up something. # 0 # 3.37 # spine
+walking forward and stomping feet. # 0 # 3.37 # spine

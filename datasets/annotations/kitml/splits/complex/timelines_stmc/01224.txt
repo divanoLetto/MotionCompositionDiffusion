@@ -1,0 +1,2 @@
+A person spreads his arms like a bird. # 0 # 4 # left arm # right arm
+A person goes down to its knees. # 4 # 9.05 # legs

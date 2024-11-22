@@ -1,0 +1,2 @@
+A person raises both arms while stepping back and forth.  # 0 # 4 # right arm # left arm # legs
+A person turns and keeps moving side to side.  # 4 # 7.717 # spine # legs

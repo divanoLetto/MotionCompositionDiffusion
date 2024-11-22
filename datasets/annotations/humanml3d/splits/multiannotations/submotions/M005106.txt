@@ -1,0 +1,3 @@
+a person is bent over with their arms around a dog. they bounce around, let the dog stand up and pet it. they let the dog sit down, look around, and lift the dog up momentarily before putting him back down to their original position. # 0 # 10 # spine
+the person is pretending he’s a dog. # 0 # 10 # spine
+the dog runs and jumps to its owner # 0 # 10 # spine

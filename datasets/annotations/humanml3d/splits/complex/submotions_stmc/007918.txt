@@ -1,0 +1,2 @@
+A person is sitting down in a chair. # 0 # 2 # spine # legs
+A person raises both arms. # 2 # 5.05 # right arm # left arm

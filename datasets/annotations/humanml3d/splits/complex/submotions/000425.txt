@@ -1,0 +1,3 @@
+a person takes a step back with their right foot. # 0 # 2 # spine
+a person throws a punch with their left hand. # 1.5 # 4 # spine
+a person throws a punch with their right hand. # 3 # 6.65 # spine

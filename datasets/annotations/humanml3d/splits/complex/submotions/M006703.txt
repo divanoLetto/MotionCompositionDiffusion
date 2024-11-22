@@ -1,0 +1,2 @@
+A person stands with their feet apart and raises both arms.  # 0 # 1.0 # spine
+A person swings their right arm forward.  # 0.5 # 1.0 # spine

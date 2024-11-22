@@ -1,0 +1,3 @@
+A person raises his left arm and right arm to the side. # 0 # 3 # left arm # right arm
+A person performs a step with their legs. # 3 # 10 # legs
+A person performs a second step with their legs. # 10 # 12.03 # legs

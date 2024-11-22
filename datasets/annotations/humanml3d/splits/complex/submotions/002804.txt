@@ -1,0 +1,2 @@
+A person is moving his arms and head like a chicken. # 0 # 5 # spine
+A person is doing upper body stretches. # 5 # 8.832999999999998 # spine

@@ -1,0 +1,2 @@
+A person moves both hands rapidly in forward circles, and up and down, in front of them while standing still. # 0 # 6 # spine
+The toon is standing still, raising both arms in a shaking motion. # 5 # 10.0 # spine

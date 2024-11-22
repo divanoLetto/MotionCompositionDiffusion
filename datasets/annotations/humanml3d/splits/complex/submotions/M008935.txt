@@ -1,0 +1,2 @@
+a person seems angry, they aggressively pounce forward then continue to make angry gestures and swing their arms. # 0 # 6 # spine
+a person is jumping up and down slightly on the spot. # 4 # 10.0 # spine

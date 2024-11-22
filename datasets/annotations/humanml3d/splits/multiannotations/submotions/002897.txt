@@ -1,0 +1,2 @@
+a person jauntily skips forward. # 0 # 5.983 # spine
+a person playfully walks forwards, hopping slightly with each step. # 0 # 5.983 # spine

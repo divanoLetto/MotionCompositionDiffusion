@@ -1,0 +1,2 @@
+A person stands still and raises both hands above his head. # 0 # 6 # spine
+A person is making a throwing motion with his left arm. # 4 # 10.0 # spine

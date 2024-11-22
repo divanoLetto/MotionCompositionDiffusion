@@ -1,0 +1,3 @@
+person is doing across punch to the right. # 0 # 2.45 # spine
+a person positions his arms and legs and uses the right arm to punch to the left. # 0 # 2.45 # spine
+a person punches forward with their left hand # 0 # 2.45 # spine

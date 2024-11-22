@@ -1,0 +1,2 @@
+A person swings their arms around like a monkey. # 0 # 6.0 # right arm # left arm
+A person kicks with their right leg. # 6.0 # 10.0 # legs

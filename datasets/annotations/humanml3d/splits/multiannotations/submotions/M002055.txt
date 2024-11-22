@@ -1,0 +1,3 @@
+a person bends at the waist, picks something up, then puts it down at waist level # 0 # 7.817 # spine
+this man bends down to pick up a box or ball, and then puts it on a shelf, which is on his chest level. # 0 # 7.817 # spine
+the body bends over to touch the toes and stands back up pushing the arms forward. # 0 # 7.817 # spine

@@ -1,0 +1,3 @@
+A man is walking forward slowly. # 0 # 3 # legs
+A man uses both arms to make jabbing motions. # 3 # 8 # right arm # left arm
+A man raises his body to a standing position. # 8 # 10.0 # spine

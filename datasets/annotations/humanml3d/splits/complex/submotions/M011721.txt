@@ -1,0 +1,2 @@
+a person is jumping in a circle. # 0 # 6 # spine
+a person is waving their arms in the air. # 4 # 10.0 # spine

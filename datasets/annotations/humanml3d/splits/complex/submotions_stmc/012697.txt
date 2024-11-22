@@ -1,0 +1,2 @@
+A person is sitting down and moving both hands together near their head. # 0 # 2.3 # left arm # right arm
+A person is using their arms to drum. # 2.3 # 7.15 # left arm # right arm

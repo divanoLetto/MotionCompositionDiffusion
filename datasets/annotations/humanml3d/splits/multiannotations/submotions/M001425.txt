@@ -1,0 +1,3 @@
+a person holding their right knee up in their air. # 0 # 10 # spine
+a man bends and moves his left leg while holding it. # 0 # 10 # spine
+the man stretches and kicks his right leg. # 0 # 10 # spine

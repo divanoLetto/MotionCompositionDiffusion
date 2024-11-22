@@ -1,0 +1,2 @@
+a person is holding something with both hands. # 0 # 6 # spine
+a person swings their arms back and forth. # 4 # 10.0 # spine

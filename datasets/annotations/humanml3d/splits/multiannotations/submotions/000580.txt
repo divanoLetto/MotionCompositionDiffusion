@@ -1,0 +1,3 @@
+looks like he walks through a door to turn to the right and go straight forward # 0 # 3.06 # spine
+a man first walks forward and then to the right. # 0 # 3.06 # spine
+person leads right then left feet forward in left to right half circle then stops # 0 # 3.06 # spine

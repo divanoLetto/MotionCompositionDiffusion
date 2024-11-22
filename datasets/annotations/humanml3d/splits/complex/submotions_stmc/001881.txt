@@ -1,0 +1,4 @@
+A person throws a left hook. # 0 # 1.4 # left arm
+A person throws a right hook. # 1.4 # 2.8 # right arm
+A person throws a jab with their right arm. # 2.8 # 5.0 # right arm
+A person makes a spartan kick. # 5.0 # 10.0 # legs

@@ -1,0 +1,3 @@
+a man walks forward with his hands down stiffly at his sides. # 0 # 5.14 # spine
+person casually walks in forward motion # 0 # 5.14 # spine
+the man takes 4 steps forward starting with his right foot. # 0 # 5.14 # spine

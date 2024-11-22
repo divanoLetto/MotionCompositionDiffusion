@@ -1,0 +1,4 @@
+A person is bouncing something between both hands. # 0 # 2 # spine
+A person takes two steps forward. # 2 # 4 # spine
+A person jumps up with both arms raised. # 4 # 5.783 # spine
+A person is throwing something with both hands. # 5 # 5.783 # spine

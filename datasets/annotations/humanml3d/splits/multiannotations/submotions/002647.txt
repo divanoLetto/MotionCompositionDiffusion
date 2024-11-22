@@ -1,0 +1,3 @@
+person walks on hands and knees then stands up. # 0 # 10 # spine
+person on hands and knees moves forward five paces and gets up # 0 # 10 # spine
+a person is crawling and then stands up. # 0 # 10 # spine

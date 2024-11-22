@@ -1,0 +1,3 @@
+a person has both hands on his legs. # 0 # 7.46 # spine
+a person sits on a stool, # 0 # 7.46 # spine
+person stays still while their knees are slightly bent. look to be relatively still # 0 # 7.46 # spine

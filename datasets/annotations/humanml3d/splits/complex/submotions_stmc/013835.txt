@@ -1,0 +1,2 @@
+A person sways slowly from side to side. # 0 # 4 # spine # legs
+A person moves their arms side to side. # 4 # 8.433 # right arm # left arm

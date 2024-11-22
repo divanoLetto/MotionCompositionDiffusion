@@ -1,0 +1,3 @@
+A person performs a kicking motion with the right leg. # 0 # 4 # spine
+A person raises their arms to the side. # 2 # 6 # spine
+A person walks forward. # 5 # 8.433 # spine

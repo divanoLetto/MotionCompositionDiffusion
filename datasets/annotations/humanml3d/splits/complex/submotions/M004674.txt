@@ -1,0 +1,2 @@
+A person moves his right arm in the air. # 0 # 2.4 # spine
+A person moves his left arm up. # 0 # 2.4 # spine

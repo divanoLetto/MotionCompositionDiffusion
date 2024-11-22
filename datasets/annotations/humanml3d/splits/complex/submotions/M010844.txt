@@ -1,0 +1,4 @@
+A person raises their left hand to prepare to throw. # 0 # 3 # spine
+A person holds something with their left hand. # 2 # 5 # spine
+A person swings their left arm back. # 4 # 7 # spine
+A person throws something with their left arm. # 6 # 10 # spine

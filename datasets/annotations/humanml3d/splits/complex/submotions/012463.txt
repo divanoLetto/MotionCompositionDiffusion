@@ -1,0 +1,2 @@
+A person raises their right hand.  # 0 # 2 # spine
+A person strums with their right hand.  # 2 # 5.96 # spine

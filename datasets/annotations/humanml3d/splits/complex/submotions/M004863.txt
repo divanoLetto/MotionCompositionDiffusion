@@ -1,0 +1,3 @@
+A person walks forward. # 0 # 4 # spine
+A person raises their arms out to the side. # 3 # 7 # spine
+A person sways gently while holding their partner. # 6 # 10.0 # spine

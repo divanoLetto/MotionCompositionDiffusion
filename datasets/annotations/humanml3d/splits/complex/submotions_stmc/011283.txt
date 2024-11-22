@@ -1,0 +1,2 @@
+A person extends their left arm across the body.  # 0 # 5 # left arm
+A person moves their right arm side to side.  # 5 # 10.0 # right arm

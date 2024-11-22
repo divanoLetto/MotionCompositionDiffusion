@@ -1,0 +1,3 @@
+a person who is standing with his hands by his sides takes four very slow steps forward. # 0 # 6.2 # spine
+the person walks forward, somewhat slowly. # 0 # 6.2 # spine
+the person walks forward very slow # 0 # 6.2 # spine

@@ -1,0 +1,2 @@
+A person runs forward using both legs. # 0 # 2.0 # legs
+A person kicks with their right foot. # 2.0 # 3.633 # right arm

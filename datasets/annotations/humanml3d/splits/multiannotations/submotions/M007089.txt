@@ -1,0 +1,3 @@
+a person laying face down on the ground and then slowly crawling backwards # 0 # 10 # spine
+a person slowly crawls backwards on the ground. # 0 # 10 # spine
+a person crawling backwards slowly. # 0 # 10 # spine

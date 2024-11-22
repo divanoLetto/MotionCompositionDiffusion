@@ -1,0 +1,4 @@
+A person is moving their hands up and down. # 0 # 3 # right arm # left arm
+A person swings their right arm to the left. # 3 # 5 # right arm
+A person bends forward from the hips. # 5 # 8 # spine
+A person moves their body around. # 8 # 10.0 # spine # legs

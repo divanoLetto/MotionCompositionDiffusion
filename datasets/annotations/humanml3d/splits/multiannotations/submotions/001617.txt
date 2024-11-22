@@ -1,0 +1,3 @@
+a person walking one way and then increasing pace running back # 0 # 10 # spine
+a person walks straight forward, turns, then runs back # 0 # 10 # spine
+a man walks forward before turning around and running back. # 0 # 10 # spine

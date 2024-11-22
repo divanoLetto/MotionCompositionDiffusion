@@ -1,0 +1,5 @@
+A person goes one step forward. # 0 # 2.0 # legs
+A person goes one step backward. # 2.0 # 4.0 # legs
+A person goes one step forward. # 4.0 # 6.0 # legs
+A person goes one step backward. # 6.0 # 10.0 # legs
+A person is dancing. # 10.0 # 21.38 # spine # left arm # right arm

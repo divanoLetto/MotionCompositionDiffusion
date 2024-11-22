@@ -1,0 +1,4 @@
+A person positions into a ballet pose. # 0 # 3 # legs # spine
+A person flutters their hands in circular motions. # 3 # 6 # left arm # right arm
+A person steps into a spin using their legs. # 6 # 8 # legs # spine
+A person kicks with their right leg. # 8 # 9.925 # right arm # legs

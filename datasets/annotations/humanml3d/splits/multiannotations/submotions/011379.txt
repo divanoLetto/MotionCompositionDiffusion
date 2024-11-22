@@ -1,0 +1,3 @@
+the person was jogging in place. # 0 # 5.175 # spine
+a person jogs on the spot # 0 # 5.175 # spine
+the sim is jogging in place. # 0 # 5.175 # spine

@@ -1,0 +1,1 @@
+A person moves their right hand as if strumming a guitar. # 0 # 6.66 # right arm

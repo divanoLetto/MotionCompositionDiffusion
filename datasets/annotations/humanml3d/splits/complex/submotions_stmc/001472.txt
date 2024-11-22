@@ -1,0 +1,2 @@
+A person walks in a circular counterclockwise path. # 0 # 5.32 # legs
+A person walks forward. # 5.32 # 9.275 # legs

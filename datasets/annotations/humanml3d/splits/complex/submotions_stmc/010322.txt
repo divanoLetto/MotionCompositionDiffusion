@@ -1,0 +1,3 @@
+A person jabs with their right arm. # 0 # 3 # right arm
+A person crouches down. # 3 # 5 # spine
+A person jabs with their right arm. # 5 # 10.0 # right arm

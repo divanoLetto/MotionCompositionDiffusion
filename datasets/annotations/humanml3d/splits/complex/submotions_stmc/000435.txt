@@ -1,0 +1,2 @@
+a person raises both hands in front of them. # 0 # 3 # right arm # left arm
+a person is moving side to side trying to dodge something. # 3 # 6.65 # spine # legs

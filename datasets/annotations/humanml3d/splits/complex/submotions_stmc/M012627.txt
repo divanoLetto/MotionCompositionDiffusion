@@ -1,0 +1,2 @@
+A person is standing on one leg. # 0 # 6 # legs
+A person dances around using their legs. # 6 # 9.125 # legs

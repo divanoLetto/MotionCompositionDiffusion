@@ -1,0 +1,2 @@
+A person balances on the right leg and makes wide circles with the left leg. # 0 # 10 # spine
+The person is trying to keep his balance. # 0 # 10 # spine

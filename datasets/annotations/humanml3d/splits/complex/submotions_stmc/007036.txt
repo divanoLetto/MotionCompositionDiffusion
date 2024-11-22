@@ -1,0 +1,3 @@
+A person stands in one place while their arms and upper body move around. # 0 # 4.0 # right arm # left arm # spine
+A person raises their arms up and sways again. # 4.0 # 6.0 # right arm # left arm
+A person swings both arms forward. # 6.0 # 10.0 # right arm # left arm

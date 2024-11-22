@@ -1,0 +1,3 @@
+someone appears to be stretching they turn their upper body in a counter clockwise direction and then leans upper body from side to side # 0 # 10 # spine
+a person turns with their arms to stretch. # 0 # 10 # spine
+a person is stretching side to side and back about to lean forward. # 0 # 10 # spine

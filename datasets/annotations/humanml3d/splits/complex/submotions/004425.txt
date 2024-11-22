@@ -1,0 +1,3 @@
+A person stands in a fighting stance.  # 0 # 1.0 # spine
+A person kicks with their left leg.  # 0.5 # 1.0 # spine
+A person kicks the air in front of them.  # 0.8 # 1.0 # spine

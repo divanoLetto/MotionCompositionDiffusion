@@ -1,0 +1,3 @@
+A person is swinging his arms back-and-forth like a monkey. # 0 # 5 # right arm # left arm
+A person is moving their hips repeatedly to the left and right. # 0 # 5 # spine # legs
+A person lifts both arms above their head. # 5 # 10.0 # right arm # left arm

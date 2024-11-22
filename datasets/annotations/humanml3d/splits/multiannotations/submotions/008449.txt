@@ -1,0 +1,3 @@
+person stands there and looks around. # 0 # 10 # spine
+person is exercising their neck # 0 # 10 # spine
+a person is rotating their neck. # 0 # 10 # spine

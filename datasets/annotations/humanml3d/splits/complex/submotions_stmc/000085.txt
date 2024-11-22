@@ -1,0 +1,2 @@
+A person raises their left arm.  # 0 # 3 # left arm
+A person makes strumming motions with their right arm. # 3 # 6.07 # right arm

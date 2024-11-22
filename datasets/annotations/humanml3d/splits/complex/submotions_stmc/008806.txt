@@ -1,0 +1,3 @@
+A person gestures with their left hand. # 0 # 3.0 # left arm
+A person raises their left hand. # 3.0 # 5.0 # left arm
+A person moves their left hand downward. # 5.0 # 6.67 # left arm

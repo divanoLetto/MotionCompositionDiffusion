@@ -1,0 +1,2 @@
+A person spins around with their arms extended.  # 0 # 4 # spine # right arm # left arm
+A person continues to spin in place.  # 4 # 8.15 # spine # legs

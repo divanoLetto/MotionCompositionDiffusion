@@ -1,0 +1,3 @@
+a person walks a path that bends left. # 0 # 4.27 # spine
+the person walks towards the viewer before veering off to the visual right and stopping, as if looking out a window. # 0 # 4.27 # spine
+a person takes four steps moving to his left and stops. # 0 # 4.27 # spine

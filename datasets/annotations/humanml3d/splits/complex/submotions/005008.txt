@@ -1,0 +1,2 @@
+A person throws an uppercut from the left arm. # 0 # 1.5 # spine
+A person swings a left hook upwards above their head. # 1.5 # 1.65 # spine

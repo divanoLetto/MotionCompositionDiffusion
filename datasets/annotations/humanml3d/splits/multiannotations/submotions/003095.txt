@@ -1,0 +1,3 @@
+a man steps back, picks something up and put it to his head and then puts it back. # 0 # 9.475 # spine
+the man steps back picks up some food and takes a bite then sets it back on the table. # 0 # 9.475 # spine
+person picks up phone and starts talking, then puts phone back down # 0 # 9.475 # spine

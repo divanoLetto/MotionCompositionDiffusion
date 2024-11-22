@@ -1,0 +1,2 @@
+A person rocks back and forth while holding something.  # 0 # 5 # right arm # left arm
+A person raises their arms outward.  # 5 # 9.0 # right arm # left arm

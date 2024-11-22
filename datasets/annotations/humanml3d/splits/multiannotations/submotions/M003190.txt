@@ -1,0 +1,3 @@
+a man walks forward before stopping. # 0 # 7.42 # spine
+a man is walking strait forward at a moderate pace with his arms moving naturally # 0 # 7.42 # spine
+the man takes 10 normal step. # 0 # 7.42 # spine

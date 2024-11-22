@@ -1,0 +1,2 @@
+A person is moving their hips while dancing.  # 0 # 5 # spine
+A person raises their arms while dancing.  # 4 # 9.45 # spine

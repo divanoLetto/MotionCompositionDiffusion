@@ -1,0 +1,2 @@
+A person shifts their weight from foot to foot.  # 0 # 2.5 # legs
+A person moves their hands in front of their face.  # 2.5 # 4.95 # right arm # left arm

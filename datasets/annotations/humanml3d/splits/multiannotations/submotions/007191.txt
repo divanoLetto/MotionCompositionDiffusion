@@ -1,0 +1,3 @@
+a person raised the right hand, and moved it right and left direction and after raised both hands # 0 # 10 # spine
+a person talks while using right hand. # 0 # 10 # spine
+a person moves their right hand to the left and right as if showing something to people, then moves it up and down. # 0 # 10 # spine

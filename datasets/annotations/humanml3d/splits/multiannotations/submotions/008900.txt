@@ -1,0 +1,3 @@
+a person performs three jumping jacks. # 0 # 3.975 # spine
+a person performing star jumps # 0 # 3.975 # spine
+a person who is standing with his arms by his sides does three straight jumping jacks and returns to standing with his arms by his sides. # 0 # 3.975 # spine

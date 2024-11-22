@@ -1,0 +1,2 @@
+A person opens up their arms. # 0 # 4 # spine
+A person is dancing with both arms raised. # 2 # 10.0 # spine

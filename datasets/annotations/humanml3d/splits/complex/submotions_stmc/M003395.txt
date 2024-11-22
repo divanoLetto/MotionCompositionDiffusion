@@ -1,0 +1,2 @@
+A person dances with their legs.  # 0 # 4 # legs
+A person raises their arms above their head.  # 4 # 8.25 # right arm # left arm

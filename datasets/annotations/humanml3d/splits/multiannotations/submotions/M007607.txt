@@ -1,0 +1,3 @@
+person got down and is crawling across the floor. # 0 # 10 # spine
+a person gets down on hands and knees and crosses the floor, then stands back up. # 0 # 10 # spine
+a person lowers to ground and walks on all fours. # 0 # 10 # spine

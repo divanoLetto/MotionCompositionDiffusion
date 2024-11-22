@@ -1,0 +1,2 @@
+A person walks in a circle. # 0 # 5 # spine
+A person walks slowly in a clockwise circle. # 3 # 5.9 # spine

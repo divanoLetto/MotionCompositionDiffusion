@@ -1,0 +1,3 @@
+someone rubs their belly with their right hand and rubs their head with their left hand at the same time. # 0 # 4.742 # spine
+a person rubs head with left hand and rubs belly with right hand. # 0 # 4.742 # spine
+a man rubs his stomach and his head simultaneously. # 0 # 4.742 # spine

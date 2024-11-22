@@ -1,0 +1,4 @@
+A person walks forward to start the game. # 0 # 3 # legs
+A person raises both arms up to prepare to serve. # 3 # 5 # right arm # left arm
+A person swings their right arm to hit the ball. # 5 # 8 # right arm
+A person moves forward quickly to position themselves. # 8 # 10.0 # legs

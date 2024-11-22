@@ -1,0 +1,2 @@
+A person raises their right arm to play something. # 0 # 3 # spine
+A person moves their hands as if strumming. # 2 # 7.44 # spine

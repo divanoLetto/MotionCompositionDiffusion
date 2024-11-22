@@ -1,0 +1,2 @@
+a person hops forward once and their shoulders bounce # 0 # 2.5 # legs # spine
+a person lifts his right knee, followed by the left knee upwards and then stretches them backwards and forth # 2.5 # 4.5 # legs

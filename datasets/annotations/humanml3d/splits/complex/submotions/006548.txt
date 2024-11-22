@@ -1,0 +1,4 @@
+A person walks in a clockwise circle. # 0 # 3 # spine
+A person moves their arms outwards. # 2 # 5 # spine
+A person raises their arms above their head. # 4 # 7 # spine
+A person steps one foot over the other. # 6 # 10.0 # spine

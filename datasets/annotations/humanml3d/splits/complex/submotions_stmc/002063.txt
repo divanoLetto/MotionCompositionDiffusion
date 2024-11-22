@@ -1,0 +1,2 @@
+A person is standing.  # 0 # 2 # spine # legs
+A person moves their arms up and down. # 2 # 4.25 # right arm # left arm

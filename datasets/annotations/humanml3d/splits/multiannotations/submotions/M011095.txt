@@ -1,0 +1,3 @@
+a person who is standing with his hands by his sides takes one small step backwards and resumes his original stance. # 0 # 4.82 # spine
+a person takes a slight step back # 0 # 4.82 # spine
+a person steps back slightly. # 0 # 4.82 # spine

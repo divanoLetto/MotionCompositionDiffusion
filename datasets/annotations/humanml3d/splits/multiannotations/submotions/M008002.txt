@@ -1,0 +1,3 @@
+a man is standing still and then starts walking forward before turning around. # 0 # 10 # spine
+the toon is walking across the plane at a diagonal pattern, reaching the end of the plane & turning around. # 0 # 10 # spine
+the person was doing a cool walk. # 0 # 10 # spine

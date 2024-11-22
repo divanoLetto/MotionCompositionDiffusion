@@ -1,0 +1,3 @@
+A person swings their right arm to serve.  # 0 # 2 # right arm
+A person swings their left arm to serve.  # 2 # 4 # left arm
+A person gets into a position to play tennis.  # 4 # 10.0 # legs # spine

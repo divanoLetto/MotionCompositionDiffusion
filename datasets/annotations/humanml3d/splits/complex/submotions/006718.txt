@@ -1,0 +1,2 @@
+A person stands with arms outstretched. # 0 # 2.95 # spine
+A person takes a wide, defensive stance. # 2 # 2.95 # spine

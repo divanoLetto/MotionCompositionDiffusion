@@ -1,0 +1,3 @@
+A person stands still.  # 0 # 2 # spine
+A person raises their right arm to throw something.  # 2 # 4 # spine
+A person throws something with their right arm.  # 4 # 6.0 # spine

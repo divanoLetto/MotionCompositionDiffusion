@@ -1,0 +1,2 @@
+A person swings both of their arms, bringing their hands together at the front. # 0 # 2 # spine
+A person swings their arms back apart. # 2 # 3.133 # spine

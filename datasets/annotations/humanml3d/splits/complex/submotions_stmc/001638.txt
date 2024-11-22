@@ -1,0 +1,2 @@
+A person jogs in place slightly. # 0 # 1.5 # legs
+A person raises their hands and brings them closer to their face then lowers them. # 1.5 # 4.775 # right arm # left arm

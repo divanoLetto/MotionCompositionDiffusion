@@ -1,0 +1,3 @@
+this person is stretching with left arm raised high. # 0 # 1.25 # spine
+a person with their left hand strait in the air tilts left and right quickly # 0 # 1.25 # spine
+the person is warming up for a workout # 0 # 1.25 # spine

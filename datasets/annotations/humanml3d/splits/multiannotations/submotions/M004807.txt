@@ -1,0 +1,3 @@
+a person on a swivel chair moved from front to right typing and talking on the phone motions. # 0 # 10 # spine
+a person sitting and twirling on his chair while on the phone with his right hand. # 0 # 10 # spine
+person is likely sitting down using a phone. # 0 # 10 # spine

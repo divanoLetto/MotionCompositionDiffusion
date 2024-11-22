@@ -1,0 +1,3 @@
+the person does a couple of small kicks with his right leg # 0 # 3.942 # spine
+a person kicks the ground a few times with their right foot. # 0 # 3.942 # spine
+the person kicks out its blue leg several times. # 0 # 3.942 # spine

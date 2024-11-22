@@ -1,0 +1,3 @@
+A person is moving their legs forwards and backwards.  # 0 # 5 # legs
+A person holds their arms out to the side.  # 5 # 8 # right arm # left arm
+A person twists their spine while dancing.  # 8 # 10.000000000000002 # spine

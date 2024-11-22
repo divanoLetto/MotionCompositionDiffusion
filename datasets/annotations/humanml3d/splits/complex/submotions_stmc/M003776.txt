@@ -1,0 +1,2 @@
+A person swings something with their left arm. # 0 # 4.0 # left arm
+A person uses their left arm to throw something. # 4 # 6.64 # left arm

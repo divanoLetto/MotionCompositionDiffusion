@@ -1,0 +1,3 @@
+a person walks in a clockwise circle. # 0 # 7.35 # spine
+a person walks in a clockwise circle. # 0 # 7.35 # spine
+the figure walks in a clockwise circle, stopping at their starting point. # 0 # 7.35 # spine

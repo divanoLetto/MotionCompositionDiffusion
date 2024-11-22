@@ -1,0 +1,3 @@
+a figure is laying on the ground then rolls into a sit, then into being on all fours, then to standing # 0 # 10 # spine
+person slowly gets up from the floor # 0 # 10 # spine
+a person lying on the floor gets on their knees, then gets up. # 0 # 10 # spine

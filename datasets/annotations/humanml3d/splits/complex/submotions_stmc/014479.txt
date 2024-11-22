@@ -1,0 +1,2 @@
+A person raises their right hand to taunt someone. # 0 # 3 # right arm
+A person holds a fighting stance. # 3 # 5.383 # legs # spine

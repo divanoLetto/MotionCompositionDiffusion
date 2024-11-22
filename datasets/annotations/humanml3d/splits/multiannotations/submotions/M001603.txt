@@ -1,0 +1,3 @@
+a person walks forward then upwards. # 0 # 9.83 # spine
+a person slowly walks forward and then up a flight of stairs # 0 # 9.83 # spine
+a person walks forward and suddenly stops moving forward and stay at the same position while moving his feet. # 0 # 9.83 # spine

@@ -1,0 +1,2 @@
+A person stands with arms outstretched. # 0 # 3 # spine
+A person moves their arms forward. # 2 # 5.367 # spine

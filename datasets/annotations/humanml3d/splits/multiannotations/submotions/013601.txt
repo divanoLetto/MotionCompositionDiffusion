@@ -1,0 +1,3 @@
+a oersin grabbed something with left hand, and did something with right hand # 0 # 10 # spine
+a person picks up something to their left with their right hand, then something to their right with their left hand and bangs the two objects together, finally putting the items back. # 0 # 10 # spine
+the sim reaches to their right and left, grabbing an object and appearing to clean it. # 0 # 10 # spine

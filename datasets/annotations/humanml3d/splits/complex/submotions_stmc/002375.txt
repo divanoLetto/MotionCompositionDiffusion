@@ -1,0 +1,2 @@
+A person is moving their hips repeatedly to the left and right. # 0 # 3 # spine # legs
+A person raises both arms out to the side. # 3 # 6.899999999999999 # right arm # left arm

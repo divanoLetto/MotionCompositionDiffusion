@@ -1,0 +1,2 @@
+A person throws a left punch. # 0 # 4 # spine
+A person throws a right punch. # 2 # 10.0 # spine

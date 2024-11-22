@@ -1,0 +1,2 @@
+A person prepares to swing something with their right arm. # 0 # 2 # right arm
+A person swings their right arm to hit something. # 2 # 6.03 # right arm

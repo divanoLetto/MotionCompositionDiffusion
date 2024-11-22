@@ -1,0 +1,2 @@
+A person signals with both hands.  # 0 # 4 # right arm # left arm
+A person points forwards with their right arm.  # 4 # 10.000000000000002 # right arm

@@ -1,0 +1,2 @@
+A person is moving their right leg. # 0 # 2 # spine
+A person is standing with arms out moving hips from side to side. # 1 # 10 # spine

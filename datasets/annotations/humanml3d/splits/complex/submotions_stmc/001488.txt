@@ -1,0 +1,2 @@
+A person catches using both hands towards their stomach. # 0 # 3 # right arm # left arm
+A person throws something with their right hand. # 3 # 8.150000000000002 # right arm

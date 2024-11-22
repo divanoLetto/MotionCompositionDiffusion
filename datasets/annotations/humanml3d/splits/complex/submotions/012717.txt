@@ -1,0 +1,2 @@
+A person punches out in front of them alternating hands. # 0 # 1.05 # spine
+A person raises their right hand. # 0.5 # 1.05 # spine

@@ -1,0 +1,3 @@
+A person dribbles a basketball with their right hand. # 0 # 3 # right arm
+A person turns clockwise while moving. # 3 # 6 # spine # legs
+A person walks forward. # 6 # 9.275 # legs

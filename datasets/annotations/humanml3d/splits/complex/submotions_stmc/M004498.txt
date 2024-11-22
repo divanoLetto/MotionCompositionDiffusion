@@ -1,0 +1,3 @@
+A person throws something with their right hand. # 0 # 3 # right arm
+A person walks backward. # 3 # 6 # legs
+A person throws something with their right hand. # 6 # 9.999999999999996 # right arm

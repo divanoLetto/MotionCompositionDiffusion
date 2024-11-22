@@ -1,0 +1,2 @@
+A person raises both arms above their head. # 0 # 4 # right arm # left arm
+A person sways their body from side to side. # 4 # 8.008 # spine

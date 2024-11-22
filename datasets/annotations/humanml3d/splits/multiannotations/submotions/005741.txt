@@ -1,0 +1,3 @@
+a person lifts his left hand to his face. # 0 # 10 # spine
+a person slowly moving his both hands # 0 # 10 # spine
+discovery of something unknown near the chest area # 0 # 10 # spine

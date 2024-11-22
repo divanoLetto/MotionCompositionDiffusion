@@ -1,0 +1,2 @@
+A person punches with their right hand. # 0 # 2 # right arm
+A person swings their left arm. # 2 # 3.1 # left arm

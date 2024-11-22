@@ -1,0 +1,4 @@
+a person throws a punch with their right hand # 0 # 2 # spine
+a person dodges something to his left # 2 # 4 # spine
+a person throws punches from a crouched position # 4 # 8 # spine
+a person puts both hands to his face # 8 # 10 # spine

@@ -1,0 +1,2 @@
+A person stands with their arms up. # 0 # 1.45 # spine # left arm # right arm
+A person pumps their left and right fist in alternate. # 1.45 # 3.45 # left arm # right arm

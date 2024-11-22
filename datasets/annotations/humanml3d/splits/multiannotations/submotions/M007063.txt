@@ -1,0 +1,3 @@
+a person in a t shape, bends down to the left and back up. # 0 # 1.55 # spine
+the person tilts to their left with outstretched arms. # 0 # 1.55 # spine
+bends down from the waist to the left. # 0 # 1.55 # spine

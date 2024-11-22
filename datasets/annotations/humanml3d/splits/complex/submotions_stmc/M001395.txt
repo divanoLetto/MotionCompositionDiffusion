@@ -1,0 +1,2 @@
+A person raises their arms in front of them. # 0 # 3 # right arm # left arm
+A person holds their arms up in a fighting stance. # 3 # 10.000000000000002 # right arm # left arm

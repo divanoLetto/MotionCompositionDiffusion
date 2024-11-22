@@ -1,0 +1,3 @@
+a person tapping on a surface # 0 # 10 # spine
+a man is mixing something infront of his body and seems to pick it up with his right hand and then proceed to mix it back. then picks it up with his left hand while standing still # 0 # 10 # spine
+the person is making a jester with his hands. # 0 # 10 # spine

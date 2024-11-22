@@ -1,0 +1,2 @@
+A person raises their right arm to prepare for a swing. # 0 # 3 # spine
+A person swings their right arm in a backhand motion. # 3 # 8.600000000000001 # spine

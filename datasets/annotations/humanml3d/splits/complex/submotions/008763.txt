@@ -1,0 +1,3 @@
+A person stands straight up with both hands raised in front of their face. # 0 # 10.0 # spine
+A person kicks forward with their left leg. # 2 # 6 # spine
+A person lowers their left leg back to the ground. # 4 # 6 # spine

@@ -1,0 +1,4 @@
+A person stands with their arms out to the sides. # 0 # 2.5 # right arm # left arm
+A person brings their hands together. # 2.5 # 4.5 # right arm # left arm
+A person leans over with their spine. # 4.5 # 5.5 # spine
+A person strokes from left to right with their right arm. # 5.5 # 5.89 # right arm

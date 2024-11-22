@@ -1,0 +1,2 @@
+A person moves their hands in alternating circular motions. # 0 # 2 # right arm # left arm
+A person swings their arms up and down. # 2 # 7.399999999999999 # right arm # left arm

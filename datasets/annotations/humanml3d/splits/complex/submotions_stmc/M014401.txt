@@ -1,0 +1,2 @@
+A person stands in one place while their arms and upper body move around. # 0 # 3.0 # right arm # left arm # spine
+A person waves their arms. # 3.0 # 10.0 # right arm # left arm

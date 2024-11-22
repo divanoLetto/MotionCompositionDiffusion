@@ -1,0 +1,3 @@
+A person sways to the right. # 0 # 1.5 # spine
+A person jabs forward with their left arm. # 1 # 3 # spine
+A person jabs forward with their right arm. # 2 # 3.55 # spine

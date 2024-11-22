@@ -1,0 +1,2 @@
+A person blocks using their left arm. # 0 # 1.5 # left arm
+A person blocks using their right arm. # 1.5 # 1.55 # right arm

@@ -1,0 +1,2 @@
+A person stands with their legs apart. # 0 # 3 # legs
+A person raises their right arm to play. # 3 # 7.03 # right arm

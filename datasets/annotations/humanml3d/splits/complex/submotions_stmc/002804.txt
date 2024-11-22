@@ -1,0 +1,2 @@
+A person is on the ground performing movements with their legs.  # 0 # 5 # legs
+A person raises their arms out to the side.  # 5 # 8.832999999999998 # right arm # left arm

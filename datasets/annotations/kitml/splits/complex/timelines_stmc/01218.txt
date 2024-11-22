@@ -1,0 +1,2 @@
+A person walks in a square. # 0 # 7.85 # legs
+A person raises his right arm. # 7.85 # 21.86 # right arm

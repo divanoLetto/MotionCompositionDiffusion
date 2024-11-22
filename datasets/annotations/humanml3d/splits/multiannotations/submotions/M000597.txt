@@ -1,0 +1,3 @@
+the person is widewalking. # 0 # 10 # spine
+a person walks with both legs spread out. # 0 # 10 # spine
+the person walks forward with their legs apart then turns around # 0 # 10 # spine

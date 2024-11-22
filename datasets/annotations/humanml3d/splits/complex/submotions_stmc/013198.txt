@@ -1,0 +1,3 @@
+A person is moving their arms around randomly. # 0 # 3 # right arm # left arm
+A person is moving their head from side to side. # 3 # 6 # head
+A person is swaying their legs. # 6 # 10.0 # legs

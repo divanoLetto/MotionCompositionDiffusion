@@ -1,0 +1,2 @@
+A person raises both arms above their head. # 0 # 5 # right arm # left arm
+A person holds their arms in a y shape. # 5 # 10.0 # right arm # left arm

@@ -1,0 +1,3 @@
+a man is doing jumping jacks. # 0 # 4.175 # spine
+a person does jumping jacks. # 0 # 4.175 # spine
+a person does 2 jumping jacks. # 0 # 4.175 # spine

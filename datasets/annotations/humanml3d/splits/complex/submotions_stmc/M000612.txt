@@ -1,0 +1,2 @@
+A person moves both arms around.  # 0 # 5 # right arm # left arm
+A person sways their body to the left with arms raised. # 5 # 10.0 # right arm # left arm # spine

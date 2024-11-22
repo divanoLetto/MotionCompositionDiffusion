@@ -1,0 +1,2 @@
+A person raises their right arm. # 0 # 2 # spine
+A person moves their left arm up and down quickly. # 2 # 8.42 # spine

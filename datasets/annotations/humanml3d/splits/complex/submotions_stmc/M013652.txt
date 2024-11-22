@@ -1,0 +1,2 @@
+A person holds something with their right hand. # 0 # 5.0 # right arm
+A person gestures with their left hand. # 5.0 # 10.0 # left arm

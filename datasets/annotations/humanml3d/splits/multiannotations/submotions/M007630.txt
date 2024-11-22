@@ -1,0 +1,3 @@
+person is holding his head because he feels dizzy. # 0 # 10 # spine
+a person has their left hand by their face and is gesturing that their head is dizzy. # 0 # 10 # spine
+a person is waving their hand. # 0 # 10 # spine

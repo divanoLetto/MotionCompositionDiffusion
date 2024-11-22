@@ -1,0 +1,3 @@
+person is walking forwards quite fast, then squats down to pick something up to then turn around and walk fast again. appears to be in a rush and moving an item # 0 # 6.558 # spine
+a person takes a few steps, squats twice, then turns and and walks back, # 0 # 6.558 # spine
+a person walks forwards, lifts a light object and walk back. # 0 # 6.558 # spine

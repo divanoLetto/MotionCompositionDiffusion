@@ -1,0 +1,2 @@
+A person jumps around the floor playfully. # 0 # 6 # spine # legs
+A person raises their arms above their head. # 6 # 9.9 # right arm # left arm

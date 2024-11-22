@@ -1,0 +1,3 @@
+a person holds the violin with left hand, and plays with the right hand # 0 # 10 # spine
+a person plays the violin, holding it with their left hand and strumming it with their right hand. # 0 # 10 # spine
+the person is playing the violin with both of his hands # 0 # 10 # spine

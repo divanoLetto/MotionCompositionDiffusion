@@ -1,0 +1,1 @@
+A person bounces a ball with both hands. # 0 # 1.425 # right arm # left arm

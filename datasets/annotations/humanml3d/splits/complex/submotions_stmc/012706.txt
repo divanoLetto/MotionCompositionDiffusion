@@ -1,0 +1,2 @@
+A person raises both arms up.  # 0 # 1.3 # right arm # left arm
+A person lifts his legs as if stepping upwards.  # 0 # 1.3 # legs

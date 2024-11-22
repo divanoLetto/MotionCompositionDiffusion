@@ -1,0 +1,2 @@
+A person walks forward leading with their right foot. # 0 # 1 # legs
+A person jabs with their right hand. # 1 # 1.717 # right arm

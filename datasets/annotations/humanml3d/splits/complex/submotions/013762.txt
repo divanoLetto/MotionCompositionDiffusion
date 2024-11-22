@@ -1,0 +1,3 @@
+A person raises both hands and claps. # 0 # 2 # spine
+A person moves both hands in large circles. # 2 # 6 # spine
+A person is waving hands up. # 6 # 10.0 # spine

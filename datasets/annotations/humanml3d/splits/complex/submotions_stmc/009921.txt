@@ -1,0 +1,2 @@
+A person kicks with each leg while moving forward in a zigzag pattern. # 0 # 5 # legs
+A person walks quickly back and forth. # 5 # 10.0 # legs

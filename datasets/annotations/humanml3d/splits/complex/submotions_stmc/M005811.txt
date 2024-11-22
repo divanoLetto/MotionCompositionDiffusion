@@ -1,0 +1,2 @@
+A person moves in a circular motion to the left. # 0 # 4 # legs
+A person moves in a circular motion to the right. # 4 # 8.082999999999998 # legs

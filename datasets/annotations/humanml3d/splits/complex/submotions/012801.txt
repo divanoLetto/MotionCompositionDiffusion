@@ -1,0 +1,4 @@
+A person throws an uppercut with his right hand. # 0 # 2 # spine
+A person throws an uppercut with his left hand. # 2 # 4 # spine
+A person pats his hands together. # 4 # 6 # spine
+A person jabs with both hands. # 6 # 10.0 # spine

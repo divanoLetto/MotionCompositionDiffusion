@@ -1,0 +1,3 @@
+a person stands up, walks in a circle, and sits back down. # 0 # 10 # spine
+a man walks in a counterclockwise circle an then sits down # 0 # 10 # spine
+a person walks in a counterclockwise circle and then sits down at their starting position. # 0 # 10 # spine

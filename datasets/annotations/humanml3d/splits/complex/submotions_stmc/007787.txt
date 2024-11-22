@@ -1,0 +1,2 @@
+A person shuffles in place gracefully. # 0 # 4.0 # legs # spine
+A person raises their arms up and down rhythmically. # 4.0 # 8.26 # right arm # left arm

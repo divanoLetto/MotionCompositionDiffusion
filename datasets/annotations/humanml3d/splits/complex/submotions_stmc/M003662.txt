@@ -1,0 +1,1 @@
+A person raises their right arm. # 0 # 2.1 # right arm

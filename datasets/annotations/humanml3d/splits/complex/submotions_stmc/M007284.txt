@@ -1,0 +1,2 @@
+A person jumps up into the air. # 0 # 4 # legs
+A person kicks with their left leg. # 4 # 10.0 # left arm

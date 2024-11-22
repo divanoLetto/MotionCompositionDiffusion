@@ -1,0 +1,3 @@
+A person side steps to the left. # 0 # 3 # legs
+A person side steps to the right. # 3 # 6 # legs
+A person shifts their weight from one foot to the other. # 6 # 9.999999999999998 # legs

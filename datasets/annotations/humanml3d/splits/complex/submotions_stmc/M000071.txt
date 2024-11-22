@@ -1,0 +1,2 @@
+A person steps backward.  # 0 # 3 # legs
+A person moves their hips while standing.  # 3 # 6.65 # spine

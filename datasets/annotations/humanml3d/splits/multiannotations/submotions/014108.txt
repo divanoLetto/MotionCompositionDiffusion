@@ -1,0 +1,3 @@
+a person steps back and sits down, then stands back up again and walks forward # 0 # 6.442 # spine
+the person sits down and stands back up. # 0 # 6.442 # spine
+a person steps backwards and sits down, then stands back up. # 0 # 6.442 # spine

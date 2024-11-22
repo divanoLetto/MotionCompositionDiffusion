@@ -1,0 +1,3 @@
+a figure walks forward in a zig zag pattern, stepping over something along the way # 0 # 10 # spine
+a man walks slowly forward, taking wide steps, before coming to a standing position. # 0 # 10 # spine
+the person is walking back-and-forth in a zigzag. # 0 # 10 # spine

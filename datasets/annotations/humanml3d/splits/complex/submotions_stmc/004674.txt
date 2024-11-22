@@ -1,0 +1,2 @@
+A person raises their left arm up.  # 0 # 2.0 # left arm
+A person moves their right arm.  # 2.0 # 2.4 # right arm

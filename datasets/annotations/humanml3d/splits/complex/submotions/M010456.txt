@@ -1,0 +1,4 @@
+A person steps forward with their right leg.  # 0 # 3 # spine
+A person steps to the side with their left leg.  # 2 # 5 # spine
+A person steps backward with their right leg.  # 4 # 7 # spine
+A person steps to the side with their left leg again.  # 6 # 10 # spine

@@ -1,0 +1,2 @@
+A person raises both arms above their head, pretending to be a teapot. # 0 # 5 # right arm # left arm # spine
+A person tilts their body to one side and brings one arm out to the side. # 5 # 10.0 # spine # right arm # left arm

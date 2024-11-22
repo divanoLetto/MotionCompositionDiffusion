@@ -1,0 +1,3 @@
+a person slowly walked forward and sat on something # 0 # 10 # spine
+a person walks up to a backwards chair and sits down on it with legs outstretched, then stands back up. # 0 # 10 # spine
+person was standing and straddled a chair and sat down. # 0 # 10 # spine

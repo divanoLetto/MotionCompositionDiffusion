@@ -1,0 +1,2 @@
+A person holds a violin with their right arm. # 0 # 5 # right arm
+A person strums with their left arm. # 5 # 9.819999999999999 # left arm

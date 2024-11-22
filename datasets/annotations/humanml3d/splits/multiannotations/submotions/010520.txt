@@ -1,0 +1,3 @@
+a person strafes to the right. # 0 # 1.425 # spine
+a person does horizontal jumps to the right. # 0 # 1.425 # spine
+a person quickly side steps to his right. # 0 # 1.425 # spine

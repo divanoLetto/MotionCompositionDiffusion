@@ -1,0 +1,2 @@
+a person walks forward while swinging their arms. # 0 # 5 # legs # right arm # left arm
+a person spins in place. # 5 # 10.0 # legs # spine # head

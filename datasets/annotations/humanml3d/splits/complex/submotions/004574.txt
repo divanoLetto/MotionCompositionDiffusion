@@ -1,0 +1,3 @@
+A person is using his arms to describe something to another person. # 0 # 5 # spine
+A person moves their left arm in a throwing motion. # 3 # 7 # spine
+A person pretends to swing a golf club with their right arm. # 5 # 10.0 # spine

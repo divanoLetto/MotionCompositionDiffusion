@@ -1,0 +1,4 @@
+A person raises their arms. # 0 # 2 # spine
+A person moves their arms in circles. # 2 # 6 # spine
+A person lifts their right leg. # 6 # 8 # spine
+A person lifts their left leg. # 8 # 10.0 # spine

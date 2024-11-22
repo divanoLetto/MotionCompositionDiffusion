@@ -1,0 +1,3 @@
+A person is moving their hips from side to side. # 0 # 5 # spine
+A person turns to their left. # 4 # 6 # spine
+A person turns to their right. # 5 # 10.0 # spine

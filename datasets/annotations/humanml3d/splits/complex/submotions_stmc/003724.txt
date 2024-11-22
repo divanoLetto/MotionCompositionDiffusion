@@ -1,0 +1,1 @@
+A person walks forward starting with the right leg. # 0 # 3.45 # legs

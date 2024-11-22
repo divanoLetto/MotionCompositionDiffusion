@@ -1,0 +1,3 @@
+a person jumps and spins 180 degrees. # 0 # 4.625 # spine
+person uses right side of their body to give them momentum to turn 180 degrees anticlockwise. appears to be energetic # 0 # 4.625 # spine
+jumps up in a tight twirl. # 0 # 4.625 # spine

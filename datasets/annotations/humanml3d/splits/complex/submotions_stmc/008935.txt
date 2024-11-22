@@ -1,0 +1,2 @@
+A person is jumping and raising arms. # 0 # 4.008 # legs # right arm # left arm
+A person walks around in a clockwise motion in an angry manner swinging their body. # 4.008 # 10.0 # legs # right arm # left arm

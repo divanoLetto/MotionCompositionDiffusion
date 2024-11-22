@@ -1,0 +1,2 @@
+A person raises their left arm and prepares to balance. # 0 # 5 # left arm # spine
+A person performs a ballerina balance pose, first on their right leg. # 5 # 10.0 # legs # spine

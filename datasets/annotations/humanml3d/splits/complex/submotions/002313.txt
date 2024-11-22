@@ -1,0 +1,2 @@
+A person executes an uppercut punch with the right hand. # 0 # 1.5 # spine
+A person gives an uppercut with his right hand. # 1.5 # 1.8 # spine

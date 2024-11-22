@@ -1,0 +1,2 @@
+A person steps forward with their right foot. # 0 # 3 # legs
+A person throws using their left arm. # 3 # 10.0 # left arm

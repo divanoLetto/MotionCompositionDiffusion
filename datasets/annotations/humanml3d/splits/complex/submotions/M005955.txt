@@ -1,0 +1,2 @@
+A person stands with arms outstretched. # 0 # 2 # spine
+A person moves both hands in front of themselves while standing. # 2 # 5.84 # spine

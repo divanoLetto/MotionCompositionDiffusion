@@ -1,0 +1,3 @@
+both the hand holding the left leg. # 0 # 10 # spine
+a person bends slightly downward and grips onto their left thigh with their right hand. then begins rubbing the thigh with their left hand. # 0 # 10 # spine
+a person seems to have a pain in the groin # 0 # 10 # spine

@@ -1,0 +1,3 @@
+subject is sitting flat on the ground feat straight in front then the subject stands straight up then sits back down with feet straight out in front again # 0 # 10 # spine
+the man is sitting down and standing up # 0 # 10 # spine
+person starts on ground, pulls legs towards body while pushing off hands to stand up, maintains a neutral position before sitting back down with legs extended in front. # 0 # 10 # spine

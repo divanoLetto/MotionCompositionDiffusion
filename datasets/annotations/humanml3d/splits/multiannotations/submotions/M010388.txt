@@ -1,0 +1,3 @@
+the sim is lifting a dumbbell with their left arm. # 0 # 2.35 # spine
+the person is lifting a dumbbell with the left hand. # 0 # 2.35 # spine
+a person lifts a weight with their left hand # 0 # 2.35 # spine

@@ -1,0 +1,2 @@
+A person raises their right arm up. # 0 # 0.95 # spine
+A person punches with their right hand. # 0.5 # 0.95 # spine

@@ -1,0 +1,3 @@
+the person uses their arms to warm up # 0 # 1.6 # spine
+the toon is tanding still raising both arms in a shaking motion. # 0 # 1.6 # spine
+a person is stretching their arms. # 0 # 1.6 # spine

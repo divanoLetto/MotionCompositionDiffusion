@@ -1,0 +1,3 @@
+a person walks very slowly forward. # 0 # 8.11 # spine
+a person is walking forward. # 0 # 8.11 # spine
+a person slowly walks forward. # 0 # 8.11 # spine

@@ -1,0 +1,2 @@
+A person takes a wide, defensive stance. # 0 # 1.35 # spine
+A person raises their left arm to chest level. # 1 # 1.35 # spine

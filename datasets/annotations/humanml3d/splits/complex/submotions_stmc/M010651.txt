@@ -1,0 +1,2 @@
+A person is running forward. # 0 # 2.5 # legs
+A person kicks something with their right foot. # 2.5 # 3.633 # legs

@@ -1,0 +1,2 @@
+a person slowly walked forward. # 0 # 6 # spine
+a person is moving their hips back and forth, right and left. # 4 # 10.0 # spine

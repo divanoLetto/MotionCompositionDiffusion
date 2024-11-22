@@ -1,0 +1,4 @@
+A person is in a fighting stance, kicking with their left foot. # 0 # 3 # spine
+A person kicks forward with their right leg. # 2 # 5 # spine
+A person kicks to the left with their left leg. # 4 # 7 # spine
+A person steps to the left. # 6 # 10.0 # spine

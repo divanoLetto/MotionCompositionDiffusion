@@ -1,0 +1,2 @@
+A person walks slowly forward. # 0 # 6 # spine
+A person waves both hands at their side several times. # 4 # 10.0 # spine

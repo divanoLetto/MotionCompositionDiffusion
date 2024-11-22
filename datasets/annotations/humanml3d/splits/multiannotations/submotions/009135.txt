@@ -1,0 +1,3 @@
+a person walks in a counter clockwise circle then sits down. # 0 # 10 # spine
+a person walks in a counter-clockwise circle, and then lays down on the grownd. # 0 # 10 # spine
+person walks in a 3/4 circle then squats and then lays with the back on the floor. # 0 # 10 # spine

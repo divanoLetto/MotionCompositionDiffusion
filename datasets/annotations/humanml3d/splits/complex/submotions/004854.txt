@@ -1,0 +1,2 @@
+a man walks forward while punching with his left hand. # 0 # 4 # spine
+a person kicks with their right leg. # 4 # 8.942 # spine

@@ -1,0 +1,3 @@
+a person takes one large step backwards. # 0 # 4.72 # spine
+the person was pushed backwards. # 0 # 4.72 # spine
+walking backwards in a diagonal line. # 0 # 4.72 # spine

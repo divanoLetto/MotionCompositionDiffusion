@@ -1,0 +1,3 @@
+the person is stepping on something. # 0 # 5.26 # spine
+a person walks up some stairs # 0 # 5.26 # spine
+a person quickly climbs a flight of stairs. # 0 # 5.26 # spine

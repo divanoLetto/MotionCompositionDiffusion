@@ -1,0 +1,2 @@
+A person walks backwards. # 0 # 3 # legs
+A person dribbles a ball with their right hand. # 3 # 4.8 # right arm

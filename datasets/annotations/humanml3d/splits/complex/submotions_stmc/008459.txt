@@ -1,0 +1,4 @@
+A person is shuffling to the right. # 0 # 2.0 # legs
+A person is shuffling to the left. # 2.0 # 4.0 # legs
+A person swings both arms to the right. # 4.0 # 6.0 # right arm # left arm
+A person swings both arms to the left. # 6.0 # 7.52 # right arm # left arm

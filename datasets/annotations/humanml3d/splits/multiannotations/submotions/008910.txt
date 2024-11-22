@@ -1,0 +1,3 @@
+a person kneels on both knees then stands into an upright position. # 0 # 10 # spine
+the man is sitting down and standing up # 0 # 10 # spine
+he kneels, moving his left foot back first then has right; not using his hands to help himself, he stands up # 0 # 10 # spine

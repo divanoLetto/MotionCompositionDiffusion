@@ -1,0 +1,2 @@
+a person throws a left uppercut punch. # 0 # 1.65 # left arm
+a person punches upwards with left hand. # 1.65 # 2.15 # left arm

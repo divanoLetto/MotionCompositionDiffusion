@@ -1,0 +1,3 @@
+A person is moving their hands in a circular motion. # 0 # 3 # spine
+A person is clapping their hands together. # 3 # 6 # spine
+A person raises both hands above their head. # 6 # 7.399999999999999 # spine

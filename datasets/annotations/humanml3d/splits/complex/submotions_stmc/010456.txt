@@ -1,0 +1,4 @@
+A person steps forward.  # 0 # 3 # legs
+A person steps to the side.  # 3 # 6 # legs
+A person steps backward.  # 6 # 8 # legs
+A person steps to the side again.  # 8 # 10.0 # legs

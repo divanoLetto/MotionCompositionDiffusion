@@ -1,0 +1,4 @@
+a person walks forward a few steps # 0 # 2.5 # legs
+a person stops. # 2.5 # 3.5 # legs
+a person bends his arms in front of him. # 3.5 # 4.0 # right arm # left arm
+a person makes a fist with both hands. # 4.0 # 4.383 # right arm # left arm

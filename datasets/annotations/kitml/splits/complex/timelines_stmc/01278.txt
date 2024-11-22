@@ -1,0 +1,2 @@
+A person performs a kick with their left leg. # 0 # 4 # legs
+A person brings their hands together in front of their chest. # 4 # 6.76 # left arm # right arm

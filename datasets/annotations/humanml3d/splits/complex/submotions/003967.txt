@@ -1,0 +1,4 @@
+A person raises their right arm to throw. # 0 # 2 # spine
+A person throws something with their right arm. # 2 # 5 # spine
+A person lifts their left leg. # 5 # 7 # spine
+A person stands up straight. # 7 # 9.1 # spine

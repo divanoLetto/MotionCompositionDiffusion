@@ -1,0 +1,2 @@
+A person stands and moves their legs to the right and left.  # 0 # 5 # spine # legs
+A person raises both arms out while dancing. # 5 # 10.0 # right arm # left arm # spine

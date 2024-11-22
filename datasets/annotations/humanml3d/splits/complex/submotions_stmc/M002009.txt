@@ -1,0 +1,2 @@
+a person is standing as a subject. # 0 # 1.5 # spine # legs
+someone standing acting like a robot. # 1.5 # 3.25 # spine # right arm # left arm

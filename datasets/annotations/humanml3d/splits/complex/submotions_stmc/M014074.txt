@@ -1,0 +1,1 @@
+A person throws something with their left hand. # 0 # 2.583 # left arm

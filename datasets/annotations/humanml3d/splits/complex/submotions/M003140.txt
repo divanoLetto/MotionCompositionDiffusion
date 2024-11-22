@@ -1,0 +1,2 @@
+A person raises their arms above their head and wiggles around. # 0 # 5 # spine
+A person flaps their arms like a bird. # 4 # 10 # spine

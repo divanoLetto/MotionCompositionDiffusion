@@ -1,0 +1,3 @@
+a person is performing a series of martial arts moves. # 0 # 6 # spine
+a person kicks with each leg while moving forward. # 2 # 10.0 # spine
+a person walks backwards. # 6 # 10.0 # spine

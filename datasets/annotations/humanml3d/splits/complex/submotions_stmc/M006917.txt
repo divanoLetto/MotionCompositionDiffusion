@@ -1,0 +1,3 @@
+A person is bobbing their head. # 0 # 7.116999999999999 # head
+A person raises their left arm. # 0 # 7.1 # left arm
+A person holds an object with their right hand. # 0 # 7.1 # right arm

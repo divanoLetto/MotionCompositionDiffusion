@@ -1,0 +1,2 @@
+A person is making gestures with both hands. # 0 # 4 # spine
+A person is swaying while moving their feet. # 2 # 4.75 # spine

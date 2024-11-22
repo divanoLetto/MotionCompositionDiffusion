@@ -1,0 +1,2 @@
+A person walks forward at a fast pace with hands moving at the wrist. # 0 # 6 # legs # right arm # left arm
+A person is moving their hips repeatedly to the left and right. # 6 # 10.0 # spine # legs

@@ -1,0 +1,2 @@
+A person raises their left arm. # 0 # 6.07 # spine
+A person strums with their right arm. # 0 # 6.07 # spine

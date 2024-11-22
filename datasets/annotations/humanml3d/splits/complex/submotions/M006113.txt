@@ -1,0 +1,3 @@
+A person wiggles their hips back and forth while waving their arms. # 0 # 6 # spine
+A person moves their left leg to the right. # 4 # 8 # spine
+A person bends down at the hips. # 6 # 10.0 # spine

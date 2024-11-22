@@ -1,0 +1,4 @@
+A person goes four steps forward. # 0 # 4 # legs
+A person turns to the left. # 4 # 6 # spine # head
+A person takes two steps forward. # 6 # 10 # legs
+A person turns to the right. # 10 # 22.45 # spine # head

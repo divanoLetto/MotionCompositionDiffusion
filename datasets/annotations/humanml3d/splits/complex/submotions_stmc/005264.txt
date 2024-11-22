@@ -1,0 +1,2 @@
+A person begins with their arms outstretched and knees bent, in a ballet plie. # 0 # 6.7 # spine # right arm # left arm
+A person kicks with their right leg. # 6.7 # 8.692 # legs

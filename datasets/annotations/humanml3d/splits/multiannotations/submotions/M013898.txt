@@ -1,0 +1,3 @@
+a person walks forward and to the right. # 0 # 5.41 # spine
+a person walks to his left. # 0 # 5.41 # spine
+a person walks while turning left. # 0 # 5.41 # spine

@@ -1,0 +1,2 @@
+A person holds his arms up as if playing an instrument. # 0 # 5 # right arm # left arm
+A person moves his arms in a rhythmic motion. # 5 # 10.0 # right arm # left arm

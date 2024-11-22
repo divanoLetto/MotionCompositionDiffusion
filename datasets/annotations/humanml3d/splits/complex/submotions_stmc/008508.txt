@@ -1,0 +1,2 @@
+A person raises their left arm to wind up. # 0 # 3 # left arm
+A person rolls both arms in a stretch. # 3 # 10.000000000000002 # right arm # left arm

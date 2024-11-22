@@ -1,0 +1,3 @@
+a person stretching their left arm # 0 # 3.975 # spine
+a man clasps his hands to the side and then unclasps them. # 0 # 3.975 # spine
+a man stretching his left arm. # 0 # 3.975 # spine

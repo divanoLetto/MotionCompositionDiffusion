@@ -1,0 +1,3 @@
+A person is moving their arms up and down. # 0 # 4 # spine
+A person is jumping up and down. # 2 # 6 # spine
+A person is waving their hands out in front of them. # 4 # 8.467 # spine

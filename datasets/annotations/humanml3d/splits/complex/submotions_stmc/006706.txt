@@ -1,0 +1,2 @@
+A person swings their left arm back.  # 0 # 2.0 # left arm
+A person swings their left arm forward.  # 2 # 6.24 # left arm

@@ -1,0 +1,3 @@
+a person moves into a fighting stance. # 0 # 2.95 # spine
+a person gets into a fighting position. # 0 # 2.95 # spine
+a person gets into a fighting stance. # 0 # 2.95 # spine

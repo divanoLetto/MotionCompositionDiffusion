@@ -1,0 +1,3 @@
+a person walks slowly in a circle but then jumps back abruptly and continues to hop around. # 0 # 10 # spine
+person is walking and jumps to avoid something. # 0 # 10 # spine
+a person starts walking around slowly and then gets scared so moves backward. # 0 # 10 # spine

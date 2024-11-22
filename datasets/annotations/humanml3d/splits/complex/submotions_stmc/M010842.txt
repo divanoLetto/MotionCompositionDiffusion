@@ -1,0 +1,3 @@
+A person raises both arms out to the side. # 0 # 4 # right arm # left arm
+A person steps to the side with left leg. # 4 # 6 # legs
+A person steps to the side with right leg. # 6 # 8.28 # legs

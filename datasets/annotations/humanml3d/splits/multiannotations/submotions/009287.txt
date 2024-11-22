@@ -1,0 +1,3 @@
+a figure gets down on all fours then raises its chest # 0 # 5.41 # spine
+a person gets on all fours then to their knees. # 0 # 5.41 # spine
+person gets down on all fours # 0 # 5.41 # spine

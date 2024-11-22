@@ -1,0 +1,2 @@
+A person shifts their weight from foot to foot and shakes their hands. # 0 # 4.45 # spine
+A person walks forward, then turns their torso to the right, then walks back and poses. # 4 # 10.000000000000004 # spine

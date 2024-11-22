@@ -1,0 +1,2 @@
+A person walks in a counterclockwise circle. # 0 # 6 # legs
+A person leans slightly with their spine. # 6 # 10.0 # spine

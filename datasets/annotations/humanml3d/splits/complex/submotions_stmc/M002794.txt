@@ -1,0 +1,2 @@
+A person takes a step forward to prepare for a swing. # 0 # 1.5 # legs
+A person swings with their right arm. # 1.5 # 3.7 # right arm

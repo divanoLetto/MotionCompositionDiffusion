@@ -1,0 +1,2 @@
+A person dribbles a ball several times while moving forward. # 0 # 2.5 # right arm # left arm # legs
+A person takes a big step forward. # 2.5 # 4.325 # legs

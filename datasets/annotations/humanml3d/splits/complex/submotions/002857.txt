@@ -1,0 +1,4 @@
+A person side steps to the left. # 0 # 3 # spine
+A person side steps to the right. # 2 # 5 # spine
+A person side steps to the left again. # 4 # 7 # spine
+A person side steps to the right once more. # 6 # 10.0 # spine

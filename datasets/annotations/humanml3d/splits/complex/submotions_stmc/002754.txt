@@ -1,0 +1,3 @@
+A person shuffles to the left. # 0 # 3 # legs
+A person shuffles to the right. # 3 # 6 # legs
+A person dances. # 6 # 10.0 # spine # legs

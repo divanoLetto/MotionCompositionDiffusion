@@ -1,0 +1,3 @@
+a person climbs up some ladders # 0 # 10 # spine
+a person walks in a curve to the right, turns and climbs several stairs. # 0 # 10 # spine
+a person quickly puts both hands down while walking in a clockwise half circle, then climbs imaginary stairs with both arms and legs, and finally pulls his head above his arms using his hands. # 0 # 10 # spine

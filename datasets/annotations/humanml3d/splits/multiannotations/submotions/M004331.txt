@@ -1,0 +1,3 @@
+someone dusts a picture hanging on the wall with a cloth in their left hand, steadies the picture with their right hand, then finishes dusting it, and finally dusts all the way around the sides of the frame. # 0 # 10 # spine
+a man is washing a window # 0 # 10 # spine
+a person is washing a window with their right hand. # 0 # 10 # spine

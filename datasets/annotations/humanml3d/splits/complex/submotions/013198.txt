@@ -1,0 +1,2 @@
+a person walks a random path and moves their hands erratically. # 0 # 6 # spine
+a person is walking erratically in a figure 8 pattern. # 4 # 10.0 # spine

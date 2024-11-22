@@ -1,0 +1,3 @@
+a person slowly walks forward. # 0 # 6.15 # spine
+a figure walks forward slowly # 0 # 6.15 # spine
+a person walks slow a few steps forward. # 0 # 6.15 # spine

@@ -1,0 +1,2 @@
+A person touches their right elbow to their left knee. # 0 # 4 # right arm # left arm # legs
+A person touches their left elbow to their right knee. # 4 # 9.999999999999998 # left arm # right arm # legs

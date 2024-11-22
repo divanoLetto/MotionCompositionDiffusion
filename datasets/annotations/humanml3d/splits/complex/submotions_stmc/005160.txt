@@ -1,0 +1,2 @@
+A person raises and lowers their right arm. # 0 # 5 # right arm
+A person is making signals with both his hands. # 5 # 10.0 # right arm # left arm

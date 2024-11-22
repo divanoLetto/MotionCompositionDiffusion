@@ -1,0 +1,2 @@
+A person raises both arms to a t pose. # 0 # 2.0 # spine
+A person lowers both arms down from a t position simultaneously. # 2.0 # 5.49 # spine

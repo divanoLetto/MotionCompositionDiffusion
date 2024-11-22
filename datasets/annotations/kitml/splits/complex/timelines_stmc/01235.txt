@@ -1,0 +1,2 @@
+A person raises both arms to the sides. # 0 # 5 # right arm # left arm
+A person takes steps to the left and right. # 5 # 19.26 # legs

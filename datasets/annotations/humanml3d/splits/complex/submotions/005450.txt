@@ -1,0 +1,2 @@
+A person throws something with their right hand. # 0 # 4 # spine
+A person is moving their right arm quickly. # 2 # 4.058 # spine

@@ -1,0 +1,2 @@
+A person throws a series of punches, two high, one low, then two high. # 0 # 3 # right arm # left arm
+A person punches with their right hand then their left then their right then their left. # 3 # 3.5999999999999996 # right arm # left arm

@@ -1,0 +1,3 @@
+A person is trying to hit a bug. # 0 # 4 # spine
+The person is waving both its arms inward and out. # 3 # 7 # spine
+A person is standing and leaning forward and using hands to swat away some objects in front of them. # 6 # 10.0 # spine

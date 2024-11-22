@@ -1,0 +1,3 @@
+A person walks towards another.  # 0 # 3 # legs
+A person holds their arms close together.  # 3 # 6 # right arm # left arm
+A person sways left to right.  # 6 # 10.0 # spine

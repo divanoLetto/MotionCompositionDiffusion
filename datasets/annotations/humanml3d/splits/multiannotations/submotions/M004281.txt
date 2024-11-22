@@ -1,0 +1,3 @@
+from a standing position a man spreads his legs widely. # 0 # 10 # spine
+a man starts to do the splits. # 0 # 10 # spine
+doing a split once. # 0 # 10 # spine

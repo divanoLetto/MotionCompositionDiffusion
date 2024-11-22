@@ -1,0 +1,3 @@
+a person turns to the right, squats while bringing both hands together then stands up straight again. # 0 # 9.675 # spine
+a person sits down and then gets back up # 0 # 9.675 # spine
+a person steps back two steps and lowers to a crouch position. # 0 # 9.675 # spine

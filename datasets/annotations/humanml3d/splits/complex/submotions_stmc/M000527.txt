@@ -1,0 +1,2 @@
+A person moves downwards with their legs.  # 0 # 3.0 # legs
+A person bends their spine while getting closer to the floor.  # 3.0 # 6.0 # spine

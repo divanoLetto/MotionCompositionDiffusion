@@ -1,0 +1,3 @@
+both arms raise to the right, hit throw # 0 # 3.033 # spine
+a person performing a golf swing. # 0 # 3.033 # spine
+a person swings a golf club. # 0 # 3.033 # spine

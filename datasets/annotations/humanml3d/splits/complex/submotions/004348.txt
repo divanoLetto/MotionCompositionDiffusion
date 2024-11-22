@@ -1,0 +1,3 @@
+A person raises their arms up. # 0 # 4 # spine
+A person bounces on their feet. # 2 # 6 # spine
+A person swings their arms. # 4 # 10.0 # spine

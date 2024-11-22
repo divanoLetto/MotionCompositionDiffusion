@@ -1,0 +1,3 @@
+the person picks something up, tilts it then puts it back down # 0 # 9.06 # spine
+a person standing up uses both hands to pick something up below their waist to the right, then they use their right hand and apply something to their left bicep. # 0 # 9.06 # spine
+a person holds left hand over right forearm, releases hand, and stands up straight with arms by his side. # 0 # 9.06 # spine

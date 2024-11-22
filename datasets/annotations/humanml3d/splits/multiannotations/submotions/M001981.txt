@@ -1,0 +1,3 @@
+a person raising both his hands. # 0 # 4.142 # spine
+from a standing position the person raises their arms to chest height with their elbows bent and hands angled to mimick animal paws, and then turns at the waist from right to right # 0 # 4.142 # spine
+a person looks right and left with binoculars. # 0 # 4.142 # spine

@@ -1,0 +1,3 @@
+a person who is standing does four weight lifting arm curls with his right arm. # 0 # 10 # spine
+a person lifts a weight with right hand. # 0 # 10 # spine
+the person is lifting weights with his right arm. # 0 # 10 # spine

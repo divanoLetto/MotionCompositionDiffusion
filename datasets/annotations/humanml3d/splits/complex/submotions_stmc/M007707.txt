@@ -1,0 +1,2 @@
+A person raises their hands together in front of their chest. # 0 # 2.0 # right arm # left arm
+A person moves their right arm side to side. # 2.0 # 4.05 # right arm

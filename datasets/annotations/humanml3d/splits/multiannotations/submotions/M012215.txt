@@ -1,0 +1,3 @@
+the person is walking slowly like a monster. # 0 # 10 # spine
+the man moves forward slowly # 0 # 10 # spine
+a person is slowly walking forward with big steps, stops then turns around clockwise and starts to walk back # 0 # 10 # spine

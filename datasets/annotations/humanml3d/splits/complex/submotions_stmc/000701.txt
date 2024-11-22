@@ -1,0 +1,2 @@
+A person gets into a stance.  # 0 # 2 # legs
+A person swings their right arm.  # 2 # 5.87 # right arm

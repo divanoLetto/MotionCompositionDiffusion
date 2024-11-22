@@ -1,0 +1,2 @@
+A person is walking in a circle. # 0 # 4 # spine
+A person raises his arms like wings. # 3 # 8.433 # spine

@@ -1,0 +1,2 @@
+A man swings a golf club. # 0 # 4 # spine
+A person raises their right arm. # 3 # 4.78 # spine

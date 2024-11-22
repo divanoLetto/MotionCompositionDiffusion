@@ -1,0 +1,4 @@
+A person stands with their arms out straight. # 0 # 2 # spine
+A person sways to their right and left slightly. # 1 # 4 # spine
+A person raises both arms and jumps up and down. # 3 # 6 # spine
+A person is walking in a circle moving their arms. # 5 # 6.85 # spine

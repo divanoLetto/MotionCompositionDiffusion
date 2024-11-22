@@ -1,0 +1,3 @@
+a person swings their left arm in a circle forward, then swings it backwards in a circle. # 0 # 10 # spine
+person standing takes left arm and winds it five times forward stops and then winds left arm five times backwards using wide whole arm motions while the right arm is motionless # 0 # 10 # spine
+person is doing left arm circles fast # 0 # 10 # spine

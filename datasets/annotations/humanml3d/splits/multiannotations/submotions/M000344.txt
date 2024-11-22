@@ -1,0 +1,3 @@
+a person uses the right arm to demonstrate throwing an object in front of them # 0 # 2.75 # spine
+garbage man throws garbage in the truck # 0 # 2.75 # spine
+a person leans to the right and raises their left arm over their head, then leans to the left # 0 # 2.75 # spine

@@ -1,0 +1,2 @@
+A person grabs something with their right hand. # 0 # 2 # right arm
+A person moves something lightly with their right hand. # 2 # 4.942 # right arm

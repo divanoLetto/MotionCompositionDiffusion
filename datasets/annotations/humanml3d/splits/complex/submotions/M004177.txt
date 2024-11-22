@@ -1,0 +1,2 @@
+A person is standing with their arms out by their sides. # 0 # 3 # spine
+A person is moving their hips repeatedly to the right and left. # 0 # 3.8 # spine

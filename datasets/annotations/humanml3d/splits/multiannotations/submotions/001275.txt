@@ -1,0 +1,3 @@
+the person is leaning forward looking around. # 0 # 10 # spine
+the person is bending over forward af if looking for something on the ground.he then comes back up before leaning back down. # 0 # 10 # spine
+a person is stood up on the ground and rotating his hips back and forth whilst his arms are still # 0 # 10 # spine

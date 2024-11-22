@@ -1,0 +1,1 @@
+A person moves their upper body from side to side. # 0 # 2.0 # spine

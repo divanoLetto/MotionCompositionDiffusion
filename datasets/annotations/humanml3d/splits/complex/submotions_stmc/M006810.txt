@@ -1,0 +1,3 @@
+A person steps to the right.  # 0 # 2 # legs
+A person swings both arms while moving in a circle to the right.  # 2 # 6 # right arm # left arm
+A person walks to the right.  # 6 # 6.7 # legs

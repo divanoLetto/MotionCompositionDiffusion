@@ -1,0 +1,3 @@
+person squats down repeatedly with arms raised up to hold weights. # 0 # 9.35 # spine
+a man is holding a weight bar above his head with both hands and proceeds to do 3 squats by bending his knees into a squatting position. # 0 # 9.35 # spine
+person with weights on their hands, descends by flexing and stretching their legs # 0 # 9.35 # spine

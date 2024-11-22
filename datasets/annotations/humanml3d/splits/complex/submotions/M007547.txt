@@ -1,0 +1,2 @@
+A person stands on their tiptoes and raises their arms above their head. # 0 # 6 # spine
+A person spins around while maintaining balance on their tiptoes. # 4 # 10.0 # spine

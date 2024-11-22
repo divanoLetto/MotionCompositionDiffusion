@@ -1,0 +1,3 @@
+a person sits down, turns to their left, then stands. # 0 # 10 # spine
+a person sits in a chair, turns to their left, then stands up. # 0 # 10 # spine
+a man sits on something and holds it with both hands and then stands up. # 0 # 10 # spine

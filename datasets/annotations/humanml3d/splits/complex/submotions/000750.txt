@@ -1,0 +1,3 @@
+A person has his arms out to the sides while stepping left. # 0 # 3 # spine
+A person steps to the right. # 2 # 5 # spine
+A person moves to the right while holding their arms out. # 4 # 8.71 # spine

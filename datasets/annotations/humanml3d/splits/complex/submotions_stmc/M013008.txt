@@ -1,0 +1,3 @@
+A person stands with a wider stance. # 0 # 3 # spine # legs
+A person moves their left arm up and down alternately. # 3 # 10.0 # left arm
+A person moves their right arm up and down alternately. # 3 # 10.0 # right arm

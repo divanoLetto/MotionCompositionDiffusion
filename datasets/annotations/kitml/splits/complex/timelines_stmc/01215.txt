@@ -1,0 +1,2 @@
+A person raises the right arm and moves the left arm up and down quickly. # 0 # 10 # left arm # right arm
+A person goes one step forward. # 10 # 12.82 # legs

@@ -1,0 +1,3 @@
+person moves forward two steps then does a full turn and faces opposite direction # 0 # 5.26 # spine
+the person work for you turn left and walk back # 0 # 5.26 # spine
+a person takes two steps forward, the pivots on their left foot, turning 180 degrees to the left and returning to their starting point. # 0 # 5.26 # spine

@@ -1,0 +1,4 @@
+A person stands with both arms raised. # 0 # 3 # spine
+A person moves their arms side to side. # 2 # 5 # spine
+A person raises their right arm and makes a signaling motion. # 4 # 7 # spine
+A person lowers their arms and stands still. # 8 # 10.0 # spine

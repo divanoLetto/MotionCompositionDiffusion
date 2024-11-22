@@ -1,0 +1,3 @@
+A person raises their arms to the side. # 0 # 4 # spine
+A person moves side to side. # 3 # 8 # spine
+A person steps forward. # 7 # 10 # spine

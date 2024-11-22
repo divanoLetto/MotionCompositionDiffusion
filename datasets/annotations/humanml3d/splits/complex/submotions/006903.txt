@@ -1,0 +1,3 @@
+A person walks forward while swinging their arms.  # 0 # 4 # spine
+A person turns around.  # 4 # 6 # spine
+A person walks backward while swinging their arms.  # 6 # 8.017 # spine

@@ -1,0 +1,3 @@
+A person blocks using their right arm. # 0 # 4 # right arm
+A person blocks using their right arm. # 4 # 8 # right arm
+A person blocks using their right arm. # 8 # 10.0 # right arm

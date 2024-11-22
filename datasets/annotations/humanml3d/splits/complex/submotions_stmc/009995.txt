@@ -1,0 +1,2 @@
+A person raises both arms above their head. # 0 # 5 # right arm # left arm
+A person turns around while moving to the left. # 5 # 10.0 # spine # legs

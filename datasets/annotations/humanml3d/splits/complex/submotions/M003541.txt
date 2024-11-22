@@ -1,0 +1,3 @@
+A person puts both arms in a t pose.  # 0 # 3 # spine
+A person rotates both wrists.  # 2 # 5 # spine
+A person moves their legs up and out one at a time.  # 4 # 10 # spine

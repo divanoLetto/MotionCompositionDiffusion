@@ -1,0 +1,2 @@
+A person stands and moves arms in a sway motion off balance before raising arms up. # 0 # 5 # right arm # left arm
+A person waves with their left hand. # 5 # 10.0 # left arm

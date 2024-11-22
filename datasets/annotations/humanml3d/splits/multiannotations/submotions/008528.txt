@@ -1,0 +1,3 @@
+jumping up and down. # 0 # 3.575 # spine
+a figure jumps up extending their body. # 0 # 3.575 # spine
+a person standing in place jumping. # 0 # 3.575 # spine

@@ -1,0 +1,3 @@
+a person stumbles backwards wobbling slightly # 0 # 9.19 # spine
+a person bends knees and then stands back up quickly. # 0 # 9.19 # spine
+a person takes a step backwards. # 0 # 9.19 # spine

@@ -1,0 +1,3 @@
+man walks in a circular motion then stops left before completing the circle. # 0 # 7.06 # spine
+the person is walking in a counterclockwise circle. # 0 # 7.06 # spine
+a person walks counterclockwise in a circle. # 0 # 7.06 # spine

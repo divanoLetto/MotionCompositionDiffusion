@@ -1,0 +1,2 @@
+A person rocks back and forth. # 0 # 6 # legs
+A person raises both legs. # 6 # 14.1 # legs

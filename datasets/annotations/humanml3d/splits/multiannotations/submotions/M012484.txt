@@ -1,0 +1,3 @@
+a person stirs with the left hand. # 0 # 9.31 # spine
+a person who is stirring with their left arm # 0 # 9.31 # spine
+a person acts as if they are washing something with their left hand. # 0 # 9.31 # spine

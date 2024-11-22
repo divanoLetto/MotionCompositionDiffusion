@@ -1,0 +1,2 @@
+A person holds an instrument with their right hand. # 0 # 3 # right arm
+A person plays the instrument with their left hand. # 3 # 10.0 # left arm

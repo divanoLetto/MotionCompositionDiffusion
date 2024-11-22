@@ -1,0 +1,3 @@
+a person places right hand on cround and gets into a seated position on the ground. the person uses right hand to brace themself and gets back to a standing position # 0 # 8.675 # spine
+sits down on the ground with legs crisscrossed then gets back up again. # 0 # 8.675 # spine
+a man kneels down and takes a seat for a second and then stands back up # 0 # 8.675 # spine

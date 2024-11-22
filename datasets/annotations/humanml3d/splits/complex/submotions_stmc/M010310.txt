@@ -1,0 +1,2 @@
+A person kicks with each leg while moving forward. # 0 # 5 # legs
+A person alternates kicks with their legs while moving forward. # 5 # 10.0 # legs

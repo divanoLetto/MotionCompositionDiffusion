@@ -1,0 +1,3 @@
+a person walks up some stairs, turns around, and walks back down them. # 0 # 10 # spine
+a person uses a hand rail while walking up and then down a flight of stairs. # 0 # 10 # spine
+a man holds a railing to his right while walking up stairs. # 0 # 10 # spine

@@ -1,0 +1,3 @@
+a person slowly walks forward. # 0 # 7.9 # spine
+a person slowly walks forward five steps. # 0 # 7.9 # spine
+a person walks slowly forward from one side to the other. # 0 # 7.9 # spine

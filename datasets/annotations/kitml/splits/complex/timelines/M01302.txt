@@ -1,0 +1,2 @@
+A person is performing a punch with his right hand. # 0 # 6 # spine
+A person is waving with his right hand. # 5 # 6.24 # spine

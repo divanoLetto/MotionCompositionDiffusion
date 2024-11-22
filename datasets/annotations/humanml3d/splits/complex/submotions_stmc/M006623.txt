@@ -1,0 +1,2 @@
+A person quickly side steps to the right. # 0 # 2 # legs
+A person quickly side steps to the left. # 2 # 5.808 # legs

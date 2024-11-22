@@ -1,0 +1,2 @@
+A human raises their right arm to throw something. # 0 # 2 # right arm
+A human performs a slap at the height of the scrotch. # 2 # 6.07 # left arm # right arm

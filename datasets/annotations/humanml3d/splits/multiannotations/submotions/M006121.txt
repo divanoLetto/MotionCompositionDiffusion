@@ -1,0 +1,3 @@
+a person steps forward, plants their left foot and spins, walking back to where they started. # 0 # 6.5 # spine
+a man walks forwards and then pivots back in a counterclockwise half circle. # 0 # 6.5 # spine
+a person is walking forward, spins around on their left foot, then walks back to where he came from # 0 # 6.5 # spine

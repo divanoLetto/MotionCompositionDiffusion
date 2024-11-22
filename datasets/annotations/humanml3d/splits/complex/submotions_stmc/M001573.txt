@@ -1,0 +1,3 @@
+A person punches in front of them with their left hand. # 0 # 2.6 # left arm
+A person punches in front of them with their right hand. # 2.6 # 5.2 # right arm
+A person twists at the waist, and reaches their right arm forward in a punching motion. # 5.2 # 10.0 # spine # right arm

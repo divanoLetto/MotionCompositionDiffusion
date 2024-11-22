@@ -1,0 +1,2 @@
+A person raises their right arm to throw. # 0 # 3 # right arm
+A person jabs with their right arm. # 3 # 10.0 # right arm

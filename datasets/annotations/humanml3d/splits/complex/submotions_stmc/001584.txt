@@ -1,0 +1,4 @@
+A person hops forward. # 0 # 1.0 # legs
+A person moves backwards. # 1.0 # 2.5 # legs
+A person moves forward again. # 2.5 # 3.0 # legs
+A person throws a left punch. # 2.5 # 3.0 # left arm

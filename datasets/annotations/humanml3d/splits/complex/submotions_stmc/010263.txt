@@ -1,0 +1,4 @@
+a person walks forward # 0 # 3 # legs
+a person punches with right hand # 3 # 6 # right arm
+a person punches with left hand # 6 # 9 # left arm
+a person walks forward # 9 # 10.0 # legs

@@ -1,0 +1,3 @@
+A person raises their right arm.  # 0 # 4.0 # right arm
+A person pats himself with their right hand. # 4.0 # 7.0 # right arm
+A person plays the piano with both arms. # 7.0 # 10.0 # right arm # left arm

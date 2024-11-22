@@ -1,0 +1,3 @@
+a person walks forward and picks up and moves a heavy object. # 0 # 10 # spine
+a person starting in a left forward lunge makes a motion as if to lift something, turns to the left then puts the object down. # 0 # 10 # spine
+a person picks up a heavy object with both hands and places it on their left side behind them. # 0 # 10 # spine

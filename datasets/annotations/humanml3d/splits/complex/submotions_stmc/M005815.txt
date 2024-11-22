@@ -1,0 +1,2 @@
+A person bows down to show respect. # 0 # 2 # head
+A person gets into a fighting stance. # 2 # 4.292 # legs # right arm # left arm

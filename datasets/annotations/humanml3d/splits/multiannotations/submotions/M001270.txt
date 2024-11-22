@@ -1,0 +1,3 @@
+a man walkes slowly forward # 0 # 6.77 # spine
+a person takes five slow steps forward. # 0 # 6.77 # spine
+the person is walking forward. # 0 # 6.77 # spine

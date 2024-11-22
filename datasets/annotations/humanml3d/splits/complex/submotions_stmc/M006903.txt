@@ -1,0 +1,2 @@
+A person walks forward while swinging their arms.  # 0 # 6 # right arm # left arm # legs
+A person raises both arms above their head.  # 6 # 8.017 # right arm # left arm

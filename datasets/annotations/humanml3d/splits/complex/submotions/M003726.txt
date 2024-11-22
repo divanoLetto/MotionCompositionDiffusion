@@ -1,0 +1,3 @@
+A person is moving around in a circle. # 0 # 5 # spine
+The person circles around with both arms out. # 5 # 7.467 # spine
+A person raises both arms and waves in circular motion. # 5 # 7 # spine

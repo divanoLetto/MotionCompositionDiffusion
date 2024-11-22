@@ -1,0 +1,2 @@
+a person raises both hands in front of their face # 0 # 2 # left arm # right arm
+a person makes a pushing motion with both hands # 2 # 3.05 # left arm # right arm

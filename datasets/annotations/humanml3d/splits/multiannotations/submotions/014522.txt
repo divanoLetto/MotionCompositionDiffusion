@@ -1,0 +1,3 @@
+a person seems to be in a fighting stance and moving around a ring. # 0 # 3.5 # spine
+person shuffles quickly to the right then shuffles quickly to the left. # 0 # 3.5 # spine
+a person side steps back and forth jogging. # 0 # 3.5 # spine

@@ -1,0 +1,2 @@
+A person walks forward. # 0 # 3 # legs
+A person lifts their arms and waves. # 3 # 10.0 # right arm # left arm

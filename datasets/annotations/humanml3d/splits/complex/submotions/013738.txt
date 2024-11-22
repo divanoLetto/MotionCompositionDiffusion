@@ -1,0 +1,2 @@
+A person is flapping his arms like a chicken. # 0 # 3.5 # spine
+A person bends forward at the waist while both hands are tucked inside their armpits and elbows move up and down. # 3 # 3.75 # spine

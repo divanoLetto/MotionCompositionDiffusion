@@ -1,0 +1,2 @@
+A person raises their right arm. # 0 # 2 # spine
+A person touches the strings of a violin with their right hand. # 2 # 6.79 # spine

@@ -1,0 +1,3 @@
+this person kicks with his left foot while standing. # 0 # 2.875 # spine
+kicking foot forward while standing still. # 0 # 2.875 # spine
+a person kicks their feet around in a sighn of impatience. # 0 # 2.875 # spine

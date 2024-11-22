@@ -1,0 +1,2 @@
+A person is running in place.  # 0 # 3 # legs
+A person sways their arms while dancing.  # 3 # 5.85 # right arm # left arm

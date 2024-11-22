@@ -1,0 +1,3 @@
+a person throwing a punch upwards similar to a uppercut motion # 0 # 1.65 # spine
+the person is punching the air with their right arm # 0 # 1.65 # spine
+raising hands towards the air. # 0 # 1.65 # spine

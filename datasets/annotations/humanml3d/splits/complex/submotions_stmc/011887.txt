@@ -1,0 +1,2 @@
+A person waves with their right hand. # 0 # 2.0 # right arm
+A person gestures wildly with their right and left arms above their head. # 2.0 # 10.0 # right arm # left arm

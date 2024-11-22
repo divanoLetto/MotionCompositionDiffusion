@@ -1,0 +1,4 @@
+A person walks forward to kick a ball. # 0 # 3 # spine
+A person kicks with their right foot. # 3 # 5 # spine
+A person raises both arms above their head. # 4 # 7 # spine
+A person falls to the ground. # 7 # 10.000000000000002 # spine

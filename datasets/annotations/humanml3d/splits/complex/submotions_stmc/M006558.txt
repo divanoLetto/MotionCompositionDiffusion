@@ -1,0 +1,4 @@
+A person throws a right punch with the right arm. # 0 # 2.6 # right arm
+A person throws an uppercut with the left arm. # 2.6 # 5.2 # left arm
+A person throws a right punch with the right arm. # 5.2 # 7.8 # right arm
+A person throws an uppercut with the left arm. # 7.8 # 10.0 # left arm

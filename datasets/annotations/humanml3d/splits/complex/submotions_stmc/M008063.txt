@@ -1,0 +1,3 @@
+A person swings their left arm back and forth. # 0 # 3 # left arm
+A person walks forward. # 3 # 7 # legs
+A person swings their left arm back and forth. # 7 # 10.0 # left arm

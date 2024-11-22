@@ -1,0 +1,2 @@
+A person walks forward slowly. # 0 # 4 # spine
+A person raises both arms up and throws them down. # 3 # 10 # spine

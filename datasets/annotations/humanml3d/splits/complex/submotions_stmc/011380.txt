@@ -1,0 +1,2 @@
+A person walks backwards slowly. # 0 # 2.0 # legs
+A person dribbles a ball with their right arm. # 2.0 # 4.8 # right arm # left arm

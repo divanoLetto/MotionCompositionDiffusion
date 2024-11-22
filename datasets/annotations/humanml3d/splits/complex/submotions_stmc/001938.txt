@@ -1,0 +1,3 @@
+A person raises both hands with fingers spread.  # 0 # 2 # right arm # left arm
+A person moves their hips back and forth.  # 2 # 3.5 # spine
+A person shakes their arms while moving.  # 3.5 # 3.567 # right arm # left arm

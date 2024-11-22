@@ -1,0 +1,3 @@
+the man is dancing i think # 0 # 10 # spine
+the person has its arms out while moving in a circle with its legs. # 0 # 10 # spine
+the person is dancing the waltz. # 0 # 10 # spine

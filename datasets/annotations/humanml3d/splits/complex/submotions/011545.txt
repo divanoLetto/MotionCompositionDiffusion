@@ -1,0 +1,2 @@
+A person is moving their hips around. # 0 # 5 # spine
+A person raises both arms above their head. # 5 # 13.3 # spine

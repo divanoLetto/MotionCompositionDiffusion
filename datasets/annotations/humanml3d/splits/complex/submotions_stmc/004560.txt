@@ -1,0 +1,2 @@
+A person takes a quick step forward with their left leg. # 0 # 2 # legs
+A person steps backwards. # 2 # 10.0 # legs

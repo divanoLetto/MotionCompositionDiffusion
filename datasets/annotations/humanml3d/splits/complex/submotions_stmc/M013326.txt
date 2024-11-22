@@ -1,0 +1,2 @@
+A person raises both hands into the air. # 0 # 3 # right arm # left arm
+A person moves from side to side with their arms raised. # 3 # 7.375 # right arm # left arm # spine

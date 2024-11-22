@@ -1,0 +1,2 @@
+A person performs a punching motion.  # 0 # 3 # spine
+A person throws something with their right arm.  # 2 # 4.74 # spine

@@ -1,0 +1,4 @@
+A person raises both arms out to the side. # 0 # 3 # spine
+A person hops on their left foot. # 2 # 5 # spine
+A person kicks with their right leg. # 4 # 6 # spine
+A person spins in a circular motion. # 5 # 8.158 # spine

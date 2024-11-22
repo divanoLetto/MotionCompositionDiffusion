@@ -1,0 +1,3 @@
+a person made a micro move to bent the knee # 0 # 0.4 # spine
+a person is crouched down # 0 # 0.4 # spine
+this person is sitting without movement. # 0 # 0.4 # spine

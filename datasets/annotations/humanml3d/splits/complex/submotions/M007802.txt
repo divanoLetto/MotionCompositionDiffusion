@@ -1,0 +1,5 @@
+A man kicks his left leg out to the side. # 0 # 2 # spine
+A man kicks his left leg out to the side. # 2 # 4 # spine
+A man punches with his right hand. # 4 # 6 # spine
+A man punches with his right hand. # 6 # 8 # spine
+A person punches with his left hand. # 8 # 10.0 # spine

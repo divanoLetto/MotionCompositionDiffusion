@@ -1,0 +1,3 @@
+A person crouches and moves to the left with their legs. # 0 # 3 # legs
+A person crouches and moves to the right with their legs. # 3 # 6 # legs
+A person continues to crouch and moves to the left with their legs. # 6 # 9.799999999999999 # legs

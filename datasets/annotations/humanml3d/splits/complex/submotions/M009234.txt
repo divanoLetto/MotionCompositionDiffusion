@@ -1,0 +1,4 @@
+A person raises both arms to the side. # 0 # 3 # spine
+A person swings their arms to the right. # 2 # 5 # spine
+A person turns around to face the back. # 4 # 6 # spine
+A person swings their arms to the left. # 5 # 10 # spine

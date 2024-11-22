@@ -1,0 +1,3 @@
+A person takes a step backwards. # 0 # 3 # legs
+A person swings their right arm backward. # 3 # 5 # right arm
+A person tosses something with their right hand. # 5 # 10.0 # right arm

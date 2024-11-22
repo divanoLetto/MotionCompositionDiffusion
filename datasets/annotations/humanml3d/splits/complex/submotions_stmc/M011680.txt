@@ -1,0 +1,3 @@
+A man sways from side to side. # 0 # 2 # spine # legs
+A man raises his arms above his head. # 2 # 6 # right arm # left arm
+A man continues to sway and dance. # 6 # 10.0 # spine # legs

@@ -1,0 +1,3 @@
+A person is warming up upper body. # 0 # 2.85 # spine # right arm # left arm
+A person stretches their arms, moving the shoulders, elbows then wrists. # 2.85 # 5.7 # right arm # left arm
+A person holds both hands in front of themselves, punching forward with the left hand, then punching to the left-hand side before stopping. # 5.7 # 9.999999999999996 # right arm # left arm

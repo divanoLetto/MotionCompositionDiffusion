@@ -1,0 +1,4 @@
+A person gets up from a seated position using their legs. # 0 # 3 # legs
+A person hops with both legs. # 3 # 5 # legs
+A person raises their left arm to hit. # 5 # 8 # left arm
+A person bends their knees in preparation. # 8 # 10.0 # legs

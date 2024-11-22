@@ -1,0 +1,3 @@
+person prepares food on a kitchen worktop. # 0 # 10 # spine
+a person raises their arms to mid level and tends to something (planting a plant?). # 0 # 10 # spine
+a person is patting something in front of him, moves it to his left and then pats something again. # 0 # 10 # spine

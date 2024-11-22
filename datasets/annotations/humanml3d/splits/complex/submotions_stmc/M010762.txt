@@ -1,0 +1,2 @@
+A person stands in one place while their arms and upper body move around. # 0 # 4 # right arm # left arm # spine
+A person sways with their arms up. # 4 # 10.0 # right arm # left arm # spine

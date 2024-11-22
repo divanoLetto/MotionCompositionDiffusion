@@ -1,0 +1,4 @@
+A person takes a few steps to their left. # 0 # 2 # spine
+A person raises their arms and moves them side to side. # 2 # 6 # spine
+A person takes a few steps to their right. # 4 # 6 # spine
+A person is moving their hips in a circular motion. # 6 # 10.0 # spine

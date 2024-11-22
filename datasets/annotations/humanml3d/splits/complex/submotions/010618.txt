@@ -1,0 +1,2 @@
+A person throws something with their left hand. # 0 # 2 # spine
+A person throws something very hard. # 2 # 4.708 # spine

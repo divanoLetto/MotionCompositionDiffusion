@@ -1,0 +1,2 @@
+A person swings his left arm in an upper cut. # 0 # 1.2 # spine
+A person raises his right arm. # 1 # 1.2 # spine

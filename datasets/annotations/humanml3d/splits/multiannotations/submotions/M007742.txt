@@ -1,0 +1,3 @@
+a person waves a friendly hello. # 0 # 5.72 # spine
+the person is waving with their right arm. # 0 # 5.72 # spine
+a person wave his right hand. # 0 # 5.72 # spine

@@ -1,0 +1,3 @@
+A person stands with both arms in front of the body bent at the elbows as if holding something. # 0 # 3 # spine
+A person bends forward slightly. # 2 # 3.642 # spine
+A person holds something in front of their face. # 3 # 3.642 # spine

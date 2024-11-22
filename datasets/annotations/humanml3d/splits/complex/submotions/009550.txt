@@ -1,0 +1,2 @@
+A person holds something with their right hand. # 0 # 2 # spine
+A person bounces with their right hand. # 2 # 5.89 # spine

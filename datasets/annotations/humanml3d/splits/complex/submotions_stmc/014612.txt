@@ -1,0 +1,2 @@
+A person moves arms from left to right. # 0 # 5.0 # left arm # right arm
+A person raises both arms above their head. # 5.0 # 10.0 # left arm # right arm

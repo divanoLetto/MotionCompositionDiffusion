@@ -1,0 +1,3 @@
+A person raises their right arm. # 0 # 3 # right arm
+A person swings their right arm. # 3 # 7 # right arm
+A person uses their left arm. # 7 # 10.0 # left arm

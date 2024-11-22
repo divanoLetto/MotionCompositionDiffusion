@@ -1,0 +1,3 @@
+a person stands with arms hanging before clapping once, dropping her arms for a moment, then clapping for a few moments before dropping her arms again. # 0 # 4.442 # spine
+a person claps multiple times. # 0 # 4.442 # spine
+simple stand and clapples the hands. # 0 # 4.442 # spine

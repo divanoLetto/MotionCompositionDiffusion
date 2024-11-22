@@ -1,0 +1,4 @@
+A person stands with their legs apart. # 0 # 2 # spine
+A person holds their arms out in front of them. # 0 # 2 # spine
+A person bends their elbows at 90 degrees. # 0 # 2 # spine
+A person swings a racket with their right arm. # 2 # 2.51 # spine

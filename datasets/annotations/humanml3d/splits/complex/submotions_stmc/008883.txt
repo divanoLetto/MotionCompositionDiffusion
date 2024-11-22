@@ -1,0 +1,2 @@
+A person uses a device in his left hand. # 0 # 3 # left arm
+A person raises his left arm. # 3 # 6.63 # left arm

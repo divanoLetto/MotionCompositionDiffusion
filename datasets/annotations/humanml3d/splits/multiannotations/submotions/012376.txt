@@ -1,0 +1,3 @@
+the person is boxing with the right arm. # 0 # 1.55 # spine
+man has his right foot in front of his left foot and leans forward while he moves his arm in an overhand throwing motion # 0 # 1.55 # spine
+person throws a punch with right arm. # 0 # 1.55 # spine

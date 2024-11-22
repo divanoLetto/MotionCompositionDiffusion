@@ -1,0 +1,4 @@
+A person raises both arms. # 0 # 2 # right arm # left arm
+A person steps forward with the right foot. # 2 # 5 # legs
+A person steps to the side with the left foot. # 5 # 7 # legs
+A person brings the right foot together with the left. # 7 # 7.09 # legs

@@ -1,0 +1,2 @@
+A person puts their arms out in front of them. # 0 # 5 # right arm # left arm
+A person moves their hips from side to side. # 5 # 10.0 # spine # legs

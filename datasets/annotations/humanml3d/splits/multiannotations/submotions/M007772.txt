@@ -1,0 +1,3 @@
+a person is using binoculars # 0 # 6.108 # spine
+a person shouting for something # 0 # 6.108 # spine
+a man raises up his hands ,moves them left to right trying to find something and then lowers them down. # 0 # 6.108 # spine

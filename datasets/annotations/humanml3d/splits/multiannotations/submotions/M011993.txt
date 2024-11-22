@@ -1,0 +1,3 @@
+a person appears to be playing the violin. # 0 # 10 # spine
+a person plays violin with their right hand. # 0 # 10 # spine
+the person is playing a violin with his right hand. # 0 # 10 # spine

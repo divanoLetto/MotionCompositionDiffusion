@@ -1,0 +1,3 @@
+person walks to pick something up then walks back to wipe something with it. # 0 # 10 # spine
+a person walked in left direction and return # 0 # 10 # spine
+a man walks to the left to pick something up, then returns to his place to mix something together. # 0 # 10 # spine

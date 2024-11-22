@@ -1,0 +1,3 @@
+a person bends down like they are bowling # 0 # 3 # legs # spine
+a person swings their right arm # 3 # 6 # right arm # spine
+a person raises their left arm # 6 # 9.45 # left arm # spine

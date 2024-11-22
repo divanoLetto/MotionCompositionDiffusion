@@ -1,0 +1,2 @@
+A person raises their arms like wings. # 0 # 4 # spine
+A person moves their feet side to side. # 3 # 9.283 # spine

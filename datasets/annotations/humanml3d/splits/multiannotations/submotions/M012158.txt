@@ -1,0 +1,3 @@
+person is walking back and forth # 0 # 9.242 # spine
+the person is walking back-and-forth from right to left back to the right. # 0 # 9.242 # spine
+a man brings his arms down, turns to his right and walks, then turns around and walks again, turns and continues walking, then turns one final time as he stops in a standing position. # 0 # 9.242 # spine

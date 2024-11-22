@@ -1,0 +1,2 @@
+A person raises both hands above their head. # 0 # 6 # spine
+A person moves their arms down and then swings them back up. # 4 # 10.0 # spine

@@ -1,0 +1,2 @@
+A person walks forward slowly while crouching down. # 0 # 3.225 # legs # spine
+A person kicks with their right leg. # 3.225 # 6.45 # legs

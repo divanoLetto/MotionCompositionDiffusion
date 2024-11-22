@@ -1,0 +1,2 @@
+A person is dancing in a circular motion. # 0 # 3 # spine # legs
+A person raises their right arm. # 3 # 4.375 # right arm

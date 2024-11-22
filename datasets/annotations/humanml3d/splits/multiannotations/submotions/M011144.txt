@@ -1,0 +1,3 @@
+someone is posing woth their left leg out straight, their left are bent 90 degrees, and their right arm fully extended with their right hand anove their head. # 0 # 10 # spine
+person is making a pose # 0 # 10 # spine
+a figure dances with their arms in the air. # 0 # 10 # spine

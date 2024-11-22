@@ -1,0 +1,3 @@
+A person steps and hops from side to side while moving both hands above their shoulders. # 0 # 5.0 # legs # right arm # left arm
+A person raises both arms in the air, and delivers air punch. # 5.0 # 8.0 # right arm # left arm
+A person claps their hands in front of them, drops them, then repeats. # 8.0 # 10.0 # right arm # left arm

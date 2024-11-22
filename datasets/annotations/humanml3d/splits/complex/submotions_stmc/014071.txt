@@ -1,0 +1,2 @@
+A person bounces on his feet with his arms in the air. # 0 # 4.083 # legs # right arm # left arm
+A person raises both arms above their head. # 4.083 # 7.55 # right arm # left arm

@@ -1,0 +1,4 @@
+A person shifts their weight from one leg to another.  # 0 # 3 # legs
+A person raises their left arm.  # 3 # 5 # left arm
+A person raises their right arm.  # 5 # 7 # right arm
+A person spins while moving their legs.  # 7 # 9.240000000000002 # legs # spine

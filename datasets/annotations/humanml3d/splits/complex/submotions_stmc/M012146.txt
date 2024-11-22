@@ -1,0 +1,2 @@
+A person has both hands together and is moving them in the air. # 0 # 4 # right arm # left arm
+A person shakes their hips and moves their arms. # 4 # 8.400000000000006 # spine # legs

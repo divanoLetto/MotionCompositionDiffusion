@@ -1,0 +1,2 @@
+A person walks around.  # 0 # 6 # legs
+A person dances with their arms raised.  # 6 # 9.999999999999998 # right arm # left arm

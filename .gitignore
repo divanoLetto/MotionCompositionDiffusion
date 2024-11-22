@@ -147,6 +147,6 @@ TMR/datasets/*
 timelines_never_seen/backwards_timeline.txt
 mtt/*
 deps/*
-datasets/*
+datasets/motions/*
 multirun/*
 outputs/*

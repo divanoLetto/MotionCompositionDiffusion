@@ -1,0 +1,2 @@
+A person walks forward. # 0 # 6 # spine
+A person performs a series of martial arts moves. # 0 # 10.0 # spine

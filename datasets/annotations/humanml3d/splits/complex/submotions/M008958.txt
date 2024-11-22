@@ -1,0 +1,2 @@
+A person holds an object with both hands. # 0 # 6 # spine
+A person raises their arms above their head. # 4 # 10.0 # spine

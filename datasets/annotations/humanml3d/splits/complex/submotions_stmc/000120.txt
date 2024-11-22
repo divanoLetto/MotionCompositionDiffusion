@@ -1,0 +1,4 @@
+A person steps forward with their right leg. # 0 # 2 # legs
+A person turns their head downwards to look at their feet. # 2 # 4 # head
+A person takes steps apart with their legs. # 4 # 8 # legs
+A person puts their feet together. # 8 # 10.0 # legs

@@ -1,0 +1,2 @@
+A person jumps forward using both legs. # 0 # 3 # legs
+A person continues skating forward. # 3 # 8.76 # legs

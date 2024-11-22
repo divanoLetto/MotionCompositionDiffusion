@@ -1,0 +1,3 @@
+A person stands with his arms by his sides. # 0 # 2 # spine
+A person raises his right hand up and down. # 2 # 5 # spine
+A person moves his right hand in a circular motion. # 5 # 7.32 # spine

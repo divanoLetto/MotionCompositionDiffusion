@@ -1,0 +1,3 @@
+A person stands completely still. # 0 # 3 # legs # spine # head
+A person raises both arms up in the air. # 3 # 6 # right arm # left arm
+A person moves side to side while raising both arms. # 6 # 10.0 # right arm # left arm # legs

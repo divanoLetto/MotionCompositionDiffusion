@@ -1,0 +1,3 @@
+a person jumps sideways to their right several times, then several times to the left. # 0 # 9.283 # spine
+someone jumps fives times to the left then four times to the right. # 0 # 9.283 # spine
+someone jumping sideways to the left then to the right # 0 # 9.283 # spine

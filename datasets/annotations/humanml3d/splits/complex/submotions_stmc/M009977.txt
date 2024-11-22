@@ -1,0 +1,2 @@
+A person swings their left arm forward like pitching a ball. # 0 # 2.0 # left arm
+A person follows through with their right arm. # 2.0 # 3.25 # right arm

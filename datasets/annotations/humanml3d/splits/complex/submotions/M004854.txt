@@ -1,0 +1,2 @@
+A person kicks with their right leg. # 0 # 2.6 # spine
+A person walks forward while crouched. # 2 # 6.45 # spine

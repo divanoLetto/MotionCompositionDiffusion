@@ -1,0 +1,4 @@
+A person kicks with their left leg. # 0 # 2.5 # legs
+A person kicks with their right leg. # 2.5 # 5 # legs
+A person kicks with their left leg. # 5 # 7.5 # legs
+A person kicks with their right leg. # 7.5 # 9.999999999999998 # legs

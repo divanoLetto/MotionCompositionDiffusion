@@ -1,0 +1,2 @@
+A person performs a punch with his right hand. # 0 # 4 # spine
+A person is making a sidestep to the left. # 3 # 6.16 # spine

@@ -1,0 +1,2 @@
+A person raises their arms while standing.  # 0 # 1.5 # right arm # left arm
+A person plays drums with their right arm. # 1.5 # 2.0 # right arm

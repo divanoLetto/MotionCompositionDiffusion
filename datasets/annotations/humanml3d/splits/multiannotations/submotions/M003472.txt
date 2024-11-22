@@ -1,0 +1,3 @@
+a person walks forwards, grabs something with his left hand, and walks backwards # 0 # 7.88 # spine
+a person takes a few steps forward and bend down slightly, takes their left arm and opens something # 0 # 7.88 # spine
+a person steps forward to picks up and place an item. # 0 # 7.88 # spine

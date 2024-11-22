@@ -1,0 +1,3 @@
+A person raises both arms in the air. # 0 # 3 # right arm # left arm
+A person rotates their arms in a circular motion. # 3 # 7 # right arm # left arm
+A person makes a stop signal with their hands. # 7 # 10.000000000000004 # right arm # left arm

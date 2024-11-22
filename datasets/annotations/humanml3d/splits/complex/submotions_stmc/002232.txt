@@ -1,0 +1,2 @@
+A person dances with their legs and spine. # 0 # 6 # legs # spine
+A person raises their arms while dancing. # 6 # 10.0 # right arm # left arm

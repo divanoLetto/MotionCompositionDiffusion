@@ -1,0 +1,3 @@
+a man pets a large dog. # 0 # 10 # spine
+a person that puts their hands together and starts rubbing something on their head # 0 # 10 # spine
+a person rubs their head with both hands. # 0 # 10 # spine

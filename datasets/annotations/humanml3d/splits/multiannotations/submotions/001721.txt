@@ -1,0 +1,3 @@
+a person stands in place with their arms bent. # 0 # 1.5 # spine
+a person stands still and steadies themselves # 0 # 1.5 # spine
+someone uses their left leg to lean to the left side and then goes back to their original position using both feet. # 0 # 1.5 # spine

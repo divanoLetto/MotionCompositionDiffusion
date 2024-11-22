@@ -1,0 +1,2 @@
+A person stands on their right leg with hands clasped above their head. # 0 # 5 # legs # right arm # left arm
+A person lowers their arms and stretches to the left side. # 5 # 10.000000000000002 # left arm

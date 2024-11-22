@@ -1,0 +1,2 @@
+A person raises their right arm to catch something. # 0 # 3 # right arm
+A person catches something with both hands. # 3 # 5.475 # right arm # left arm

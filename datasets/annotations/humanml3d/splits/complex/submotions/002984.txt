@@ -1,0 +1,2 @@
+A person holds their arms out in front of them. # 0 # 3 # spine
+A person moves their hands as if playing an instrument. # 2 # 7.51 # spine

@@ -1,0 +1,2 @@
+A person is moving their hips around. # 0 # 5 # spine # legs
+A person sways their arms side to side. # 5 # 13.3 # right arm # left arm # spine

@@ -1,0 +1,3 @@
+A person dances forward. # 0 # 2 # spine
+A person dances backwards. # 2 # 4 # spine
+A person dances in a counterclockwise circle. # 4 # 10.0 # spine

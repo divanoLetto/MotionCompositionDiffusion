@@ -1,0 +1,3 @@
+a person walks while holding a hand rail # 0 # 5.92 # spine
+a person walks on a beam of some sort. # 0 # 5.92 # spine
+a person sneaking through a hallway. # 0 # 5.92 # spine

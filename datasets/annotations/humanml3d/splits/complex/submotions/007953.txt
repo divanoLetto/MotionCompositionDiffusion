@@ -1,0 +1,3 @@
+A person crouches down. # 0 # 3 # spine
+A figure makes a figure 8 motion with its legs. # 3 # 8 # spine
+A person walks forward while crouched. # 6 # 9.799999999999999 # spine

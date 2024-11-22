@@ -1,0 +1,3 @@
+a person walks backwards, then turns around then walks backwards again. # 0 # 10 # spine
+a person walks backwards 6 1/2 steps, turns around and returns walking backwards 7 steps. # 0 # 10 # spine
+a person is waling backwards. # 0 # 10 # spine

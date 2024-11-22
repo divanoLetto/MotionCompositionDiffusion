@@ -1,0 +1,4 @@
+A person punches with their right hand. # 0 # 2.95 # right arm
+A person punches with their left hand. # 2.95 # 5.7 # left arm
+A person punches with their right hand. # 5.7 # 8.1 # right arm
+A person punches with their left hand. # 8.1 # 10.0 # left arm

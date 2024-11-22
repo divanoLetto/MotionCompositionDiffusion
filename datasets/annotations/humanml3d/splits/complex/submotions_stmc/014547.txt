@@ -1,0 +1,2 @@
+A person flings their arms in the air.  # 0 # 5 # right arm # left arm
+A person moves their arms back and forth while dancing.  # 5 # 10.0 # right arm # left arm

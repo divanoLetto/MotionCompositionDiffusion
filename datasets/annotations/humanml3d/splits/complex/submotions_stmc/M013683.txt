@@ -1,0 +1,2 @@
+A person is moving their legs rhythmically.  # 0 # 4 # legs
+A person raises both arms above their head.  # 4 # 8.283 # right arm # left arm

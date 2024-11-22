@@ -1,0 +1,3 @@
+A person raises their arms to the side. # 0 # 4 # spine
+A person stands on one leg. # 2 # 6 # spine
+A person bends down and touches the ground. # 4 # 10.0 # spine

@@ -1,0 +1,2 @@
+A person steps forward and kicks with their right foot. # 0 # 3 # spine
+A person kicks something with their right foot. # 3 # 4.542 # spine

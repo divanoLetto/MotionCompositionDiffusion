@@ -1,0 +1,2 @@
+A person waves with both hands. # 0 # 4 # spine
+A person is rocking a baby. # 2 # 10.0 # spine

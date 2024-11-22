@@ -1,0 +1,2 @@
+A person is dancing with their arms out to the side. # 0 # 6 # spine
+A person moves their hips side to side. # 0 # 10.0 # spine

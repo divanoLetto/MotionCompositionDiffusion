@@ -1,0 +1,3 @@
+a person picks up a cloth with his left hand, turns on a faucet with his right hand, and then washes something using his left hand. # 0 # 10 # spine
+someone picks something up with their right arm and wipes it down with their left arm. # 0 # 10 # spine
+a person washes something with their left hand. # 0 # 10 # spine

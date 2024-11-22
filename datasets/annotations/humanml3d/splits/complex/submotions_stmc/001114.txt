@@ -1,0 +1,4 @@
+A person punches with right hand. # 0 # 1.55 # right arm
+A person throws a fake punch. # 1.55 # 3.15 # right arm
+A person swings right arm across body. # 3.15 # 5.0 # right arm
+A person raises their right arm to wave. # 5.0 # 10.0 # right arm

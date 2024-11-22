@@ -1,0 +1,2 @@
+A person is dancing with their legs. # 0 # 10 # spine
+A person holds their arms in front of them. # 0 # 5 # spine

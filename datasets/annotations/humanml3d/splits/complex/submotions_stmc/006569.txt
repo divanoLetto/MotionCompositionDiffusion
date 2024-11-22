@@ -1,0 +1,2 @@
+A person raises both arms out to the side. # 0 # 2.0 # right arm # left arm
+A person sways left to right while moving their hips. # 2.0 # 3.775 # spine # legs

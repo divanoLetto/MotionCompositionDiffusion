@@ -1,0 +1,3 @@
+A person is swimming. # 0 # 5 # spine
+A person is moving their arms in a circular motion. # 3 # 8 # spine
+A person is kicking their legs. # 5 # 10.0 # spine

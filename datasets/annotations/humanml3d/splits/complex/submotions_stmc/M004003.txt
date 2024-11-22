@@ -1,0 +1,2 @@
+A person walks forward to strike a ball. # 0 # 2.0 # legs
+A person swings their right arm to hit the ball. # 2.0 # 4.408 # right arm

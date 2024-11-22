@@ -1,0 +1,3 @@
+A man is dancing. # 0 # 2 # spine
+A man jumps while spinning. # 2 # 4.2 # spine
+A man jumps and spins around. # 4.2 # 4.6 # spine

@@ -1,0 +1,3 @@
+a person turns around and looks to the right. # 0 # 10 # spine
+a person is wavering a bit, then turns around. # 0 # 10 # spine
+a person looks to the left then turns right to take a look right. # 0 # 10 # spine

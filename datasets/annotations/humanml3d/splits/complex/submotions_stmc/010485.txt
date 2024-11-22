@@ -1,0 +1,2 @@
+a person walks in a clockwise circle # 0 # 6 # legs
+the person is walking in a clockwise direction. # 6 # 10.0 # legs

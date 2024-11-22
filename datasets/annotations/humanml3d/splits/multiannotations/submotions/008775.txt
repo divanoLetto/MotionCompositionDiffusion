@@ -1,0 +1,3 @@
+right arm extended out from body at a 90 degree angle and rotated circular both clockwise and counter clockwise # 0 # 10 # spine
+person moves right hand bringing hand to face and then bends arm away from body and hangs it at the elbow. # 0 # 10 # spine
+person slowly bending and unbending his right hand in a various motions while the rest of the body keeps straight and steady. # 0 # 10 # spine

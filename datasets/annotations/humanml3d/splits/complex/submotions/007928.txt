@@ -1,0 +1,2 @@
+A person rolls their fists together. # 0 # 5 # spine
+A person punches with their right hand. # 5 # 10.0 # spine

@@ -1,0 +1,2 @@
+A person walks around the room.  # 0 # 6 # legs
+A person raises their arms above their head.  # 6 # 10.0 # right arm # left arm

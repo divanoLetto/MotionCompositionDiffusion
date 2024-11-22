@@ -1,0 +1,3 @@
+the man does a wavelike dance using his arms and slightly sways. # 0 # 3.308 # spine
+a person wiggles their hips back and forth while waving their arms. # 0 # 3.308 # spine
+the person is standing up wiggling his arms back-and-forth # 0 # 3.308 # spine

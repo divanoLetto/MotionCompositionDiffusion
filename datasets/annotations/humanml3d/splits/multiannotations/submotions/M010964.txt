@@ -1,0 +1,3 @@
+a person lowers and walks on all fours to the left. # 0 # 10 # spine
+a person gets on their hands and knees and then crawls back and forth before getting up again. # 0 # 10 # spine
+a person gets down and starts crawling back and forth before standing back up # 0 # 10 # spine

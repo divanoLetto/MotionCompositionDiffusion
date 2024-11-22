@@ -1,0 +1,4 @@
+A person walks forward with arms spread out to the side. # 0 # 3 # legs # right arm # left arm
+A person spins with their spine. # 3 # 6 # spine
+A person turns 180 degrees. # 6 # 8 # spine
+A person walks backward. # 8 # 8.083 # legs

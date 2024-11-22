@@ -1,0 +1,2 @@
+A person locks their hands behind their back. # 0 # 5 # right arm # left arm
+A person sweeps their legs left and right. # 5 # 10.0 # legs

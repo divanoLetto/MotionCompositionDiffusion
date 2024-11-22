@@ -1,0 +1,2 @@
+A person is doing different type of hand signals. # 0 # 5 # spine
+A figure makes the 'no goal' hand gesture then waves or pushes people back. # 5 # 10.0 # spine

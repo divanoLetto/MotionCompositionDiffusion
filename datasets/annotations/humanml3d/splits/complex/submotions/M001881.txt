@@ -1,0 +1,4 @@
+A person throws a left hook. # 0 # 2 # spine
+A person throws a right hook. # 1 # 3 # spine
+A person throws a jab. # 2 # 4 # spine
+A person kicks with their left leg. # 4 # 10.0 # spine

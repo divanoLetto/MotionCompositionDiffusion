@@ -1,0 +1,2 @@
+A person raises both arms above their head. # 0 # 2 # right arm # left arm
+A person alternately bangs on something with both hands. # 2 # 8.850000000000001 # right arm # left arm

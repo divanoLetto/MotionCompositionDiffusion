@@ -1,0 +1,2 @@
+A person throws a left jab with their left hand. # 0 # 0.95 # left arm
+A person throws a right jab with their right hand. # 0.95 # 1.9 # right arm

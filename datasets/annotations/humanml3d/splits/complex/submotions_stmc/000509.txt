@@ -1,0 +1,2 @@
+A person is moving their hips repeatedly to the left and right. # 0 # 5 # spine # legs
+A person spins while moving around. # 5 # 10.0 # spine # legs

@@ -1,0 +1,3 @@
+A person raises both arms up. # 0 # 2.0 # right arm # left arm
+A person hits the drum with his right hand. # 2.0 # 6.0 # right arm
+A person hits the drum with his left hand. # 6.0 # 6.75 # left arm

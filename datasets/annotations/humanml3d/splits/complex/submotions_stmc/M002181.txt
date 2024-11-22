@@ -1,0 +1,3 @@
+A man sways slowly from side to side. # 0 # 5.0 # spine
+A man raises his left arm in front of his body. # 5 # 8.0 # left arm
+A man slightly extends his right arm outward. # 8 # 10.0 # right arm

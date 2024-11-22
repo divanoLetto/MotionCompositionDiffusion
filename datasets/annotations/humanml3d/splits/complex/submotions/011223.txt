@@ -1,0 +1,4 @@
+A person is standing still. # 0 # 2 # spine
+A person raises their right arm. # 0 # 4 # spine
+A person is waving with their right hand. # 4 # 7.96 # spine
+A person is moving their body as if dancing. # 4 # 7.96 # spine

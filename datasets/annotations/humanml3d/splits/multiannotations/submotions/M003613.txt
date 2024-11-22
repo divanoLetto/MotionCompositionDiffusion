@@ -1,0 +1,3 @@
+a man picks something up with his right hand and mixes it and then steps back. # 0 # 10 # spine
+he picks up two items from a table, pours one into a pot, and sprinkles the other before stepping back. # 0 # 10 # spine
+a person pours something into an object and then steps backwards. # 0 # 10 # spine

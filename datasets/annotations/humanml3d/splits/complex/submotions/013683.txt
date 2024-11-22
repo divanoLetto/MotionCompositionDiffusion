@@ -1,0 +1,2 @@
+A person walks forward while swinging their arms. # 0 # 6 # spine
+A person is dancing while moving their hips back and forth. # 4 # 8.283 # spine

@@ -1,0 +1,2 @@
+A person shuffles to the left and right.  # 0 # 5 # spine # legs
+A person raises both arms above their head and jumps.  # 5 # 10.0 # right arm # left arm # spine

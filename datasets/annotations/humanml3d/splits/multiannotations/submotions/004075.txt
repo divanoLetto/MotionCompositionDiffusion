@@ -1,0 +1,3 @@
+person standing and stretching. puts both arms forward then behind their body then to their left side of body. moderate speed of movement. # 0 # 5.108 # spine
+a person stretches both their arms forward, back, then to the left. # 0 # 5.108 # spine
+a person moves to the left and stretches their arms by rotating their trunk. # 0 # 5.108 # spine

@@ -1,0 +1,3 @@
+A person holds both hands together and moves them in the air. # 0 # 3 # left arm # right arm
+A person shuffles to the side three times. # 3 # 7 # legs
+A person holds their arms out in front of them. # 7 # 10.0 # left arm # right arm

@@ -1,0 +1,2 @@
+A person lowers their arms. # 0 # 3 # left arm # right arm
+A person plays a guitar. # 3 # 4.95 # left arm # right arm

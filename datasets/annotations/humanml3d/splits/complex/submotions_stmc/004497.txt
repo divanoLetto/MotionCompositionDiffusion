@@ -1,0 +1,3 @@
+A person is crouched down in fighting stance. # 0 # 3 # spine # legs
+A person does fighting maneuvers. # 3 # 8 # right arm # left arm
+A person raises their right arm to look at their right wrist. # 8 # 10.0 # right arm # head

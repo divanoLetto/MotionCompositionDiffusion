@@ -1,0 +1,3 @@
+a man does a dance, shuffles backward, and dances again. # 0 # 10 # spine
+a man is doing karate moves. # 0 # 10 # spine
+a person dances on the spot while waving their left arm in the air, then poses with legs splayed and arms outstretched # 0 # 10 # spine

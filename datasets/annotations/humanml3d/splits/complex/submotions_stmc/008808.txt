@@ -1,0 +1,3 @@
+A person sways their hips back and forth. # 0 # 3 # spine
+A person raises their arms from beside their body to shoulder height, then lowers them down again. # 3 # 7 # right arm # left arm
+A person walks forward while slowly curving to their left. # 7 # 10.0 # legs

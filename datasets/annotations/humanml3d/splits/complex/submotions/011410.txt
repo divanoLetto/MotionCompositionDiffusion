@@ -1,0 +1,4 @@
+A person raises both hands up. # 0 # 3 # spine
+A person moves their hands back and forth. # 2 # 5 # spine
+A person gestures with their hands. # 4 # 7 # spine
+A person claps their hands together. # 6 # 10.0 # spine

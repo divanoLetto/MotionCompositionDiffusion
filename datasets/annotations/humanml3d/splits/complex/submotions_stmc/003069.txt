@@ -1,0 +1,2 @@
+A person raises their arms.  # 0 # 2 # right arm # left arm
+A person pretends to move their arms to the side.  # 2 # 2.4 # right arm # left arm

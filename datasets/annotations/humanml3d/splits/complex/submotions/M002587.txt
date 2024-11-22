@@ -1,0 +1,2 @@
+A person raises their right arm to punch. # 0 # 1.55 # spine
+A person throws a punch with their left hand. # 0.5 # 1.55 # spine

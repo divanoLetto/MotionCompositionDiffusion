@@ -1,0 +1,2 @@
+A person raises both arms above their head. # 0 # 2.5 # right arm # left arm
+A person moves their arms in a circular motion. # 2.5 # 5.908 # right arm # left arm

@@ -1,0 +1,3 @@
+a person jumps up and down. # 0 # 3.975 # spine
+a person bends his knees and jumps up and down. # 0 # 3.975 # spine
+a person hops in place three times. # 0 # 3.975 # spine

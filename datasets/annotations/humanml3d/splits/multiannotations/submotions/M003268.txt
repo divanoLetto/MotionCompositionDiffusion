@@ -1,0 +1,3 @@
+a person walks diagonally right to left five paces in a karate fighting like motion then they take one step backwards. # 0 # 10 # spine
+a man walks forward and then back in a boxing stance. # 0 # 10 # spine
+a person is in a fighting stance and moves across the room. # 0 # 10 # spine

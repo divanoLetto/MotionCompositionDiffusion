@@ -1,0 +1,3 @@
+A person waves with their right hand. # 0 # 4.87 # right arm
+A person waves with their left hand. # 4.87 # 9.55 # left arm
+A person swings their arms back and forth. # 9.55 # 10.0 # right arm # left arm

@@ -1,0 +1,2 @@
+A person is moving their arms and legs. # 0 # 6 # spine
+A man is practicing punching. # 4 # 10.0 # spine

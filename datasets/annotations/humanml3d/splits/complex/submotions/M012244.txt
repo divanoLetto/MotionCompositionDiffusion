@@ -1,0 +1,3 @@
+A person is moving around in a circle. # 0 # 3 # spine
+A person is standing in a fighting position. # 2 # 5.85 # spine
+A person is shuffling their feet. # 3 # 5 # spine

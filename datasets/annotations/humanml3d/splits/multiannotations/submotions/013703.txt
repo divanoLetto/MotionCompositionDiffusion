@@ -1,0 +1,3 @@
+this person is stretching his right leg. # 0 # 10 # spine
+the person drop some thing on the right foot. # 0 # 10 # spine
+person lifts right foot a few times and ties something on their right foot # 0 # 10 # spine

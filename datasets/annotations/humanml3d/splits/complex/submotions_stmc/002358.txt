@@ -1,0 +1,2 @@
+A person takes one step forward. # 0 # 4.02 # legs
+A person walks forward at a normal pace. # 4.02 # 10.0 # legs

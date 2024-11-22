@@ -1,0 +1,2 @@
+A person is walking very leisurely diagonally across the floor. # 0 # 6 # spine
+A person is moving their hips back and forth, right and left. # 4 # 10.0 # spine

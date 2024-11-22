@@ -1,0 +1,3 @@
+a person kicks with his right leg # 0 # 4 # legs
+a person jabs with his right arm # 4 # 7 # right arm
+a person jabs with his left arm # 7 # 10.0 # left arm

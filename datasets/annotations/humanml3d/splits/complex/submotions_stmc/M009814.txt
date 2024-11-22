@@ -1,0 +1,4 @@
+A person steps to the left. # 0 # 3 # legs
+A person turns around. # 3 # 5 # spine
+A person steps backwards. # 5 # 8 # legs
+A person steps to the left. # 8 # 10.0 # legs

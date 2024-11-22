@@ -1,0 +1,3 @@
+person stands still with arms bent forwards, as if gripping some handlebars. # 0 # 0.35 # spine
+a person is in a motorcycle pose # 0 # 0.35 # spine
+a person stands as if putting hands on handlebars. # 0 # 0.35 # spine

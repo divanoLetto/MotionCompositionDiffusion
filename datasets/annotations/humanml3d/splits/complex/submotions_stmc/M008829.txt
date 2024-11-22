@@ -1,0 +1,2 @@
+A person squats with hands on their thighs. # 0 # 5.0 # legs # left arm # right arm
+A person holds their left arm out. # 5.0 # 10.0 # left arm

@@ -1,0 +1,2 @@
+A person walks forward. # 0 # 3 # legs
+A person swings both arms back and walks forward. # 3 # 10.0 # left arm # right arm # legs

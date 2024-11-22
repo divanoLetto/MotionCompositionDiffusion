@@ -1,0 +1,3 @@
+a standing man leans down to a kneeled position with his left knee contacting the ground and his right leg planted foot down. the man then stands up. # 0 # 7.075 # spine
+a man kneels down then stands back up. # 0 # 7.075 # spine
+a person gets in starting position to run a sprint running race. # 0 # 7.075 # spine

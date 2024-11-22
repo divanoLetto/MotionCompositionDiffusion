@@ -1,0 +1,2 @@
+A person throws something with both hands. # 0 # 2 # spine
+A person bounces something with both hands. # 2 # 7.949999999999999 # spine

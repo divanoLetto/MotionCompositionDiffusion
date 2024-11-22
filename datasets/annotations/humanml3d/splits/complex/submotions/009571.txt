@@ -1,0 +1,4 @@
+A person is walking forward slowly. # 0 # 3 # spine
+A person is using their left hand to wipe back and forth. # 2 # 5 # spine
+A person raises both arms. # 5 # 8 # spine
+A person stands up. # 8 # 10.0 # spine

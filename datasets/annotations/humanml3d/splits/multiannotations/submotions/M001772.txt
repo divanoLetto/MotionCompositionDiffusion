@@ -1,0 +1,3 @@
+a person walks up to shake with their left hand, turns slightly left to shake again, and turns left again to shake for a final time. # 0 # 10 # spine
+a person moves forward then left while making the motion of shaking the hands with the right arm, both arms and then the right arm again. # 0 # 10 # spine
+a figure steps forward to shake hands with it's left hand, steps slightly to it's left to clasp with both hands and shake, then moves to it's left several steps to shake hands with it's left hand again. # 0 # 10 # spine

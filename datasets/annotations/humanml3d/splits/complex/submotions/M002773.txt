@@ -1,0 +1,4 @@
+A person walks forward.  # 0 # 3 # spine
+A person raises their right arm.  # 2 # 5 # spine
+A person turns around.  # 4 # 7 # spine
+A person walks forward.  # 6 # 10 # spine

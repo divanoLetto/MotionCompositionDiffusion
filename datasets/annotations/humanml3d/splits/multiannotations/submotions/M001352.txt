@@ -1,0 +1,3 @@
+figure stands, turns right and walks, stops, turns left and walks, turns right and stops halfway, turns forward, and then stands. # 0 # 9.408 # spine
+a person walking sideways . # 0 # 9.408 # spine
+the person paces to his left, then to his right, and finally to his left again. # 0 # 9.408 # spine

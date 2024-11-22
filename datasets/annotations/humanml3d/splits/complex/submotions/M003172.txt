@@ -1,0 +1,5 @@
+A person raises their left hand to signal something. # 0 # 4 # spine
+A person uses their right hand to indicate a violation. # 2 # 6 # spine
+A person pretends to pick something up with their right hand. # 4 # 8 # spine
+A person sets something down with their right hand. # 6 # 10.0 # spine
+A person repeats the action of picking something up with their right hand. # 8 # 10.0 # spine

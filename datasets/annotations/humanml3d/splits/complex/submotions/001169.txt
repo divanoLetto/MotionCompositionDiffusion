@@ -1,0 +1,4 @@
+A person is punching with their right hand. # 0 # 3 # spine
+A person kicks with their right leg. # 2 # 5 # spine
+A person raises both arms to their face. # 4 # 7 # spine
+A person is moving their arms around. # 6 # 10.0 # spine

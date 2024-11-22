@@ -1,0 +1,3 @@
+A person holds up both hands. # 0 # 2 # spine
+A person punches with their right hand. # 2 # 2.45 # spine
+A person waivers slightly. # 0 # 2.45 # spine

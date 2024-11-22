@@ -1,0 +1,2 @@
+A person jogs in place while slowly rotating slightly right to left. # 0 # 6 # spine
+A man walks forth and twists his foot in the process whilst going both ways. # 5 # 9.467 # spine

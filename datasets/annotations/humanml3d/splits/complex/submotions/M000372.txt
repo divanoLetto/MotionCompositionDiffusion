@@ -1,0 +1,2 @@
+A person holds something up toward their face. # 0 # 6.72 # spine
+A person bows with their upper body and head. # 6 # 10.0 # spine

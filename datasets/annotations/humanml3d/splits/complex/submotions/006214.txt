@@ -1,0 +1,5 @@
+A person stands up from a sitting position. # 0 # 2 # spine
+A person raises both arms above their head. # 0 # 6 # spine
+A person throws something with their right hand. # 2 # 6 # spine
+A person throws something with their left hand. # 4 # 10.0 # spine
+A person is making a shooting motion with both hands. # 6 # 10.0 # spine

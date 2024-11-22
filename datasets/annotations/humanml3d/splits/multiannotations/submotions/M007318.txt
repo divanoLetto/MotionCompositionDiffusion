@@ -1,0 +1,3 @@
+the person was sliding from left to right. # 0 # 10 # spine
+person steps to the left 3 times and then steps to the right 4 times # 0 # 10 # spine
+this person steps sideways to the left then steps right. # 0 # 10 # spine

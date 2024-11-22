@@ -1,0 +1,3 @@
+A person raises both arms above their head. # 0 # 4 # right arm # left arm
+A person taps their right foot on the ground. # 4 # 7 # legs
+A person leans to the left. # 7 # 9.008000000000001 # spine

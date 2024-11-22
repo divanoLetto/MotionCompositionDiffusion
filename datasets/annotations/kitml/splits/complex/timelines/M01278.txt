@@ -1,0 +1,2 @@
+A person performs a kick with their right foot. # 0 # 5.14 # spine
+A person brings their hands together in front of their chest. # 4 # 6.76 # spine

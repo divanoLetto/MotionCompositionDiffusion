@@ -1,0 +1,2 @@
+A person is bouncing up and down while swinging their arms. # 0 # 6 # spine
+A person swings their arms up and down at the joints. # 4 # 10.0 # spine

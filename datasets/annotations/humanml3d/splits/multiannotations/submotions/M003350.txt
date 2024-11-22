@@ -1,0 +1,3 @@
+person steps forward and bends both knees and bends body forward to put something on ground # 0 # 4.45 # spine
+a person takes a step forward, squats down, places their left hand on the ground in front of them, moves their hand slightly clockwise then stands up. # 0 # 4.45 # spine
+a person places something on the ground. # 0 # 4.45 # spine

@@ -1,0 +1,2 @@
+A person stands in a fight stance. # 0 # 2.0 # spine # legs
+A person raises their left hand. # 2.0 # 3.0 # left arm

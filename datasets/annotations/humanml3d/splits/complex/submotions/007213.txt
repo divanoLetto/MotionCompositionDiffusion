@@ -1,0 +1,4 @@
+A person raises both arms above their head. # 0 # 2 # spine
+A person makes a handle with their right arm. # 2 # 6 # spine
+A person makes a spout with their left arm. # 4 # 8 # spine
+A person is acting out the motions for the song 'i'm a little teapot'. # 6 # 10.0 # spine

@@ -1,0 +1,2 @@
+A person uses their left hand to hold the guitar. # 0 # 6.0 # left arm
+A person is using their right hand to strum the guitar. # 6.0 # 6.66 # right arm

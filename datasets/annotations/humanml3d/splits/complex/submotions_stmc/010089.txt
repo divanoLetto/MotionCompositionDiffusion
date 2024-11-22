@@ -1,0 +1,3 @@
+A person raises both hands above their head. # 0 # 3 # right arm # left arm
+A person waves both hands from side to side. # 3 # 6 # right arm # left arm
+A person motions with their right hand. # 6 # 10.0 # right arm

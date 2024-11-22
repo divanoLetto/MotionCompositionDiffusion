@@ -1,0 +1,3 @@
+a person is moving around the room while moving his hands. # 0 # 10 # spine
+a person turns to the right to pick something up and walk forward to place it down # 0 # 10 # spine
+a man lightly sways from side to side, then turns to the right and picks up an object with his left hand. # 0 # 10 # spine

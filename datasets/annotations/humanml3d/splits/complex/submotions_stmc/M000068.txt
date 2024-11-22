@@ -1,0 +1,4 @@
+A person hops on their left foot. # 0 # 3 # legs
+A person brings their left heel over their right heel. # 3 # 6 # legs
+A person hops on their right foot. # 6 # 9 # legs
+A person brings their left heel over their right heel. # 9 # 10.0 # legs

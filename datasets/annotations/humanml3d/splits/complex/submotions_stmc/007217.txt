@@ -1,0 +1,2 @@
+A person sways their arms around.  # 0 # 5 # right arm # left arm
+A person spins while moving to the left. # 5 # 10.0 # spine # legs

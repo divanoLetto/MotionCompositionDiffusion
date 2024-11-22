@@ -1,0 +1,4 @@
+A person reaches forward with their left hand. # 0 # 2.0 # spine
+A person reaches backward with their right hand. # 1.5 # 3.5 # spine
+A person jabs forward with their right arm. # 3.0 # 4.0 # spine
+A person jabs backward with their left arm. # 3.5 # 4.26 # spine

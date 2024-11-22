@@ -1,0 +1,3 @@
+a person moves both their forearms in opposite circles, right hand clockwise, left hand counter clockwise. # 0 # 5.74 # spine
+a person rotates their hands in opposing circles. # 0 # 5.74 # spine
+a person moves both hands in opposite circles in front of their body. # 0 # 5.74 # spine

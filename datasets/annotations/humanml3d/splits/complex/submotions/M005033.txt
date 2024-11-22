@@ -1,0 +1,2 @@
+A person throws something with their left hand. # 0 # 2 # spine
+A person stands in a pitching stance. # 2 # 6.175 # spine

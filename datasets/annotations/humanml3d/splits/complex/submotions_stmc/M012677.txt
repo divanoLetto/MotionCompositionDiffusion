@@ -1,0 +1,2 @@
+A person throws an object with his right hand. # 0 # 3.0 # right arm
+A person raises his right arm. # 3.0 # 6.71 # right arm

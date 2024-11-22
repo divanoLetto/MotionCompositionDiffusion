@@ -1,0 +1,3 @@
+A person performs a high kick with their left leg. # 0 # 4 # spine
+A person throws a punch with their right arm. # 2 # 6 # spine
+A person kicks with their right foot. # 4 # 10.0 # spine

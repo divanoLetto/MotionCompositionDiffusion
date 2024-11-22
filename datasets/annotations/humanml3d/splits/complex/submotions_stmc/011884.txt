@@ -1,0 +1,2 @@
+A person uses his left arm to touch his head. # 0 # 5 # left arm # head
+A person walks in a counterclockwise circle. # 5 # 9.999999999999998 # legs

@@ -1,0 +1,2 @@
+A person shakes the bent arms and the head like an eating chicken. # 0 # 3 # spine
+A person walks like a chicken. # 2 # 3.01 # spine

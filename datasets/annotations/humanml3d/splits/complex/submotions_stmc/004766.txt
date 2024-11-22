@@ -1,0 +1,2 @@
+A person puts their right hand to their ear. # 0 # 3 # right arm # head
+A person is shimmying. # 3 # 3.108 # spine

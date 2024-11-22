@@ -1,0 +1,4 @@
+A person steps forward rhythmically. # 0 # 3 # legs
+A person moves arms up. # 3 # 5 # right arm # left arm
+A person moves arms around. # 5 # 8 # right arm # left arm
+A person walks around erratically. # 8 # 10.0 # legs

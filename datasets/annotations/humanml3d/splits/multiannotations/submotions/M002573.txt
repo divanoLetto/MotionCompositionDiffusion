@@ -1,0 +1,3 @@
+a person uses their hands to clap # 0 # 3.475 # spine
+a person puts their hands together and does a clasp motion. # 0 # 3.475 # spine
+a man rubs his hands together. # 0 # 3.475 # spine

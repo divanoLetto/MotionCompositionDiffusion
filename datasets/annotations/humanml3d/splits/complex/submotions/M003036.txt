@@ -1,0 +1,2 @@
+A person raises both arms up and down while moving rhythmically. # 0 # 6 # spine
+A person moves their right arm in a circular motion. # 4 # 10.0 # spine

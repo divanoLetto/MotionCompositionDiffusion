@@ -1,0 +1,3 @@
+the person is sitting and put his left finger up. # 0 # 5.1 # spine
+a person sitting down, raises their left hand up and down very slightly. # 0 # 5.1 # spine
+a person is sitting and raises his left hand to eat. # 0 # 5.1 # spine

@@ -1,0 +1,2 @@
+A person shakes their hips and waves hands rapidly by either side of the jaw. # 0 # 3.267 # spine
+A person lifts both arms and shakes their hips quickly. # 3 # 7.633 # spine

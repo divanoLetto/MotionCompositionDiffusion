@@ -1,0 +1,2 @@
+A person throws an uppercut punch with their right hand. # 0 # 1.5 # right arm
+A person punches the air with their right arm. # 1.5 # 1.65 # right arm

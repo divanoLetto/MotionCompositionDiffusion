@@ -1,0 +1,3 @@
+a person walks in a clockwise direction. # 0 # 8.27 # spine
+a person walks clockwise slowly. # 0 # 8.27 # spine
+the person is walking in a counter clockwise circle. # 0 # 8.27 # spine

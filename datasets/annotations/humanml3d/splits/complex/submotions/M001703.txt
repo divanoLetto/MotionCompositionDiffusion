@@ -1,0 +1,4 @@
+A person raises their arms to the side. # 0 # 2 # spine
+A person lowers their arms. # 2 # 4 # spine
+A person walks in a counterclockwise circle. # 4 # 10.0 # spine
+A person raises their arms to shoot. # 8 # 10.0 # spine

@@ -1,0 +1,3 @@
+A person waves their right hand. # 0 # 1 # right arm
+A person jabs at the air with their right hand. # 1 # 3.233 # right arm
+A person keeps their left arm at their side. # 0 # 3 # left arm

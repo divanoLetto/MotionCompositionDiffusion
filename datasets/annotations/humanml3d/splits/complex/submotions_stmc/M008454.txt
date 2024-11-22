@@ -1,0 +1,2 @@
+A person is moving their hips from side to side. # 0 # 4 # spine # legs
+A person sways their arms in rhythm with their hips. # 4 # 4.358 # right arm # left arm # spine

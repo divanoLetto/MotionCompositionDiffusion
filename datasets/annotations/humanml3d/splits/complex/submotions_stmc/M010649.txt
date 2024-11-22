@@ -1,0 +1,2 @@
+A person raises both arms up into a y shape. # 0 # 3 # right arm # left arm
+A person steps to the side in a rhythmic manner. # 3 # 10.0 # legs

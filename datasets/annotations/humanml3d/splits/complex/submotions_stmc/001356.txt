@@ -1,0 +1,4 @@
+A person bounces a ball with their right hand. # 0 # 5.89 # right arm
+A person tosses something up with both hands. # 5.89 # 8.0 # right arm # left arm
+A person steps back. # 8.0 # 9.0 # legs
+A person hits something with their right hand. # 9.0 # 10.0 # right arm

@@ -1,0 +1,3 @@
+person steps ten steps in a side on direction very stelphly # 0 # 10 # spine
+first a person takes two steps forward, then turns to the right and takes two steps. then, the person pauses. then, the person takes a few more steps and turns to the left. # 0 # 10 # spine
+a man starts to walk straight then walks to the left. # 0 # 10 # spine

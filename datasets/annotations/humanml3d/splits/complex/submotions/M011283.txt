@@ -1,0 +1,2 @@
+a person raises their right arm up to the side. # 0 # 6 # spine
+a person is moving their right arm in a circular motion. # 4 # 10.0 # spine

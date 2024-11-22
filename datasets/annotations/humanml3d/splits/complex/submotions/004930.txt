@@ -1,0 +1,2 @@
+A person has their arms raised in a defensive position. # 0 # 1.2 # spine
+A person moves their left arm forward. # 0.5 # 1.2 # spine

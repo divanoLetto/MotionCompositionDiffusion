@@ -1,0 +1,2 @@
+A person is moving their hips from side to side. # 0 # 3 # spine
+A person raises both arms out to the side. # 2 # 6.899999999999999 # spine

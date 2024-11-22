@@ -1,0 +1,2 @@
+A person stands with a balanced posture. # 0 # 4 # spine # legs
+A person performs a kicking motion with their right leg. # 4 # 8.65 # legs

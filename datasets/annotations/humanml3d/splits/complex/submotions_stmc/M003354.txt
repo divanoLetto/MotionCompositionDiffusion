@@ -1,0 +1,2 @@
+A person is standing with their arms out moving gracefully. # 0 # 5 # right arm # left arm # spine
+A person moves their legs gracefully while dancing. # 5 # 9.358 # legs # spine

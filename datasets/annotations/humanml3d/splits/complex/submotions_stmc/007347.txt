@@ -1,0 +1,2 @@
+a person kicks with the right foot. # 0 # 2.942 # right arm
+a person seems to be hitting an object with their right foot. # 2.942 # 4.26 # right arm

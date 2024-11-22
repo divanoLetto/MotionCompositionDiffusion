@@ -1,0 +1,2 @@
+A person celebrates by jumping up and down.  # 0 # 5 # legs # spine # head
+A person raises their arms in excitement.  # 5 # 10.0 # right arm # left arm # spine

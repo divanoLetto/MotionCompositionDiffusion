@@ -1,0 +1,2 @@
+A person wildly flails their arms about in a circular motion. # 0 # 5 # spine
+A person in a fighting stance kicks out with his right foot. # 5 # 10.0 # spine

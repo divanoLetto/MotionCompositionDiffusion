@@ -1,0 +1,4 @@
+A person is making hand gestures with their right hand. # 0 # 3 # spine
+A person raises their left hand. # 2 # 5 # spine
+A person raises their right hand. # 4 # 7 # spine
+A person gestures with both arms. # 6 # 10.0 # spine

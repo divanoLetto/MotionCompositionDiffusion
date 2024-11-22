@@ -1,0 +1,4 @@
+A person gets into a fighting stance.  # 0 # 2 # legs # right arm # left arm
+A person kicks with their right leg.  # 2 # 5 # legs
+A person throws a punch with their right arm.  # 5 # 7 # right arm
+A person uses their left arm to block.  # 7 # 10.000000000000004 # left arm

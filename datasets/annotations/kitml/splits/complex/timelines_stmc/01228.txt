@@ -1,0 +1,4 @@
+A person is shaking their body step by step from head to toe. # 0 # 3 # spine
+A person kicks forward. # 3 # 6 # legs
+A person raises both hands. # 6 # 10 # left arm # right arm
+A person goes lower while bending their knees. # 10 # 11.98 # legs

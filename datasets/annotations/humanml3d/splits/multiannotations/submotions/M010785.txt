@@ -1,0 +1,3 @@
+a person marches forward, turns around, and then marches back. # 0 # 10 # spine
+a man marches forward then turns around and marches in the opposite direction. # 0 # 10 # spine
+person is marching forward in straight line # 0 # 10 # spine

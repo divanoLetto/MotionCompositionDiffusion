@@ -1,0 +1,3 @@
+a person walks forward slowly # 0 # 4.0 # legs
+a person raises both arms above their head # 4.0 # 8.0 # left arm # right arm
+a person turns around to walk back # 8.0 # 10.0 # legs

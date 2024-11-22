@@ -1,0 +1,3 @@
+A person walks forward while swinging their arms. # 0 # 3 # spine
+A person raises their arms above their head. # 2 # 5 # spine
+A person dances while moving their shoulders. # 4 # 7.95 # spine

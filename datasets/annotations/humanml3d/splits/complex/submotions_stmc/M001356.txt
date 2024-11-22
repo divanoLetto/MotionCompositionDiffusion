@@ -1,0 +1,4 @@
+A person bounces a ball with their left hand. # 0 # 3 # left arm
+A person readies something in both hands. # 3 # 5 # right arm # left arm
+A person tosses the ball into the air. # 5 # 7 # right arm # left arm
+A person hits a ball with their right hand. # 7 # 10.0 # right arm

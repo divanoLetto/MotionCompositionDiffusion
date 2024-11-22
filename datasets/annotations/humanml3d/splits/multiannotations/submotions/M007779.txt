@@ -1,0 +1,3 @@
+a person sits down and applauds. # 0 # 10 # spine
+the headless person with a broken back walked up to a chair, sat down, then applauded their self for doing so. # 0 # 10 # spine
+a person sitting down and keeps on clapping their hands # 0 # 10 # spine

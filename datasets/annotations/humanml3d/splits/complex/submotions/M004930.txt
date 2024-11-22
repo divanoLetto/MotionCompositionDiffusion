@@ -1,0 +1,2 @@
+A person stands with their arms raised in a guard position. # 0 # 1.2 # spine
+A person moves from side to side with knees bent and arms on guard. # 0 # 1.2 # spine

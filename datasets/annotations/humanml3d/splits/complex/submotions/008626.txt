@@ -1,0 +1,2 @@
+A person raises their left hand to the right. # 0 # 3.975 # spine
+A person gestures with both arms. # 3.975 # 10.0 # spine

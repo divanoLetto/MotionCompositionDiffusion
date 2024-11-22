@@ -1,0 +1,3 @@
+a person catches a ball with their left arm then throws it with their right arm. # 0 # 10 # spine
+a person catches something and throws it with his hands. # 0 # 10 # spine
+the person catches and throws something. # 0 # 10 # spine

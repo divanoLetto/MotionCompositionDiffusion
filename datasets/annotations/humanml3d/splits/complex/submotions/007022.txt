@@ -1,0 +1,4 @@
+A person flaps their arms like a chicken. # 0 # 3.5 # spine
+A person lifts their left foot. # 2 # 5 # spine
+A person hops to the right. # 4 # 7 # spine
+A person puts their right foot out in front. # 6 # 10.0 # spine

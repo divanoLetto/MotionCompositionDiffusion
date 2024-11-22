@@ -1,0 +1,4 @@
+A person jumps up into the air. # 0 # 2 # spine
+A person kicks with their left leg. # 1.5 # 4 # spine
+A person dances while moving their hips. # 3 # 6 # spine
+A person strikes a pose. # 5 # 6.533 # spine

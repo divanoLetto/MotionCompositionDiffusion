@@ -1,0 +1,2 @@
+A person punches with their right hand. # 0 # 3 # spine
+A person swings their right arm. # 2 # 5.05 # spine

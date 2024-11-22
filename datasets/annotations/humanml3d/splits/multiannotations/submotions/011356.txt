@@ -1,0 +1,3 @@
+a person runs to the right slightly. # 0 # 4.54 # spine
+a man takes a lumbering jog forward. # 0 # 4.54 # spine
+the jogs from one end to the other in a diagonal fashion. # 0 # 4.54 # spine

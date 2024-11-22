@@ -1,0 +1,3 @@
+the person is standing up being flexable # 0 # 1.7 # spine
+a person has both legs spread apart and hands down. # 0 # 1.7 # spine
+person puts right leg outwards and doing a slight squat whilst putting right hand on hip # 0 # 1.7 # spine

@@ -1,0 +1,3 @@
+A person is standing up.  # 0 # 2 # spine
+A person raises both hands above their head with fingers spread.  # 2 # 3.567 # spine
+A person moves their hips back and forth.  # 3 # 3.567 # spine

@@ -1,0 +1,4 @@
+A person takes a few steps forward. # 0 # 2.0 # legs
+A person bends at the knees. # 2.0 # 4.5 # legs
+A person takes a step back. # 4.5 # 6.5 # legs
+A person shoots with both hands extending forwards. # 6.5 # 8.4 # right arm # left arm

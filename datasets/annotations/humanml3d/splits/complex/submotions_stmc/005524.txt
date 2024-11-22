@@ -1,0 +1,3 @@
+A person steps backwards and does a flip. # 0 # 2 # spine # legs # head
+A person jumps. # 2 # 4 # spine # legs
+A person lands on both feet. # 4 # 7.992 # legs

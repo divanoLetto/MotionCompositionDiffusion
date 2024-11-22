@@ -1,0 +1,2 @@
+A person steps back with their right leg. # 0 # 2 # legs
+A person pitches something forward with their right arm. # 2 # 3.525 # right arm

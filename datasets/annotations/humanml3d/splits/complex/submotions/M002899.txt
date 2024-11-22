@@ -1,0 +1,2 @@
+A person raises their right hand to throw. # 0 # 1.7 # spine
+A person punches with their right hand. # 1.5 # 1.7 # spine

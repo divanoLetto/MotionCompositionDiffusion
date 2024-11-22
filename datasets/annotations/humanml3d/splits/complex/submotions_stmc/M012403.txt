@@ -1,0 +1,4 @@
+A person throws a punch with their right hand. # 0 # 2.1 # right arm
+A person lifts their left arm and punches. # 2.1 # 5.0 # left arm
+A person raises their right hand to their face. # 5.0 # 8.0 # right arm
+A person punches quickly with their left hand. # 8.0 # 10.0 # left arm

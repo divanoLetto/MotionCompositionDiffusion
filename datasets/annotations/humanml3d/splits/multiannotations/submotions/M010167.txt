@@ -1,0 +1,3 @@
+a man stands in a squatting position while facing the camera, arms out wide to his right and left, then brings his arms down to his sides, and returns them to their outleft position after pausing. # 0 # 10 # spine
+a person stands at a slight squat with his arms outreached at his sides and then lowers them to knee-level. # 0 # 10 # spine
+the man lowers his outreached hands to his knees as he squats down. # 0 # 10 # spine

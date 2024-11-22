@@ -1,0 +1,3 @@
+person checking the time on his right wrist # 0 # 3.175 # spine
+the man is looking at his watch on his right wrist # 0 # 3.175 # spine
+a person raises their right hand then places it back down. # 0 # 3.175 # spine

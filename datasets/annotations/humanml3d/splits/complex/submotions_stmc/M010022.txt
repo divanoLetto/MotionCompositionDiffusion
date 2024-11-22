@@ -1,0 +1,2 @@
+A person bends down to pick something up with their left arm. # 0 # 3 # left arm
+A person throws something with their right arm. # 3 # 10.0 # right arm

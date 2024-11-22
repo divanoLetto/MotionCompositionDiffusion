@@ -1,0 +1,2 @@
+A person is performing a counterclockwise pirouette to the left. # 0 # 4 # spine # legs
+A person continues spinning until the end. # 4 # 6.008 # spine # legs

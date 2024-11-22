@@ -1,0 +1,2 @@
+A person lays on their stomach. # 0 # 2 # spine
+A person swims with their arms. # 2 # 10.0 # spine

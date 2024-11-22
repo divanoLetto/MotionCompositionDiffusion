@@ -1,0 +1,3 @@
+a person reaches his left arm straight out # 0 # 3.508 # spine
+the blue and red stick figure is scratching his shoulder # 0 # 3.508 # spine
+a person raised the left hand and pull it down # 0 # 3.508 # spine

@@ -1,0 +1,2 @@
+A person dances in a rotating motion. # 0 # 2 # spine # legs
+A person raises their right arm. # 2 # 4.375 # right arm

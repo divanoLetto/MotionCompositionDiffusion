@@ -1,0 +1,3 @@
+a person walks backwards and then steps up stairs backwards as well # 0 # 10 # spine
+figure looks around then backs up # 0 # 10 # spine
+the person is walking backwards. # 0 # 10 # spine

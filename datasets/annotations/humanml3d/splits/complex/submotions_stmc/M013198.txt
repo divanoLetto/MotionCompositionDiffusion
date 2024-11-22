@@ -1,0 +1,2 @@
+A person is stumbling around as if drunk. # 0 # 5 # legs
+A person raises their arms and waves them around. # 5 # 10.0 # right arm # left arm

@@ -1,0 +1,2 @@
+A person dances with their legs.  # 0 # 5 # legs
+A person hops in the air.  # 5 # 10.0 # legs

@@ -1,0 +1,3 @@
+the figure takes a few slighly hurried steps without raising their arms, it looks they are about to start running but haven't quite yet begun. # 0 # 4.16 # spine
+a person walks down the stairs briskly. # 0 # 4.16 # spine
+he is running down then stopped and moved his right hand # 0 # 4.16 # spine

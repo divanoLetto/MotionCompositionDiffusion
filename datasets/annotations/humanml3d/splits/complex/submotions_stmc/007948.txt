@@ -1,0 +1,2 @@
+A person flaps both of their arms like a chicken. # 0 # 5.0 # left arm # right arm
+A person continues flapping their arms while bending forward. # 5.0 # 10.0 # left arm # right arm # spine

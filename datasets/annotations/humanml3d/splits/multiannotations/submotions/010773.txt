@@ -1,0 +1,3 @@
+a seated person motions in a "come here" movement with their right arm # 0 # 10 # spine
+a person sits down and talks with their hands. # 0 # 10 # spine
+the person is squatting down while raising and then moving their right hand in a circular motion. # 0 # 10 # spine

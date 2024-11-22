@@ -1,0 +1,2 @@
+A person is swiping with their left hand. # 0 # 6 # spine
+A person is dancing while moving their arms. # 0 # 10.0 # spine

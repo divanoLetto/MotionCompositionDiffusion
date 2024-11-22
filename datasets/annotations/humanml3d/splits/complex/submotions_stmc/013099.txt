@@ -1,0 +1,2 @@
+A ballerina is bringing the leg forward then taking a bow. # 0 # 3 # legs # spine
+A person raises both arms out to the side. # 3 # 4.375 # right arm # left arm

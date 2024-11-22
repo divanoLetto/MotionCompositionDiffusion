@@ -1,0 +1,2 @@
+A person is moving their hips rhythmically.  # 0 # 5 # spine # legs
+A person holds their arms up in front.  # 5 # 10.0 # right arm # left arm

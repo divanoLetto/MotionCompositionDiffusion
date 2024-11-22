@@ -1,0 +1,2 @@
+a person puts their arms out in front of them. # 0 # 6 # spine
+a person is waving around his arms. # 4 # 10.0 # spine

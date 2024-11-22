@@ -1,0 +1,3 @@
+A person raises both arms like wings. # 0 # 4 # left arm # right arm
+A person moves his legs in a stepping motion. # 4 # 10 # legs
+A person sways the spine side to side. # 10 # 11.18 # spine

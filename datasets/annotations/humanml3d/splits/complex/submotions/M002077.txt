@@ -1,0 +1,4 @@
+A person sidesteps to the left. # 0 # 3 # spine
+A person sidesteps to the right. # 2 # 5 # spine
+A person raises their arms to the side. # 4 # 7 # spine
+A person moves their arms in a circular motion. # 6 # 9.999999999999998 # spine

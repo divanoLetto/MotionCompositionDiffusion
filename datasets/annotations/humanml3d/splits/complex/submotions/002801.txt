@@ -1,0 +1,2 @@
+a person is performing various kicks while moving from one side to the other. # 0 # 6 # spine
+a person is jumping up and down with his hands up. # 6 # 10.0 # spine

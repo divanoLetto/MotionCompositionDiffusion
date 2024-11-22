@@ -1,0 +1,3 @@
+a person does a small jump # 0 # 4.38 # spine
+this figure seems to be jumping over something # 0 # 4.38 # spine
+a person jumps in the air. # 0 # 4.38 # spine

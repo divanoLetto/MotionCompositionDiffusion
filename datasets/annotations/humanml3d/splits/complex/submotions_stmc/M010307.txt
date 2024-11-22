@@ -1,0 +1,2 @@
+A person throws something with their left hand. # 0 # 4.542 # left arm
+A person uses their right hand to touch something. # 4.542 # 10.000000000000002 # right arm

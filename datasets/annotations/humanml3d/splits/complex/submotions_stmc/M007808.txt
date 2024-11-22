@@ -1,0 +1,2 @@
+A person does jumping jacks.  # 0 # 5.675 # right arm # left arm # legs
+A person hops around, jumping off of different objects.  # 5.675 # 10.1 # spine # legs

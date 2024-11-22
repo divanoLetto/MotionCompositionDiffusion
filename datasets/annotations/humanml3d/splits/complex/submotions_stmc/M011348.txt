@@ -1,0 +1,4 @@
+A person raises both hands above their head.  # 0 # 3 # right arm # left arm
+A person takes two steps forward. # 3 # 6 # legs
+A person takes two steps backward. # 6 # 9 # legs
+A person drops both hands to their side. # 9 # 9.04 # right arm # left arm

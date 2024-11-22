@@ -1,0 +1,3 @@
+A person steps back starting with the left foot. # 0 # 2 # spine
+A person raises both hands to their face. # 2 # 6 # spine
+A person fakes a punch with their left arm. # 6 # 10.0 # spine

@@ -1,0 +1,4 @@
+A person raises both arms out to the side. # 0 # 3 # right arm # left arm
+A person brings their arms down. # 3 # 5 # right arm # left arm
+A person turns to their left. # 5 # 7 # spine
+A person performs a throwing motion with their right arm. # 7 # 10.0 # right arm

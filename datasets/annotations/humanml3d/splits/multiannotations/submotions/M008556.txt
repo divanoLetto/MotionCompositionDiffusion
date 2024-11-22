@@ -1,0 +1,3 @@
+a person gets down and crawls around the floor.a # 0 # 10 # spine
+a person starts by standing upleft, then gets down on their hands and knees and begin to crawl to the left, then turn around and begin to stand up. # 0 # 10 # spine
+a person gets on all fours and starts crawling. # 0 # 10 # spine

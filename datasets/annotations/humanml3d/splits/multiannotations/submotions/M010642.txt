@@ -1,0 +1,3 @@
+this person put both arms up in front of themselves, while standing still. # 0 # 3.475 # spine
+the person stretches their arms forward # 0 # 3.475 # spine
+the person is twisting his arms straight out words. # 0 # 3.475 # spine

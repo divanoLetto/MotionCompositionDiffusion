@@ -1,0 +1,2 @@
+A person stands still.  # 0 # 2.5 # legs
+A person uses their right arm to putt a ball.  # 2.5 # 5.85 # right arm

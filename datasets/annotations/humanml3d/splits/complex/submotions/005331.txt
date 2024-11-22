@@ -1,0 +1,2 @@
+A person swings both of their arms, bringing their hands together at the front. # 0 # 5 # spine
+A person raises their right leg. # 3 # 10.0 # spine

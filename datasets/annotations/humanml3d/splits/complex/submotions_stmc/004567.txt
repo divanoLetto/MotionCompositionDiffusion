@@ -1,0 +1,3 @@
+A person side skips to their right. # 0 # 2.0 # legs
+A person side skips to their left. # 2.0 # 4.01 # legs
+A person swings their arms. # 0 # 4.0 # right arm # left arm

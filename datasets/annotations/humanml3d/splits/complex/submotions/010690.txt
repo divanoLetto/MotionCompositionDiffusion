@@ -1,0 +1,3 @@
+A person holds their right arm bent in front of them. # 0 # 3 # spine
+A person holds their left arm bent to the side. # 2 # 5 # spine
+A person dances while moving their hips. # 4 # 10.0 # spine

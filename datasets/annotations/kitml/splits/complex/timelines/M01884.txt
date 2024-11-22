@@ -1,0 +1,3 @@
+A person walks forward. # 0 # 2 # spine
+A person takes a step forward and then kicks a ball. # 2 # 5.07 # spine
+A person performs a kick with their right foot. # 3 # 5 # spine

@@ -1,0 +1,2 @@
+A person walks in a counterclockwise circle. # 0 # 6 # spine
+A person is dancing in a circle. # 6 # 10.0 # spine

@@ -1,0 +1,3 @@
+A person raises their right hand. # 0 # 6 # spine
+A person is holding something with their right hand. # 0 # 10.0 # spine
+A person is moving their body to the rhythm. # 4 # 10.0 # spine

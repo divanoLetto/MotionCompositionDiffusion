@@ -1,0 +1,3 @@
+someone completes a full jumping jack before stopping. # 0 # 1.4 # spine
+a person does a jumping jack. # 0 # 1.4 # spine
+a person is doing a jumping jack. # 0 # 1.4 # spine

@@ -1,0 +1,2 @@
+A person walks forward.  # 0 # 2.0 # legs
+A person twists their upper body while dancing.  # 2.0 # 5.75 # spine

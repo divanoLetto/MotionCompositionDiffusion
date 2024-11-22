@@ -1,0 +1,2 @@
+A person is making signals with both his hands. # 0 # 8.707 # right arm # left arm
+A person raises both arms above their head. # 8.707 # 10.0 # right arm # left arm

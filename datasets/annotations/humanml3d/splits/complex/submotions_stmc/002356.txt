@@ -1,0 +1,2 @@
+A person stands in a fighting stance with their legs apart. # 0 # 3 # legs
+A person kicks forward with their right leg. # 3 # 10.0 # legs

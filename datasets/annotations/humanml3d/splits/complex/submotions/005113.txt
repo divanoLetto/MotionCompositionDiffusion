@@ -1,0 +1,3 @@
+A person raises both hands in the air. # 0 # 3 # spine
+A person shakes their hips from side to side. # 2 # 5 # spine
+A person waves their hands enthusiastically. # 4 # 10.0 # spine

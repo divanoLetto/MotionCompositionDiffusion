@@ -1,0 +1,4 @@
+A person is jumping forward. # 0 # 2 # spine
+A person is making a jump shot. # 2 # 6 # spine
+A person is making a jump shot. # 6 # 10.0 # spine
+A person is bouncing something with both hands. # 8 # 10.0 # spine

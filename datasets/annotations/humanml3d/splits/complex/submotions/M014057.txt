@@ -1,0 +1,2 @@
+A person walks forward. # 0 # 6 # spine
+A person twists at the waist. # 4 # 10.0 # spine

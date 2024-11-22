@@ -1,0 +1,2 @@
+A person walks carefully forward with legs.  # 0 # 5 # legs
+A person raises both arms out to the side for balance. # 5 # 10.000000000000002 # right arm # left arm

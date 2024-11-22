@@ -1,0 +1,2 @@
+A person walks forward while bending slightly at the knees. # 0 # 3 # legs # spine
+A person kicks with their left leg. # 3 # 6.45 # legs

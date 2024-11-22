@@ -1,0 +1,1 @@
+A person takes a step forward and throws a punch with their right hand. # 0 # 2.583 # right arm # legs

@@ -1,0 +1,3 @@
+A person raises both hands in front of them. # 0 # 2 # spine
+A person swings their arms in circles in front of them. # 2 # 5 # spine
+A person is warming up their arms and legs. # 5 # 7.13 # spine

@@ -1,0 +1,2 @@
+A person walks forward.  # 0 # 5.0 # legs
+A person moves their hips in a circular motion.  # 5.0 # 10.0 # spine # legs

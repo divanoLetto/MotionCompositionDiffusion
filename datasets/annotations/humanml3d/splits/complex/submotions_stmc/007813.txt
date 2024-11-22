@@ -1,0 +1,3 @@
+A person raises both arms up above their head. # 0 # 3 # right arm # left arm
+A person performs a kick with their left leg. # 3 # 7 # left arm # legs
+A person punches forward with their right arm. # 7 # 10.0 # right arm

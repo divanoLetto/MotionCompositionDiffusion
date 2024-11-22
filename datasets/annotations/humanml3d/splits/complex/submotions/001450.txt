@@ -1,0 +1,2 @@
+A person sways from side to side while clapping. # 0 # 2 # spine
+A person moves their arms in front of them. # 2 # 4.95 # spine

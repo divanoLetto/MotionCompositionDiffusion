@@ -1,0 +1,2 @@
+A person moves their arms outwards to their side and begins hopping while moving their arms in circles like they are jumping rope. # 0 # 10.0 # spine
+A person swings their arms as if doing ballet. # 5 # 10.0 # spine

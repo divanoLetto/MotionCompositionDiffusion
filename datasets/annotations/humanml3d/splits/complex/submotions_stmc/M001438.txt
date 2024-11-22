@@ -1,0 +1,2 @@
+A person holds an object with his left hand. # 0 # 5 # left arm
+A person raises their left hand. # 5 # 10.0 # left arm

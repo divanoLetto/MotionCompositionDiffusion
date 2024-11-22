@@ -1,0 +1,3 @@
+moving forward and backward finally come on the same place. # 0 # 9.242 # spine
+a person moved in left and after right direction # 0 # 9.242 # spine
+the person walks to his right, walks back to his left, and turns back to his right again and returns to his original position. # 0 # 9.242 # spine

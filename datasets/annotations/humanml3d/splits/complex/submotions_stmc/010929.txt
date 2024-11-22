@@ -1,0 +1,2 @@
+A person waves both arms in a back and forth motion. # 0 # 5 # right arm # left arm
+A person sways back and forth. # 5 # 7.609999999999999 # spine # legs

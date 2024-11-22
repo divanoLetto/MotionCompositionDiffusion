@@ -1,0 +1,2 @@
+A person raises their right arm to swing something. # 0 # 3 # spine
+A person swings their right arm in a wide circle. # 2 # 8.1 # spine

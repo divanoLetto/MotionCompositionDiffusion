@@ -1,0 +1,2 @@
+a person is walking backwards. # 0 # 6 # spine
+the person is walking straight backwards. # 6 # 10.0 # spine

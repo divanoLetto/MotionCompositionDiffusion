@@ -1,0 +1,1 @@
+A person raises their arms and bends their legs, pretending to be a teapot. # 0 # 10.0 # right arm # left arm # legs

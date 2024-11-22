@@ -1,0 +1,4 @@
+A person stands in a fighting stance. # 0 # 2 # spine
+A person kicks the air with their right leg. # 2 # 6 # spine
+A person kicks the air with their left leg. # 4 # 8 # spine
+A person kicks the air with their right leg again. # 6 # 10.0 # spine

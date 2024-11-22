@@ -1,0 +1,3 @@
+a man twists his neck,moves his arms up and downs one after the other,and then makes a circular hand motion. # 0 # 10 # spine
+a person appears to be warming up and loosening their neck, shoulder, elbow, and wrist muscles. # 0 # 10 # spine
+a person rotates their head, then rotates the arms from the shoulders left, right, then left, and then rotates the arms from the elbows in each direction. # 0 # 10 # spine

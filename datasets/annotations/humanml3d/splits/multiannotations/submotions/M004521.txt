@@ -1,0 +1,3 @@
+a person is making rapid swinging motions with their left leg in the air, while holding onto something with their left hand. # 0 # 10 # spine
+robot standing on his right leg and his left hand is uplifted and he is moving his leg in different positions. # 0 # 10 # spine
+a person balances on their right foot while bending and kicking their left leg, stabalizing themself with their left arm. # 0 # 10 # spine

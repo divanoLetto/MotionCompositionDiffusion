@@ -1,0 +1,3 @@
+a man squats deeply three times while raising both arms in the air as if holding a dumbell. # 0 # 3.85 # spine
+a person has both hands up and repeatedly squats down, bending at the knees. # 0 # 3.85 # spine
+person lifting dunbells with both hands # 0 # 3.85 # spine

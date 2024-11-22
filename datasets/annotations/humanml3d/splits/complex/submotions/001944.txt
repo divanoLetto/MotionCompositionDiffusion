@@ -1,0 +1,3 @@
+A person is walking forward. # 0 # 3 # spine
+A person is dribbling a ball with their left hand. # 3 # 5 # spine
+A person jumps forward. # 5 # 7.25 # spine

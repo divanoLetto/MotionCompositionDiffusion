@@ -1,0 +1,3 @@
+A person walks forward.  # 0 # 2.75 # legs
+A person twists their torso.  # 2.75 # 4.25 # spine
+A person walks backward to the starting position.  # 4.25 # 5.5 # legs

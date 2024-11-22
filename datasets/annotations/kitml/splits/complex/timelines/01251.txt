@@ -1,0 +1,2 @@
+A person performs multiple fast punches with the left hand. # 0 # 4 # spine
+A person is making a sidestep to the left. # 3 # 4.74 # spine

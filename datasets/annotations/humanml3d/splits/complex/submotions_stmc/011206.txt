@@ -1,0 +1,2 @@
+A person walks forward a few steps. # 0 # 2 # legs
+A person stops. # 2 # 2.717 # legs

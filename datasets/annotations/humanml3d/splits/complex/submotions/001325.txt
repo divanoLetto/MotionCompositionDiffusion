@@ -1,0 +1,4 @@
+A person walks forward gracefully. # 0 # 2 # spine
+A person swings their arms. # 2 # 6 # spine
+A person swings their legs. # 6 # 10.0 # spine
+A person turns in a half circle. # 8 # 10.0 # spine

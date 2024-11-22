@@ -1,0 +1,2 @@
+A person stands with arms held out.  # 0 # 3 # right arm # left arm
+A person walks in a clockwise circle.  # 3 # 10.0 # legs # spine

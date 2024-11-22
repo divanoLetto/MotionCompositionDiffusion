@@ -1,0 +1,2 @@
+A person holds their hands together while standing up. # 0 # 2 # spine
+A person swings their arms forwards and backwards. # 2 # 4.908 # spine

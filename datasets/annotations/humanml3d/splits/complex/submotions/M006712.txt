@@ -1,0 +1,4 @@
+A person stands with legs apart and arms up. # 0 # 2.5 # spine
+A person leans back slightly. # 0 # 2.5 # spine
+A person is dodging to the left. # 0 # 2.5 # spine
+A person raises their arms in a defensive position. # 0 # 2.5 # spine

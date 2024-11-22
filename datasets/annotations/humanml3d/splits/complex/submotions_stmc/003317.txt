@@ -1,0 +1,3 @@
+A person raises their left arm.  # 0 # 2.0 # left arm
+A person raises their right foot.  # 2 # 4 # right arm # legs
+A person dances around in a circle.  # 4 # 9.25 # spine # legs

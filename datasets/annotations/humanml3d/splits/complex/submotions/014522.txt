@@ -1,0 +1,2 @@
+A person walks in a circle motion with their hands up, in front of them. # 0 # 3.5 # spine
+A person raises their right hand to their head. # 2 # 3.5 # spine

@@ -1,0 +1,3 @@
+a person quickly walks forward. # 0 # 3.64 # spine
+a person walks down a ramp. # 0 # 3.64 # spine
+a stick figure walks diagonally, then stands still. # 0 # 3.64 # spine

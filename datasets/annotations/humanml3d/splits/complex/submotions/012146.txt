@@ -1,0 +1,2 @@
+A person brings their hands together.  # 0 # 2.742 # spine
+A person claps their hands together repeatedly.  # 2 # 8.400000000000006 # spine

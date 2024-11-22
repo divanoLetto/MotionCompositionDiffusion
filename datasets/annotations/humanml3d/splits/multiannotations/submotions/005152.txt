@@ -1,0 +1,3 @@
+a person stands with their knees slightly bent and their hands pulled toward their chest, twists to one side then the other side, squats further, and stands back up. # 0 # 10 # spine
+the person is pretending to be an animal. # 0 # 10 # spine
+a person doing a standing up dog impression # 0 # 10 # spine

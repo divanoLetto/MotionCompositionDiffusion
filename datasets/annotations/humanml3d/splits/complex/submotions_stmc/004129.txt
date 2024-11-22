@@ -1,0 +1,4 @@
+A person is running on the spot. # 0 # 4.575 # legs
+A person turns to the right. # 4.575 # 6.0 # spine # head
+A person jabs with both arms. # 6.0 # 8.0 # right arm # left arm
+A person turns to the left. # 8.0 # 9.05 # spine # head

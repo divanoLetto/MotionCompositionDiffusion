@@ -1,0 +1,3 @@
+A person stands still and uses their right arm to throw a ball. # 0 # 5 # right arm
+A person walks forward using both legs. # 5 # 8 # legs
+A person bends their spine slightly while preparing to throw again with their left arm. # 8 # 10.0 # spine # left arm

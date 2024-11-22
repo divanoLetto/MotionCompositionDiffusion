@@ -1,0 +1,3 @@
+person walking very slowly towards something # 0 # 6.63 # spine
+a person walks forward. # 0 # 6.63 # spine
+a man walks forwards slowly for a few steps, allowing his arms to dangle loosely by his side, then stops. # 0 # 6.63 # spine

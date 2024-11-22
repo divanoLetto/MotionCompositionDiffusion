@@ -1,0 +1,4 @@
+A person raises their hands above their head. # 0 # 3 # spine
+A person puts their hands on their hips. # 2 # 5 # spine
+A person waves with their left hand. # 4 # 5.825 # spine
+A person walks to the left. # 4 # 5.825 # spine

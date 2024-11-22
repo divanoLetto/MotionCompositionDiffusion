@@ -1,0 +1,4 @@
+A person runs forward at a medium pace. # 0 # 2 # spine
+A person jogs in place. # 1 # 4.325 # spine
+A person raises their arms in victory. # 2 # 4 # spine
+A person shakes their upper body. # 3 # 4 # spine

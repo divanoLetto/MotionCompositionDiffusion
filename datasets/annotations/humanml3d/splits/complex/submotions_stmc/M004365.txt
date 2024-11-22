@@ -1,0 +1,2 @@
+A person gets into a stance and kicks with his left leg. # 0 # 2.942 # legs
+A person raises his arms. # 0 # 2 # right arm # left arm

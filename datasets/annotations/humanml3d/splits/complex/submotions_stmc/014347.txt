@@ -1,0 +1,1 @@
+A person uses both hands to hit the drums. # 0 # 9.9 # right arm # left arm

@@ -1,0 +1,3 @@
+A person throws a series of punches with their right arm. # 0 # 2 # right arm
+A person swings their left arm in a circle. # 2 # 2.5 # left arm
+A person raises their right arm higher. # 2.5 # 2.567 # right arm

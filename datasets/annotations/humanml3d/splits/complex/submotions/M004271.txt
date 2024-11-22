@@ -1,0 +1,4 @@
+A person is performing various kicks while moving from one side to the other. # 0 # 3 # spine
+A person kicks with his left foot. # 3 # 5 # spine
+A person kicks with his right foot. # 5 # 5.71 # spine
+A person punches something straight out then lower and lower. # 5 # 5.71 # spine

@@ -1,0 +1,2 @@
+A person is swinging around his arms. # 0 # 6 # spine
+A person is walking around with excitement. # 4 # 10.0 # spine

@@ -1,0 +1,3 @@
+A person holds a tennis racket with their right arm. # 0 # 3 # right arm
+A person swings the tennis racket with their right arm. # 3 # 7 # right arm
+A person moves forward using their legs. # 7 # 10.0 # legs

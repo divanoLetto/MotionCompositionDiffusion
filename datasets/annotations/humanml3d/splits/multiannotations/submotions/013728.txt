@@ -1,0 +1,3 @@
+a person with its hand raised, gets down on to its knees. # 0 # 3.333 # spine
+a man goes from having his hands up ready to fight with right foot forward, to kneeling on his left leg, left hand back, and right hand on the ground. # 0 # 3.333 # spine
+person goes from standing to kneeling # 0 # 3.333 # spine

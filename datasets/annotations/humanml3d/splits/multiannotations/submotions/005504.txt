@@ -1,0 +1,3 @@
+this person walks forward, swats then walks back. # 0 # 8.533 # spine
+man walks forwards, stops, turns around and sits. then gets up and walks back # 0 # 8.533 # spine
+the person walked forward and then turned around and sat down. # 0 # 8.533 # spine

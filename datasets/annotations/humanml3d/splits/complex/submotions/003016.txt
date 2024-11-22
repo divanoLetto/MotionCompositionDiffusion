@@ -1,0 +1,2 @@
+A person jumps and spins from right to left. # 0 # 5 # spine
+A person stands with their arms on their side. # 4 # 5.69 # spine

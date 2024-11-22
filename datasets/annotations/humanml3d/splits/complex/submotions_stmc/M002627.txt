@@ -1,0 +1,4 @@
+A person stands in a t-pose. # 0 # 2 # spine # right arm # left arm
+A person turns to the left. # 2 # 5 # spine # legs
+A person continues to dance with arms out. # 5 # 8 # right arm # left arm # spine # legs
+A person turns to the right. # 8 # 10.0 # spine # legs

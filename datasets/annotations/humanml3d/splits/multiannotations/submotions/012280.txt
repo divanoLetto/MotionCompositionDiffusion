@@ -1,0 +1,3 @@
+a person walks forward quickly and then stops # 0 # 3.35 # spine
+a person walking down something fast. # 0 # 3.35 # spine
+a person runs forward and then stops # 0 # 3.35 # spine

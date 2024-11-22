@@ -1,0 +1,2 @@
+A person raises their left arm up. # 0 # 1.9 # spine
+A person throws something with their left hand. # 1 # 1.9 # spine

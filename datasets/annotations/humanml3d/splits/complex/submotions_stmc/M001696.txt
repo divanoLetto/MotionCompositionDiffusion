@@ -1,0 +1,4 @@
+A person kicks forward with their right leg. # 0 # 2 # legs
+A person kicks forward with their left leg. # 2 # 4 # legs
+A person kicks forward with their right leg. # 4 # 6 # legs
+A person kicks forward with their left leg. # 6 # 10.0 # legs

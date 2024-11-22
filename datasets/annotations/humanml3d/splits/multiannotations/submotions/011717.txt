@@ -1,0 +1,3 @@
+a ballerina is bringing the leg forward then taking a bow. # 0 # 9.425 # spine
+with the right arm bent with the hand facing up, the left hand high in the air and the right foot out, the person brings arms down and foot forward. then the person bows and move arms outward. # 0 # 9.425 # spine
+a person starts with arms up then leans forward with arms down then outstretched. # 0 # 9.425 # spine

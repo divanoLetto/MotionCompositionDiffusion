@@ -1,0 +1,2 @@
+A person performs a whipping movement with the right hand. # 0 # 3 # spine
+A person swings their right arm in a wide circle. # 2 # 7.01 # spine

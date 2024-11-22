@@ -1,0 +1,2 @@
+A person walks awkwardly across the floor, holding their arms out to their sides for balance. # 0 # 5 # spine
+A person raises their arms and dances. # 4 # 10 # spine

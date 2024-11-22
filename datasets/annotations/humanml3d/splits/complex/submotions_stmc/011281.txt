@@ -1,0 +1,2 @@
+A person takes a step backwards. # 0 # 2 # legs
+A person passes a ball with their right foot. # 2 # 3.0 # right arm # legs

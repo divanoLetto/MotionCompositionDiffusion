@@ -1,0 +1,4 @@
+A person sashays to the left. # 0 # 3 # legs
+A person sashays to the right. # 3 # 6 # legs
+A person reaches with their right hand. # 6 # 8 # right arm
+A person reaches with their left hand. # 8 # 10.0 # left arm

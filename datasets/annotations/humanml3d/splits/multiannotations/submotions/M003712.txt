@@ -1,0 +1,3 @@
+the person crawls forward at a slow speed # 0 # 10 # spine
+a person gets on all fours and starts crawling. # 0 # 10 # spine
+a person takes a step backward, carefully gets down on his hands and knees, then crawls forward. # 0 # 10 # spine

@@ -1,0 +1,3 @@
+a man rope skipping and then remove the footwear and then rope skip again # 0 # 10 # spine
+the figure begins from an initial pose, and swings hands and jumps as if jumping rope, then stops, and restarts. # 0 # 10 # spine
+the person is jumping rope backwards. # 0 # 10 # spine

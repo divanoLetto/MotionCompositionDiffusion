@@ -1,0 +1,3 @@
+a person is on their knees and then they get up slowly. # 0 # 6.88 # spine
+the person is on the ground and decides to get up # 0 # 6.88 # spine
+a person is on his knees and then gets up by pushing himself up with his left hand # 0 # 6.88 # spine

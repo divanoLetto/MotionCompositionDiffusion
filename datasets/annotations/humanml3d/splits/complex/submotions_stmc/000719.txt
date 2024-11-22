@@ -1,0 +1,2 @@
+A person raises their arms in preparation.  # 0 # 2.0 # right arm # left arm
+A person rotates their spine slightly to the right.  # 2.0 # 2.5 # spine

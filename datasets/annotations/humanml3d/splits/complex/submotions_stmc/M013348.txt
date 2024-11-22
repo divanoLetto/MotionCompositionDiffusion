@@ -1,0 +1,2 @@
+A person raises both arms above their head. # 0 # 2.5 # right arm # left arm
+A person steps around with their legs. # 2.5 # 4.95 # legs

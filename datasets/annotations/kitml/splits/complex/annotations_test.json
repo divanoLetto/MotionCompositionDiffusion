@@ -1,0 +1,4802 @@
+{
+    "00660": {
+        "path": "KIT/291/drum03_poses",
+        "duration": 2.73,
+        "annotations": [
+            {
+                "seg_id": "00660_0",
+                "text": "a persons drums",
+                "start": 0.0,
+                "end": 2.73
+            }
+        ]
+    },
+    "00661": {
+        "path": "KIT/291/drum05_poses",
+        "duration": 2.71,
+        "annotations": [
+            {
+                "seg_id": "00661_0",
+                "text": "A person doing a drumming movement",
+                "start": 0.0,
+                "end": 2.71
+            }
+        ]
+    },
+    "00662": {
+        "path": "KIT/291/chicken01_poses",
+        "duration": 3.26,
+        "annotations": [
+            {
+                "seg_id": "00662_4",
+                "text": "human performs the chicken dance",
+                "start": 0.0,
+                "end": 3.26
+            }
+        ]
+    },
+    "00663": {
+        "path": "KIT/291/chicken04_poses",
+        "duration": 3.01,
+        "annotations": [
+            {
+                "seg_id": "00663_5",
+                "text": "human performs a chicken dance",
+                "start": 0.0,
+                "end": 3.01
+            }
+        ]
+    },
+    "00664": {
+        "path": "KIT/291/walk_like_an_egyptian01_poses",
+        "duration": 3.45,
+        "annotations": [
+            {
+                "seg_id": "00664_1",
+                "text": "A person is dancing.",
+                "start": 0.0,
+                "end": 3.45
+            }
+        ]
+    },
+    "00665": {
+        "path": "KIT/291/walk_like_an_egyptian05_poses",
+        "duration": 4.26,
+        "annotations": [
+            {
+                "seg_id": "00665_0",
+                "text": "A person dances a weird dance",
+                "start": 0.0,
+                "end": 4.26
+            }
+        ]
+    },
+    "00676": {
+        "path": "KIT/291/air_guitar01_poses",
+        "duration": 6.7,
+        "annotations": [
+            {
+                "seg_id": "00676_0",
+                "text": "The human plays air guitar and sways.",
+                "start": 0.0,
+                "end": 6.7
+            }
+        ]
+    },
+    "00677": {
+        "path": "KIT/291/air_guitar_banging01_poses",
+        "duration": 5.96,
+        "annotations": [
+            {
+                "seg_id": "00677_0",
+                "text": "A person plays the air guitar",
+                "start": 0.0,
+                "end": 5.96
+            }
+        ]
+    },
+    "01205": {
+        "path": "KIT/572/dance_waltz00_poses",
+        "duration": 7.09,
+        "annotations": [
+            {
+                "seg_id": "01205_0",
+                "text": "human dances basic movement of slow waltz",
+                "start": 0.0,
+                "end": 7.09
+            }
+        ]
+    },
+    "01206": {
+        "path": "KIT/572/dance_waltz 01_poses",
+        "duration": 9.25,
+        "annotations": [
+            {
+                "seg_id": "01206_2",
+                "text": "a person dances",
+                "start": 0.0,
+                "end": 9.25
+            }
+        ]
+    },
+    "01207": {
+        "path": "KIT/572/dance_waltz 02_poses",
+        "duration": 9.04,
+        "annotations": [
+            {
+                "seg_id": "01207_0",
+                "text": "A person is dancing the male basic step of a waltz.",
+                "start": 0.0,
+                "end": 9.04
+            }
+        ]
+    },
+    "01208": {
+        "path": "KIT/572/dance_waltz03_poses",
+        "duration": 8.07,
+        "annotations": [
+            {
+                "seg_id": "01208_0",
+                "text": "A person dances.",
+                "start": 0.0,
+                "end": 8.07
+            }
+        ]
+    },
+    "01209": {
+        "path": "KIT/572/dance_waltz04_poses",
+        "duration": 6.43,
+        "annotations": [
+            {
+                "seg_id": "01209_0",
+                "text": "A person dances Waltz.",
+                "start": 0.0,
+                "end": 6.43
+            }
+        ]
+    },
+    "01210": {
+        "path": "KIT/572/dance_waltz05_poses",
+        "duration": 7.79,
+        "annotations": [
+            {
+                "seg_id": "01210_0",
+                "text": "Person dancing the waltz",
+                "start": 0.0,
+                "end": 7.79
+            }
+        ]
+    },
+    "01211": {
+        "path": "KIT/572/dance_waltz06_poses",
+        "duration": 10.73,
+        "annotations": [
+            {
+                "seg_id": "01211_0",
+                "text": "A person performs the basic step of the slow-waltz ballroom dance.",
+                "start": 0.0,
+                "end": 10.73
+            }
+        ]
+    },
+    "01212": {
+        "path": "KIT/572/dance_waltz07_poses",
+        "duration": 11.18,
+        "annotations": [
+            {
+                "seg_id": "01212_0",
+                "text": "the person is dancing",
+                "start": 0.0,
+                "end": 11.18
+            }
+        ]
+    },
+    "01213": {
+        "path": "KIT/572/dance_waltz08_poses",
+        "duration": 12.49,
+        "annotations": [
+            {
+                "seg_id": "01213_1",
+                "text": "a person dances with another person",
+                "start": 0.0,
+                "end": 12.49
+            }
+        ]
+    },
+    "01214": {
+        "path": "KIT/572/dance_waltz09_poses",
+        "duration": 12.77,
+        "annotations": [
+            {
+                "seg_id": "01214_0",
+                "text": "A person dances.",
+                "start": 0.0,
+                "end": 12.77
+            }
+        ]
+    },
+    "01215": {
+        "path": "KIT/572/dance_waltz10_poses",
+        "duration": 12.82,
+        "annotations": [
+            {
+                "seg_id": "01215_0",
+                "text": "A person performs some kind of dance.",
+                "start": 0.0,
+                "end": 12.82
+            }
+        ]
+    },
+    "01216": {
+        "path": "KIT/572/dance_waltz11_poses",
+        "duration": 21.38,
+        "annotations": [
+            {
+                "seg_id": "01216_0",
+                "text": "Person dancing waltz",
+                "start": 0.0,
+                "end": 21.38
+            }
+        ]
+    },
+    "01217": {
+        "path": "KIT/572/dance_waltz12_poses",
+        "duration": 23.49,
+        "annotations": [
+            {
+                "seg_id": "01217_0",
+                "text": "A person perfoms a dance.",
+                "start": 0.0,
+                "end": 23.49
+            }
+        ]
+    },
+    "01218": {
+        "path": "KIT/572/dance_waltz13_poses",
+        "duration": 21.86,
+        "annotations": [
+            {
+                "seg_id": "01218_3",
+                "text": "Someone may be doing a square dance.",
+                "start": 0.0,
+                "end": 21.86
+            }
+        ]
+    },
+    "01219": {
+        "path": "KIT/572/dance_waltz14_poses",
+        "duration": 22.45,
+        "annotations": [
+            {
+                "seg_id": "01219_1",
+                "text": "Someone dances the waltz",
+                "start": 0.0,
+                "end": 22.45
+            }
+        ]
+    },
+    "01220": {
+        "path": "KIT/572/dance_waltz15_poses",
+        "duration": 20.5,
+        "annotations": [
+            {
+                "seg_id": "01220_0",
+                "text": "A person dances one part of a couple dance.",
+                "start": 0.0,
+                "end": 20.5
+            }
+        ]
+    },
+    "01221": {
+        "path": "KIT/572/dance_chacha01_poses",
+        "duration": 8.26,
+        "annotations": [
+            {
+                "seg_id": "01221_0",
+                "text": "A person performs the male basic step of the Cha-Cha-Cha ballroom dance.",
+                "start": 0.0,
+                "end": 8.26
+            }
+        ]
+    },
+    "01222": {
+        "path": "KIT/572/dance_chacha02_poses",
+        "duration": 9.61,
+        "annotations": [
+            {
+                "seg_id": "01222_0",
+                "text": "A person dances the cha-cha-cha",
+                "start": 0.0,
+                "end": 9.61
+            }
+        ]
+    },
+    "01223": {
+        "path": "KIT/572/dance_chacha04_poses",
+        "duration": 8.71,
+        "annotations": [
+            {
+                "seg_id": "01223_0",
+                "text": "A human dances to the left.",
+                "start": 0.0,
+                "end": 8.71
+            }
+        ]
+    },
+    "01224": {
+        "path": "KIT/572/dance_chacha05_poses",
+        "duration": 9.05,
+        "annotations": [
+            {
+                "seg_id": "01224_0",
+                "text": "A person performs a dance.",
+                "start": 0.0,
+                "end": 9.05
+            }
+        ]
+    },
+    "01225": {
+        "path": "KIT/572/dance_chacha06_poses",
+        "duration": 11.61,
+        "annotations": [
+            {
+                "seg_id": "01225_0",
+                "text": "A person performs the male basic step of the Cha-Cha-Cha ballroom dance.",
+                "start": 0.0,
+                "end": 11.61
+            }
+        ]
+    },
+    "01226": {
+        "path": "KIT/572/dance_chacha07_poses",
+        "duration": 12.03,
+        "annotations": [
+            {
+                "seg_id": "01226_0",
+                "text": "A person doing a cha cha move.",
+                "start": 0.0,
+                "end": 12.03
+            }
+        ]
+    },
+    "01227": {
+        "path": "KIT/572/dance_chacha08_poses",
+        "duration": 12.25,
+        "annotations": [
+            {
+                "seg_id": "01227_0",
+                "text": "the person is dancing",
+                "start": 0.0,
+                "end": 12.25
+            }
+        ]
+    },
+    "01228": {
+        "path": "KIT/572/dance_chacha09_poses",
+        "duration": 11.98,
+        "annotations": [
+            {
+                "seg_id": "01228_0",
+                "text": "Someone performs a dance.",
+                "start": 0.0,
+                "end": 11.98
+            }
+        ]
+    },
+    "01229": {
+        "path": "KIT/572/dance_chacha10_poses",
+        "duration": 12.2,
+        "annotations": [
+            {
+                "seg_id": "01229_0",
+                "text": "A person dances",
+                "start": 0.0,
+                "end": 12.2
+            }
+        ]
+    },
+    "01230": {
+        "path": "KIT/572/dance_chacha11_poses",
+        "duration": 19.34,
+        "annotations": [
+            {
+                "seg_id": "01230_0",
+                "text": "A person is dancing with a partner.",
+                "start": 0.0,
+                "end": 19.34
+            }
+        ]
+    },
+    "01231": {
+        "path": "KIT/572/dance_chacha12_poses",
+        "duration": 19.69,
+        "annotations": [
+            {
+                "seg_id": "01231_0",
+                "text": "A person performs the basic step of the Cha-Cha-Cha ballroom dance.",
+                "start": 0.0,
+                "end": 19.69
+            }
+        ]
+    },
+    "01232": {
+        "path": "KIT/572/dance_chacha13_poses",
+        "duration": 17.16,
+        "annotations": [
+            {
+                "seg_id": "01232_0",
+                "text": "a person is dancing chachacha",
+                "start": 0.0,
+                "end": 17.16
+            }
+        ]
+    },
+    "01233": {
+        "path": "KIT/572/dance_chacha14_poses",
+        "duration": 17.9,
+        "annotations": [
+            {
+                "seg_id": "01233_0",
+                "text": "A person dances.",
+                "start": 0.0,
+                "end": 17.9
+            }
+        ]
+    },
+    "01234": {
+        "path": "KIT/572/dance_chacha15_poses",
+        "duration": 16.69,
+        "annotations": [
+            {
+                "seg_id": "01234_0",
+                "text": "human dances the basic movement of cha-cha-cha",
+                "start": 0.0,
+                "end": 16.69
+            }
+        ]
+    },
+    "01235": {
+        "path": "KIT/572/dance_chacha16_poses",
+        "duration": 19.26,
+        "annotations": [
+            {
+                "seg_id": "01235_0",
+                "text": "A person dances with a partner.",
+                "start": 0.0,
+                "end": 19.26
+            }
+        ]
+    },
+    "01236": {
+        "path": "KIT/513/kick01_poses",
+        "duration": 11.55,
+        "annotations": [
+            {
+                "seg_id": "01236_0",
+                "text": "A person lifting their hands for defense and kicking with the left foot, like a kickboxing move.",
+                "start": 0.0,
+                "end": 11.55
+            }
+        ]
+    },
+    "01239": {
+        "path": "KIT/513/kick04_poses",
+        "duration": 5.71,
+        "annotations": [
+            {
+                "seg_id": "01239_0",
+                "text": "A person lifting the arms in a boxing manner and kicking with the right foot.",
+                "start": 0.0,
+                "end": 5.71
+            }
+        ]
+    },
+    "01245": {
+        "path": "KIT/513/evasion02_poses",
+        "duration": 4.05,
+        "annotations": [
+            {
+                "seg_id": "01245_3",
+                "text": "some one plays boxing and avoids a attack on the face.",
+                "start": 0.0,
+                "end": 4.05
+            }
+        ]
+    },
+    "01246": {
+        "path": "KIT/513/evasion03_poses",
+        "duration": 3.36,
+        "annotations": [
+            {
+                "seg_id": "01246_1",
+                "text": "A person performs a boxing dodging movement to the right.",
+                "start": 0.0,
+                "end": 3.36
+            }
+        ]
+    },
+    "01250": {
+        "path": "KIT/513/evasion07_poses",
+        "duration": 4.42,
+        "annotations": [
+            {
+                "seg_id": "01250_0",
+                "text": "a person is evading a boxing punch",
+                "start": 0.0,
+                "end": 4.42
+            }
+        ]
+    },
+    "01251": {
+        "path": "KIT/513/evasion08_poses",
+        "duration": 4.74,
+        "annotations": [
+            {
+                "seg_id": "01251_0",
+                "text": "Subject does an evasive motion in boxing and punches with its left hand.",
+                "start": 0.0,
+                "end": 4.74
+            }
+        ]
+    },
+    "01252": {
+        "path": "KIT/572/throw_right01_poses",
+        "duration": 4.47,
+        "annotations": [
+            {
+                "seg_id": "01252_1",
+                "text": "A human performs a slap (volleyball serve) with the left hand",
+                "start": 0.0,
+                "end": 4.47
+            }
+        ]
+    },
+    "01254": {
+        "path": "KIT/572/throw_right03_poses",
+        "duration": 3.55,
+        "annotations": [
+            {
+                "seg_id": "01254_0",
+                "text": "A person performs a tennis serve.",
+                "start": 0.0,
+                "end": 3.55
+            }
+        ]
+    },
+    "01257": {
+        "path": "KIT/572/throw_left01_poses",
+        "duration": 6.07,
+        "annotations": [
+            {
+                "seg_id": "01257_1",
+                "text": "A human is performing a slap (volleyball serving)",
+                "start": 0.0,
+                "end": 6.07
+            }
+        ]
+    },
+    "01259": {
+        "path": "KIT/572/throw_left03_poses",
+        "duration": 3.43,
+        "annotations": [
+            {
+                "seg_id": "01259_0",
+                "text": "Someone does a tennis smash with the left arm.",
+                "start": 0.0,
+                "end": 3.43
+            }
+        ]
+    },
+    "01278": {
+        "path": "KIT/572/kick_high_left02_poses",
+        "duration": 6.76,
+        "annotations": [
+            {
+                "seg_id": "01278_1",
+                "text": "A human makes a karate kick with its left food and brings his hand to the chest and its elbows out.",
+                "start": 0.0,
+                "end": 6.76
+            }
+        ]
+    },
+    "01297": {
+        "path": "KIT/572/punch_right01_poses",
+        "duration": 4.74,
+        "annotations": [
+            {
+                "seg_id": "01297_0",
+                "text": "the person is doing boxing",
+                "start": 0.0,
+                "end": 4.74
+            }
+        ]
+    },
+    "01298": {
+        "path": "KIT/572/punch_right02_poses",
+        "duration": 5.44,
+        "annotations": [
+            {
+                "seg_id": "01298_1",
+                "text": "Person boxing with right hand",
+                "start": 0.0,
+                "end": 5.44
+            }
+        ]
+    },
+    "01300": {
+        "path": "KIT/572/punch_right04_poses",
+        "duration": 6.11,
+        "annotations": [
+            {
+                "seg_id": "01300_6",
+                "text": "Boxing with the right hand.",
+                "start": 0.0,
+                "end": 6.11
+            }
+        ]
+    },
+    "01302": {
+        "path": "KIT/572/punch_left01_poses",
+        "duration": 6.24,
+        "annotations": [
+            {
+                "seg_id": "01302_0",
+                "text": "Person boxing with the left hand",
+                "start": 0.0,
+                "end": 6.24
+            }
+        ]
+    },
+    "01303": {
+        "path": "KIT/572/punch_left02_poses",
+        "duration": 6.92,
+        "annotations": [
+            {
+                "seg_id": "01303_2",
+                "text": "Boxing with the left hand.",
+                "start": 0.0,
+                "end": 6.92
+            }
+        ]
+    },
+    "01305": {
+        "path": "KIT/572/punsh_left03_poses",
+        "duration": 6.16,
+        "annotations": [
+            {
+                "seg_id": "01305_0",
+                "text": "A human does a left-handed boxing jab.",
+                "start": 0.0,
+                "end": 6.16
+            }
+        ]
+    },
+    "01341": {
+        "path": "KIT/572/golf_putting01_poses",
+        "duration": 7.13,
+        "annotations": [
+            {
+                "seg_id": "01341_0",
+                "text": "A human is playing golf.",
+                "start": 0.0,
+                "end": 7.13
+            }
+        ]
+    },
+    "01342": {
+        "path": "KIT/572/golf_putting02_poses",
+        "duration": 5.89,
+        "annotations": [
+            {
+                "seg_id": "01342_0",
+                "text": "Someone performs a golf putt motion.",
+                "start": 0.0,
+                "end": 5.89
+            }
+        ]
+    },
+    "01343": {
+        "path": "KIT/572/golf_putting03_poses",
+        "duration": 5.54,
+        "annotations": [
+            {
+                "seg_id": "01343_0",
+                "text": "A person is playing golf.",
+                "start": 0.0,
+                "end": 5.54
+            }
+        ]
+    },
+    "01344": {
+        "path": "KIT/572/golf_putting04_poses",
+        "duration": 5.84,
+        "annotations": [
+            {
+                "seg_id": "01344_0",
+                "text": "A person plays golf.",
+                "start": 0.0,
+                "end": 5.84
+            }
+        ]
+    },
+    "01345": {
+        "path": "KIT/572/golf_putting05_poses",
+        "duration": 5.85,
+        "annotations": [
+            {
+                "seg_id": "01345_0",
+                "text": "A person is playing golf.",
+                "start": 0.0,
+                "end": 5.85
+            }
+        ]
+    },
+    "01346": {
+        "path": "KIT/572/golf_drive01_poses",
+        "duration": 6.19,
+        "annotations": [
+            {
+                "seg_id": "01346_0",
+                "text": "human takes a swing like while playing golf",
+                "start": 0.0,
+                "end": 6.19
+            }
+        ]
+    },
+    "01347": {
+        "path": "KIT/572/golf_drive02_poses",
+        "duration": 6.22,
+        "annotations": [
+            {
+                "seg_id": "01347_0",
+                "text": "A human is playing golf.",
+                "start": 0.0,
+                "end": 6.22
+            }
+        ]
+    },
+    "01348": {
+        "path": "KIT/572/golf_drive03_poses",
+        "duration": 5.02,
+        "annotations": [
+            {
+                "seg_id": "01348_0",
+                "text": "A person practices a golf swing.",
+                "start": 0.0,
+                "end": 5.02
+            }
+        ]
+    },
+    "01349": {
+        "path": "KIT/572/golf_drive04_poses",
+        "duration": 7.09,
+        "annotations": [
+            {
+                "seg_id": "01349_0",
+                "text": "A person plays golf.",
+                "start": 0.0,
+                "end": 7.09
+            }
+        ]
+    },
+    "01350": {
+        "path": "KIT/572/golf_drive05_poses",
+        "duration": 8.11,
+        "annotations": [
+            {
+                "seg_id": "01350_0",
+                "text": "A person is performing a golf swing",
+                "start": 0.0,
+                "end": 8.11
+            }
+        ]
+    },
+    "01351": {
+        "path": "KIT/572/golf_drive06_poses",
+        "duration": 7.27,
+        "annotations": [
+            {
+                "seg_id": "01351_0",
+                "text": "a person performs a golf swing",
+                "start": 0.0,
+                "end": 7.27
+            }
+        ]
+    },
+    "01363": {
+        "path": "KIT/572/tennis_forehand_right02_poses",
+        "duration": 7.01,
+        "annotations": [
+            {
+                "seg_id": "01363_0",
+                "text": "Subject does a whipping motion. Or maybe table tennis.",
+                "start": 0.0,
+                "end": 7.01
+            }
+        ]
+    },
+    "01365": {
+        "path": "KIT/572/tennis_forehand_right04_poses",
+        "duration": 6.64,
+        "annotations": [
+            {
+                "seg_id": "01365_0",
+                "text": "A person raises their right arm and beats like a tennis player.",
+                "start": 0.0,
+                "end": 6.64
+            }
+        ]
+    },
+    "01366": {
+        "path": "KIT/572/tennis_forehand_right05_poses",
+        "duration": 5.89,
+        "annotations": [
+            {
+                "seg_id": "01366_0",
+                "text": "a person is doing a tennis forehand",
+                "start": 0.0,
+                "end": 5.89
+            }
+        ]
+    },
+    "01367": {
+        "path": "KIT/572/tennis_forehand_left01_poses",
+        "duration": 5.64,
+        "annotations": [
+            {
+                "seg_id": "01367_1",
+                "text": "Someone plays tennis with the left arm",
+                "start": 0.0,
+                "end": 5.64
+            }
+        ]
+    },
+    "01368": {
+        "path": "KIT/572/tennis_forehand_left02_poses",
+        "duration": 6.24,
+        "annotations": [
+            {
+                "seg_id": "01368_1",
+                "text": "Someone is throwing a ball with his left hand or playing tennis.",
+                "start": 0.0,
+                "end": 6.24
+            }
+        ]
+    },
+    "01369": {
+        "path": "KIT/572/tennis_forehand_left03_poses",
+        "duration": 6.93,
+        "annotations": [
+            {
+                "seg_id": "01369_0",
+                "text": "A Person doing a tennis racket like movement",
+                "start": 0.0,
+                "end": 6.93
+            }
+        ]
+    },
+    "01417": {
+        "path": "KIT/572/guitar_right01_poses",
+        "duration": 5.36,
+        "annotations": [
+            {
+                "seg_id": "01417_1",
+                "text": "A person plays the guitar.",
+                "start": 0.0,
+                "end": 5.36
+            }
+        ]
+    },
+    "01418": {
+        "path": "KIT/572/guitar_right02_poses",
+        "duration": 5.91,
+        "annotations": [
+            {
+                "seg_id": "01418_0",
+                "text": "A human playing a guitar",
+                "start": 0.0,
+                "end": 5.91
+            }
+        ]
+    },
+    "01419": {
+        "path": "KIT/572/guitar_right03_poses",
+        "duration": 5.28,
+        "annotations": [
+            {
+                "seg_id": "01419_0",
+                "text": "Person playing air guitar",
+                "start": 0.0,
+                "end": 5.28
+            }
+        ]
+    },
+    "01420": {
+        "path": "KIT/572/guitar_right04_poses",
+        "duration": 5.84,
+        "annotations": [
+            {
+                "seg_id": "01420_0",
+                "text": "Subject is playing the guitar.",
+                "start": 0.0,
+                "end": 5.84
+            }
+        ]
+    },
+    "01421": {
+        "path": "KIT/572/guitar_right05_poses",
+        "duration": 5.82,
+        "annotations": [
+            {
+                "seg_id": "01421_0",
+                "text": "A person plays the violin once.",
+                "start": 0.0,
+                "end": 5.82
+            }
+        ]
+    },
+    "01422": {
+        "path": "KIT/572/guitar_right06_poses",
+        "duration": 6.5,
+        "annotations": [
+            {
+                "seg_id": "01422_0",
+                "text": "A person strums a guitar with their right hand.",
+                "start": 0.0,
+                "end": 6.5
+            }
+        ]
+    },
+    "01423": {
+        "path": "KIT/572/guitar_right07_poses",
+        "duration": 6.54,
+        "annotations": [
+            {
+                "seg_id": "01423_0",
+                "text": "A person plays air guitar.",
+                "start": 0.0,
+                "end": 6.54
+            }
+        ]
+    },
+    "01424": {
+        "path": "KIT/572/guitar_right08_poses",
+        "duration": 6.31,
+        "annotations": [
+            {
+                "seg_id": "01424_0",
+                "text": "A person play guitar.",
+                "start": 0.0,
+                "end": 6.31
+            }
+        ]
+    },
+    "01425": {
+        "path": "KIT/572/guitar_right09_poses",
+        "duration": 6.07,
+        "annotations": [
+            {
+                "seg_id": "01425_0",
+                "text": "Subject is playing the guitar.",
+                "start": 0.0,
+                "end": 6.07
+            }
+        ]
+    },
+    "01426": {
+        "path": "KIT/572/guitar_right10_poses",
+        "duration": 6.79,
+        "annotations": [
+            {
+                "seg_id": "01426_0",
+                "text": "A person plays the air guitar.",
+                "start": 0.0,
+                "end": 6.79
+            }
+        ]
+    },
+    "01427": {
+        "path": "KIT/572/guitar_right11_poses",
+        "duration": 8.42,
+        "annotations": [
+            {
+                "seg_id": "01427_0",
+                "text": "A person plays a small guitar.",
+                "start": 0.0,
+                "end": 8.42
+            }
+        ]
+    },
+    "01428": {
+        "path": "KIT/572/guitar_right12_poses",
+        "duration": 8.42,
+        "annotations": [
+            {
+                "seg_id": "01428_0",
+                "text": "a human plays guitar.",
+                "start": 0.0,
+                "end": 8.42
+            }
+        ]
+    },
+    "01429": {
+        "path": "KIT/572/guitar_right13_poses",
+        "duration": 8.88,
+        "annotations": [
+            {
+                "seg_id": "01429_0",
+                "text": "Person playing the air guitar",
+                "start": 0.0,
+                "end": 8.88
+            }
+        ]
+    },
+    "01430": {
+        "path": "KIT/572/guitar_right14_poses",
+        "duration": 9.19,
+        "annotations": [
+            {
+                "seg_id": "01430_0",
+                "text": "A person plays guitar.",
+                "start": 0.0,
+                "end": 9.19
+            }
+        ]
+    },
+    "01431": {
+        "path": "KIT/572/guitar_right15_poses",
+        "duration": 8.43,
+        "annotations": [
+            {
+                "seg_id": "01431_0",
+                "text": "A human playing a guitar",
+                "start": 0.0,
+                "end": 8.43
+            }
+        ]
+    },
+    "01432": {
+        "path": "KIT/572/guitar_left01_poses",
+        "duration": 7.13,
+        "annotations": [
+            {
+                "seg_id": "01432_0",
+                "text": "Someone plays air guitar with the left hand.",
+                "start": 0.0,
+                "end": 7.13
+            }
+        ]
+    },
+    "01434": {
+        "path": "KIT/572/guitar_left03_poses",
+        "duration": 5.62,
+        "annotations": [
+            {
+                "seg_id": "01434_0",
+                "text": "Someone plays two strokes on the guitar",
+                "start": 0.0,
+                "end": 5.62
+            }
+        ]
+    },
+    "01435": {
+        "path": "KIT/572/guitar_left04_poses",
+        "duration": 5.93,
+        "annotations": [
+            {
+                "seg_id": "01435_0",
+                "text": "A person plays the guitar",
+                "start": 0.0,
+                "end": 5.93
+            }
+        ]
+    },
+    "01436": {
+        "path": "KIT/572/guitar_left05_poses",
+        "duration": 5.19,
+        "annotations": [
+            {
+                "seg_id": "01436_0",
+                "text": "Person doing a guitar move with the left hand",
+                "start": 0.0,
+                "end": 5.19
+            }
+        ]
+    },
+    "01437": {
+        "path": "KIT/572/guitar_left06_poses",
+        "duration": 5.02,
+        "annotations": [
+            {
+                "seg_id": "01437_1",
+                "text": "human plays the guitar left-handed",
+                "start": 0.0,
+                "end": 5.02
+            }
+        ]
+    },
+    "01438": {
+        "path": "KIT/572/guitar_left07_poses",
+        "duration": 4.95,
+        "annotations": [
+            {
+                "seg_id": "01438_0",
+                "text": "A person makes a motion a bit like playing the violin, but one the right (wrong) side.",
+                "start": 0.0,
+                "end": 4.95
+            }
+        ]
+    },
+    "01439": {
+        "path": "KIT/572/guitar_left08_poses",
+        "duration": 6.07,
+        "annotations": [
+            {
+                "seg_id": "01439_0",
+                "text": "a person is playing the guitar",
+                "start": 0.0,
+                "end": 6.07
+            }
+        ]
+    },
+    "01440": {
+        "path": "KIT/572/guitar_left09_poses",
+        "duration": 5.49,
+        "annotations": [
+            {
+                "seg_id": "01440_0",
+                "text": "A person plays the air guitar.",
+                "start": 0.0,
+                "end": 5.49
+            }
+        ]
+    },
+    "01441": {
+        "path": "KIT/572/guitar_left10_poses",
+        "duration": 5.7,
+        "annotations": [
+            {
+                "seg_id": "01441_0",
+                "text": "A person seems to be playing the guitar, holding it with his right hand, stroking with his left hand.",
+                "start": 0.0,
+                "end": 5.7
+            }
+        ]
+    },
+    "01442": {
+        "path": "KIT/572/guitar_left11_poses",
+        "duration": 6.01,
+        "annotations": [
+            {
+                "seg_id": "01442_0",
+                "text": "Person is playing guitar",
+                "start": 0.0,
+                "end": 6.01
+            }
+        ]
+    },
+    "01443": {
+        "path": "KIT/572/guitar_left12_poses",
+        "duration": 5.85,
+        "annotations": [
+            {
+                "seg_id": "01443_0",
+                "text": "A human plays air guitar.",
+                "start": 0.0,
+                "end": 5.85
+            }
+        ]
+    },
+    "01444": {
+        "path": "KIT/572/guitar_left13_poses",
+        "duration": 7.5,
+        "annotations": [
+            {
+                "seg_id": "01444_0",
+                "text": "A human playing a guitar",
+                "start": 0.0,
+                "end": 7.5
+            }
+        ]
+    },
+    "01445": {
+        "path": "KIT/572/guitar_left14_poses",
+        "duration": 6.66,
+        "annotations": [
+            {
+                "seg_id": "01445_1",
+                "text": "A person plays the guitar with his left hand.",
+                "start": 0.0,
+                "end": 6.66
+            }
+        ]
+    },
+    "01446": {
+        "path": "KIT/572/guitar_left15_poses",
+        "duration": 7.44,
+        "annotations": [
+            {
+                "seg_id": "01446_0",
+                "text": "A human playing the guitar",
+                "start": 0.0,
+                "end": 7.44
+            }
+        ]
+    },
+    "01447": {
+        "path": "KIT/572/guitar_left16_poses",
+        "duration": 7.32,
+        "annotations": [
+            {
+                "seg_id": "01447_0",
+                "text": "A person plays air guitar.",
+                "start": 0.0,
+                "end": 7.32
+            }
+        ]
+    },
+    "01448": {
+        "path": "KIT/572/guitar_left17_poses",
+        "duration": 7.0,
+        "annotations": [
+            {
+                "seg_id": "01448_0",
+                "text": "A human playing a guitar",
+                "start": 0.0,
+                "end": 7.0
+            }
+        ]
+    },
+    "01449": {
+        "path": "KIT/572/guitar_left18_poses",
+        "duration": 7.03,
+        "annotations": [
+            {
+                "seg_id": "01449_0",
+                "text": "A person plays guitar.",
+                "start": 0.0,
+                "end": 7.03
+            }
+        ]
+    },
+    "01450": {
+        "path": "KIT/572/violin_right01_poses",
+        "duration": 5.98,
+        "annotations": [
+            {
+                "seg_id": "01450_0",
+                "text": "the person is playing violin",
+                "start": 0.0,
+                "end": 5.98
+            }
+        ]
+    },
+    "01451": {
+        "path": "KIT/572/violin_right02_poses",
+        "duration": 6.49,
+        "annotations": [
+            {
+                "seg_id": "01451_1",
+                "text": "A person performs the movement of a violin player.",
+                "start": 0.0,
+                "end": 6.49
+            }
+        ]
+    },
+    "01452": {
+        "path": "KIT/572/violin_right03_poses",
+        "duration": 7.43,
+        "annotations": [
+            {
+                "seg_id": "01452_0",
+                "text": "A person plays the air violin",
+                "start": 0.0,
+                "end": 7.43
+            }
+        ]
+    },
+    "01453": {
+        "path": "KIT/572/violin_right04_poses",
+        "duration": 6.51,
+        "annotations": [
+            {
+                "seg_id": "01453_0",
+                "text": "A person plays violin once.",
+                "start": 0.0,
+                "end": 6.51
+            }
+        ]
+    },
+    "01454": {
+        "path": "KIT/572/violin_right05_poses",
+        "duration": 6.79,
+        "annotations": [
+            {
+                "seg_id": "01454_0",
+                "text": "Someone plays a single tone on a violin.",
+                "start": 0.0,
+                "end": 6.79
+            }
+        ]
+    },
+    "01455": {
+        "path": "KIT/572/violin_right06_poses",
+        "duration": 7.51,
+        "annotations": [
+            {
+                "seg_id": "01455_0",
+                "text": "A person plays the air violin.",
+                "start": 0.0,
+                "end": 7.51
+            }
+        ]
+    },
+    "01456": {
+        "path": "KIT/572/violin_right07_poses",
+        "duration": 7.84,
+        "annotations": [
+            {
+                "seg_id": "01456_0",
+                "text": "A person plays the violin.",
+                "start": 0.0,
+                "end": 7.84
+            }
+        ]
+    },
+    "01457": {
+        "path": "KIT/572/violin_right08_poses",
+        "duration": 7.63,
+        "annotations": [
+            {
+                "seg_id": "01457_0",
+                "text": "Someone plays on a violin.",
+                "start": 0.0,
+                "end": 7.63
+            }
+        ]
+    },
+    "01458": {
+        "path": "KIT/572/violin_right09_poses",
+        "duration": 7.22,
+        "annotations": [
+            {
+                "seg_id": "01458_0",
+                "text": "a person plays the violin",
+                "start": 0.0,
+                "end": 7.22
+            }
+        ]
+    },
+    "01459": {
+        "path": "KIT/572/violin_right10_poses",
+        "duration": 7.54,
+        "annotations": [
+            {
+                "seg_id": "01459_0",
+                "text": "a person plays the violin",
+                "start": 0.0,
+                "end": 7.54
+            }
+        ]
+    },
+    "01460": {
+        "path": "KIT/572/violin_right11_poses",
+        "duration": 12.24,
+        "annotations": [
+            {
+                "seg_id": "01460_0",
+                "text": "A human starts to play violin",
+                "start": 0.0,
+                "end": 12.24
+            }
+        ]
+    },
+    "01461": {
+        "path": "KIT/572/violin_right12_poses",
+        "duration": 10.87,
+        "annotations": [
+            {
+                "seg_id": "01461_0",
+                "text": "A person playing the air violine with the right hand",
+                "start": 0.0,
+                "end": 10.87
+            }
+        ]
+    },
+    "01462": {
+        "path": "KIT/572/violin_right14_poses",
+        "duration": 12.31,
+        "annotations": [
+            {
+                "seg_id": "01462_0",
+                "text": "A person plays violin.",
+                "start": 0.0,
+                "end": 12.31
+            }
+        ]
+    },
+    "01463": {
+        "path": "KIT/572/violin_right15_poses",
+        "duration": 11.33,
+        "annotations": [
+            {
+                "seg_id": "01463_0",
+                "text": "the person is playing a violin",
+                "start": 0.0,
+                "end": 11.33
+            }
+        ]
+    },
+    "01464": {
+        "path": "KIT/572/violin_right16_poses",
+        "duration": 10.55,
+        "annotations": [
+            {
+                "seg_id": "01464_0",
+                "text": "Person playing the violin",
+                "start": 0.0,
+                "end": 10.55
+            }
+        ]
+    },
+    "01465": {
+        "path": "KIT/572/violin_left01_poses",
+        "duration": 6.1,
+        "annotations": [
+            {
+                "seg_id": "01465_2",
+                "text": "a person plays the violin with its left hand",
+                "start": 0.0,
+                "end": 6.1
+            }
+        ]
+    },
+    "01466": {
+        "path": "KIT/572/violin_left02_poses",
+        "duration": 6.63,
+        "annotations": [
+            {
+                "seg_id": "01466_0",
+                "text": "A person plays the violin",
+                "start": 0.0,
+                "end": 6.63
+            }
+        ]
+    },
+    "01467": {
+        "path": "KIT/572/violin_left03_poses",
+        "duration": 6.67,
+        "annotations": [
+            {
+                "seg_id": "01467_0",
+                "text": "A person makes a motion like playing violin. (one stroke)",
+                "start": 0.0,
+                "end": 6.67
+            }
+        ]
+    },
+    "01468": {
+        "path": "KIT/572/violin_left04_poses",
+        "duration": 7.19,
+        "annotations": [
+            {
+                "seg_id": "01468_0",
+                "text": "A person is playing violin.",
+                "start": 0.0,
+                "end": 7.19
+            }
+        ]
+    },
+    "01469": {
+        "path": "KIT/572/violin_left05_poses",
+        "duration": 6.97,
+        "annotations": [
+            {
+                "seg_id": "01469_0",
+                "text": "A person holds a violin with the right hand and strokes it with the left hand.",
+                "start": 0.0,
+                "end": 6.97
+            }
+        ]
+    },
+    "01470": {
+        "path": "KIT/572/violin_left06_poses",
+        "duration": 6.65,
+        "annotations": [
+            {
+                "seg_id": "01470_0",
+                "text": "a person plays the violin",
+                "start": 0.0,
+                "end": 6.65
+            }
+        ]
+    },
+    "01471": {
+        "path": "KIT/572/violin_left07_poses",
+        "duration": 7.45,
+        "annotations": [
+            {
+                "seg_id": "01471_1",
+                "text": "A person plays violin.",
+                "start": 0.0,
+                "end": 7.45
+            }
+        ]
+    },
+    "01472": {
+        "path": "KIT/572/violin_left08_poses",
+        "duration": 7.52,
+        "annotations": [
+            {
+                "seg_id": "01472_0",
+                "text": "A human playing a violin",
+                "start": 0.0,
+                "end": 7.52
+            }
+        ]
+    },
+    "01473": {
+        "path": "KIT/572/violin_left09_poses",
+        "duration": 7.56,
+        "annotations": [
+            {
+                "seg_id": "01473_0",
+                "text": "A person is playing violin.",
+                "start": 0.0,
+                "end": 7.56
+            }
+        ]
+    },
+    "01474": {
+        "path": "KIT/572/violin_left10_poses",
+        "duration": 7.36,
+        "annotations": [
+            {
+                "seg_id": "01474_1",
+                "text": "A standing person performs arm motions as if playing a violin that he is holding in his right hand.",
+                "start": 0.0,
+                "end": 7.36
+            }
+        ]
+    },
+    "01475": {
+        "path": "KIT/572/violin_left11_poses",
+        "duration": 9.99,
+        "annotations": [
+            {
+                "seg_id": "01475_0",
+                "text": "the person looks like playing a violin",
+                "start": 0.0,
+                "end": 9.99
+            }
+        ]
+    },
+    "01476": {
+        "path": "KIT/572/violin_left12_poses",
+        "duration": 10.0,
+        "annotations": [
+            {
+                "seg_id": "01476_0",
+                "text": "A person playing the air violine",
+                "start": 0.0,
+                "end": 10.0
+            }
+        ]
+    },
+    "01477": {
+        "path": "KIT/572/violin_left13_poses",
+        "duration": 10.28,
+        "annotations": [
+            {
+                "seg_id": "01477_1",
+                "text": "a person plays the violin with its left hand",
+                "start": 0.0,
+                "end": 10.28
+            }
+        ]
+    },
+    "01478": {
+        "path": "KIT/572/violin_left14_poses",
+        "duration": 10.4,
+        "annotations": [
+            {
+                "seg_id": "01478_0",
+                "text": "A human playing a violin",
+                "start": 0.0,
+                "end": 10.4
+            }
+        ]
+    },
+    "01479": {
+        "path": "KIT/572/violin_left15_poses",
+        "duration": 10.19,
+        "annotations": [
+            {
+                "seg_id": "01479_0",
+                "text": "A person plays the violin",
+                "start": 0.0,
+                "end": 10.19
+            }
+        ]
+    },
+    "01884": {
+        "path": "KIT/379/push_recovery_right02_poses",
+        "duration": 5.07,
+        "annotations": [
+            {
+                "seg_id": "01884_3",
+                "text": "A human shoots a football.",
+                "start": 0.0,
+                "end": 5.07
+            }
+        ]
+    },
+    "01905": {
+        "path": "KIT/421/push_recovery_front03_poses",
+        "duration": 7.01,
+        "annotations": [
+            {
+                "seg_id": "01905_0",
+                "text": "A person is dancing.",
+                "start": 0.0,
+                "end": 7.01
+            }
+        ]
+    },
+    "02233": {
+        "path": "KIT/572/punch_left05_poses",
+        "duration": 6.46,
+        "annotations": [
+            {
+                "seg_id": "02233_0",
+                "text": "A human performs a boxing punch.",
+                "start": 0.0,
+                "end": 6.46
+            }
+        ]
+    },
+    "02235": {
+        "path": "KIT/572/violin_right13_poses",
+        "duration": 12.51,
+        "annotations": [
+            {
+                "seg_id": "02235_0",
+                "text": "A person plays the violin",
+                "start": 0.0,
+                "end": 12.51
+            }
+        ]
+    },
+    "02282": {
+        "path": "CMU/131/131_02_poses",
+        "duration": 10.392,
+        "annotations": [
+            {
+                "seg_id": "02282_0",
+                "text": "A person is dancing",
+                "start": 0.0,
+                "end": 10.392
+            }
+        ]
+    },
+    "02283": {
+        "path": "CMU/131/131_03_poses",
+        "duration": 9.183,
+        "annotations": [
+            {
+                "seg_id": "02283_0",
+                "text": "A person is dancing and jumping around.",
+                "start": 0.0,
+                "end": 9.183
+            }
+        ]
+    },
+    "02285": {
+        "path": "CMU/131/131_05_poses",
+        "duration": 10.533,
+        "annotations": [
+            {
+                "seg_id": "02285_0",
+                "text": "person doing a crazy dance",
+                "start": 0.0,
+                "end": 10.533
+            }
+        ]
+    },
+    "02290": {
+        "path": "CMU/131/131_10_poses",
+        "duration": 14.808,
+        "annotations": [
+            {
+                "seg_id": "02290_0",
+                "text": "A person is dancing.",
+                "start": 0.0,
+                "end": 14.808
+            }
+        ]
+    },
+    "02291": {
+        "path": "CMU/131/131_11_poses",
+        "duration": 9.733,
+        "annotations": [
+            {
+                "seg_id": "02291_0",
+                "text": "Someone who dances funny.",
+                "start": 0.0,
+                "end": 9.733
+            }
+        ]
+    },
+    "02292": {
+        "path": "CMU/131/131_12_poses",
+        "duration": 6.392,
+        "annotations": [
+            {
+                "seg_id": "02292_0",
+                "text": "A human is dancing a cool move",
+                "start": 0.0,
+                "end": 6.392
+            }
+        ]
+    },
+    "02398": {
+        "path": "CMU/135/135_07_poses",
+        "duration": 12.267,
+        "annotations": [
+            {
+                "seg_id": "02398_0",
+                "text": "A person performs martial arts.",
+                "start": 0.0,
+                "end": 12.267
+            }
+        ]
+    },
+    "02545": {
+        "path": "CMU/15/15_12_poses",
+        "duration": 75.717,
+        "annotations": [
+            {
+                "seg_id": "02545_0",
+                "text": "A person plays basketball.",
+                "start": 0.0,
+                "end": 75.717
+            }
+        ]
+    },
+    "02546": {
+        "path": "CMU/15/15_13_poses",
+        "duration": 77.75,
+        "annotations": [
+            {
+                "seg_id": "02546_0",
+                "text": "A person is boxing with his right hand.",
+                "start": 0.0,
+                "end": 77.75
+            }
+        ]
+    },
+    "02553": {
+        "path": "CMU/144/144_06_poses",
+        "duration": 30.275,
+        "annotations": [
+            {
+                "seg_id": "02553_0",
+                "text": "A person is doing kickboxing with his right leg and foot while keeping his hands up.",
+                "start": 0.0,
+                "end": 30.275
+            }
+        ]
+    },
+    "02556": {
+        "path": "CMU/144/144_09_poses",
+        "duration": 28.183,
+        "annotations": [
+            {
+                "seg_id": "02556_0",
+                "text": "A person is doing kickboxing with his left leg.",
+                "start": 0.0,
+                "end": 28.183
+            }
+        ]
+    },
+    "02560": {
+        "path": "CMU/144/144_13_poses",
+        "duration": 16.217,
+        "annotations": [
+            {
+                "seg_id": "02560_0",
+                "text": "A boxer is training and feelering",
+                "start": 0.0,
+                "end": 16.217
+            }
+        ]
+    },
+    "02568": {
+        "path": "CMU/144/144_21_poses",
+        "duration": 16.083,
+        "annotations": [
+            {
+                "seg_id": "02568_0",
+                "text": "A human boxes with his right hand.",
+                "start": 0.0,
+                "end": 16.083
+            }
+        ]
+    },
+    "02573": {
+        "path": "CMU/144/144_26_poses",
+        "duration": 27.892,
+        "annotations": [
+            {
+                "seg_id": "02573_0",
+                "text": "a person is boxing",
+                "start": 0.0,
+                "end": 27.892
+            }
+        ]
+    },
+    "02582": {
+        "path": "CMU/17/17_07_poses",
+        "duration": 53.55,
+        "annotations": [
+            {
+                "seg_id": "02582_0",
+                "text": "A person is dancing in various directions.",
+                "start": 0.0,
+                "end": 53.55
+            }
+        ]
+    },
+    "02626": {
+        "path": "CMU/30/30_09_poses",
+        "duration": 31.325,
+        "annotations": [
+            {
+                "seg_id": "02626_0",
+                "text": "A person performes multiple dance moves",
+                "start": 0.0,
+                "end": 31.325
+            }
+        ]
+    },
+    "02628": {
+        "path": "CMU/05/05_16_poses",
+        "duration": 4.375,
+        "annotations": [
+            {
+                "seg_id": "02628_0",
+                "text": "The person jumps like a ballet dancer.",
+                "start": 0.0,
+                "end": 4.375
+            }
+        ]
+    },
+    "02693": {
+        "path": "CMU/49/49_22_poses",
+        "duration": 10.733,
+        "annotations": [
+            {
+                "seg_id": "02693_0",
+                "text": "A person is dancing.",
+                "start": 0.0,
+                "end": 10.733
+            }
+        ]
+    },
+    "02754": {
+        "path": "CMU/55/55_02_poses",
+        "duration": 18.167,
+        "annotations": [
+            {
+                "seg_id": "02754_0",
+                "text": "A person is dancing some Latin or Standard dance.",
+                "start": 0.0,
+                "end": 18.167
+            }
+        ]
+    },
+    "02769": {
+        "path": "CMU/55/55_17_poses",
+        "duration": 51.467,
+        "annotations": [
+            {
+                "seg_id": "02769_0",
+                "text": "A person dancing in slow motion.",
+                "start": 0.0,
+                "end": 51.467
+            }
+        ]
+    },
+    "02774": {
+        "path": "CMU/55/55_22_poses",
+        "duration": 54.508,
+        "annotations": [
+            {
+                "seg_id": "02774_0",
+                "text": "A person walks around and performs a dance while doing so.",
+                "start": 0.0,
+                "end": 54.508
+            }
+        ]
+    },
+    "02811": {
+        "path": "CMU/143/143_23_poses",
+        "duration": 13.567,
+        "annotations": [
+            {
+                "seg_id": "02811_0",
+                "text": "A human boxes alternating with his left and right hand.",
+                "start": 0.0,
+                "end": 13.567
+            }
+        ]
+    },
+    "02823": {
+        "path": "CMU/143/143_35_poses",
+        "duration": 21.317,
+        "annotations": [
+            {
+                "seg_id": "02823_0",
+                "text": "A person dances macarena.",
+                "start": 0.0,
+                "end": 21.317
+            }
+        ]
+    },
+    "02862": {
+        "path": "CMU/64/64_05_poses",
+        "duration": 3.225,
+        "annotations": [
+            {
+                "seg_id": "02862_0",
+                "text": "A person is playing golf.",
+                "start": 0.0,
+                "end": 3.225
+            }
+        ]
+    },
+    "02864": {
+        "path": "CMU/64/64_07_poses",
+        "duration": 3.133,
+        "annotations": [
+            {
+                "seg_id": "02864_0",
+                "text": "A person performs a golf stroke.",
+                "start": 0.0,
+                "end": 3.133
+            }
+        ]
+    },
+    "02866": {
+        "path": "CMU/64/64_09_poses",
+        "duration": 3.767,
+        "annotations": [
+            {
+                "seg_id": "02866_0",
+                "text": "A person is doing a swing movement like hitting a ball with a golf club.",
+                "start": 0.0,
+                "end": 3.767
+            }
+        ]
+    },
+    "02867": {
+        "path": "CMU/64/64_10_poses",
+        "duration": 4.683,
+        "annotations": [
+            {
+                "seg_id": "02867_0",
+                "text": "A person is playing golf.",
+                "start": 0.0,
+                "end": 4.683
+            }
+        ]
+    },
+    "02868": {
+        "path": "CMU/64/64_11_poses",
+        "duration": 4.942,
+        "annotations": [
+            {
+                "seg_id": "02868_0",
+                "text": "A person playing golf.",
+                "start": 0.0,
+                "end": 4.942
+            }
+        ]
+    },
+    "02870": {
+        "path": "CMU/64/64_13_poses",
+        "duration": 3.642,
+        "annotations": [
+            {
+                "seg_id": "02870_0",
+                "text": "A human plays golf with a careful movement.",
+                "start": 0.0,
+                "end": 3.642
+            }
+        ]
+    },
+    "02993": {
+        "path": "CMU/78/78_20_poses",
+        "duration": 1.917,
+        "annotations": [
+            {
+                "seg_id": "02993_0",
+                "text": "A human catches a basketball and dribbles with the ball.",
+                "start": 0.0,
+                "end": 1.917
+            }
+        ]
+    },
+    "02996": {
+        "path": "CMU/78/78_23_poses",
+        "duration": 4.325,
+        "annotations": [
+            {
+                "seg_id": "02996_0",
+                "text": "A human plays basketball.",
+                "start": 0.0,
+                "end": 4.325
+            }
+        ]
+    },
+    "03007": {
+        "path": "CMU/78/78_34_poses",
+        "duration": 2.542,
+        "annotations": [
+            {
+                "seg_id": "03007_0",
+                "text": "A human runs a 90 degreeleftwards curve while playing basketball.",
+                "start": 0.0,
+                "end": 2.542
+            }
+        ]
+    },
+    "03016": {
+        "path": "CMU/79/79_08_poses",
+        "duration": 7.367,
+        "annotations": [
+            {
+                "seg_id": "03016_0",
+                "text": "A person is holding his hands forward and punching like he is boxing.",
+                "start": 0.0,
+                "end": 7.367
+            }
+        ]
+    },
+    "03058": {
+        "path": "CMU/79/79_50_poses",
+        "duration": 12.233,
+        "annotations": [
+            {
+                "seg_id": "03058_0",
+                "text": "boxing with fear",
+                "start": 0.0,
+                "end": 12.233
+            }
+        ]
+    },
+    "03070": {
+        "path": "CMU/79/79_62_poses",
+        "duration": 14.083,
+        "annotations": [
+            {
+                "seg_id": "03070_0",
+                "text": "A human is doing the chicken dance",
+                "start": 0.0,
+                "end": 14.083
+            }
+        ]
+    },
+    "03143": {
+        "path": "CMU/80/80_39_poses",
+        "duration": 30.417,
+        "annotations": [
+            {
+                "seg_id": "03143_0",
+                "text": "A man is playing an instrument",
+                "start": 0.0,
+                "end": 30.417
+            }
+        ]
+    },
+    "03163": {
+        "path": "CMU/80/80_59_poses",
+        "duration": 25.633,
+        "annotations": [
+            {
+                "seg_id": "03163_0",
+                "text": "A person is punching forward like he is boxing.",
+                "start": 0.0,
+                "end": 25.633
+            }
+        ]
+    },
+    "03189": {
+        "path": "CMU/141/141_12_poses",
+        "duration": 9.467,
+        "annotations": [
+            {
+                "seg_id": "03189_0",
+                "text": "A person dances the swing.",
+                "start": 0.0,
+                "end": 9.467
+            }
+        ]
+    },
+    "03298": {
+        "path": "CMU/85/85_01_poses",
+        "duration": 8.317,
+        "annotations": [
+            {
+                "seg_id": "03298_0",
+                "text": "a person is brake-dancing",
+                "start": 0.0,
+                "end": 8.317
+            }
+        ]
+    },
+    "03304": {
+        "path": "CMU/85/85_07_poses",
+        "duration": 7.992,
+        "annotations": [
+            {
+                "seg_id": "03304_0",
+                "text": "a person break dances",
+                "start": 0.0,
+                "end": 7.992
+            }
+        ]
+    },
+    "03310": {
+        "path": "CMU/85/85_13_poses",
+        "duration": 12.05,
+        "annotations": [
+            {
+                "seg_id": "03310_0",
+                "text": "A person is break dancing.",
+                "start": 0.0,
+                "end": 12.05
+            }
+        ]
+    },
+    "03311": {
+        "path": "CMU/85/85_14_poses",
+        "duration": 24.742,
+        "annotations": [
+            {
+                "seg_id": "03311_0",
+                "text": "A person is dancing and making backflips.",
+                "start": 0.0,
+                "end": 24.742
+            }
+        ]
+    },
+    "03375": {
+        "path": "CMU/90/90_28_poses",
+        "duration": 6.417,
+        "annotations": [
+            {
+                "seg_id": "03375_0",
+                "text": "A human is break dancing",
+                "start": 0.0,
+                "end": 6.417
+            }
+        ]
+    },
+    "03448": {
+        "path": "CMU/93/93_03_poses",
+        "duration": 7.367,
+        "annotations": [
+            {
+                "seg_id": "03448_0",
+                "text": "A human performs some kind of dancing move",
+                "start": 0.0,
+                "end": 7.367
+            }
+        ]
+    },
+    "03449": {
+        "path": "CMU/93/93_04_poses",
+        "duration": 8.433,
+        "annotations": [
+            {
+                "seg_id": "03449_0",
+                "text": "The human dances a weird dance.",
+                "start": 0.0,
+                "end": 8.433
+            }
+        ]
+    },
+    "03453": {
+        "path": "CMU/93/93_08_poses",
+        "duration": 9.283,
+        "annotations": [
+            {
+                "seg_id": "03453_0",
+                "text": "a person dances",
+                "start": 0.0,
+                "end": 9.283
+            }
+        ]
+    },
+    "03457": {
+        "path": "CMU/94/94_04_poses",
+        "duration": 26.192,
+        "annotations": [
+            {
+                "seg_id": "03457_0",
+                "text": "A dancer giving a short presentation of her skills",
+                "start": 0.0,
+                "end": 26.192
+            }
+        ]
+    },
+    "03459": {
+        "path": "CMU/94/94_06_poses",
+        "duration": 20.95,
+        "annotations": [
+            {
+                "seg_id": "03459_0",
+                "text": "A person is performing a ballet-like dance.",
+                "start": 0.0,
+                "end": 20.95
+            }
+        ]
+    },
+    "03461": {
+        "path": "CMU/94/94_08_poses",
+        "duration": 22.908,
+        "annotations": [
+            {
+                "seg_id": "03461_0",
+                "text": "A person is dancing.",
+                "start": 0.0,
+                "end": 22.908
+            }
+        ]
+    },
+    "03462": {
+        "path": "CMU/94/94_09_poses",
+        "duration": 33.117,
+        "annotations": [
+            {
+                "seg_id": "03462_0",
+                "text": "A human dances.",
+                "start": 0.0,
+                "end": 33.117
+            }
+        ]
+    },
+    "03494": {
+        "path": "CMU/102/102_21_poses",
+        "duration": 4.325,
+        "annotations": [
+            {
+                "seg_id": "03494_0",
+                "text": "A person is playing basketball.",
+                "start": 0.0,
+                "end": 4.325
+            }
+        ]
+    },
+    "03510": {
+        "path": "CMU/103/103_04_poses",
+        "duration": 8.433,
+        "annotations": [
+            {
+                "seg_id": "03510_0",
+                "text": "Someone dances with their feet.",
+                "start": 0.0,
+                "end": 8.433
+            }
+        ]
+    },
+    "03511": {
+        "path": "CMU/103/103_05_poses",
+        "duration": 9.1,
+        "annotations": [
+            {
+                "seg_id": "03511_0",
+                "text": "A person is dancing.",
+                "start": 0.0,
+                "end": 9.1
+            }
+        ]
+    },
+    "03645": {
+        "path": "CMU/106/106_12_poses",
+        "duration": 9.467,
+        "annotations": [
+            {
+                "seg_id": "03645_0",
+                "text": "Someone swings their hip while dancing",
+                "start": 0.0,
+                "end": 9.467
+            }
+        ]
+    },
+    "03811": {
+        "path": "CMU/120/120_07_poses",
+        "duration": 9.275,
+        "annotations": [
+            {
+                "seg_id": "03811_0",
+                "text": "A man puts his hands back and kicks or he ist dancing",
+                "start": 0.0,
+                "end": 9.275
+            }
+        ]
+    },
+    "03898": {
+        "path": "CMU/124/124_03_poses",
+        "duration": 8.008,
+        "annotations": [
+            {
+                "seg_id": "03898_0",
+                "text": "A human plays basketball.",
+                "start": 0.0,
+                "end": 8.008
+            }
+        ]
+    },
+    "03899": {
+        "path": "CMU/124/124_04_poses",
+        "duration": 6.05,
+        "annotations": [
+            {
+                "seg_id": "03899_0",
+                "text": "A person makes moves like bouncing a basketball and throwing it to a basket.",
+                "start": 0.0,
+                "end": 6.05
+            }
+        ]
+    },
+    "03901": {
+        "path": "CMU/124/124_06_poses",
+        "duration": 5.783,
+        "annotations": [
+            {
+                "seg_id": "03901_0",
+                "text": "A human plays basketball and makes a layup.",
+                "start": 0.0,
+                "end": 5.783
+            }
+        ]
+    },
+    "03902": {
+        "path": "CMU/124/124_07_poses",
+        "duration": 10.808,
+        "annotations": [
+            {
+                "seg_id": "03902_0",
+                "text": "A person swings a baseball bat twice.",
+                "start": 0.0,
+                "end": 10.808
+            }
+        ]
+    },
+    "03903": {
+        "path": "CMU/124/124_08_poses",
+        "duration": 6.55,
+        "annotations": [
+            {
+                "seg_id": "03903_0",
+                "text": "Base ball pitching",
+                "start": 0.0,
+                "end": 6.55
+            }
+        ]
+    },
+    "03910": {
+        "path": "CMU/125/125_03_poses",
+        "duration": 36.733,
+        "annotations": [
+            {
+                "seg_id": "03910_0",
+                "text": "A human swims in breaststroke style.",
+                "start": 0.0,
+                "end": 36.733
+            }
+        ]
+    },
+    "M00660": {
+        "path": "M/KIT/291/drum03_poses",
+        "duration": 2.73,
+        "annotations": [
+            {
+                "seg_id": "M00660_0",
+                "text": "a persons drums",
+                "start": 0.0,
+                "end": 2.73
+            }
+        ]
+    },
+    "M00661": {
+        "path": "M/KIT/291/drum05_poses",
+        "duration": 2.71,
+        "annotations": [
+            {
+                "seg_id": "M00661_0",
+                "text": "A person doing a drumming movement",
+                "start": 0.0,
+                "end": 2.71
+            }
+        ]
+    },
+    "M00662": {
+        "path": "M/KIT/291/chicken01_poses",
+        "duration": 3.26,
+        "annotations": [
+            {
+                "seg_id": "M00662_4",
+                "text": "human performs the chicken dance",
+                "start": 0.0,
+                "end": 3.26
+            }
+        ]
+    },
+    "M00663": {
+        "path": "M/KIT/291/chicken04_poses",
+        "duration": 3.01,
+        "annotations": [
+            {
+                "seg_id": "M00663_5",
+                "text": "human performs a chicken dance",
+                "start": 0.0,
+                "end": 3.01
+            }
+        ]
+    },
+    "M00664": {
+        "path": "M/KIT/291/walk_like_an_egyptian01_poses",
+        "duration": 3.45,
+        "annotations": [
+            {
+                "seg_id": "M00664_1",
+                "text": "A person is dancing.",
+                "start": 0.0,
+                "end": 3.45
+            }
+        ]
+    },
+    "M00665": {
+        "path": "M/KIT/291/walk_like_an_egyptian05_poses",
+        "duration": 4.26,
+        "annotations": [
+            {
+                "seg_id": "M00665_0",
+                "text": "A person dances a weird dance",
+                "start": 0.0,
+                "end": 4.26
+            }
+        ]
+    },
+    "M00676": {
+        "path": "M/KIT/291/air_guitar01_poses",
+        "duration": 6.7,
+        "annotations": [
+            {
+                "seg_id": "M00676_0",
+                "text": "The human plays air guitar and sways.",
+                "start": 0.0,
+                "end": 6.7
+            }
+        ]
+    },
+    "M00677": {
+        "path": "M/KIT/291/air_guitar_banging01_poses",
+        "duration": 5.96,
+        "annotations": [
+            {
+                "seg_id": "M00677_0",
+                "text": "A person plays the air guitar",
+                "start": 0.0,
+                "end": 5.96
+            }
+        ]
+    },
+    "M01205": {
+        "path": "M/KIT/572/dance_waltz00_poses",
+        "duration": 7.09,
+        "annotations": [
+            {
+                "seg_id": "M01205_0",
+                "text": "human dances basic movement of slow waltz",
+                "start": 0.0,
+                "end": 7.09
+            }
+        ]
+    },
+    "M01206": {
+        "path": "M/KIT/572/dance_waltz 01_poses",
+        "duration": 9.25,
+        "annotations": [
+            {
+                "seg_id": "M01206_2",
+                "text": "a person dances",
+                "start": 0.0,
+                "end": 9.25
+            }
+        ]
+    },
+    "M01207": {
+        "path": "M/KIT/572/dance_waltz 02_poses",
+        "duration": 9.04,
+        "annotations": [
+            {
+                "seg_id": "M01207_0",
+                "text": "A person is dancing the male basic step of a waltz.",
+                "start": 0.0,
+                "end": 9.04
+            }
+        ]
+    },
+    "M01208": {
+        "path": "M/KIT/572/dance_waltz03_poses",
+        "duration": 8.07,
+        "annotations": [
+            {
+                "seg_id": "M01208_0",
+                "text": "A person dances.",
+                "start": 0.0,
+                "end": 8.07
+            }
+        ]
+    },
+    "M01209": {
+        "path": "M/KIT/572/dance_waltz04_poses",
+        "duration": 6.43,
+        "annotations": [
+            {
+                "seg_id": "M01209_0",
+                "text": "A person dances Waltz.",
+                "start": 0.0,
+                "end": 6.43
+            }
+        ]
+    },
+    "M01210": {
+        "path": "M/KIT/572/dance_waltz05_poses",
+        "duration": 7.79,
+        "annotations": [
+            {
+                "seg_id": "M01210_0",
+                "text": "Person dancing the waltz",
+                "start": 0.0,
+                "end": 7.79
+            }
+        ]
+    },
+    "M01211": {
+        "path": "M/KIT/572/dance_waltz06_poses",
+        "duration": 10.73,
+        "annotations": [
+            {
+                "seg_id": "M01211_0",
+                "text": "A person performs the basic step of the slow-waltz ballroom dance.",
+                "start": 0.0,
+                "end": 10.73
+            }
+        ]
+    },
+    "M01212": {
+        "path": "M/KIT/572/dance_waltz07_poses",
+        "duration": 11.18,
+        "annotations": [
+            {
+                "seg_id": "M01212_0",
+                "text": "the person is dancing",
+                "start": 0.0,
+                "end": 11.18
+            }
+        ]
+    },
+    "M01213": {
+        "path": "M/KIT/572/dance_waltz08_poses",
+        "duration": 12.49,
+        "annotations": [
+            {
+                "seg_id": "M01213_1",
+                "text": "a person dances with another person",
+                "start": 0.0,
+                "end": 12.49
+            }
+        ]
+    },
+    "M01214": {
+        "path": "M/KIT/572/dance_waltz09_poses",
+        "duration": 12.77,
+        "annotations": [
+            {
+                "seg_id": "M01214_0",
+                "text": "A person dances.",
+                "start": 0.0,
+                "end": 12.77
+            }
+        ]
+    },
+    "M01215": {
+        "path": "M/KIT/572/dance_waltz10_poses",
+        "duration": 12.82,
+        "annotations": [
+            {
+                "seg_id": "M01215_0",
+                "text": "A person performs some kind of dance.",
+                "start": 0.0,
+                "end": 12.82
+            }
+        ]
+    },
+    "M01216": {
+        "path": "M/KIT/572/dance_waltz11_poses",
+        "duration": 21.38,
+        "annotations": [
+            {
+                "seg_id": "M01216_0",
+                "text": "Person dancing waltz",
+                "start": 0.0,
+                "end": 21.38
+            }
+        ]
+    },
+    "M01217": {
+        "path": "M/KIT/572/dance_waltz12_poses",
+        "duration": 23.49,
+        "annotations": [
+            {
+                "seg_id": "M01217_0",
+                "text": "A person perfoms a dance.",
+                "start": 0.0,
+                "end": 23.49
+            }
+        ]
+    },
+    "M01218": {
+        "path": "M/KIT/572/dance_waltz13_poses",
+        "duration": 21.86,
+        "annotations": [
+            {
+                "seg_id": "M01218_3",
+                "text": "Someone may be doing a square dance.",
+                "start": 0.0,
+                "end": 21.86
+            }
+        ]
+    },
+    "M01219": {
+        "path": "M/KIT/572/dance_waltz14_poses",
+        "duration": 22.45,
+        "annotations": [
+            {
+                "seg_id": "M01219_1",
+                "text": "Someone dances the waltz",
+                "start": 0.0,
+                "end": 22.45
+            }
+        ]
+    },
+    "M01220": {
+        "path": "M/KIT/572/dance_waltz15_poses",
+        "duration": 20.5,
+        "annotations": [
+            {
+                "seg_id": "M01220_0",
+                "text": "A person dances one part of a couple dance.",
+                "start": 0.0,
+                "end": 20.5
+            }
+        ]
+    },
+    "M01221": {
+        "path": "M/KIT/572/dance_chacha01_poses",
+        "duration": 8.26,
+        "annotations": [
+            {
+                "seg_id": "M01221_0",
+                "text": "A person performs the male basic step of the Cha-Cha-Cha ballroom dance.",
+                "start": 0.0,
+                "end": 8.26
+            }
+        ]
+    },
+    "M01222": {
+        "path": "M/KIT/572/dance_chacha02_poses",
+        "duration": 9.61,
+        "annotations": [
+            {
+                "seg_id": "M01222_0",
+                "text": "A person dances the cha-cha-cha",
+                "start": 0.0,
+                "end": 9.61
+            }
+        ]
+    },
+    "M01223": {
+        "path": "M/KIT/572/dance_chacha04_poses",
+        "duration": 8.71,
+        "annotations": [
+            {
+                "seg_id": "M01223_0",
+                "text": "A human dances to the right.",
+                "start": 0.0,
+                "end": 8.71
+            }
+        ]
+    },
+    "M01224": {
+        "path": "M/KIT/572/dance_chacha05_poses",
+        "duration": 9.05,
+        "annotations": [
+            {
+                "seg_id": "M01224_0",
+                "text": "A person performs a dance.",
+                "start": 0.0,
+                "end": 9.05
+            }
+        ]
+    },
+    "M01225": {
+        "path": "M/KIT/572/dance_chacha06_poses",
+        "duration": 11.61,
+        "annotations": [
+            {
+                "seg_id": "M01225_0",
+                "text": "A person performs the male basic step of the Cha-Cha-Cha ballroom dance.",
+                "start": 0.0,
+                "end": 11.61
+            }
+        ]
+    },
+    "M01226": {
+        "path": "M/KIT/572/dance_chacha07_poses",
+        "duration": 12.03,
+        "annotations": [
+            {
+                "seg_id": "M01226_0",
+                "text": "A person doing a cha cha move.",
+                "start": 0.0,
+                "end": 12.03
+            }
+        ]
+    },
+    "M01227": {
+        "path": "M/KIT/572/dance_chacha08_poses",
+        "duration": 12.25,
+        "annotations": [
+            {
+                "seg_id": "M01227_0",
+                "text": "the person is dancing",
+                "start": 0.0,
+                "end": 12.25
+            }
+        ]
+    },
+    "M01228": {
+        "path": "M/KIT/572/dance_chacha09_poses",
+        "duration": 11.98,
+        "annotations": [
+            {
+                "seg_id": "M01228_0",
+                "text": "Someone performs a dance.",
+                "start": 0.0,
+                "end": 11.98
+            }
+        ]
+    },
+    "M01229": {
+        "path": "M/KIT/572/dance_chacha10_poses",
+        "duration": 12.2,
+        "annotations": [
+            {
+                "seg_id": "M01229_0",
+                "text": "A person dances",
+                "start": 0.0,
+                "end": 12.2
+            }
+        ]
+    },
+    "M01230": {
+        "path": "M/KIT/572/dance_chacha11_poses",
+        "duration": 19.34,
+        "annotations": [
+            {
+                "seg_id": "M01230_0",
+                "text": "A person is dancing with a partner.",
+                "start": 0.0,
+                "end": 19.34
+            }
+        ]
+    },
+    "M01231": {
+        "path": "M/KIT/572/dance_chacha12_poses",
+        "duration": 19.69,
+        "annotations": [
+            {
+                "seg_id": "M01231_0",
+                "text": "A person performs the basic step of the Cha-Cha-Cha ballroom dance.",
+                "start": 0.0,
+                "end": 19.69
+            }
+        ]
+    },
+    "M01232": {
+        "path": "M/KIT/572/dance_chacha13_poses",
+        "duration": 17.16,
+        "annotations": [
+            {
+                "seg_id": "M01232_0",
+                "text": "a person is dancing chachacha",
+                "start": 0.0,
+                "end": 17.16
+            }
+        ]
+    },
+    "M01233": {
+        "path": "M/KIT/572/dance_chacha14_poses",
+        "duration": 17.9,
+        "annotations": [
+            {
+                "seg_id": "M01233_0",
+                "text": "A person dances.",
+                "start": 0.0,
+                "end": 17.9
+            }
+        ]
+    },
+    "M01234": {
+        "path": "M/KIT/572/dance_chacha15_poses",
+        "duration": 16.69,
+        "annotations": [
+            {
+                "seg_id": "M01234_0",
+                "text": "human dances the basic movement of cha-cha-cha",
+                "start": 0.0,
+                "end": 16.69
+            }
+        ]
+    },
+    "M01235": {
+        "path": "M/KIT/572/dance_chacha16_poses",
+        "duration": 19.26,
+        "annotations": [
+            {
+                "seg_id": "M01235_0",
+                "text": "A person dances with a partner.",
+                "start": 0.0,
+                "end": 19.26
+            }
+        ]
+    },
+    "M01236": {
+        "path": "M/KIT/513/kick01_poses",
+        "duration": 11.55,
+        "annotations": [
+            {
+                "seg_id": "M01236_0",
+                "text": "A person lifting their hands for defense and kicking with the right foot, like a kickboxing move.",
+                "start": 0.0,
+                "end": 11.55
+            }
+        ]
+    },
+    "M01239": {
+        "path": "M/KIT/513/kick04_poses",
+        "duration": 5.71,
+        "annotations": [
+            {
+                "seg_id": "M01239_0",
+                "text": "A person lifting the arms in a boxing manner and kicking with the left foot.",
+                "start": 0.0,
+                "end": 5.71
+            }
+        ]
+    },
+    "M01245": {
+        "path": "M/KIT/513/evasion02_poses",
+        "duration": 4.05,
+        "annotations": [
+            {
+                "seg_id": "M01245_3",
+                "text": "some one plays boxing and avoids a attack on the face.",
+                "start": 0.0,
+                "end": 4.05
+            }
+        ]
+    },
+    "M01246": {
+        "path": "M/KIT/513/evasion03_poses",
+        "duration": 3.36,
+        "annotations": [
+            {
+                "seg_id": "M01246_1",
+                "text": "A person performs a boxing dodging movement to the left.",
+                "start": 0.0,
+                "end": 3.36
+            }
+        ]
+    },
+    "M01250": {
+        "path": "M/KIT/513/evasion07_poses",
+        "duration": 4.42,
+        "annotations": [
+            {
+                "seg_id": "M01250_0",
+                "text": "a person is evading a boxing punch",
+                "start": 0.0,
+                "end": 4.42
+            }
+        ]
+    },
+    "M01251": {
+        "path": "M/KIT/513/evasion08_poses",
+        "duration": 4.74,
+        "annotations": [
+            {
+                "seg_id": "M01251_0",
+                "text": "Subject does an evasive motion in boxing and punches with its right hand.",
+                "start": 0.0,
+                "end": 4.74
+            }
+        ]
+    },
+    "M01252": {
+        "path": "M/KIT/572/throw_right01_poses",
+        "duration": 4.47,
+        "annotations": [
+            {
+                "seg_id": "M01252_1",
+                "text": "A human performs a slap (volleyball serve) with the right hand",
+                "start": 0.0,
+                "end": 4.47
+            }
+        ]
+    },
+    "M01254": {
+        "path": "M/KIT/572/throw_right03_poses",
+        "duration": 3.55,
+        "annotations": [
+            {
+                "seg_id": "M01254_0",
+                "text": "A person performs a tennis serve.",
+                "start": 0.0,
+                "end": 3.55
+            }
+        ]
+    },
+    "M01257": {
+        "path": "M/KIT/572/throw_left01_poses",
+        "duration": 6.07,
+        "annotations": [
+            {
+                "seg_id": "M01257_1",
+                "text": "A human is performing a slap (volleyball serving)",
+                "start": 0.0,
+                "end": 6.07
+            }
+        ]
+    },
+    "M01259": {
+        "path": "M/KIT/572/throw_left03_poses",
+        "duration": 3.43,
+        "annotations": [
+            {
+                "seg_id": "M01259_0",
+                "text": "Someone does a tennis smash with the right arm.",
+                "start": 0.0,
+                "end": 3.43
+            }
+        ]
+    },
+    "M01278": {
+        "path": "M/KIT/572/kick_high_left02_poses",
+        "duration": 6.76,
+        "annotations": [
+            {
+                "seg_id": "M01278_1",
+                "text": "A human makes a karate kick with its right food and brings his hand to the chest and its elbows out.",
+                "start": 0.0,
+                "end": 6.76
+            }
+        ]
+    },
+    "M01297": {
+        "path": "M/KIT/572/punch_right01_poses",
+        "duration": 4.74,
+        "annotations": [
+            {
+                "seg_id": "M01297_0",
+                "text": "the person is doing boxing",
+                "start": 0.0,
+                "end": 4.74
+            }
+        ]
+    },
+    "M01298": {
+        "path": "M/KIT/572/punch_right02_poses",
+        "duration": 5.44,
+        "annotations": [
+            {
+                "seg_id": "M01298_1",
+                "text": "Person boxing with left hand",
+                "start": 0.0,
+                "end": 5.44
+            }
+        ]
+    },
+    "M01300": {
+        "path": "M/KIT/572/punch_right04_poses",
+        "duration": 6.11,
+        "annotations": [
+            {
+                "seg_id": "M01300_6",
+                "text": "Boxing with the left hand.",
+                "start": 0.0,
+                "end": 6.11
+            }
+        ]
+    },
+    "M01302": {
+        "path": "M/KIT/572/punch_left01_poses",
+        "duration": 6.24,
+        "annotations": [
+            {
+                "seg_id": "M01302_0",
+                "text": "Person boxing with the right hand",
+                "start": 0.0,
+                "end": 6.24
+            }
+        ]
+    },
+    "M01303": {
+        "path": "M/KIT/572/punch_left02_poses",
+        "duration": 6.92,
+        "annotations": [
+            {
+                "seg_id": "M01303_2",
+                "text": "Boxing with the right hand.",
+                "start": 0.0,
+                "end": 6.92
+            }
+        ]
+    },
+    "M01305": {
+        "path": "M/KIT/572/punsh_left03_poses",
+        "duration": 6.16,
+        "annotations": [
+            {
+                "seg_id": "M01305_0",
+                "text": "A human does a right-handed boxing jab.",
+                "start": 0.0,
+                "end": 6.16
+            }
+        ]
+    },
+    "M01341": {
+        "path": "M/KIT/572/golf_putting01_poses",
+        "duration": 7.13,
+        "annotations": [
+            {
+                "seg_id": "M01341_0",
+                "text": "A human is playing golf.",
+                "start": 0.0,
+                "end": 7.13
+            }
+        ]
+    },
+    "M01342": {
+        "path": "M/KIT/572/golf_putting02_poses",
+        "duration": 5.89,
+        "annotations": [
+            {
+                "seg_id": "M01342_0",
+                "text": "Someone performs a golf putt motion.",
+                "start": 0.0,
+                "end": 5.89
+            }
+        ]
+    },
+    "M01343": {
+        "path": "M/KIT/572/golf_putting03_poses",
+        "duration": 5.54,
+        "annotations": [
+            {
+                "seg_id": "M01343_0",
+                "text": "A person is playing golf.",
+                "start": 0.0,
+                "end": 5.54
+            }
+        ]
+    },
+    "M01344": {
+        "path": "M/KIT/572/golf_putting04_poses",
+        "duration": 5.84,
+        "annotations": [
+            {
+                "seg_id": "M01344_0",
+                "text": "A person plays golf.",
+                "start": 0.0,
+                "end": 5.84
+            }
+        ]
+    },
+    "M01345": {
+        "path": "M/KIT/572/golf_putting05_poses",
+        "duration": 5.85,
+        "annotations": [
+            {
+                "seg_id": "M01345_0",
+                "text": "A person is playing golf.",
+                "start": 0.0,
+                "end": 5.85
+            }
+        ]
+    },
+    "M01346": {
+        "path": "M/KIT/572/golf_drive01_poses",
+        "duration": 6.19,
+        "annotations": [
+            {
+                "seg_id": "M01346_0",
+                "text": "human takes a swing like while playing golf",
+                "start": 0.0,
+                "end": 6.19
+            }
+        ]
+    },
+    "M01347": {
+        "path": "M/KIT/572/golf_drive02_poses",
+        "duration": 6.22,
+        "annotations": [
+            {
+                "seg_id": "M01347_0",
+                "text": "A human is playing golf.",
+                "start": 0.0,
+                "end": 6.22
+            }
+        ]
+    },
+    "M01348": {
+        "path": "M/KIT/572/golf_drive03_poses",
+        "duration": 5.02,
+        "annotations": [
+            {
+                "seg_id": "M01348_0",
+                "text": "A person practices a golf swing.",
+                "start": 0.0,
+                "end": 5.02
+            }
+        ]
+    },
+    "M01349": {
+        "path": "M/KIT/572/golf_drive04_poses",
+        "duration": 7.09,
+        "annotations": [
+            {
+                "seg_id": "M01349_0",
+                "text": "A person plays golf.",
+                "start": 0.0,
+                "end": 7.09
+            }
+        ]
+    },
+    "M01350": {
+        "path": "M/KIT/572/golf_drive05_poses",
+        "duration": 8.11,
+        "annotations": [
+            {
+                "seg_id": "M01350_0",
+                "text": "A person is performing a golf swing",
+                "start": 0.0,
+                "end": 8.11
+            }
+        ]
+    },
+    "M01351": {
+        "path": "M/KIT/572/golf_drive06_poses",
+        "duration": 7.27,
+        "annotations": [
+            {
+                "seg_id": "M01351_0",
+                "text": "a person performs a golf swing",
+                "start": 0.0,
+                "end": 7.27
+            }
+        ]
+    },
+    "M01363": {
+        "path": "M/KIT/572/tennis_forehand_right02_poses",
+        "duration": 7.01,
+        "annotations": [
+            {
+                "seg_id": "M01363_0",
+                "text": "Subject does a whipping motion. Or maybe table tennis.",
+                "start": 0.0,
+                "end": 7.01
+            }
+        ]
+    },
+    "M01365": {
+        "path": "M/KIT/572/tennis_forehand_right04_poses",
+        "duration": 6.64,
+        "annotations": [
+            {
+                "seg_id": "M01365_0",
+                "text": "A person raises their left arm and beats like a tennis player.",
+                "start": 0.0,
+                "end": 6.64
+            }
+        ]
+    },
+    "M01366": {
+        "path": "M/KIT/572/tennis_forehand_right05_poses",
+        "duration": 5.89,
+        "annotations": [
+            {
+                "seg_id": "M01366_0",
+                "text": "a person is doing a tennis forehand",
+                "start": 0.0,
+                "end": 5.89
+            }
+        ]
+    },
+    "M01367": {
+        "path": "M/KIT/572/tennis_forehand_left01_poses",
+        "duration": 5.64,
+        "annotations": [
+            {
+                "seg_id": "M01367_1",
+                "text": "Someone plays tennis with the right arm",
+                "start": 0.0,
+                "end": 5.64
+            }
+        ]
+    },
+    "M01368": {
+        "path": "M/KIT/572/tennis_forehand_left02_poses",
+        "duration": 6.24,
+        "annotations": [
+            {
+                "seg_id": "M01368_1",
+                "text": "Someone is throwing a ball with his right hand or playing tennis.",
+                "start": 0.0,
+                "end": 6.24
+            }
+        ]
+    },
+    "M01369": {
+        "path": "M/KIT/572/tennis_forehand_left03_poses",
+        "duration": 6.93,
+        "annotations": [
+            {
+                "seg_id": "M01369_0",
+                "text": "A Person doing a tennis racket like movement",
+                "start": 0.0,
+                "end": 6.93
+            }
+        ]
+    },
+    "M01417": {
+        "path": "M/KIT/572/guitar_right01_poses",
+        "duration": 5.36,
+        "annotations": [
+            {
+                "seg_id": "M01417_1",
+                "text": "A person plays the guitar.",
+                "start": 0.0,
+                "end": 5.36
+            }
+        ]
+    },
+    "M01418": {
+        "path": "M/KIT/572/guitar_right02_poses",
+        "duration": 5.91,
+        "annotations": [
+            {
+                "seg_id": "M01418_0",
+                "text": "A human playing a guitar",
+                "start": 0.0,
+                "end": 5.91
+            }
+        ]
+    },
+    "M01419": {
+        "path": "M/KIT/572/guitar_right03_poses",
+        "duration": 5.28,
+        "annotations": [
+            {
+                "seg_id": "M01419_0",
+                "text": "Person playing air guitar",
+                "start": 0.0,
+                "end": 5.28
+            }
+        ]
+    },
+    "M01420": {
+        "path": "M/KIT/572/guitar_right04_poses",
+        "duration": 5.84,
+        "annotations": [
+            {
+                "seg_id": "M01420_0",
+                "text": "Subject is playing the guitar.",
+                "start": 0.0,
+                "end": 5.84
+            }
+        ]
+    },
+    "M01421": {
+        "path": "M/KIT/572/guitar_right05_poses",
+        "duration": 5.82,
+        "annotations": [
+            {
+                "seg_id": "M01421_0",
+                "text": "A person plays the violin once.",
+                "start": 0.0,
+                "end": 5.82
+            }
+        ]
+    },
+    "M01422": {
+        "path": "M/KIT/572/guitar_right06_poses",
+        "duration": 6.5,
+        "annotations": [
+            {
+                "seg_id": "M01422_0",
+                "text": "A person strums a guitar with their left hand.",
+                "start": 0.0,
+                "end": 6.5
+            }
+        ]
+    },
+    "M01423": {
+        "path": "M/KIT/572/guitar_right07_poses",
+        "duration": 6.54,
+        "annotations": [
+            {
+                "seg_id": "M01423_0",
+                "text": "A person plays air guitar.",
+                "start": 0.0,
+                "end": 6.54
+            }
+        ]
+    },
+    "M01424": {
+        "path": "M/KIT/572/guitar_right08_poses",
+        "duration": 6.31,
+        "annotations": [
+            {
+                "seg_id": "M01424_0",
+                "text": "A person play guitar.",
+                "start": 0.0,
+                "end": 6.31
+            }
+        ]
+    },
+    "M01425": {
+        "path": "M/KIT/572/guitar_right09_poses",
+        "duration": 6.07,
+        "annotations": [
+            {
+                "seg_id": "M01425_0",
+                "text": "Subject is playing the guitar.",
+                "start": 0.0,
+                "end": 6.07
+            }
+        ]
+    },
+    "M01426": {
+        "path": "M/KIT/572/guitar_right10_poses",
+        "duration": 6.79,
+        "annotations": [
+            {
+                "seg_id": "M01426_0",
+                "text": "A person plays the air guitar.",
+                "start": 0.0,
+                "end": 6.79
+            }
+        ]
+    },
+    "M01427": {
+        "path": "M/KIT/572/guitar_right11_poses",
+        "duration": 8.42,
+        "annotations": [
+            {
+                "seg_id": "M01427_0",
+                "text": "A person plays a small guitar.",
+                "start": 0.0,
+                "end": 8.42
+            }
+        ]
+    },
+    "M01428": {
+        "path": "M/KIT/572/guitar_right12_poses",
+        "duration": 8.42,
+        "annotations": [
+            {
+                "seg_id": "M01428_0",
+                "text": "a human plays guitar.",
+                "start": 0.0,
+                "end": 8.42
+            }
+        ]
+    },
+    "M01429": {
+        "path": "M/KIT/572/guitar_right13_poses",
+        "duration": 8.88,
+        "annotations": [
+            {
+                "seg_id": "M01429_0",
+                "text": "Person playing the air guitar",
+                "start": 0.0,
+                "end": 8.88
+            }
+        ]
+    },
+    "M01430": {
+        "path": "M/KIT/572/guitar_right14_poses",
+        "duration": 9.19,
+        "annotations": [
+            {
+                "seg_id": "M01430_0",
+                "text": "A person plays guitar.",
+                "start": 0.0,
+                "end": 9.19
+            }
+        ]
+    },
+    "M01431": {
+        "path": "M/KIT/572/guitar_right15_poses",
+        "duration": 8.43,
+        "annotations": [
+            {
+                "seg_id": "M01431_0",
+                "text": "A human playing a guitar",
+                "start": 0.0,
+                "end": 8.43
+            }
+        ]
+    },
+    "M01432": {
+        "path": "M/KIT/572/guitar_left01_poses",
+        "duration": 7.13,
+        "annotations": [
+            {
+                "seg_id": "M01432_0",
+                "text": "Someone plays air guitar with the right hand.",
+                "start": 0.0,
+                "end": 7.13
+            }
+        ]
+    },
+    "M01434": {
+        "path": "M/KIT/572/guitar_left03_poses",
+        "duration": 5.62,
+        "annotations": [
+            {
+                "seg_id": "M01434_0",
+                "text": "Someone plays two strokes on the guitar",
+                "start": 0.0,
+                "end": 5.62
+            }
+        ]
+    },
+    "M01435": {
+        "path": "M/KIT/572/guitar_left04_poses",
+        "duration": 5.93,
+        "annotations": [
+            {
+                "seg_id": "M01435_0",
+                "text": "A person plays the guitar",
+                "start": 0.0,
+                "end": 5.93
+            }
+        ]
+    },
+    "M01436": {
+        "path": "M/KIT/572/guitar_left05_poses",
+        "duration": 5.19,
+        "annotations": [
+            {
+                "seg_id": "M01436_0",
+                "text": "Person doing a guitar move with the right hand",
+                "start": 0.0,
+                "end": 5.19
+            }
+        ]
+    },
+    "M01437": {
+        "path": "M/KIT/572/guitar_left06_poses",
+        "duration": 5.02,
+        "annotations": [
+            {
+                "seg_id": "M01437_1",
+                "text": "human plays the guitar right-handed",
+                "start": 0.0,
+                "end": 5.02
+            }
+        ]
+    },
+    "M01438": {
+        "path": "M/KIT/572/guitar_left07_poses",
+        "duration": 4.95,
+        "annotations": [
+            {
+                "seg_id": "M01438_0",
+                "text": "A person makes a motion a bit like playing the violin, but one the left (wrong) side.",
+                "start": 0.0,
+                "end": 4.95
+            }
+        ]
+    },
+    "M01439": {
+        "path": "M/KIT/572/guitar_left08_poses",
+        "duration": 6.07,
+        "annotations": [
+            {
+                "seg_id": "M01439_0",
+                "text": "a person is playing the guitar",
+                "start": 0.0,
+                "end": 6.07
+            }
+        ]
+    },
+    "M01440": {
+        "path": "M/KIT/572/guitar_left09_poses",
+        "duration": 5.49,
+        "annotations": [
+            {
+                "seg_id": "M01440_0",
+                "text": "A person plays the air guitar.",
+                "start": 0.0,
+                "end": 5.49
+            }
+        ]
+    },
+    "M01441": {
+        "path": "M/KIT/572/guitar_left10_poses",
+        "duration": 5.7,
+        "annotations": [
+            {
+                "seg_id": "M01441_0",
+                "text": "A person seems to be playing the guitar, holding it with his left hand, stroking with his right hand.",
+                "start": 0.0,
+                "end": 5.7
+            }
+        ]
+    },
+    "M01442": {
+        "path": "M/KIT/572/guitar_left11_poses",
+        "duration": 6.01,
+        "annotations": [
+            {
+                "seg_id": "M01442_0",
+                "text": "Person is playing guitar",
+                "start": 0.0,
+                "end": 6.01
+            }
+        ]
+    },
+    "M01443": {
+        "path": "M/KIT/572/guitar_left12_poses",
+        "duration": 5.85,
+        "annotations": [
+            {
+                "seg_id": "M01443_0",
+                "text": "A human plays air guitar.",
+                "start": 0.0,
+                "end": 5.85
+            }
+        ]
+    },
+    "M01444": {
+        "path": "M/KIT/572/guitar_left13_poses",
+        "duration": 7.5,
+        "annotations": [
+            {
+                "seg_id": "M01444_0",
+                "text": "A human playing a guitar",
+                "start": 0.0,
+                "end": 7.5
+            }
+        ]
+    },
+    "M01445": {
+        "path": "M/KIT/572/guitar_left14_poses",
+        "duration": 6.66,
+        "annotations": [
+            {
+                "seg_id": "M01445_1",
+                "text": "A person plays the guitar with his right hand.",
+                "start": 0.0,
+                "end": 6.66
+            }
+        ]
+    },
+    "M01446": {
+        "path": "M/KIT/572/guitar_left15_poses",
+        "duration": 7.44,
+        "annotations": [
+            {
+                "seg_id": "M01446_0",
+                "text": "A human playing the guitar",
+                "start": 0.0,
+                "end": 7.44
+            }
+        ]
+    },
+    "M01447": {
+        "path": "M/KIT/572/guitar_left16_poses",
+        "duration": 7.32,
+        "annotations": [
+            {
+                "seg_id": "M01447_0",
+                "text": "A person plays air guitar.",
+                "start": 0.0,
+                "end": 7.32
+            }
+        ]
+    },
+    "M01448": {
+        "path": "M/KIT/572/guitar_left17_poses",
+        "duration": 7.0,
+        "annotations": [
+            {
+                "seg_id": "M01448_0",
+                "text": "A human playing a guitar",
+                "start": 0.0,
+                "end": 7.0
+            }
+        ]
+    },
+    "M01449": {
+        "path": "M/KIT/572/guitar_left18_poses",
+        "duration": 7.03,
+        "annotations": [
+            {
+                "seg_id": "M01449_0",
+                "text": "A person plays guitar.",
+                "start": 0.0,
+                "end": 7.03
+            }
+        ]
+    },
+    "M01450": {
+        "path": "M/KIT/572/violin_right01_poses",
+        "duration": 5.98,
+        "annotations": [
+            {
+                "seg_id": "M01450_0",
+                "text": "the person is playing violin",
+                "start": 0.0,
+                "end": 5.98
+            }
+        ]
+    },
+    "M01451": {
+        "path": "M/KIT/572/violin_right02_poses",
+        "duration": 6.49,
+        "annotations": [
+            {
+                "seg_id": "M01451_1",
+                "text": "A person performs the movement of a violin player.",
+                "start": 0.0,
+                "end": 6.49
+            }
+        ]
+    },
+    "M01452": {
+        "path": "M/KIT/572/violin_right03_poses",
+        "duration": 7.43,
+        "annotations": [
+            {
+                "seg_id": "M01452_0",
+                "text": "A person plays the air violin",
+                "start": 0.0,
+                "end": 7.43
+            }
+        ]
+    },
+    "M01453": {
+        "path": "M/KIT/572/violin_right04_poses",
+        "duration": 6.51,
+        "annotations": [
+            {
+                "seg_id": "M01453_0",
+                "text": "A person plays violin once.",
+                "start": 0.0,
+                "end": 6.51
+            }
+        ]
+    },
+    "M01454": {
+        "path": "M/KIT/572/violin_right05_poses",
+        "duration": 6.79,
+        "annotations": [
+            {
+                "seg_id": "M01454_0",
+                "text": "Someone plays a single tone on a violin.",
+                "start": 0.0,
+                "end": 6.79
+            }
+        ]
+    },
+    "M01455": {
+        "path": "M/KIT/572/violin_right06_poses",
+        "duration": 7.51,
+        "annotations": [
+            {
+                "seg_id": "M01455_0",
+                "text": "A person plays the air violin.",
+                "start": 0.0,
+                "end": 7.51
+            }
+        ]
+    },
+    "M01456": {
+        "path": "M/KIT/572/violin_right07_poses",
+        "duration": 7.84,
+        "annotations": [
+            {
+                "seg_id": "M01456_0",
+                "text": "A person plays the violin.",
+                "start": 0.0,
+                "end": 7.84
+            }
+        ]
+    },
+    "M01457": {
+        "path": "M/KIT/572/violin_right08_poses",
+        "duration": 7.63,
+        "annotations": [
+            {
+                "seg_id": "M01457_0",
+                "text": "Someone plays on a violin.",
+                "start": 0.0,
+                "end": 7.63
+            }
+        ]
+    },
+    "M01458": {
+        "path": "M/KIT/572/violin_right09_poses",
+        "duration": 7.22,
+        "annotations": [
+            {
+                "seg_id": "M01458_0",
+                "text": "a person plays the violin",
+                "start": 0.0,
+                "end": 7.22
+            }
+        ]
+    },
+    "M01459": {
+        "path": "M/KIT/572/violin_right10_poses",
+        "duration": 7.54,
+        "annotations": [
+            {
+                "seg_id": "M01459_0",
+                "text": "a person plays the violin",
+                "start": 0.0,
+                "end": 7.54
+            }
+        ]
+    },
+    "M01460": {
+        "path": "M/KIT/572/violin_right11_poses",
+        "duration": 12.24,
+        "annotations": [
+            {
+                "seg_id": "M01460_0",
+                "text": "A human starts to play violin",
+                "start": 0.0,
+                "end": 12.24
+            }
+        ]
+    },
+    "M01461": {
+        "path": "M/KIT/572/violin_right12_poses",
+        "duration": 10.87,
+        "annotations": [
+            {
+                "seg_id": "M01461_0",
+                "text": "A person playing the air violine with the left hand",
+                "start": 0.0,
+                "end": 10.87
+            }
+        ]
+    },
+    "M01462": {
+        "path": "M/KIT/572/violin_right14_poses",
+        "duration": 12.31,
+        "annotations": [
+            {
+                "seg_id": "M01462_0",
+                "text": "A person plays violin.",
+                "start": 0.0,
+                "end": 12.31
+            }
+        ]
+    },
+    "M01463": {
+        "path": "M/KIT/572/violin_right15_poses",
+        "duration": 11.33,
+        "annotations": [
+            {
+                "seg_id": "M01463_0",
+                "text": "the person is playing a violin",
+                "start": 0.0,
+                "end": 11.33
+            }
+        ]
+    },
+    "M01464": {
+        "path": "M/KIT/572/violin_right16_poses",
+        "duration": 10.55,
+        "annotations": [
+            {
+                "seg_id": "M01464_0",
+                "text": "Person playing the violin",
+                "start": 0.0,
+                "end": 10.55
+            }
+        ]
+    },
+    "M01465": {
+        "path": "M/KIT/572/violin_left01_poses",
+        "duration": 6.1,
+        "annotations": [
+            {
+                "seg_id": "M01465_2",
+                "text": "a person plays the violin with its right hand",
+                "start": 0.0,
+                "end": 6.1
+            }
+        ]
+    },
+    "M01466": {
+        "path": "M/KIT/572/violin_left02_poses",
+        "duration": 6.63,
+        "annotations": [
+            {
+                "seg_id": "M01466_0",
+                "text": "A person plays the violin",
+                "start": 0.0,
+                "end": 6.63
+            }
+        ]
+    },
+    "M01467": {
+        "path": "M/KIT/572/violin_left03_poses",
+        "duration": 6.67,
+        "annotations": [
+            {
+                "seg_id": "M01467_0",
+                "text": "A person makes a motion like playing violin. (one stroke)",
+                "start": 0.0,
+                "end": 6.67
+            }
+        ]
+    },
+    "M01468": {
+        "path": "M/KIT/572/violin_left04_poses",
+        "duration": 7.19,
+        "annotations": [
+            {
+                "seg_id": "M01468_0",
+                "text": "A person is playing violin.",
+                "start": 0.0,
+                "end": 7.19
+            }
+        ]
+    },
+    "M01469": {
+        "path": "M/KIT/572/violin_left05_poses",
+        "duration": 6.97,
+        "annotations": [
+            {
+                "seg_id": "M01469_0",
+                "text": "A person holds a violin with the left hand and strokes it with the right hand.",
+                "start": 0.0,
+                "end": 6.97
+            }
+        ]
+    },
+    "M01470": {
+        "path": "M/KIT/572/violin_left06_poses",
+        "duration": 6.65,
+        "annotations": [
+            {
+                "seg_id": "M01470_0",
+                "text": "a person plays the violin",
+                "start": 0.0,
+                "end": 6.65
+            }
+        ]
+    },
+    "M01471": {
+        "path": "M/KIT/572/violin_left07_poses",
+        "duration": 7.45,
+        "annotations": [
+            {
+                "seg_id": "M01471_1",
+                "text": "A person plays violin.",
+                "start": 0.0,
+                "end": 7.45
+            }
+        ]
+    },
+    "M01472": {
+        "path": "M/KIT/572/violin_left08_poses",
+        "duration": 7.52,
+        "annotations": [
+            {
+                "seg_id": "M01472_0",
+                "text": "A human playing a violin",
+                "start": 0.0,
+                "end": 7.52
+            }
+        ]
+    },
+    "M01473": {
+        "path": "M/KIT/572/violin_left09_poses",
+        "duration": 7.56,
+        "annotations": [
+            {
+                "seg_id": "M01473_0",
+                "text": "A person is playing violin.",
+                "start": 0.0,
+                "end": 7.56
+            }
+        ]
+    },
+    "M01474": {
+        "path": "M/KIT/572/violin_left10_poses",
+        "duration": 7.36,
+        "annotations": [
+            {
+                "seg_id": "M01474_1",
+                "text": "A standing person performs arm motions as if playing a violin that he is holding in his left hand.",
+                "start": 0.0,
+                "end": 7.36
+            }
+        ]
+    },
+    "M01475": {
+        "path": "M/KIT/572/violin_left11_poses",
+        "duration": 9.99,
+        "annotations": [
+            {
+                "seg_id": "M01475_0",
+                "text": "the person looks like playing a violin",
+                "start": 0.0,
+                "end": 9.99
+            }
+        ]
+    },
+    "M01476": {
+        "path": "M/KIT/572/violin_left12_poses",
+        "duration": 10.0,
+        "annotations": [
+            {
+                "seg_id": "M01476_0",
+                "text": "A person playing the air violine",
+                "start": 0.0,
+                "end": 10.0
+            }
+        ]
+    },
+    "M01477": {
+        "path": "M/KIT/572/violin_left13_poses",
+        "duration": 10.28,
+        "annotations": [
+            {
+                "seg_id": "M01477_1",
+                "text": "a person plays the violin with its right hand",
+                "start": 0.0,
+                "end": 10.28
+            }
+        ]
+    },
+    "M01478": {
+        "path": "M/KIT/572/violin_left14_poses",
+        "duration": 10.4,
+        "annotations": [
+            {
+                "seg_id": "M01478_0",
+                "text": "A human playing a violin",
+                "start": 0.0,
+                "end": 10.4
+            }
+        ]
+    },
+    "M01479": {
+        "path": "M/KIT/572/violin_left15_poses",
+        "duration": 10.19,
+        "annotations": [
+            {
+                "seg_id": "M01479_0",
+                "text": "A person plays the violin",
+                "start": 0.0,
+                "end": 10.19
+            }
+        ]
+    },
+    "M01884": {
+        "path": "M/KIT/379/push_recovery_right02_poses",
+        "duration": 5.07,
+        "annotations": [
+            {
+                "seg_id": "M01884_3",
+                "text": "A human shoots a football.",
+                "start": 0.0,
+                "end": 5.07
+            }
+        ]
+    },
+    "M01905": {
+        "path": "M/KIT/421/push_recovery_front03_poses",
+        "duration": 7.01,
+        "annotations": [
+            {
+                "seg_id": "M01905_0",
+                "text": "A person is dancing.",
+                "start": 0.0,
+                "end": 7.01
+            }
+        ]
+    },
+    "M02233": {
+        "path": "M/KIT/572/punch_left05_poses",
+        "duration": 6.46,
+        "annotations": [
+            {
+                "seg_id": "M02233_0",
+                "text": "A human performs a boxing punch.",
+                "start": 0.0,
+                "end": 6.46
+            }
+        ]
+    },
+    "M02235": {
+        "path": "M/KIT/572/violin_right13_poses",
+        "duration": 12.51,
+        "annotations": [
+            {
+                "seg_id": "M02235_0",
+                "text": "A person plays the violin",
+                "start": 0.0,
+                "end": 12.51
+            }
+        ]
+    },
+    "M02282": {
+        "path": "M/CMU/131/131_02_poses",
+        "duration": 10.392,
+        "annotations": [
+            {
+                "seg_id": "M02282_0",
+                "text": "A person is dancing",
+                "start": 0.0,
+                "end": 10.392
+            }
+        ]
+    },
+    "M02283": {
+        "path": "M/CMU/131/131_03_poses",
+        "duration": 9.183,
+        "annotations": [
+            {
+                "seg_id": "M02283_0",
+                "text": "A person is dancing and jumping around.",
+                "start": 0.0,
+                "end": 9.183
+            }
+        ]
+    },
+    "M02285": {
+        "path": "M/CMU/131/131_05_poses",
+        "duration": 10.533,
+        "annotations": [
+            {
+                "seg_id": "M02285_0",
+                "text": "person doing a crazy dance",
+                "start": 0.0,
+                "end": 10.533
+            }
+        ]
+    },
+    "M02290": {
+        "path": "M/CMU/131/131_10_poses",
+        "duration": 14.808,
+        "annotations": [
+            {
+                "seg_id": "M02290_0",
+                "text": "A person is dancing.",
+                "start": 0.0,
+                "end": 14.808
+            }
+        ]
+    },
+    "M02291": {
+        "path": "M/CMU/131/131_11_poses",
+        "duration": 9.733,
+        "annotations": [
+            {
+                "seg_id": "M02291_0",
+                "text": "Someone who dances funny.",
+                "start": 0.0,
+                "end": 9.733
+            }
+        ]
+    },
+    "M02292": {
+        "path": "M/CMU/131/131_12_poses",
+        "duration": 6.392,
+        "annotations": [
+            {
+                "seg_id": "M02292_0",
+                "text": "A human is dancing a cool move",
+                "start": 0.0,
+                "end": 6.392
+            }
+        ]
+    },
+    "M02398": {
+        "path": "M/CMU/135/135_07_poses",
+        "duration": 12.267,
+        "annotations": [
+            {
+                "seg_id": "M02398_0",
+                "text": "A person performs martial arts.",
+                "start": 0.0,
+                "end": 12.267
+            }
+        ]
+    },
+    "M02545": {
+        "path": "M/CMU/15/15_12_poses",
+        "duration": 75.717,
+        "annotations": [
+            {
+                "seg_id": "M02545_0",
+                "text": "A person plays basketball.",
+                "start": 0.0,
+                "end": 75.717
+            }
+        ]
+    },
+    "M02546": {
+        "path": "M/CMU/15/15_13_poses",
+        "duration": 77.75,
+        "annotations": [
+            {
+                "seg_id": "M02546_0",
+                "text": "A person is boxing with his left hand.",
+                "start": 0.0,
+                "end": 77.75
+            }
+        ]
+    },
+    "M02553": {
+        "path": "M/CMU/144/144_06_poses",
+        "duration": 30.275,
+        "annotations": [
+            {
+                "seg_id": "M02553_0",
+                "text": "A person is doing kickboxing with his left leg and foot while keeping his hands up.",
+                "start": 0.0,
+                "end": 30.275
+            }
+        ]
+    },
+    "M02556": {
+        "path": "M/CMU/144/144_09_poses",
+        "duration": 28.183,
+        "annotations": [
+            {
+                "seg_id": "M02556_0",
+                "text": "A person is doing kickboxing with his right leg.",
+                "start": 0.0,
+                "end": 28.183
+            }
+        ]
+    },
+    "M02560": {
+        "path": "M/CMU/144/144_13_poses",
+        "duration": 16.217,
+        "annotations": [
+            {
+                "seg_id": "M02560_0",
+                "text": "A boxer is training and feelering",
+                "start": 0.0,
+                "end": 16.217
+            }
+        ]
+    },
+    "M02568": {
+        "path": "M/CMU/144/144_21_poses",
+        "duration": 16.083,
+        "annotations": [
+            {
+                "seg_id": "M02568_0",
+                "text": "A human boxes with his left hand.",
+                "start": 0.0,
+                "end": 16.083
+            }
+        ]
+    },
+    "M02573": {
+        "path": "M/CMU/144/144_26_poses",
+        "duration": 27.892,
+        "annotations": [
+            {
+                "seg_id": "M02573_0",
+                "text": "a person is boxing",
+                "start": 0.0,
+                "end": 27.892
+            }
+        ]
+    },
+    "M02582": {
+        "path": "M/CMU/17/17_07_poses",
+        "duration": 53.55,
+        "annotations": [
+            {
+                "seg_id": "M02582_0",
+                "text": "A person is dancing in various directions.",
+                "start": 0.0,
+                "end": 53.55
+            }
+        ]
+    },
+    "M02626": {
+        "path": "M/CMU/30/30_09_poses",
+        "duration": 31.325,
+        "annotations": [
+            {
+                "seg_id": "M02626_0",
+                "text": "A person performes multiple dance moves",
+                "start": 0.0,
+                "end": 31.325
+            }
+        ]
+    },
+    "M02628": {
+        "path": "M/CMU/05/05_16_poses",
+        "duration": 4.375,
+        "annotations": [
+            {
+                "seg_id": "M02628_0",
+                "text": "The person jumps like a ballet dancer.",
+                "start": 0.0,
+                "end": 4.375
+            }
+        ]
+    },
+    "M02693": {
+        "path": "M/CMU/49/49_22_poses",
+        "duration": 10.733,
+        "annotations": [
+            {
+                "seg_id": "M02693_0",
+                "text": "A person is dancing.",
+                "start": 0.0,
+                "end": 10.733
+            }
+        ]
+    },
+    "M02754": {
+        "path": "M/CMU/55/55_02_poses",
+        "duration": 18.167,
+        "annotations": [
+            {
+                "seg_id": "M02754_0",
+                "text": "A person is dancing some Latin or Standard dance.",
+                "start": 0.0,
+                "end": 18.167
+            }
+        ]
+    },
+    "M02769": {
+        "path": "M/CMU/55/55_17_poses",
+        "duration": 51.467,
+        "annotations": [
+            {
+                "seg_id": "M02769_0",
+                "text": "A person dancing in slow motion.",
+                "start": 0.0,
+                "end": 51.467
+            }
+        ]
+    },
+    "M02774": {
+        "path": "M/CMU/55/55_22_poses",
+        "duration": 54.508,
+        "annotations": [
+            {
+                "seg_id": "M02774_0",
+                "text": "A person walks around and performs a dance while doing so.",
+                "start": 0.0,
+                "end": 54.508
+            }
+        ]
+    },
+    "M02811": {
+        "path": "M/CMU/143/143_23_poses",
+        "duration": 13.567,
+        "annotations": [
+            {
+                "seg_id": "M02811_0",
+                "text": "A human boxes alternating with his right and left hand.",
+                "start": 0.0,
+                "end": 13.567
+            }
+        ]
+    },
+    "M02823": {
+        "path": "M/CMU/143/143_35_poses",
+        "duration": 21.317,
+        "annotations": [
+            {
+                "seg_id": "M02823_0",
+                "text": "A person dances macarena.",
+                "start": 0.0,
+                "end": 21.317
+            }
+        ]
+    },
+    "M02862": {
+        "path": "M/CMU/64/64_05_poses",
+        "duration": 3.225,
+        "annotations": [
+            {
+                "seg_id": "M02862_0",
+                "text": "A person is playing golf.",
+                "start": 0.0,
+                "end": 3.225
+            }
+        ]
+    },
+    "M02864": {
+        "path": "M/CMU/64/64_07_poses",
+        "duration": 3.133,
+        "annotations": [
+            {
+                "seg_id": "M02864_0",
+                "text": "A person performs a golf stroke.",
+                "start": 0.0,
+                "end": 3.133
+            }
+        ]
+    },
+    "M02866": {
+        "path": "M/CMU/64/64_09_poses",
+        "duration": 3.767,
+        "annotations": [
+            {
+                "seg_id": "M02866_0",
+                "text": "A person is doing a swing movement like hitting a ball with a golf club.",
+                "start": 0.0,
+                "end": 3.767
+            }
+        ]
+    },
+    "M02867": {
+        "path": "M/CMU/64/64_10_poses",
+        "duration": 4.683,
+        "annotations": [
+            {
+                "seg_id": "M02867_0",
+                "text": "A person is playing golf.",
+                "start": 0.0,
+                "end": 4.683
+            }
+        ]
+    },
+    "M02868": {
+        "path": "M/CMU/64/64_11_poses",
+        "duration": 4.942,
+        "annotations": [
+            {
+                "seg_id": "M02868_0",
+                "text": "A person playing golf.",
+                "start": 0.0,
+                "end": 4.942
+            }
+        ]
+    },
+    "M02870": {
+        "path": "M/CMU/64/64_13_poses",
+        "duration": 3.642,
+        "annotations": [
+            {
+                "seg_id": "M02870_0",
+                "text": "A human plays golf with a careful movement.",
+                "start": 0.0,
+                "end": 3.642
+            }
+        ]
+    },
+    "M02993": {
+        "path": "M/CMU/78/78_20_poses",
+        "duration": 1.917,
+        "annotations": [
+            {
+                "seg_id": "M02993_0",
+                "text": "A human catches a basketball and dribbles with the ball.",
+                "start": 0.0,
+                "end": 1.917
+            }
+        ]
+    },
+    "M02996": {
+        "path": "M/CMU/78/78_23_poses",
+        "duration": 4.325,
+        "annotations": [
+            {
+                "seg_id": "M02996_0",
+                "text": "A human plays basketball.",
+                "start": 0.0,
+                "end": 4.325
+            }
+        ]
+    },
+    "M03007": {
+        "path": "M/CMU/78/78_34_poses",
+        "duration": 2.542,
+        "annotations": [
+            {
+                "seg_id": "M03007_0",
+                "text": "A human runs a 90 degreerightwards curve while playing basketball.",
+                "start": 0.0,
+                "end": 2.542
+            }
+        ]
+    },
+    "M03016": {
+        "path": "M/CMU/79/79_08_poses",
+        "duration": 7.367,
+        "annotations": [
+            {
+                "seg_id": "M03016_0",
+                "text": "A person is holding his hands forward and punching like he is boxing.",
+                "start": 0.0,
+                "end": 7.367
+            }
+        ]
+    },
+    "M03058": {
+        "path": "M/CMU/79/79_50_poses",
+        "duration": 12.233,
+        "annotations": [
+            {
+                "seg_id": "M03058_0",
+                "text": "boxing with fear",
+                "start": 0.0,
+                "end": 12.233
+            }
+        ]
+    },
+    "M03070": {
+        "path": "M/CMU/79/79_62_poses",
+        "duration": 14.083,
+        "annotations": [
+            {
+                "seg_id": "M03070_0",
+                "text": "A human is doing the chicken dance",
+                "start": 0.0,
+                "end": 14.083
+            }
+        ]
+    },
+    "M03143": {
+        "path": "M/CMU/80/80_39_poses",
+        "duration": 30.417,
+        "annotations": [
+            {
+                "seg_id": "M03143_0",
+                "text": "A man is playing an instrument",
+                "start": 0.0,
+                "end": 30.417
+            }
+        ]
+    },
+    "M03163": {
+        "path": "M/CMU/80/80_59_poses",
+        "duration": 25.633,
+        "annotations": [
+            {
+                "seg_id": "M03163_0",
+                "text": "A person is punching forward like he is boxing.",
+                "start": 0.0,
+                "end": 25.633
+            }
+        ]
+    },
+    "M03189": {
+        "path": "M/CMU/141/141_12_poses",
+        "duration": 9.467,
+        "annotations": [
+            {
+                "seg_id": "M03189_0",
+                "text": "A person dances the swing.",
+                "start": 0.0,
+                "end": 9.467
+            }
+        ]
+    },
+    "M03298": {
+        "path": "M/CMU/85/85_01_poses",
+        "duration": 8.317,
+        "annotations": [
+            {
+                "seg_id": "M03298_0",
+                "text": "a person is brake-dancing",
+                "start": 0.0,
+                "end": 8.317
+            }
+        ]
+    },
+    "M03304": {
+        "path": "M/CMU/85/85_07_poses",
+        "duration": 7.992,
+        "annotations": [
+            {
+                "seg_id": "M03304_0",
+                "text": "a person break dances",
+                "start": 0.0,
+                "end": 7.992
+            }
+        ]
+    },
+    "M03310": {
+        "path": "M/CMU/85/85_13_poses",
+        "duration": 12.05,
+        "annotations": [
+            {
+                "seg_id": "M03310_0",
+                "text": "A person is break dancing.",
+                "start": 0.0,
+                "end": 12.05
+            }
+        ]
+    },
+    "M03311": {
+        "path": "M/CMU/85/85_14_poses",
+        "duration": 24.742,
+        "annotations": [
+            {
+                "seg_id": "M03311_0",
+                "text": "A person is dancing and making backflips.",
+                "start": 0.0,
+                "end": 24.742
+            }
+        ]
+    },
+    "M03375": {
+        "path": "M/CMU/90/90_28_poses",
+        "duration": 6.417,
+        "annotations": [
+            {
+                "seg_id": "M03375_0",
+                "text": "A human is break dancing",
+                "start": 0.0,
+                "end": 6.417
+            }
+        ]
+    },
+    "M03448": {
+        "path": "M/CMU/93/93_03_poses",
+        "duration": 7.367,
+        "annotations": [
+            {
+                "seg_id": "M03448_0",
+                "text": "A human performs some kind of dancing move",
+                "start": 0.0,
+                "end": 7.367
+            }
+        ]
+    },
+    "M03449": {
+        "path": "M/CMU/93/93_04_poses",
+        "duration": 8.433,
+        "annotations": [
+            {
+                "seg_id": "M03449_0",
+                "text": "The human dances a weird dance.",
+                "start": 0.0,
+                "end": 8.433
+            }
+        ]
+    },
+    "M03453": {
+        "path": "M/CMU/93/93_08_poses",
+        "duration": 9.283,
+        "annotations": [
+            {
+                "seg_id": "M03453_0",
+                "text": "a person dances",
+                "start": 0.0,
+                "end": 9.283
+            }
+        ]
+    },
+    "M03457": {
+        "path": "M/CMU/94/94_04_poses",
+        "duration": 26.192,
+        "annotations": [
+            {
+                "seg_id": "M03457_0",
+                "text": "A dancer giving a short presentation of her skills",
+                "start": 0.0,
+                "end": 26.192
+            }
+        ]
+    },
+    "M03459": {
+        "path": "M/CMU/94/94_06_poses",
+        "duration": 20.95,
+        "annotations": [
+            {
+                "seg_id": "M03459_0",
+                "text": "A person is performing a ballet-like dance.",
+                "start": 0.0,
+                "end": 20.95
+            }
+        ]
+    },
+    "M03461": {
+        "path": "M/CMU/94/94_08_poses",
+        "duration": 22.908,
+        "annotations": [
+            {
+                "seg_id": "M03461_0",
+                "text": "A person is dancing.",
+                "start": 0.0,
+                "end": 22.908
+            }
+        ]
+    },
+    "M03462": {
+        "path": "M/CMU/94/94_09_poses",
+        "duration": 33.117,
+        "annotations": [
+            {
+                "seg_id": "M03462_0",
+                "text": "A human dances.",
+                "start": 0.0,
+                "end": 33.117
+            }
+        ]
+    },
+    "M03494": {
+        "path": "M/CMU/102/102_21_poses",
+        "duration": 4.325,
+        "annotations": [
+            {
+                "seg_id": "M03494_0",
+                "text": "A person is playing basketball.",
+                "start": 0.0,
+                "end": 4.325
+            }
+        ]
+    },
+    "M03510": {
+        "path": "M/CMU/103/103_04_poses",
+        "duration": 8.433,
+        "annotations": [
+            {
+                "seg_id": "M03510_0",
+                "text": "Someone dances with their feet.",
+                "start": 0.0,
+                "end": 8.433
+            }
+        ]
+    },
+    "M03511": {
+        "path": "M/CMU/103/103_05_poses",
+        "duration": 9.1,
+        "annotations": [
+            {
+                "seg_id": "M03511_0",
+                "text": "A person is dancing.",
+                "start": 0.0,
+                "end": 9.1
+            }
+        ]
+    },
+    "M03645": {
+        "path": "M/CMU/106/106_12_poses",
+        "duration": 9.467,
+        "annotations": [
+            {
+                "seg_id": "M03645_0",
+                "text": "Someone swings their hip while dancing",
+                "start": 0.0,
+                "end": 9.467
+            }
+        ]
+    },
+    "M03811": {
+        "path": "M/CMU/120/120_07_poses",
+        "duration": 9.275,
+        "annotations": [
+            {
+                "seg_id": "M03811_0",
+                "text": "A man puts his hands back and kicks or he ist dancing",
+                "start": 0.0,
+                "end": 9.275
+            }
+        ]
+    },
+    "M03898": {
+        "path": "M/CMU/124/124_03_poses",
+        "duration": 8.008,
+        "annotations": [
+            {
+                "seg_id": "M03898_0",
+                "text": "A human plays basketball.",
+                "start": 0.0,
+                "end": 8.008
+            }
+        ]
+    },
+    "M03899": {
+        "path": "M/CMU/124/124_04_poses",
+        "duration": 6.05,
+        "annotations": [
+            {
+                "seg_id": "M03899_0",
+                "text": "A person makes moves like bouncing a basketball and throwing it to a basket.",
+                "start": 0.0,
+                "end": 6.05
+            }
+        ]
+    },
+    "M03901": {
+        "path": "M/CMU/124/124_06_poses",
+        "duration": 5.783,
+        "annotations": [
+            {
+                "seg_id": "M03901_0",
+                "text": "A human plays basketball and makes a layup.",
+                "start": 0.0,
+                "end": 5.783
+            }
+        ]
+    },
+    "M03902": {
+        "path": "M/CMU/124/124_07_poses",
+        "duration": 10.808,
+        "annotations": [
+            {
+                "seg_id": "M03902_0",
+                "text": "A person swings a baseball bat twice.",
+                "start": 0.0,
+                "end": 10.808
+            }
+        ]
+    },
+    "M03903": {
+        "path": "M/CMU/124/124_08_poses",
+        "duration": 6.55,
+        "annotations": [
+            {
+                "seg_id": "M03903_0",
+                "text": "Base ball pitching",
+                "start": 0.0,
+                "end": 6.55
+            }
+        ]
+    },
+    "M03910": {
+        "path": "M/CMU/125/125_03_poses",
+        "duration": 36.733,
+        "annotations": [
+            {
+                "seg_id": "M03910_0",
+                "text": "A human swims in breaststroke style.",
+                "start": 0.0,
+                "end": 36.733
+            }
+        ]
+    }
+}

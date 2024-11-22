@@ -1,0 +1,3 @@
+the man walks in a clockwise semicircle. # 0 # 10 # spine
+a person walks in a clockwise circle # 0 # 10 # spine
+a man walks clockwise in a circle repeatedly. # 0 # 10 # spine

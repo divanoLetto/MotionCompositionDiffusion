@@ -1,0 +1,4 @@
+A person raises both arms.  # 0 # 2 # right arm # left arm
+A person lifts their left leg.  # 2 # 4 # legs
+A person stops moving their left leg.  # 4 # 5 # legs
+A person lifts their right leg.  # 5 # 5.85 # legs

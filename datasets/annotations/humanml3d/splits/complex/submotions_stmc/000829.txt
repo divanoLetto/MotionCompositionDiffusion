@@ -1,0 +1,3 @@
+A person raises both arms while moving their body.  # 0 # 3 # right arm # left arm
+A person sways their body from side to side.  # 3 # 6 # spine # legs
+A person spins around while keeping their arms engaged.  # 6 # 10.0 # spine # right arm # left arm

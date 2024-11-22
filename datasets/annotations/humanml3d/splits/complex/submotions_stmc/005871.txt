@@ -1,0 +1,1 @@
+a man hits an object with his right hand. # 0 # 2.71 # right arm

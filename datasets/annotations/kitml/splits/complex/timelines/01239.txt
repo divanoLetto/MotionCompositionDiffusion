@@ -1,0 +1,2 @@
+A person raises their arms in front of them. # 0 # 3 # spine
+A person kicks with the right foot. # 2 # 5.71 # spine

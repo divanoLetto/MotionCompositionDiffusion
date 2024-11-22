@@ -1,0 +1,3 @@
+A person reaches forward with their left arm. # 0 # 2 # left arm
+A person jabs with their right arm. # 2 # 4 # right arm
+A person jabs with their left arm. # 4 # 4.26 # left arm

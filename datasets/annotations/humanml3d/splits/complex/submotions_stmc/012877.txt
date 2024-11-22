@@ -1,0 +1,2 @@
+A person is moving their legs to dance. # 0 # 5 # legs
+A person continues to dance with their legs. # 5 # 9.0 # legs

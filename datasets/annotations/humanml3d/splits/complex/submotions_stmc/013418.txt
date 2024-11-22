@@ -1,0 +1,2 @@
+A person is moving their arms around.  # 0 # 5 # right arm # left arm
+A person is moving their legs.  # 0 # 10.0 # legs

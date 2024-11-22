@@ -1,0 +1,1 @@
+A person motions 'i'm a little teapot'. # 0 # 10.0 # right arm # left arm # spine # legs

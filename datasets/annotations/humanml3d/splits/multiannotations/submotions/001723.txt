@@ -1,0 +1,3 @@
+a person taking a huge diagonal step # 0 # 5.275 # spine
+a person takes a large step forward to the right. # 0 # 5.275 # spine
+a person takes one large diagonal step to their front right # 0 # 5.275 # spine

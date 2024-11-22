@@ -1,0 +1,4 @@
+A person throws something with their left arm. # 0 # 2 # left arm
+A person punches with their right hand. # 2 # 4 # right arm
+A person shuffles to the left. # 4 # 7 # legs
+A person raises both arms above their head. # 7 # 9.400000000000002 # right arm # left arm

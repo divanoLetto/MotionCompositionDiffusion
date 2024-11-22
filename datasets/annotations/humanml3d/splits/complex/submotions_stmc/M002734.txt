@@ -1,0 +1,1 @@
+A person is moving their arms to warm up. # 0 # 3.35 # right arm # left arm

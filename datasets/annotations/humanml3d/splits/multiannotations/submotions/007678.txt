@@ -1,0 +1,3 @@
+the person was turning on the faucet. # 0 # 2.975 # spine
+a person holds their right hand out. # 0 # 2.975 # spine
+a person pointing at something with his left hand. # 0 # 2.975 # spine

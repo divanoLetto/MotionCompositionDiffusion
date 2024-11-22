@@ -1,0 +1,2 @@
+A person raises both fists to cover their face. # 0 # 5 # left arm # right arm
+A person jabs with their left hand. # 5 # 6.949999999999999 # left arm

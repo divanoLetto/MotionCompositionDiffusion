@@ -1,0 +1,2 @@
+A person is waving hello in a friendly manner with right hand. # 0 # 5 # spine
+A person is dancing while waving with their left arm. # 4 # 10 # spine

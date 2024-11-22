@@ -1,0 +1,3 @@
+a person starts with their arms at waist height then moves slightly left and right. # 0 # 10 # spine
+a person raised a little hand # 0 # 10 # spine
+a person appears to be balancing on something # 0 # 10 # spine

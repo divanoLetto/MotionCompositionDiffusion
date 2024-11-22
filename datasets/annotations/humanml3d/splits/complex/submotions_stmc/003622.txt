@@ -1,0 +1,2 @@
+A person begins jumping rope. # 0 # 2.0 # legs # right arm # left arm
+A person continues jumping rope. # 2.0 # 10.0 # legs # right arm # left arm

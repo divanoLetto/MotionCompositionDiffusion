@@ -1,0 +1,2 @@
+A person lifts both arms and shakes their hips quickly. # 0 # 4.483 # spine
+A person is moving their hips repeatedly to the left and right. # 4 # 7.633 # spine

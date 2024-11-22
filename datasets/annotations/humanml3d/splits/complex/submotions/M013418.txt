@@ -1,0 +1,2 @@
+A person raises both their arms over their head while bending their elbows. # 0 # 6 # spine
+A person twirls in a circular motion. # 4 # 10.0 # spine

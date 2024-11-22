@@ -1,0 +1,3 @@
+A person is moving their hips repeatedly to the left and right. # 0 # 5 # spine # legs
+A person raises both arms out to the side. # 0 # 5 # right arm # left arm
+A person twirls around while keeping arms extended. # 5 # 10.0 # right arm # left arm # spine # legs

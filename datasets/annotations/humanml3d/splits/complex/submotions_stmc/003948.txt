@@ -1,0 +1,2 @@
+A person stands with their legs apart. # 0 # 0.167 # legs
+A person holds their arms out in front of them. # 0 # 0.167 # right arm # left arm

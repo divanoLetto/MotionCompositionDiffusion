@@ -1,0 +1,3 @@
+A person stands with their legs apart. # 0 # 2 # spine
+A person holds their arms out in front of them. # 0 # 2 # spine
+A person moves their arms as if playing a violin. # 2 # 6.79 # spine

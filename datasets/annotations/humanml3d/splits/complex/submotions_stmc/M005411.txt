@@ -1,0 +1,3 @@
+A person raises both arms.  # 0 # 3 # right arm # left arm
+A person dances around.  # 3 # 5 # spine # legs
+A person kicks with their left leg.  # 5 # 7.15 # legs

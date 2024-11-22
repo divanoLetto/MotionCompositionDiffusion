@@ -1,0 +1,4 @@
+A person raises both arms above their head.  # 0 # 3 # right arm # left arm
+A person moves their right arm in a signaling motion.  # 3 # 5 # right arm
+A person waves with their left arm.  # 5 # 8 # left arm
+A person puts both arms down by their sides.  # 8 # 10.0 # right arm # left arm

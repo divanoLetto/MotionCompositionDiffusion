@@ -1,0 +1,3 @@
+person quickly walks in a counterclockwise position with shoulders facing back happy # 0 # 3.68 # spine
+the person is walking back and forth. # 0 # 3.68 # spine
+it is someone walking across the room. # 0 # 3.68 # spine

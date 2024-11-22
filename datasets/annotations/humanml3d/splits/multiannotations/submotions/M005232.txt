@@ -1,0 +1,2 @@
+a person walks several steps forward. # 0 # 5.55 # spine
+beginning with the left foot, a person takes six steps forward and stops. # 0 # 5.55 # spine

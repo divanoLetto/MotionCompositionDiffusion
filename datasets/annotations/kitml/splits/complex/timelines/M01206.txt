@@ -1,0 +1,3 @@
+A person raises their arms to the side. # 0 # 3 # spine
+A person moves their hips repeatedly to the left and right. # 2 # 5 # spine
+A person is standing with arms out moving hips from side to side. # 4 # 9.25 # spine

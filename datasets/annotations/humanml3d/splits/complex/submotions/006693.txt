@@ -1,0 +1,4 @@
+A person is standing with their arms at their sides. # 0 # 2 # spine
+A person throws something with their right hand. # 2 # 4 # spine
+A person takes a step backward with their right foot. # 3 # 5 # spine
+A person throws something with both hands. # 5 # 10.0 # spine

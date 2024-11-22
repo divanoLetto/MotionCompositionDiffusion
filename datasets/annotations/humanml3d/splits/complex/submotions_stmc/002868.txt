@@ -1,0 +1,4 @@
+A person raises both hands above their head. # 0 # 3 # right arm # left arm
+A person lowers both hands back down. # 3 # 6 # right arm # left arm
+A person raises both hands again. # 6 # 9 # right arm # left arm
+A person lowers both hands again. # 9 # 10.0 # right arm # left arm

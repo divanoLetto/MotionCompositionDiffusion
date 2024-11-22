@@ -1,0 +1,2 @@
+A person holds their arms up by their face. # 0 # 3 # right arm # left arm
+A person throws a punch with their left hand. # 3 # 6.949999999999999 # left arm

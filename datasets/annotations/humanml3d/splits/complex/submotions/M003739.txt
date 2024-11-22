@@ -1,0 +1,3 @@
+A person raises both arms towards the head. # 0 # 3 # spine
+A person makes a circular motion with both arms. # 2 # 5 # spine
+A person reaches above the head with both arms. # 5 # 10 # spine

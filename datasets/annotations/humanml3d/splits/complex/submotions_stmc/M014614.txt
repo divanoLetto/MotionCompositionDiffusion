@@ -1,0 +1,2 @@
+A person holds something valuable or fragile, while rocking it back and forth. # 0 # 8.35 # right arm # left arm
+A person raises their arms above their head openly happy. # 8.35 # 10.0 # right arm # left arm

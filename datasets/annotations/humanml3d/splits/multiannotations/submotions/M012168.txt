@@ -1,0 +1,3 @@
+this person jumps on his right foot then on his left foot. # 0 # 5.45 # spine
+person hopping on both feet. # 0 # 5.45 # spine
+the person hops on their right leg before then switching to their left leg # 0 # 5.45 # spine

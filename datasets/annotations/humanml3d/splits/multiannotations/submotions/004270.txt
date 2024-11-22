@@ -1,0 +1,3 @@
+person is reaching down. # 0 # 10 # spine
+a person starts with arms outstretched then places them on thighs for a few seconds then stretches back out. # 0 # 10 # spine
+a person moves from standing with arms outstretched to side and legs shoulder length apart, puts hands on hips and returns to original position. # 0 # 10 # spine

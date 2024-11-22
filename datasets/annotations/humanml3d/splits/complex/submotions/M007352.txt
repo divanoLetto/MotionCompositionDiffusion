@@ -1,0 +1,2 @@
+A person walks forward at an average pace. # 0 # 4 # spine
+A person is moving their hips repeatedly to the left and right. # 3 # 6.7 # spine

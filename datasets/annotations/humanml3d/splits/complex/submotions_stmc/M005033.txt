@@ -1,0 +1,2 @@
+A person throws something with their left arm. # 0 # 3.0 # left arm
+A person shifts back and forth on their feet. # 3.0 # 6.175 # legs

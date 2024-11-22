@@ -1,0 +1,3 @@
+a persion doing jumping jacks. # 0 # 4.908 # spine
+a person does multiple jumping jacks. # 0 # 4.908 # spine
+a person doing jumping jacks in a single spot. # 0 # 4.908 # spine

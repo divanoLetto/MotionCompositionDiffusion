@@ -1,0 +1,1 @@
+A person has both hands together and is moving them in the air. # 0 # 10.0 # right arm # left arm

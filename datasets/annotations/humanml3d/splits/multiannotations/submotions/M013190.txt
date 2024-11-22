@@ -1,0 +1,3 @@
+a person beginning to run in a straight line. # 0 # 4.61 # spine
+a person runs forward and stops. # 0 # 4.61 # spine
+a person jogs forward while kicking their feet back slightly with each stride # 0 # 4.61 # spine

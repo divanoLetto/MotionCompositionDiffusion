@@ -1,0 +1,3 @@
+a person takes a big step to the side. # 0 # 2.6 # spine
+a standing person is pushed to their left and stumbles, catching themselves with their right foot. # 0 # 2.6 # spine
+a person takes a step directly to their left # 0 # 2.6 # spine

@@ -1,0 +1,2 @@
+A person is using his arms to describe something to another person. # 0 # 5 # right arm # left arm
+A person makes a throwing motion with their left arm. # 5 # 10.0 # left arm

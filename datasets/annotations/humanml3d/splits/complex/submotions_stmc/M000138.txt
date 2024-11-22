@@ -1,0 +1,2 @@
+A person raises their arms as if playing an instrument. # 0 # 7 # right arm # left arm
+A person prances around playfully. # 0 # 10.0 # legs

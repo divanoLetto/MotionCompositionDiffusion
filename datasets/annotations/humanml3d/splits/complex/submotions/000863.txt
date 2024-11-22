@@ -1,0 +1,2 @@
+A person raises both arms above their head. # 0 # 6 # spine
+A person is waving their arms. # 6 # 10.0 # spine

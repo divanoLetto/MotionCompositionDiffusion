@@ -1,0 +1,2 @@
+A person walks forward. # 0 # 2 # spine
+A person bends down and picks something up with their left hand. # 2 # 4.683 # spine

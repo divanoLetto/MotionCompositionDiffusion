@@ -1,0 +1,4 @@
+A person stands with their arms up. # 0 # 2 # spine
+A person kneels down on their left knee. # 2 # 3.333 # spine
+A person places their left hand back. # 3 # 3.333 # spine
+A person puts their right hand on the ground. # 3 # 3.333 # spine

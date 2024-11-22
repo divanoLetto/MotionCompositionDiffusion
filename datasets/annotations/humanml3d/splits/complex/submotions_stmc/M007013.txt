@@ -1,0 +1,2 @@
+A person stands with feet apart. # 0 # 2 # legs # spine
+A person raises both arms in front of their face. # 2 # 4.275 # right arm # left arm # head

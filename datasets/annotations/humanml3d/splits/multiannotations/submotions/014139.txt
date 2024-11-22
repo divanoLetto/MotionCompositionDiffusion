@@ -1,0 +1,3 @@
+a person walks with a slightly angled direction, and smooth hip motion. # 0 # 4.26 # spine
+a person slowly walked forward # 0 # 4.26 # spine
+a man is walking forward fast # 0 # 4.26 # spine

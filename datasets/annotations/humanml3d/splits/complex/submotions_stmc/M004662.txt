@@ -1,0 +1,2 @@
+A person raises both arms above their head. # 0 # 3 # right arm # left arm
+A person moves their body around. # 3 # 5.908 # spine

@@ -1,0 +1,2 @@
+A person is jumping around. # 0 # 6 # spine
+A person raises their arms up and down. # 6 # 9.283 # spine

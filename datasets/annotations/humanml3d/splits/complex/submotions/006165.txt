@@ -1,0 +1,4 @@
+A person catches something with his right hand. # 0 # 2 # spine
+A person steps back. # 2 # 4 # spine
+A person steps forward. # 4 # 6 # spine
+A person throws something with his right hand. # 6 # 10.0 # spine

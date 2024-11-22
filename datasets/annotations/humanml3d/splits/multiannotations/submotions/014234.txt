@@ -1,0 +1,3 @@
+a person punches left, right, and then left again. # 0 # 4.65 # spine
+a person standing up is making boxing motions with their left and right arms # 0 # 4.65 # spine
+a person punches to the right then straight ahead and then to the right again. # 0 # 4.65 # spine

@@ -1,0 +1,3 @@
+the man touches his head with the left hand then the right. # 0 # 4.275 # spine
+the person scratched his head with his right hand and scratched his head with his left hand. # 0 # 4.275 # spine
+the man is lifting both arms # 0 # 4.275 # spine

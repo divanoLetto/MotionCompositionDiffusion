@@ -1,0 +1,2 @@
+A person waltzes back and forth with another person. # 0 # 6 # spine
+A man is doing the waltz in a circle. # 6 # 10.0 # spine

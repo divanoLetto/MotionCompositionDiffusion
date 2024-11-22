@@ -1,0 +1,1 @@
+A person is punching with their left hand. # 0 # 1.55 # left arm

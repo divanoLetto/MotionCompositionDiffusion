@@ -1,0 +1,5 @@
+A person is side stepping to the left. # 0 # 2 # spine
+A person is side stepping to the right. # 2 # 4 # spine
+A person is side stepping. # 4 # 6 # spine
+A person is walking sideways to the right. # 6 # 8 # spine
+A person is walking sideways to the left. # 8 # 10.0 # spine

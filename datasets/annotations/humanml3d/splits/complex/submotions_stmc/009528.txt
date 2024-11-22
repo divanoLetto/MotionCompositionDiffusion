@@ -1,0 +1,1 @@
+a person punches upwards with left hand. # 0 # 1.35 # left arm

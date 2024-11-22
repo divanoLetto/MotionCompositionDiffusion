@@ -1,0 +1,2 @@
+A person raises their arms up. # 0 # 2 # spine
+A person moves their hips repeatedly to the right and left. # 0 # 4.358 # spine

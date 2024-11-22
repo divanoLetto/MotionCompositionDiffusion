@@ -1,0 +1,3 @@
+A person raises their right arm. # 0 # 2 # right arm
+A person moves forward with their legs. # 2 # 5 # legs
+A person throws with their right arm. # 5 # 10.0 # right arm

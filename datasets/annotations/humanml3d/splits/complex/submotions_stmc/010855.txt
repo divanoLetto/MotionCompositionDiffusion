@@ -1,0 +1,1 @@
+A person punches with right hand. # 0 # 1.45 # right arm

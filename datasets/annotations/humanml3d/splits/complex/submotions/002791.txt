@@ -1,0 +1,4 @@
+A person moves their right hand in a clockwise motion. # 0 # 4.29 # spine
+A person raises both arms up. # 3 # 6 # spine
+A person pats something with both hands. # 5 # 8.35 # spine
+A person throws something with their right hand. # 7 # 10.0 # spine

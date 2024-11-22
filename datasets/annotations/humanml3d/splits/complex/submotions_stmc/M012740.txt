@@ -1,0 +1,4 @@
+A person stands with their legs spread apart. # 0 # 2 # legs
+A person forms a golf grip with their right hand. # 2 # 4 # right arm
+A person takes a back swing with their right arm. # 4 # 5 # right arm
+A person follows through with their right arm. # 5 # 5.53 # right arm

@@ -1,0 +1,4 @@
+a person throws a left upper-cut punch. # 0 # 1.65 # left arm
+a person blocks something with their left arm. # 1.65 # 4.68 # left arm
+a person dodges something coming at him. # 4.68 # 7.0 # spine
+a person throws a left jab. # 7.0 # 10.0 # left arm

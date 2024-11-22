@@ -1,0 +1,2 @@
+A person raises their arms above their head. # 0 # 2.0 # spine
+A person is moving their upper body side to side. # 1 # 2.0 # spine

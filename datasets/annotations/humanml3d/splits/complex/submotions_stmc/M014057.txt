@@ -1,0 +1,2 @@
+A person keeps their feet on the ground while moving.  # 0 # 4 # legs
+A person steps forward with their right foot.  # 4 # 8.042000000000002 # legs

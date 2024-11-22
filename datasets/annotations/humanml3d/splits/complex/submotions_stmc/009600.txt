@@ -1,0 +1,4 @@
+A person walks in a triangle pattern by first walking backwards. # 0 # 3 # legs
+A person walks forward for the second leg of the triangle. # 3 # 5 # legs
+A person steps sideways to close the shape of the triangle. # 5 # 7 # legs
+A person finishes a couple of steps backwards. # 7 # 10.0 # legs

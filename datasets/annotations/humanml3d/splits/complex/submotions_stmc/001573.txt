@@ -1,0 +1,4 @@
+A person throws a right punch. # 0 # 1.45 # right arm
+A person throws a left punch. # 1.45 # 2.9 # left arm
+A person raises their left hand. # 2.9 # 5.0 # left arm
+A person raises their right hand. # 5.0 # 10.0 # right arm

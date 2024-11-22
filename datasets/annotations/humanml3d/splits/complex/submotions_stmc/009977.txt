@@ -1,0 +1,2 @@
+A person raises their right arm to throw. # 0 # 2 # right arm
+A person swings their right arm across their body. # 2 # 3.25 # right arm

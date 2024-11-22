@@ -1,0 +1,3 @@
+A person steps forward with one leg. # 0 # 2.0 # spine
+A person swings their arm over their head. # 1 # 2.0 # spine
+A person swings their arm diagonally across. # 1.5 # 2.0 # spine

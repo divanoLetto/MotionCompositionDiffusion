@@ -1,0 +1,2 @@
+A person is exercising using arms and legs. # 0 # 6 # spine
+A person is moving in rhythm to the musical beat moving his arms. # 4 # 10.0 # spine

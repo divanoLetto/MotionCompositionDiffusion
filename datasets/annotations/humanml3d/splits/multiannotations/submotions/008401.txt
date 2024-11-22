@@ -1,0 +1,3 @@
+person squats then rotates a quarter of the way clockwise. # 0 # 1.25 # spine
+someone jumps, turns counter-clockwise, and stands straight up. # 0 # 1.25 # spine
+the man is doing jump hands up # 0 # 1.25 # spine

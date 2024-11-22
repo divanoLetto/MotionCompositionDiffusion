@@ -1,0 +1,3 @@
+a standing person is swaying gently back and forth as he holds his right hand to the right side of his head for a moment. he drops his arm, briefly, then raises it to look at his hand. # 0 # 10 # spine
+a person is talking on the phone # 0 # 10 # spine
+a person holding right hand to the ear and then looking down to the hand. # 0 # 10 # spine

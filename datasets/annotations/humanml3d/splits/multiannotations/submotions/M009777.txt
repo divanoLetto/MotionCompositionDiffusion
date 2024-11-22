@@ -1,0 +1,3 @@
+a person lifts their left forearm upwards towards their mouth and then puts it down again. # 0 # 3.58 # spine
+a person raises their left hand up and back down. # 0 # 3.58 # spine
+man lifts his left hand to his mouth # 0 # 3.58 # spine

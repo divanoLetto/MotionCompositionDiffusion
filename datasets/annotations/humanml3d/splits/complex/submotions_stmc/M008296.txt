@@ -1,0 +1,2 @@
+A person stands and raises their legs in circular motion. # 0 # 3 # legs
+A person continues to move their legs in circular motion. # 3 # 5.475 # legs

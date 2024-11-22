@@ -1,0 +1,3 @@
+the man runs back wards # 0 # 3.217 # spine
+the person is running backwards quickly. # 0 # 3.217 # spine
+a person jogs backwards, diagonally. # 0 # 3.217 # spine

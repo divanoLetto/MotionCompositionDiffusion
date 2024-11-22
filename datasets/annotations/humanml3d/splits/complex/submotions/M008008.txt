@@ -1,0 +1,5 @@
+A person glides forward with their right leg. # 0 # 2 # spine
+A person glides forward with their left leg. # 2 # 4 # spine
+A person glides forward with their right leg again. # 4 # 6 # spine
+A person glides forward with their left leg again. # 6 # 8 # spine
+A person glides forward with their right leg one last time. # 8 # 10.0 # spine

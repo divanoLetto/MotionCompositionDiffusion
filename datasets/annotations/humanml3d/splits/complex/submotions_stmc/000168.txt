@@ -1,0 +1,2 @@
+A person throws with their right arm. # 0 # 2.0 # right arm
+A person moves backwards using their legs. # 2.0 # 2.442 # legs

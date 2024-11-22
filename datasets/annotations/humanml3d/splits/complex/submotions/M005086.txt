@@ -1,0 +1,2 @@
+A person walks slowly forward. # 0 # 2 # spine
+A person is walking back and forth. # 8 # 10.0 # spine

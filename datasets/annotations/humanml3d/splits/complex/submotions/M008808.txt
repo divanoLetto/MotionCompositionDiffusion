@@ -1,0 +1,3 @@
+A person walks forward. # 0 # 2 # spine
+A person spins on their left foot. # 2 # 4 # spine
+A person walks forward again. # 4 # 10.0 # spine

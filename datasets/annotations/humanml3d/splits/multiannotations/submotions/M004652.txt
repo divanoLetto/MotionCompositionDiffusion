@@ -1,0 +1,3 @@
+a person walks forward with a strut. # 0 # 7.625 # spine
+walking in a right arc by 45 degrees # 0 # 7.625 # spine
+a person walks straight forward. # 0 # 7.625 # spine

@@ -1,0 +1,2 @@
+A person punches out left and then right. # 0 # 2 # left arm
+A person punches out left and then right. # 2 # 4.55 # right arm

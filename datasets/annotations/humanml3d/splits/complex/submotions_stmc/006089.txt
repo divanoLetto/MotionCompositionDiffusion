@@ -1,0 +1,3 @@
+A person bounces a basketball with both hands. # 0 # 2.0 # right arm # left arm
+A person walks forward while bouncing the basketball. # 2.0 # 5.76 # legs
+A person loses the basketball. # 5.0 # 5.76 # right arm # left arm

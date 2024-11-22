@@ -1,0 +1,2 @@
+A person crouches down with both arms lifted up above head. # 0 # 5 # spine
+A person is crouching down. # 4 # 10.0 # spine

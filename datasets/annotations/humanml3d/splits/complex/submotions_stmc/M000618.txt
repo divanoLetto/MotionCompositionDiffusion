@@ -1,0 +1,2 @@
+A person is moving their hips from side to side. # 0 # 5 # spine # legs
+A person is standing with arms out and swaying. # 5 # 10.000000000000002 # right arm # left arm # spine

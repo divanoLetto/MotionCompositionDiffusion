@@ -1,0 +1,2 @@
+a man is punching something several times with both his hands. # 0 # 7 # spine
+a person alternates between striking with their right then left hand. # 5 # 10.0 # spine

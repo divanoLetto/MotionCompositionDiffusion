@@ -1,0 +1,2 @@
+A person is performing a punch with his left hand. # 0 # 3 # spine
+A person is punching with his left arm in front of him. # 3 # 5.44 # spine

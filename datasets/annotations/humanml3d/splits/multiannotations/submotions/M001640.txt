@@ -1,0 +1,3 @@
+person looks to be washing a window with both hands # 0 # 10 # spine
+a person moves their hands in alternating circular motions # 0 # 10 # spine
+person makes alternating left & right hand circles then dribbles a ball. # 0 # 10 # spine

@@ -1,0 +1,3 @@
+A person punches with their left arm. # 0 # 3 # spine
+A person raises their left arm. # 2 # 5 # spine
+A person makes a pulling motion with their left arm. # 4 # 10 # spine

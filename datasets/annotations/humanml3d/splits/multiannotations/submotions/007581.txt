@@ -1,0 +1,3 @@
+a man sits down, brings his hands to his face and then stands back up. # 0 # 10 # spine
+a person sits down on a step stool, rests his chin on his hands, and then stands back up. # 0 # 10 # spine
+a person sits down and then put their head in their hands. # 0 # 10 # spine

@@ -1,0 +1,3 @@
+a person shuffles to the left, then to the right, then back to the left. # 0 # 9.708 # spine
+a person moves three steps to the left, four steps to the right and two steps back in a side step motion. # 0 # 9.708 # spine
+person is walking sideways. # 0 # 9.708 # spine

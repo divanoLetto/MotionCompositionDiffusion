@@ -1,0 +1,3 @@
+a person is bent over at the waist, motioning forward with their left hand, then stands up. # 0 # 10 # spine
+a person bends at the hips and moves their left arm up and down, then pats something with their left hand. # 0 # 10 # spine
+a person bends over at their waist and raises their left arm up and down in a half circle. # 0 # 10 # spine

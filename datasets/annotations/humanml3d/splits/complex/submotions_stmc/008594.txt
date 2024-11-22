@@ -1,0 +1,2 @@
+A person raises both arms above their head. # 0 # 1 # right arm # left arm
+A person shoots with both arms extended. # 1 # 2.0 # right arm # left arm

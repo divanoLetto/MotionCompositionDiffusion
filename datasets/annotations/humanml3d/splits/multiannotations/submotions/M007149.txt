@@ -1,0 +1,3 @@
+a person is walking at an angle to the left. # 0 # 3.55 # spine
+the man makes a left turn # 0 # 3.55 # spine
+person was walking towards the left. # 0 # 3.55 # spine

@@ -1,0 +1,3 @@
+a person goes from standing to on their hands and knees and moves forward. # 0 # 8.03 # spine
+a man gets on his hands and knees and crawls forward. # 0 # 8.03 # spine
+a person drops down to their hands and knees and proceeds to crawl forward. # 0 # 8.03 # spine

@@ -1,0 +1,2 @@
+A person stands still.  # 0 # 3 # spine # legs
+A person throws something with their right arm.  # 3 # 6.71 # right arm

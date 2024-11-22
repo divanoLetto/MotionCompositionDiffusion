@@ -1,0 +1,2 @@
+A person raises their right hand.  # 0 # 2 # right arm
+A person strums with their right hand.  # 2 # 9.19 # right arm

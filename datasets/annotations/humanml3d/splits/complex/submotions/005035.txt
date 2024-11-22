@@ -1,0 +1,2 @@
+A person lowers their hands, makes a traveling sign, raises their hands to their mouth, and leans to their left side. # 0 # 6 # spine
+A person raises both their hands to the right. # 6 # 10.0 # spine

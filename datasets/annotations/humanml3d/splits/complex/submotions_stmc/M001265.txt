@@ -1,0 +1,2 @@
+A person holds their hands up. # 0 # 3 # left arm # right arm
+A person shakes their shoulders. # 3 # 3.62 # spine

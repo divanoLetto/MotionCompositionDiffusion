@@ -1,0 +1,2 @@
+A person dances.  # 0 # 2 # spine # legs
+A person jumps forward.  # 2 # 6.05 # spine # legs

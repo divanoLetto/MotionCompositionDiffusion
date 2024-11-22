@@ -1,0 +1,2 @@
+A person holds a basketball with both hands. # 0 # 1.5 # right arm # left arm
+A person shoots the basketball with both hands. # 1.5 # 1.65 # right arm # left arm

@@ -1,0 +1,2 @@
+A person waltzes, taking large steps in a circle rhythmically. # 0 # 5 # spine
+A person raises their arms while dancing. # 4 # 10 # spine

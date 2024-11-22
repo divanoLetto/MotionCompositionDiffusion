@@ -1,0 +1,3 @@
+A person sways their hips and arms to the side. # 0 # 4 # spine # left arm # right arm
+A person steps side to side with their legs. # 4 # 8 # legs
+A person raises their arms above their head. # 8 # 10.0 # left arm # right arm

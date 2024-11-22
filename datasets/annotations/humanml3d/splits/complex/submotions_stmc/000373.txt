@@ -1,0 +1,3 @@
+A person stands without moving. # 0 # 2 # legs
+A person raises their right arm. # 2 # 4 # right arm
+A person moves their right arm across their body. # 4 # 6.51 # right arm

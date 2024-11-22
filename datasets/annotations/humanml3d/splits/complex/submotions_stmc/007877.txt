@@ -1,0 +1,2 @@
+A person steps forward to hit a ball with their right arm. # 0 # 5 # right arm # legs
+A person swings their right arm back after hitting the ball. # 5 # 10.0 # right arm

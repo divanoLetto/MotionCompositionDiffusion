@@ -1,0 +1,2 @@
+A person steps forward with their legs.  # 0 # 4 # legs
+A person moves their right arm gracefully.  # 4 # 10.0 # right arm

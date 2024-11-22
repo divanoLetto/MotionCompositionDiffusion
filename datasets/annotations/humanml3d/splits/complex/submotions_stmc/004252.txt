@@ -1,0 +1,2 @@
+A person is swaying their hips from side to side. # 0 # 3 # spine # legs
+A person is moving their right arm. # 3 # 3.608 # right arm

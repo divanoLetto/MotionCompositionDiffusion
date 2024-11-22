@@ -1,0 +1,2 @@
+A person is swinging their arms. # 0 # 6.375 # spine
+A person kicks with their left leg. # 0 # 6 # spine

@@ -1,0 +1,3 @@
+a person kneeling on the ground gets up. # 0 # 3.67 # spine
+a person uses their right knee to get up from the floor. # 0 # 3.67 # spine
+a person uses their right arm to get up from a kneeling position # 0 # 3.67 # spine

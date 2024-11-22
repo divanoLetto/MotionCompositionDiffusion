@@ -1,0 +1,2 @@
+A person raises both arms out to the sides. # 0 # 2 # spine
+A person walks forward with both arms spread out. # 0 # 2.75 # spine

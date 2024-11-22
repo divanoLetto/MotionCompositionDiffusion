@@ -1,0 +1,2 @@
+A person walks forward while raising both hands. # 0 # 3 # legs # right arm # left arm
+A person throws a right punch. # 3 # 4.6 # right arm

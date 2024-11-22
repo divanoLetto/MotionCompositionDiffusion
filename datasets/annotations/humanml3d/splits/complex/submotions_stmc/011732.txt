@@ -1,0 +1,2 @@
+A person runs backwards.  # 0 # 3 # legs
+A person runs forwards.  # 3 # 7.4 # legs

@@ -1,0 +1,2 @@
+A person raises their right arm to bring their elbow towards their head.  # 0 # 2 # spine
+A person brings their head towards their right elbow.  # 2 # 3.508 # spine

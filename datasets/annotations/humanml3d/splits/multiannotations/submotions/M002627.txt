@@ -1,0 +1,3 @@
+a person dancing, starting in a t pose, the. turns, continues to dance and finishes with another turn # 0 # 10 # spine
+a person brings their left arm and leg across their body, extends them and then swings them back to the right and twirls around on their right foot. # 0 # 10 # spine
+a person is doing a dance. # 0 # 10 # spine

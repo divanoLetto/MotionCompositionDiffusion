@@ -1,0 +1,3 @@
+a man repeatedly uses his left arm to reach for something slightly in front of him, back again, then looks to be stirring something. # 0 # 10 # spine
+the person is making dough. # 0 # 10 # spine
+a man appears to be mixing something. # 0 # 10 # spine

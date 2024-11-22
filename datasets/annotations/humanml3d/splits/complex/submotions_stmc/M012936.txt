@@ -1,0 +1,2 @@
+a person puts their hands to their armpits and wiggles their elbows # 0 # 3 # left arm # right arm
+a person bends forward at the waist while both hands are tucked inside their armpits and elbows move up and down # 3 # 3.767 # left arm # right arm # spine

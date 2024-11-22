@@ -1,0 +1,3 @@
+a man walks forward and picks up an object with his right hand, then puts the object back down and steps backward. # 0 # 5.07 # spine
+personal will forward pick something up and sat it on something. # 0 # 5.07 # spine
+a person steps forward, bends down slightly, uses right hand to pick an item and drop it to its left, and steps backward to original position. # 0 # 5.07 # spine

@@ -1,0 +1,2 @@
+A person is laying face down. # 0 # 10.0 # spine # legs # head
+A person moves their hands forward. # 2 # 10.0 # right arm # left arm

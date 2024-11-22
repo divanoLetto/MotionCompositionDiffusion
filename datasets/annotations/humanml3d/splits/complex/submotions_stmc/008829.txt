@@ -1,0 +1,2 @@
+a person crouches down and walks forward. # 0 # 6 # legs
+the person is crouched down with their arms in front. # 6 # 10.0 # spine # left arm # right arm

@@ -1,0 +1,6464 @@
+{
+    "00009": {
+        "path": "KIT/4/WalkingStraightForward09_poses",
+        "duration": 6.3,
+        "annotations": [
+            {
+                "seg_id": "00009_0",
+                "text": "A person stands, then walks a few steps, then stops again",
+                "start": 0.0,
+                "end": 6.3
+            },
+            {
+                "seg_id": "00009_1",
+                "text": "Someone is walking forward slowly doing 4 steps starting with the left leg.",
+                "start": 0.0,
+                "end": 6.3
+            },
+            {
+                "seg_id": "00009_2",
+                "text": "A person makes 4 steps forward slowly.",
+                "start": 0.0,
+                "end": 6.3
+            }
+        ]
+    },
+    "00032": {
+        "path": "KIT/4/WalkInClockwiseCircle05_poses",
+        "duration": 7.74,
+        "annotations": [
+            {
+                "seg_id": "00032_0",
+                "text": "A person walks in a circle clockwise.",
+                "start": 0.0,
+                "end": 7.74
+            },
+            {
+                "seg_id": "00032_1",
+                "text": "A person walks in a circle and looks facing down.",
+                "start": 0.0,
+                "end": 7.74
+            },
+            {
+                "seg_id": "00032_2",
+                "text": "A person walks a circle in the right direction",
+                "start": 0.0,
+                "end": 7.74
+            },
+            {
+                "seg_id": "00032_3",
+                "text": "The human walks a circle (right turn)",
+                "start": 0.0,
+                "end": 7.74
+            }
+        ]
+    },
+    "00034": {
+        "path": "KIT/4/WalkInClockwiseCircle07_poses",
+        "duration": 8.06,
+        "annotations": [
+            {
+                "seg_id": "00034_0",
+                "text": "A human walking in a circle clockwise",
+                "start": 0.0,
+                "end": 8.06
+            },
+            {
+                "seg_id": "00034_1",
+                "text": "A person walks in a little circle.",
+                "start": 0.0,
+                "end": 8.06
+            }
+        ]
+    },
+    "00037": {
+        "path": "KIT/4/WalkInClockwiseCircle10_poses",
+        "duration": 7.78,
+        "annotations": [
+            {
+                "seg_id": "00037_0",
+                "text": "A person walks a circle clockwise.",
+                "start": 0.0,
+                "end": 7.78
+            },
+            {
+                "seg_id": "00037_1",
+                "text": "A perons walks a circle clockwise",
+                "start": 0.0,
+                "end": 7.78
+            },
+            {
+                "seg_id": "00037_2",
+                "text": "a man walks in circle",
+                "start": 0.0,
+                "end": 7.78
+            }
+        ]
+    },
+    "00068": {
+        "path": "KIT/6/WalkInClockwiseCircle01_1_poses",
+        "duration": 7.06,
+        "annotations": [
+            {
+                "seg_id": "00068_0",
+                "text": "Someone walks a right circle.",
+                "start": 0.0,
+                "end": 7.06
+            }
+        ]
+    },
+    "00072": {
+        "path": "KIT/6/WalkInClockwiseCircle05_1_poses",
+        "duration": 7.34,
+        "annotations": [
+            {
+                "seg_id": "00072_0",
+                "text": "A person walks in a circle.",
+                "start": 0.0,
+                "end": 7.34
+            }
+        ]
+    },
+    "00076": {
+        "path": "KIT/6/WalkInClockwiseCircle09_poses",
+        "duration": 7.04,
+        "annotations": [
+            {
+                "seg_id": "00076_0",
+                "text": "A person walking in a circle to the right.",
+                "start": 0.0,
+                "end": 7.04
+            }
+        ]
+    },
+    "00078": {
+        "path": "KIT/6/LeftTurn01_1_poses",
+        "duration": 6.11,
+        "annotations": [
+            {
+                "seg_id": "00078_0",
+                "text": "Subject walks in a quarter circle counterclockwise.",
+                "start": 0.0,
+                "end": 6.11
+            },
+            {
+                "seg_id": "00078_1",
+                "text": "A person walks a quarter, left-sided circle",
+                "start": 0.0,
+                "end": 6.11
+            }
+        ]
+    },
+    "00087": {
+        "path": "KIT/6/LeftTurn10_1_poses",
+        "duration": 5.0,
+        "annotations": [
+            {
+                "seg_id": "00087_0",
+                "text": "A person walks towards the left.",
+                "start": 0.0,
+                "end": 5.0
+            },
+            {
+                "seg_id": "00087_1",
+                "text": "human goes in a quater circle counterclockwise starting with left",
+                "start": 0.0,
+                "end": 5.0
+            },
+            {
+                "seg_id": "00087_2",
+                "text": "A person walking a left turn",
+                "start": 0.0,
+                "end": 5.0
+            }
+        ]
+    },
+    "00089": {
+        "path": "KIT/6/RightTurn02_1_poses",
+        "duration": 5.04,
+        "annotations": [
+            {
+                "seg_id": "00089_0",
+                "text": "A human walks a quarter of a circle to the right.",
+                "start": 0.0,
+                "end": 5.04
+            }
+        ]
+    },
+    "00099": {
+        "path": "KIT/7/WalkingStraightForwards02_poses",
+        "duration": 5.23,
+        "annotations": [
+            {
+                "seg_id": "00099_0",
+                "text": "a person walk 5 steps forward",
+                "start": 0.0,
+                "end": 5.23
+            },
+            {
+                "seg_id": "00099_1",
+                "text": "A human is slowly moving forward",
+                "start": 0.0,
+                "end": 5.23
+            },
+            {
+                "seg_id": "00099_2",
+                "text": "A person takes 4 steps forward.",
+                "start": 0.0,
+                "end": 5.23
+            },
+            {
+                "seg_id": "00099_3",
+                "text": "A person takes 4 forward steps.",
+                "start": 0.0,
+                "end": 5.23
+            }
+        ]
+    },
+    "00121": {
+        "path": "KIT/7/WalkInCounterClockwiseCircle04_poses",
+        "duration": 7.22,
+        "annotations": [
+            {
+                "seg_id": "00121_0",
+                "text": "A person walks counter-clockwise in an incomplete circle and stops facing to the right relative to the starting position.",
+                "start": 0.0,
+                "end": 7.22
+            },
+            {
+                "seg_id": "00121_1",
+                "text": "The human walks a circle",
+                "start": 0.0,
+                "end": 7.22
+            }
+        ]
+    },
+    "00132": {
+        "path": "KIT/7/WalkInClockwiseCircle05_poses",
+        "duration": 7.47,
+        "annotations": [
+            {
+                "seg_id": "00132_0",
+                "text": "Person walking in a circle",
+                "start": 0.0,
+                "end": 7.47
+            },
+            {
+                "seg_id": "00132_1",
+                "text": "Someone walks in a clockwise circle",
+                "start": 0.0,
+                "end": 7.47
+            }
+        ]
+    },
+    "00143": {
+        "path": "KIT/7/LeftTurn06_poses",
+        "duration": 5.35,
+        "annotations": [
+            {
+                "seg_id": "00143_0",
+                "text": "A person turns 90 degree to the left at medium speed.",
+                "start": 0.0,
+                "end": 5.35
+            }
+        ]
+    },
+    "00151": {
+        "path": "KIT/7/RightTurn04_poses",
+        "duration": 5.44,
+        "annotations": [
+            {
+                "seg_id": "00151_0",
+                "text": "A person is turning right.",
+                "start": 0.0,
+                "end": 5.44
+            },
+            {
+                "seg_id": "00151_1",
+                "text": "A human is walking in a quarter of a circle to the right.",
+                "start": 0.0,
+                "end": 5.44
+            },
+            {
+                "seg_id": "00151_2",
+                "text": "A human is performing a 90 degree right curve",
+                "start": 0.0,
+                "end": 5.44
+            }
+        ]
+    },
+    "00159": {
+        "path": "KIT/8/WalkingStraightForwards02_poses",
+        "duration": 5.54,
+        "annotations": [
+            {
+                "seg_id": "00159_0",
+                "text": "a person is walking slowly and stops",
+                "start": 0.0,
+                "end": 5.54
+            },
+            {
+                "seg_id": "00159_1",
+                "text": "a person walks forward",
+                "start": 0.0,
+                "end": 5.54
+            }
+        ]
+    },
+    "00184": {
+        "path": "KIT/8/WalkInCounterClockwiseCircle07_poses",
+        "duration": 7.89,
+        "annotations": [
+            {
+                "seg_id": "00184_0",
+                "text": "A person walks slowly in a counterclockwise small circle.",
+                "start": 0.0,
+                "end": 7.89
+            }
+        ]
+    },
+    "00193": {
+        "path": "KIT/8/WalkInClockwiseCircle06_poses",
+        "duration": 7.66,
+        "annotations": [
+            {
+                "seg_id": "00193_0",
+                "text": "A person walks in a circle clockwise.",
+                "start": 0.0,
+                "end": 7.66
+            }
+        ]
+    },
+    "00206": {
+        "path": "KIT/8/RightTurn09_poses",
+        "duration": 5.82,
+        "annotations": [
+            {
+                "seg_id": "00206_0",
+                "text": "A human is making a clockwise turn.",
+                "start": 0.0,
+                "end": 5.82
+            },
+            {
+                "seg_id": "00206_1",
+                "text": "A Person is walking a quarter circle in clockwise direction.",
+                "start": 0.0,
+                "end": 5.82
+            }
+        ]
+    },
+    "00231": {
+        "path": "KIT/9/WalkInCounterClockwiseCircle05_poses",
+        "duration": 8.33,
+        "annotations": [
+            {
+                "seg_id": "00231_0",
+                "text": "A person walks counter-clockwise in a circle.",
+                "start": 0.0,
+                "end": 8.33
+            },
+            {
+                "seg_id": "00231_1",
+                "text": "A person walks in a circle.",
+                "start": 0.0,
+                "end": 8.33
+            },
+            {
+                "seg_id": "00231_2",
+                "text": "Somebody walks a circle anticlockwise.",
+                "start": 0.0,
+                "end": 8.33
+            }
+        ]
+    },
+    "00238": {
+        "path": "KIT/9/WalkInClockwiseCircle02_poses",
+        "duration": 8.27,
+        "annotations": [
+            {
+                "seg_id": "00238_0",
+                "text": "Subject walks in a circle clockwise.",
+                "start": 0.0,
+                "end": 8.27
+            }
+        ]
+    },
+    "00245": {
+        "path": "KIT/9/WalkInClockwiseCircle09_poses",
+        "duration": 7.82,
+        "annotations": [
+            {
+                "seg_id": "00245_0",
+                "text": "A person walks in a clockwise circle.",
+                "start": 0.0,
+                "end": 7.82
+            },
+            {
+                "seg_id": "00245_1",
+                "text": "A person walks in a little circle.",
+                "start": 0.0,
+                "end": 7.82
+            },
+            {
+                "seg_id": "00245_2",
+                "text": "A person walks forward in a circle clockwise.",
+                "start": 0.0,
+                "end": 7.82
+            }
+        ]
+    },
+    "00303": {
+        "path": "KIT/10/LeftTurn07_poses",
+        "duration": 3.96,
+        "annotations": [
+            {
+                "seg_id": "00303_0",
+                "text": "A person walking in a quarter circle to the left.",
+                "start": 0.0,
+                "end": 3.96
+            }
+        ]
+    },
+    "00365": {
+        "path": "KIT/11/LeftTurn09_poses",
+        "duration": 3.51,
+        "annotations": [
+            {
+                "seg_id": "00365_0",
+                "text": "human goes in a quarter circle counterclockwise starting with left",
+                "start": 0.0,
+                "end": 3.51
+            }
+        ]
+    },
+    "00371": {
+        "path": "KIT/11/RightTurn06_poses",
+        "duration": 5.01,
+        "annotations": [
+            {
+                "seg_id": "00371_0",
+                "text": "A person walks a quarter circle clockwise with 4 steps.",
+                "start": 0.0,
+                "end": 5.01
+            }
+        ]
+    },
+    "00372": {
+        "path": "KIT/11/RightTurn07_poses",
+        "duration": 5.81,
+        "annotations": [
+            {
+                "seg_id": "00372_0",
+                "text": "A person walks while gradually turning to the right.",
+                "start": 0.0,
+                "end": 5.81
+            },
+            {
+                "seg_id": "00372_1",
+                "text": "A person turns right.",
+                "start": 0.0,
+                "end": 5.81
+            },
+            {
+                "seg_id": "00372_2",
+                "text": "a person walks to the right 90 degrees",
+                "start": 0.0,
+                "end": 5.81
+            }
+        ]
+    },
+    "00380": {
+        "path": "KIT/12/WalkingStraightForwards06_1_poses",
+        "duration": 5.59,
+        "annotations": [
+            {
+                "seg_id": "00380_0",
+                "text": "A person walks forward",
+                "start": 0.0,
+                "end": 5.59
+            }
+        ]
+    },
+    "00384": {
+        "path": "KIT/12/WalkingStraightForwards10_poses",
+        "duration": 5.57,
+        "annotations": [
+            {
+                "seg_id": "00384_0",
+                "text": "a person walks forward",
+                "start": 0.0,
+                "end": 5.57
+            },
+            {
+                "seg_id": "00384_1",
+                "text": "A person walks 4 steps forward in a straight line.",
+                "start": 0.0,
+                "end": 5.57
+            },
+            {
+                "seg_id": "00384_2",
+                "text": "A person walkes forward.",
+                "start": 0.0,
+                "end": 5.57
+            }
+        ]
+    },
+    "00386": {
+        "path": "KIT/12/WalkingStraightBackwards02_poses",
+        "duration": 5.78,
+        "annotations": [
+            {
+                "seg_id": "00386_0",
+                "text": "Person walks backward.",
+                "start": 0.0,
+                "end": 5.78
+            },
+            {
+                "seg_id": "00386_1",
+                "text": "A human walks 4 steps backwards on a line.",
+                "start": 0.0,
+                "end": 5.78
+            },
+            {
+                "seg_id": "00386_2",
+                "text": "a human is walking backwards",
+                "start": 0.0,
+                "end": 5.78
+            }
+        ]
+    },
+    "00399": {
+        "path": "KIT/12/WalkInCounterClockwiseCircle06_poses",
+        "duration": 7.32,
+        "annotations": [
+            {
+                "seg_id": "00399_0",
+                "text": "A human walking in a circle counter clockwise",
+                "start": 0.0,
+                "end": 7.32
+            },
+            {
+                "seg_id": "00399_1",
+                "text": "A human walks three quarter of a circle to its left.",
+                "start": 0.0,
+                "end": 7.32
+            }
+        ]
+    },
+    "00403": {
+        "path": "KIT/12/WalkInClockwiseCircle01_poses",
+        "duration": 5.66,
+        "annotations": [
+            {
+                "seg_id": "00403_0",
+                "text": "A human walks around in a clockwise circle.",
+                "start": 0.0,
+                "end": 5.66
+            },
+            {
+                "seg_id": "00403_1",
+                "text": "Someone walks in a circle clockwise",
+                "start": 0.0,
+                "end": 5.66
+            },
+            {
+                "seg_id": "00403_2",
+                "text": "Someone is walking in a circle clockwise.",
+                "start": 0.0,
+                "end": 5.66
+            },
+            {
+                "seg_id": "00403_3",
+                "text": "a person walks in a circle",
+                "start": 0.0,
+                "end": 5.66
+            }
+        ]
+    },
+    "00414": {
+        "path": "KIT/12/RightTurn01_poses",
+        "duration": 4.33,
+        "annotations": [
+            {
+                "seg_id": "00414_0",
+                "text": "A person is turning right.",
+                "start": 0.0,
+                "end": 4.33
+            },
+            {
+                "seg_id": "00414_1",
+                "text": "a person walks to the right performing a quarter circle",
+                "start": 0.0,
+                "end": 4.33
+            }
+        ]
+    },
+    "00425": {
+        "path": "KIT/167/walking_slow02_poses",
+        "duration": 7.54,
+        "annotations": [
+            {
+                "seg_id": "00425_0",
+                "text": "A person walks forwards slowly",
+                "start": 0.0,
+                "end": 7.54
+            }
+        ]
+    },
+    "00443": {
+        "path": "KIT/167/walking_medium09_poses",
+        "duration": 4.91,
+        "annotations": [
+            {
+                "seg_id": "00443_0",
+                "text": "a person walks a few steps",
+                "start": 0.0,
+                "end": 4.91
+            },
+            {
+                "seg_id": "00443_1",
+                "text": "a person walks forwards quite easy",
+                "start": 0.0,
+                "end": 4.91
+            }
+        ]
+    },
+    "00450": {
+        "path": "KIT/167/walking_run06_poses",
+        "duration": 4.36,
+        "annotations": [
+            {
+                "seg_id": "00450_0",
+                "text": "A person is doing a short sprint",
+                "start": 0.0,
+                "end": 4.36
+            },
+            {
+                "seg_id": "00450_1",
+                "text": "A person joggs forward.",
+                "start": 0.0,
+                "end": 4.36
+            },
+            {
+                "seg_id": "00450_2",
+                "text": "A person is jogging and stops.",
+                "start": 0.0,
+                "end": 4.36
+            }
+        ]
+    },
+    "00464": {
+        "path": "KIT/167/bend_right10_poses",
+        "duration": 5.56,
+        "annotations": [
+            {
+                "seg_id": "00464_0",
+                "text": "Person walking to the right",
+                "start": 0.0,
+                "end": 5.56
+            },
+            {
+                "seg_id": "00464_1",
+                "text": "A person turns to the right.",
+                "start": 0.0,
+                "end": 5.56
+            },
+            {
+                "seg_id": "00464_2",
+                "text": "A person walks forward in a 90 degree curve.",
+                "start": 0.0,
+                "end": 5.56
+            },
+            {
+                "seg_id": "00464_3",
+                "text": "A person turns to the right.",
+                "start": 0.0,
+                "end": 5.56
+            }
+        ]
+    },
+    "00477": {
+        "path": "KIT/167/turn_left03_poses",
+        "duration": 6.06,
+        "annotations": [
+            {
+                "seg_id": "00477_0",
+                "text": "A person walking forwards, turning on the left foot and then walking back again",
+                "start": 0.0,
+                "end": 6.06
+            }
+        ]
+    },
+    "00480": {
+        "path": "KIT/167/turn_left06_poses",
+        "duration": 6.13,
+        "annotations": [
+            {
+                "seg_id": "00480_0",
+                "text": "human goes forwards starting by right, turns around partway, and goes back to the starting position",
+                "start": 0.0,
+                "end": 6.13
+            },
+            {
+                "seg_id": "00480_1",
+                "text": "a person walks forward takes a 180 degree turn and walks some more steps",
+                "start": 0.0,
+                "end": 6.13
+            }
+        ]
+    },
+    "00481": {
+        "path": "KIT/167/turn_left07_poses",
+        "duration": 6.32,
+        "annotations": [
+            {
+                "seg_id": "00481_0",
+                "text": "A person walks 2 steps forward, turns 180 degrees on the left foot and walks again 2 steps forward.",
+                "start": 0.0,
+                "end": 6.32
+            }
+        ]
+    },
+    "00514": {
+        "path": "KIT/183/bend_right01_poses",
+        "duration": 4.83,
+        "annotations": [
+            {
+                "seg_id": "00514_0",
+                "text": "A person turns 90 degree to the right at medium speed.",
+                "start": 0.0,
+                "end": 4.83
+            }
+        ]
+    },
+    "00526": {
+        "path": "KIT/183/walking_medium03_poses",
+        "duration": 4.66,
+        "annotations": [
+            {
+                "seg_id": "00526_0",
+                "text": "A person walking slowly forwards.",
+                "start": 0.0,
+                "end": 4.66
+            },
+            {
+                "seg_id": "00526_1",
+                "text": "A person walks 4 steps forward.",
+                "start": 0.0,
+                "end": 4.66
+            }
+        ]
+    },
+    "00600": {
+        "path": "KIT/200/RadSchlagen02_poses",
+        "duration": 3.61,
+        "annotations": [
+            {
+                "seg_id": "00600_0",
+                "text": "A human performing a handspring",
+                "start": 0.0,
+                "end": 3.61
+            },
+            {
+                "seg_id": "00600_1",
+                "text": "A person turns a wheel.",
+                "start": 0.0,
+                "end": 3.61
+            },
+            {
+                "seg_id": "00600_2",
+                "text": "cartwheel starting with left leg",
+                "start": 0.0,
+                "end": 3.61
+            },
+            {
+                "seg_id": "00600_3",
+                "text": "A human does a cartwheel",
+                "start": 0.0,
+                "end": 3.61
+            },
+            {
+                "seg_id": "00600_4",
+                "text": "A person turns a cartwheel.",
+                "start": 0.0,
+                "end": 3.61
+            },
+            {
+                "seg_id": "00600_5",
+                "text": "a person does a cartwheel",
+                "start": 0.0,
+                "end": 3.61
+            },
+            {
+                "seg_id": "00600_6",
+                "text": "A human does a cartwheel",
+                "start": 0.0,
+                "end": 3.61
+            },
+            {
+                "seg_id": "00600_7",
+                "text": "Somebody turns a wheel.",
+                "start": 0.0,
+                "end": 3.61
+            }
+        ]
+    },
+    "00603": {
+        "path": "KIT/200/Handstand02_poses",
+        "duration": 6.69,
+        "annotations": [
+            {
+                "seg_id": "00603_0",
+                "text": "A person doing a handstand",
+                "start": 0.0,
+                "end": 6.69
+            }
+        ]
+    },
+    "00615": {
+        "path": "KIT/205/walking_slow03_poses",
+        "duration": 6.19,
+        "annotations": [
+            {
+                "seg_id": "00615_0",
+                "text": "Lookig at his feet, a human goes circa 1.5 meters forward.",
+                "start": 0.0,
+                "end": 6.19
+            },
+            {
+                "seg_id": "00615_1",
+                "text": "A person is walking slowly",
+                "start": 0.0,
+                "end": 6.19
+            },
+            {
+                "seg_id": "00615_2",
+                "text": "A person is slowly walking forward.",
+                "start": 0.0,
+                "end": 6.19
+            },
+            {
+                "seg_id": "00615_3",
+                "text": "A person walks very slowly.",
+                "start": 0.0,
+                "end": 6.19
+            },
+            {
+                "seg_id": "00615_4",
+                "text": "Somebody walks slowly.",
+                "start": 0.0,
+                "end": 6.19
+            }
+        ]
+    },
+    "00627": {
+        "path": "KIT/205/walking_medium05_poses",
+        "duration": 4.39,
+        "annotations": [
+            {
+                "seg_id": "00627_0",
+                "text": "A person walks forward fast.",
+                "start": 0.0,
+                "end": 4.39
+            }
+        ]
+    },
+    "00629": {
+        "path": "KIT/205/walking_medium07_poses",
+        "duration": 4.07,
+        "annotations": [
+            {
+                "seg_id": "00629_0",
+                "text": "a person walks a few steps forward",
+                "start": 0.0,
+                "end": 4.07
+            }
+        ]
+    },
+    "00648": {
+        "path": "KIT/205/turn_left06_poses",
+        "duration": 5.92,
+        "annotations": [
+            {
+                "seg_id": "00648_0",
+                "text": "The subject ist starting with his right leg, does two steps, turns around and walks two steps back.",
+                "start": 0.0,
+                "end": 5.92
+            },
+            {
+                "seg_id": "00648_1",
+                "text": "A person walks 2 steps forward, turns on left foot 180 degrees and walks again two steps to the start position.",
+                "start": 0.0,
+                "end": 5.92
+            },
+            {
+                "seg_id": "00648_2",
+                "text": "A human goes 2 steps forward, then turns away anticlockwise and goes back.",
+                "start": 0.0,
+                "end": 5.92
+            },
+            {
+                "seg_id": "00648_3",
+                "text": "A person takes two steps forwards, turn around 180 degree and goes back to the start position.",
+                "start": 0.0,
+                "end": 5.92
+            }
+        ]
+    },
+    "00650": {
+        "path": "KIT/291/jumping_jack01_poses",
+        "duration": 3.16,
+        "annotations": [
+            {
+                "seg_id": "00650_0",
+                "text": "A person raises both arms like jumping jack.",
+                "start": 0.0,
+                "end": 3.16
+            },
+            {
+                "seg_id": "00650_1",
+                "text": "someone lifts his arm over his head.",
+                "start": 0.0,
+                "end": 3.16
+            },
+            {
+                "seg_id": "00650_2",
+                "text": "Somebody raises his hands in form of a circle",
+                "start": 0.0,
+                "end": 3.16
+            }
+        ]
+    },
+    "00688": {
+        "path": "KIT/291/walking02_poses",
+        "duration": 8.19,
+        "annotations": [
+            {
+                "seg_id": "00688_0",
+                "text": "a human walks slowly",
+                "start": 0.0,
+                "end": 8.19
+            }
+        ]
+    },
+    "00692": {
+        "path": "KIT/314/walking_fast02_poses",
+        "duration": 6.95,
+        "annotations": [
+            {
+                "seg_id": "00692_0",
+                "text": "A persons walks fast straightforward",
+                "start": 0.0,
+                "end": 6.95
+            },
+            {
+                "seg_id": "00692_1",
+                "text": "A person is walking forward.",
+                "start": 0.0,
+                "end": 6.95
+            },
+            {
+                "seg_id": "00692_2",
+                "text": "A person walks fast.",
+                "start": 0.0,
+                "end": 6.95
+            },
+            {
+                "seg_id": "00692_3",
+                "text": "a person walks forward a few steps",
+                "start": 0.0,
+                "end": 6.95
+            }
+        ]
+    },
+    "00696": {
+        "path": "KIT/314/walking_fast06_poses",
+        "duration": 4.53,
+        "annotations": [
+            {
+                "seg_id": "00696_0",
+                "text": "A human walks four steps.",
+                "start": 0.0,
+                "end": 4.53
+            }
+        ]
+    },
+    "00712": {
+        "path": "KIT/291/nordic_walking03_poses",
+        "duration": 8.41,
+        "annotations": [
+            {
+                "seg_id": "00712_0",
+                "text": "A person makes six steps forward while swinging both arms forward and up.",
+                "start": 0.0,
+                "end": 8.41
+            },
+            {
+                "seg_id": "00712_1",
+                "text": "A person walks with nordic walking sticks in his hands.",
+                "start": 0.0,
+                "end": 8.41
+            },
+            {
+                "seg_id": "00712_2",
+                "text": "A person takes 6 steps, starting with the right foot and swings the bent arms while walking.",
+                "start": 0.0,
+                "end": 8.41
+            },
+            {
+                "seg_id": "00712_3",
+                "text": "Somebody walks slowly with wide arms.",
+                "start": 0.0,
+                "end": 8.41
+            }
+        ]
+    },
+    "00724": {
+        "path": "KIT/314/turn_left01_poses",
+        "duration": 4.75,
+        "annotations": [
+            {
+                "seg_id": "00724_0",
+                "text": "A person walking forwards, then turning on the left foot and walking back again.",
+                "start": 0.0,
+                "end": 4.75
+            }
+        ]
+    },
+    "00731": {
+        "path": "KIT/314/turn_left08_poses",
+        "duration": 4.01,
+        "annotations": [
+            {
+                "seg_id": "00731_0",
+                "text": "A person walks 2 steps forward, turns 180 degrees on the right foot and walks again 2 steps forward.",
+                "start": 0.0,
+                "end": 4.01
+            }
+        ]
+    },
+    "00738": {
+        "path": "KIT/314/bend_right05_poses",
+        "duration": 4.9,
+        "annotations": [
+            {
+                "seg_id": "00738_0",
+                "text": "A person goes to the left making four and a half steps.",
+                "start": 0.0,
+                "end": 4.9
+            },
+            {
+                "seg_id": "00738_1",
+                "text": "A person walking a left curve",
+                "start": 0.0,
+                "end": 4.9
+            },
+            {
+                "seg_id": "00738_2",
+                "text": "some one turns a corner.",
+                "start": 0.0,
+                "end": 4.9
+            }
+        ]
+    },
+    "00739": {
+        "path": "KIT/314/bend_right06_poses",
+        "duration": 4.19,
+        "annotations": [
+            {
+                "seg_id": "00739_0",
+                "text": "A person turns 90 degree to the left with medium speed.",
+                "start": 0.0,
+                "end": 4.19
+            }
+        ]
+    },
+    "00773": {
+        "path": "KIT/317/walking_fast05_poses",
+        "duration": 3.17,
+        "annotations": [
+            {
+                "seg_id": "00773_0",
+                "text": "A person walking forwards for a few steps",
+                "start": 0.0,
+                "end": 3.17
+            },
+            {
+                "seg_id": "00773_1",
+                "text": "a person walks some meters straight forward",
+                "start": 0.0,
+                "end": 3.17
+            }
+        ]
+    },
+    "00792": {
+        "path": "KIT/317/bend_left04_poses",
+        "duration": 4.39,
+        "annotations": [
+            {
+                "seg_id": "00792_0",
+                "text": "A person walks a ninety degree curve to the left.",
+                "start": 0.0,
+                "end": 4.39
+            }
+        ]
+    },
+    "00801": {
+        "path": "KIT/317/bend_right03_poses",
+        "duration": 3.75,
+        "annotations": [
+            {
+                "seg_id": "00801_0",
+                "text": "A human turning right",
+                "start": 0.0,
+                "end": 3.75
+            }
+        ]
+    },
+    "00804": {
+        "path": "KIT/317/bend_right06_poses",
+        "duration": 4.29,
+        "annotations": [
+            {
+                "seg_id": "00804_0",
+                "text": "the person is first walking ahead and then turning to the right",
+                "start": 0.0,
+                "end": 4.29
+            },
+            {
+                "seg_id": "00804_1",
+                "text": "A person walks to the right",
+                "start": 0.0,
+                "end": 4.29
+            }
+        ]
+    },
+    "00846": {
+        "path": "KIT/348/walking_slow09_poses",
+        "duration": 6.2,
+        "annotations": [
+            {
+                "seg_id": "00846_0",
+                "text": "A human takes four slow steps forward",
+                "start": 0.0,
+                "end": 6.2
+            },
+            {
+                "seg_id": "00846_1",
+                "text": "A person is walking slowly forward",
+                "start": 0.0,
+                "end": 6.2
+            }
+        ]
+    },
+    "00852": {
+        "path": "KIT/183/walking_fast05_poses",
+        "duration": 5.1,
+        "annotations": [
+            {
+                "seg_id": "00852_0",
+                "text": "A person walks fast 4 steps.",
+                "start": 0.0,
+                "end": 5.1
+            },
+            {
+                "seg_id": "00852_1",
+                "text": "Somebody stops suddenly.",
+                "start": 0.0,
+                "end": 5.1
+            }
+        ]
+    },
+    "00883": {
+        "path": "KIT/183/turn_left06_poses",
+        "duration": 4.69,
+        "annotations": [
+            {
+                "seg_id": "00883_0",
+                "text": "A person steps forward then turns around and steps forwards again.",
+                "start": 0.0,
+                "end": 4.69
+            },
+            {
+                "seg_id": "00883_1",
+                "text": "a person walks some steps then turns 180 degrees to the left and keeps walking",
+                "start": 0.0,
+                "end": 4.69
+            },
+            {
+                "seg_id": "00883_2",
+                "text": "A person turns 180 degrees on his left foot.",
+                "start": 0.0,
+                "end": 4.69
+            }
+        ]
+    },
+    "00885": {
+        "path": "KIT/183/turn_left08_poses",
+        "duration": 5.01,
+        "annotations": [
+            {
+                "seg_id": "00885_0",
+                "text": "A person walks forward, turns around on the spot and walks back",
+                "start": 0.0,
+                "end": 5.01
+            },
+            {
+                "seg_id": "00885_1",
+                "text": "human goes forward, turns around partway, and goes back to the starting point",
+                "start": 0.0,
+                "end": 5.01
+            },
+            {
+                "seg_id": "00885_2",
+                "text": "a person walks forwards a few step the turn 180 degrees to the left and keeps walking",
+                "start": 0.0,
+                "end": 5.01
+            }
+        ]
+    },
+    "00897": {
+        "path": "KIT/359/walking_slow10_poses",
+        "duration": 7.07,
+        "annotations": [
+            {
+                "seg_id": "00897_0",
+                "text": "A person walks forward.",
+                "start": 0.0,
+                "end": 7.07
+            }
+        ]
+    },
+    "00916": {
+        "path": "KIT/348/walking_fast09_poses",
+        "duration": 3.33,
+        "annotations": [
+            {
+                "seg_id": "00916_0",
+                "text": "A person walks while accelerating at first and slows down again after a couple of steps",
+                "start": 0.0,
+                "end": 3.33
+            },
+            {
+                "seg_id": "00916_1",
+                "text": "Subject walks forward with fast steps.",
+                "start": 0.0,
+                "end": 3.33
+            },
+            {
+                "seg_id": "00916_2",
+                "text": "A human walks forward a few steps in a fast pace",
+                "start": 0.0,
+                "end": 3.33
+            },
+            {
+                "seg_id": "00916_3",
+                "text": "A person walks straight forward quite fast",
+                "start": 0.0,
+                "end": 3.33
+            },
+            {
+                "seg_id": "00916_4",
+                "text": "a person takes a few fast steps forward",
+                "start": 0.0,
+                "end": 3.33
+            }
+        ]
+    },
+    "00932": {
+        "path": "KIT/348/bend_right06_poses",
+        "duration": 4.5,
+        "annotations": [
+            {
+                "seg_id": "00932_0",
+                "text": "a person walks a quarter of a circle",
+                "start": 0.0,
+                "end": 4.5
+            }
+        ]
+    },
+    "00934": {
+        "path": "KIT/348/bend_right08_poses",
+        "duration": 4.52,
+        "annotations": [
+            {
+                "seg_id": "00934_0",
+                "text": "A person walks clockwise in a circle.",
+                "start": 0.0,
+                "end": 4.52
+            }
+        ]
+    },
+    "00939": {
+        "path": "KIT/348/bend_left03_poses",
+        "duration": 5.48,
+        "annotations": [
+            {
+                "seg_id": "00939_0",
+                "text": "A person walks in a quarter circl.e",
+                "start": 0.0,
+                "end": 5.48
+            }
+        ]
+    },
+    "00953": {
+        "path": "KIT/348/turn_right07_poses",
+        "duration": 6.58,
+        "annotations": [
+            {
+                "seg_id": "00953_0",
+                "text": "A person walks 2 steps forward, turns 180 degrees on the right foot and walks again 2 steps forward.",
+                "start": 0.0,
+                "end": 6.58
+            },
+            {
+                "seg_id": "00953_1",
+                "text": "a person walks forward takes a 180 degree turn to the right and keeps on walking",
+                "start": 0.0,
+                "end": 6.58
+            }
+        ]
+    },
+    "00973": {
+        "path": "KIT/359/walking_fast07_poses",
+        "duration": 4.42,
+        "annotations": [
+            {
+                "seg_id": "00973_0",
+                "text": "A person moves 5 steps straight forward.",
+                "start": 0.0,
+                "end": 4.42
+            },
+            {
+                "seg_id": "00973_1",
+                "text": "Someone is trying to walk fast 4 steps starting with the right leg.",
+                "start": 0.0,
+                "end": 4.42
+            },
+            {
+                "seg_id": "00973_2",
+                "text": "A person runs a few meters forward",
+                "start": 0.0,
+                "end": 4.42
+            }
+        ]
+    },
+    "00974": {
+        "path": "KIT/359/walking_fast09_poses",
+        "duration": 3.92,
+        "annotations": [
+            {
+                "seg_id": "00974_0",
+                "text": "A person is walking forward fast.",
+                "start": 0.0,
+                "end": 3.92
+            }
+        ]
+    },
+    "00978": {
+        "path": "KIT/359/bend_right03_poses",
+        "duration": 4.45,
+        "annotations": [
+            {
+                "seg_id": "00978_0",
+                "text": "A person turns right at medium speed.",
+                "start": 0.0,
+                "end": 4.45
+            }
+        ]
+    },
+    "00980": {
+        "path": "KIT/359/bend_right05_poses",
+        "duration": 4.74,
+        "annotations": [
+            {
+                "seg_id": "00980_0",
+                "text": "A human turning right",
+                "start": 0.0,
+                "end": 4.74
+            },
+            {
+                "seg_id": "00980_1",
+                "text": "a person walks 90 degrees to the right",
+                "start": 0.0,
+                "end": 4.74
+            }
+        ]
+    },
+    "01012": {
+        "path": "KIT/359/turn_left08_poses",
+        "duration": 4.99,
+        "annotations": [
+            {
+                "seg_id": "01012_0",
+                "text": "A person walks 2 steps forward, turns 180 degrees on the left foot and walks again 2 steps forward.",
+                "start": 0.0,
+                "end": 4.99
+            }
+        ]
+    },
+    "01015": {
+        "path": "KIT/291/cal03_poses",
+        "duration": 4.25,
+        "annotations": [
+            {
+                "seg_id": "01015_0",
+                "text": "a person raises both hands above his head, lowers them and takes a step forward",
+                "start": 0.0,
+                "end": 4.25
+            },
+            {
+                "seg_id": "01015_1",
+                "text": "A person claps its hands over its head and then makes a step forward.",
+                "start": 0.0,
+                "end": 4.25
+            }
+        ]
+    },
+    "01028": {
+        "path": "KIT/3/walking_medium03_poses",
+        "duration": 7.57,
+        "annotations": [
+            {
+                "seg_id": "01028_0",
+                "text": "A person stands and begins walking slowly forward to stop again after a few steps.",
+                "start": 0.0,
+                "end": 7.57
+            },
+            {
+                "seg_id": "01028_1",
+                "text": "human slowly goes forward starting with right",
+                "start": 0.0,
+                "end": 7.57
+            },
+            {
+                "seg_id": "01028_2",
+                "text": "A human walks slowly 4 steps forward.",
+                "start": 0.0,
+                "end": 7.57
+            },
+            {
+                "seg_id": "01028_3",
+                "text": "A person is walking.",
+                "start": 0.0,
+                "end": 7.57
+            }
+        ]
+    },
+    "01034": {
+        "path": "KIT/3/walking_medium09_poses",
+        "duration": 6.0,
+        "annotations": [
+            {
+                "seg_id": "01034_0",
+                "text": "A person moves straight forward.",
+                "start": 0.0,
+                "end": 6.0
+            },
+            {
+                "seg_id": "01034_1",
+                "text": "Someone is walking forward 4 steps starting with the right leg.",
+                "start": 0.0,
+                "end": 6.0
+            },
+            {
+                "seg_id": "01034_2",
+                "text": "A person walks 4 steps forward.",
+                "start": 0.0,
+                "end": 6.0
+            },
+            {
+                "seg_id": "01034_3",
+                "text": "A person slowly walks forward.",
+                "start": 0.0,
+                "end": 6.0
+            },
+            {
+                "seg_id": "01034_4",
+                "text": "A person is walking forward",
+                "start": 0.0,
+                "end": 6.0
+            }
+        ]
+    },
+    "01042": {
+        "path": "KIT/3/walking_slow07_poses",
+        "duration": 6.47,
+        "annotations": [
+            {
+                "seg_id": "01042_0",
+                "text": "A person walks straight",
+                "start": 0.0,
+                "end": 6.47
+            },
+            {
+                "seg_id": "01042_1",
+                "text": "Someone walks forward",
+                "start": 0.0,
+                "end": 6.47
+            },
+            {
+                "seg_id": "01042_2",
+                "text": "A person walks slowly forward.",
+                "start": 0.0,
+                "end": 6.47
+            }
+        ]
+    },
+    "01046": {
+        "path": "KIT/3/walking_fast02_poses",
+        "duration": 5.22,
+        "annotations": [
+            {
+                "seg_id": "01046_0",
+                "text": "A stationary human walks 2 meters straight ahead and then stops again.",
+                "start": 0.0,
+                "end": 5.22
+            },
+            {
+                "seg_id": "01046_1",
+                "text": "Someone walks forward",
+                "start": 0.0,
+                "end": 5.22
+            },
+            {
+                "seg_id": "01046_2",
+                "text": "a person walks forward a few steps",
+                "start": 0.0,
+                "end": 5.22
+            }
+        ]
+    },
+    "01066": {
+        "path": "KIT/3/bend_right07_poses",
+        "duration": 4.43,
+        "annotations": [
+            {
+                "seg_id": "01066_0",
+                "text": "A person walks a quarter circle clockwise with 4 steps.",
+                "start": 0.0,
+                "end": 4.43
+            }
+        ]
+    },
+    "01069": {
+        "path": "KIT/3/bend_right10_poses",
+        "duration": 5.51,
+        "annotations": [
+            {
+                "seg_id": "01069_0",
+                "text": "A human walks forwards and slowly turns right, then stops.",
+                "start": 0.0,
+                "end": 5.51
+            },
+            {
+                "seg_id": "01069_1",
+                "text": "The person walks a right bend.",
+                "start": 0.0,
+                "end": 5.51
+            },
+            {
+                "seg_id": "01069_2",
+                "text": "A human is walking a 90 degree right curve",
+                "start": 0.0,
+                "end": 5.51
+            },
+            {
+                "seg_id": "01069_3",
+                "text": "A perso n turns right.",
+                "start": 0.0,
+                "end": 5.51
+            },
+            {
+                "seg_id": "01069_4",
+                "text": "some one turns a lager right corner.",
+                "start": 0.0,
+                "end": 5.51
+            }
+        ]
+    },
+    "01079": {
+        "path": "KIT/3/bend_left10_poses",
+        "duration": 5.32,
+        "annotations": [
+            {
+                "seg_id": "01079_0",
+                "text": "a person walks a 90 degree turn to his left",
+                "start": 0.0,
+                "end": 5.32
+            },
+            {
+                "seg_id": "01079_1",
+                "text": "A human is performing a 90 degree curve to the left",
+                "start": 0.0,
+                "end": 5.32
+            }
+        ]
+    },
+    "01108": {
+        "path": "KIT/359/walking_run01_poses",
+        "duration": 5.52,
+        "annotations": [
+            {
+                "seg_id": "01108_0",
+                "text": "A person is starting to run but stops after a few steps",
+                "start": 0.0,
+                "end": 5.52
+            },
+            {
+                "seg_id": "01108_1",
+                "text": "a persons jogs forward",
+                "start": 0.0,
+                "end": 5.52
+            },
+            {
+                "seg_id": "01108_2",
+                "text": "a human starts running a few steps",
+                "start": 0.0,
+                "end": 5.52
+            }
+        ]
+    },
+    "01119": {
+        "path": "KIT/378/push_recovery_stand_right05_poses",
+        "duration": 4.6,
+        "annotations": [
+            {
+                "seg_id": "01119_0",
+                "text": "A person is pushed back and gains balance again.",
+                "start": 0.0,
+                "end": 4.6
+            },
+            {
+                "seg_id": "01119_1",
+                "text": "A person receives a hard push from the front right and recovers by tumbling backwards.",
+                "start": 0.0,
+                "end": 4.6
+            },
+            {
+                "seg_id": "01119_2",
+                "text": "A person stumbels backwards.",
+                "start": 0.0,
+                "end": 4.6
+            }
+        ]
+    },
+    "01133": {
+        "path": "KIT/421/push_recovery_stand_right09_poses",
+        "duration": 6.51,
+        "annotations": [
+            {
+                "seg_id": "01133_0",
+                "text": "A person makes a big step to the left.",
+                "start": 0.0,
+                "end": 6.51
+            }
+        ]
+    },
+    "01140": {
+        "path": "KIT/424/bend_left06_poses",
+        "duration": 4.35,
+        "annotations": [
+            {
+                "seg_id": "01140_0",
+                "text": "Person is turning left",
+                "start": 0.0,
+                "end": 4.35
+            },
+            {
+                "seg_id": "01140_1",
+                "text": "a person walks to the left performing a 90 degrees turn and walking in a quarter circle",
+                "start": 0.0,
+                "end": 4.35
+            },
+            {
+                "seg_id": "01140_2",
+                "text": "The human perfoms a left turn",
+                "start": 0.0,
+                "end": 4.35
+            },
+            {
+                "seg_id": "01140_3",
+                "text": "a person takes a left turn of 90 degrees",
+                "start": 0.0,
+                "end": 4.35
+            }
+        ]
+    },
+    "01148": {
+        "path": "KIT/424/bend_right04_poses",
+        "duration": 5.39,
+        "annotations": [
+            {
+                "seg_id": "01148_0",
+                "text": "A person turns right with medium speed.",
+                "start": 0.0,
+                "end": 5.39
+            }
+        ]
+    },
+    "01174": {
+        "path": "KIT/424/turn_right10_poses",
+        "duration": 5.8,
+        "annotations": [
+            {
+                "seg_id": "01174_0",
+                "text": "A person walking forwards, then turning on the right foot and walking back again.",
+                "start": 0.0,
+                "end": 5.8
+            }
+        ]
+    },
+    "01263": {
+        "path": "KIT/572/bow_deep02_poses",
+        "duration": 4.01,
+        "annotations": [
+            {
+                "seg_id": "01263_0",
+                "text": "A person does a ninety degree bow",
+                "start": 0.0,
+                "end": 4.01
+            },
+            {
+                "seg_id": "01263_1",
+                "text": "the human takes a bow",
+                "start": 0.0,
+                "end": 4.01
+            },
+            {
+                "seg_id": "01263_2",
+                "text": "A persons bends 90 degree down with a straight back",
+                "start": 0.0,
+                "end": 4.01
+            },
+            {
+                "seg_id": "01263_3",
+                "text": "A person bows.",
+                "start": 0.0,
+                "end": 4.01
+            }
+        ]
+    },
+    "01337": {
+        "path": "KIT/572/jump_right02_poses",
+        "duration": 4.98,
+        "annotations": [
+            {
+                "seg_id": "01337_0",
+                "text": "Someone jumps to the right.",
+                "start": 0.0,
+                "end": 4.98
+            },
+            {
+                "seg_id": "01337_1",
+                "text": "A person jumps approximately 30 cm to the right with both feet.",
+                "start": 0.0,
+                "end": 4.98
+            },
+            {
+                "seg_id": "01337_2",
+                "text": "Someone is doing a sidejump to the right.",
+                "start": 0.0,
+                "end": 4.98
+            },
+            {
+                "seg_id": "01337_3",
+                "text": "A Person is performing a jump with both feet to the right.",
+                "start": 0.0,
+                "end": 4.98
+            },
+            {
+                "seg_id": "01337_4",
+                "text": "A human performs a jump with both feet to its right.",
+                "start": 0.0,
+                "end": 4.98
+            }
+        ]
+    },
+    "01382": {
+        "path": "KIT/572/wave_right12_poses",
+        "duration": 10.68,
+        "annotations": [
+            {
+                "seg_id": "01382_0",
+                "text": "A human subject is waving five times with the right hand.",
+                "start": 0.0,
+                "end": 10.68
+            },
+            {
+                "seg_id": "01382_1",
+                "text": "a person waves with his right hand",
+                "start": 0.0,
+                "end": 10.68
+            }
+        ]
+    },
+    "01383": {
+        "path": "KIT/572/wave_right13_poses",
+        "duration": 9.93,
+        "annotations": [
+            {
+                "seg_id": "01383_0",
+                "text": "A person raises his right arm in front of his face then starts waving.",
+                "start": 0.0,
+                "end": 9.93
+            },
+            {
+                "seg_id": "01383_1",
+                "text": "human performs a waving motion with right hand",
+                "start": 0.0,
+                "end": 9.93
+            },
+            {
+                "seg_id": "01383_2",
+                "text": "a person waves with its right hand",
+                "start": 0.0,
+                "end": 9.93
+            }
+        ]
+    },
+    "01396": {
+        "path": "KIT/572/wave_left11_poses",
+        "duration": 5.72,
+        "annotations": [
+            {
+                "seg_id": "01396_0",
+                "text": "A person waves with the left hand two times.",
+                "start": 0.0,
+                "end": 5.72
+            },
+            {
+                "seg_id": "01396_1",
+                "text": "a person waves with its left hand",
+                "start": 0.0,
+                "end": 5.72
+            }
+        ]
+    },
+    "01520": {
+        "path": "KIT/572/wipe_circular_right10_poses",
+        "duration": 6.25,
+        "annotations": [
+            {
+                "seg_id": "01520_0",
+                "text": "A person wipes clockwise on a flat surface.",
+                "start": 0.0,
+                "end": 6.25
+            }
+        ]
+    },
+    "01525": {
+        "path": "KIT/572/wipe_circular_left05_poses",
+        "duration": 4.96,
+        "annotations": [
+            {
+                "seg_id": "01525_0",
+                "text": "A person makes a single wipe movement with the left arm.",
+                "start": 0.0,
+                "end": 4.96
+            }
+        ]
+    },
+    "01556": {
+        "path": "EKUT/125/SLP302_poses",
+        "duration": 6.94,
+        "annotations": [
+            {
+                "seg_id": "01556_0",
+                "text": "A person is walking slightly slouched while drifting to the right.",
+                "start": 0.0,
+                "end": 6.94
+            },
+            {
+                "seg_id": "01556_1",
+                "text": "human seems to be walking on a beam or something similar",
+                "start": 0.0,
+                "end": 6.94
+            },
+            {
+                "seg_id": "01556_2",
+                "text": "A human is moving up a ramp",
+                "start": 0.0,
+                "end": 6.94
+            },
+            {
+                "seg_id": "01556_3",
+                "text": "A person is walking forward",
+                "start": 0.0,
+                "end": 6.94
+            }
+        ]
+    },
+    "01563": {
+        "path": "EKUT/125/SLPD104_poses",
+        "duration": 6.3,
+        "annotations": [
+            {
+                "seg_id": "01563_0",
+                "text": "A person walks down a slope in the forward direction.",
+                "start": 0.0,
+                "end": 6.3
+            }
+        ]
+    },
+    "01571": {
+        "path": "EKUT/125/SLPD303_poses",
+        "duration": 6.23,
+        "annotations": [
+            {
+                "seg_id": "01571_0",
+                "text": "A person walks forward.",
+                "start": 0.0,
+                "end": 6.23
+            }
+        ]
+    },
+    "01659": {
+        "path": "EKUT/265/WSTR04_poses",
+        "duration": 3.33,
+        "annotations": [
+            {
+                "seg_id": "01659_0",
+                "text": "A person walks forward",
+                "start": 0.0,
+                "end": 3.33
+            },
+            {
+                "seg_id": "01659_1",
+                "text": "human goes forward starting with right",
+                "start": 0.0,
+                "end": 3.33
+            }
+        ]
+    },
+    "01675": {
+        "path": "KIT/425/walking_slow04_poses",
+        "duration": 6.14,
+        "annotations": [
+            {
+                "seg_id": "01675_0",
+                "text": "a person walks four steps forward",
+                "start": 0.0,
+                "end": 6.14
+            },
+            {
+                "seg_id": "01675_1",
+                "text": "A person is walking forward casual.",
+                "start": 0.0,
+                "end": 6.14
+            }
+        ]
+    },
+    "01696": {
+        "path": "KIT/425/walking_fast06_poses",
+        "duration": 4.19,
+        "annotations": [
+            {
+                "seg_id": "01696_0",
+                "text": "A person walking five steps forward",
+                "start": 0.0,
+                "end": 4.19
+            }
+        ]
+    },
+    "01727": {
+        "path": "KIT/291/push_recovery_stand_front09_poses",
+        "duration": 5.01,
+        "annotations": [
+            {
+                "seg_id": "01727_0",
+                "text": "Subject is backing away.",
+                "start": 0.0,
+                "end": 5.01
+            },
+            {
+                "seg_id": "01727_1",
+                "text": "A person walks backwards a few steps",
+                "start": 0.0,
+                "end": 5.01
+            },
+            {
+                "seg_id": "01727_2",
+                "text": "A person is pushed back.",
+                "start": 0.0,
+                "end": 5.01
+            }
+        ]
+    },
+    "01740": {
+        "path": "KIT/291/push_recovery_right02_poses",
+        "duration": 8.01,
+        "annotations": [
+            {
+                "seg_id": "01740_0",
+                "text": "Person walking and stumbling a little bit",
+                "start": 0.0,
+                "end": 8.01
+            },
+            {
+                "seg_id": "01740_1",
+                "text": "A Person walks forward and stumbles slightly",
+                "start": 0.0,
+                "end": 8.01
+            },
+            {
+                "seg_id": "01740_2",
+                "text": "Someone is beeing pushed on the right shoulder while walking forward.",
+                "start": 0.0,
+                "end": 8.01
+            },
+            {
+                "seg_id": "01740_3",
+                "text": "A human is walking straight, doing a sidestep since he is pushed and returns to his initial walking line",
+                "start": 0.0,
+                "end": 8.01
+            },
+            {
+                "seg_id": "01740_4",
+                "text": "a person walks forwards gets pushed from the right and keeps on walking",
+                "start": 0.0,
+                "end": 8.01
+            },
+            {
+                "seg_id": "01740_5",
+                "text": "The human walks like a alcoholized person",
+                "start": 0.0,
+                "end": 8.01
+            }
+        ]
+    },
+    "01753": {
+        "path": "KIT/291/push_recovery_front05_poses",
+        "duration": 6.81,
+        "annotations": [
+            {
+                "seg_id": "01753_0",
+                "text": "the person is walking forward and backward",
+                "start": 0.0,
+                "end": 6.81
+            },
+            {
+                "seg_id": "01753_1",
+                "text": "A person walks forward then backward and forward again",
+                "start": 0.0,
+                "end": 6.81
+            },
+            {
+                "seg_id": "01753_2",
+                "text": "a person walks some steps forward gets pushed backwards and then continues walking",
+                "start": 0.0,
+                "end": 6.81
+            }
+        ]
+    },
+    "01754": {
+        "path": "KIT/291/push_recovery_front07_poses",
+        "duration": 6.5,
+        "annotations": [
+            {
+                "seg_id": "01754_0",
+                "text": "Person is making 3 steps forward, 2 steps back and than again forward",
+                "start": 0.0,
+                "end": 6.5
+            },
+            {
+                "seg_id": "01754_1",
+                "text": "Someone is beeing pushed from the front while walking forward.",
+                "start": 0.0,
+                "end": 6.5
+            }
+        ]
+    },
+    "01775": {
+        "path": "KIT/378/push_recovery_back07_poses",
+        "duration": 3.51,
+        "annotations": [
+            {
+                "seg_id": "01775_0",
+                "text": "A person is pushed forward while walking forwards.",
+                "start": 0.0,
+                "end": 3.51
+            }
+        ]
+    },
+    "01780": {
+        "path": "KIT/378/push_recovery_front02_poses",
+        "duration": 6.51,
+        "annotations": [
+            {
+                "seg_id": "01780_0",
+                "text": "A person walks forward, stumbles, recovers and continiues to walk forward.",
+                "start": 0.0,
+                "end": 6.51
+            },
+            {
+                "seg_id": "01780_1",
+                "text": "A person is walking and gets pushed backwards.",
+                "start": 0.0,
+                "end": 6.51
+            }
+        ]
+    },
+    "01798": {
+        "path": "KIT/378/push_recovery_right01_poses",
+        "duration": 7.01,
+        "annotations": [
+            {
+                "seg_id": "01798_0",
+                "text": "A person walks forward and is pushed forcefully.",
+                "start": 0.0,
+                "end": 7.01
+            }
+        ]
+    },
+    "01839": {
+        "path": "KIT/379/push_recovery_stand_front02_poses",
+        "duration": 3.51,
+        "annotations": [
+            {
+                "seg_id": "01839_0",
+                "text": "A person is pushed back.",
+                "start": 0.0,
+                "end": 3.51
+            }
+        ]
+    },
+    "01850": {
+        "path": "KIT/379/push_recovery_stand_left04_poses",
+        "duration": 4.51,
+        "annotations": [
+            {
+                "seg_id": "01850_0",
+                "text": "A human is pushed to the right.",
+                "start": 0.0,
+                "end": 4.51
+            }
+        ]
+    },
+    "01855": {
+        "path": "KIT/379/push_recovery_stand_left09_poses",
+        "duration": 3.9,
+        "annotations": [
+            {
+                "seg_id": "01855_0",
+                "text": "A person gets pushed from left to right.",
+                "start": 0.0,
+                "end": 3.9
+            },
+            {
+                "seg_id": "01855_1",
+                "text": "A person receives a strong push from the left side and tumbles to the left.",
+                "start": 0.0,
+                "end": 3.9
+            },
+            {
+                "seg_id": "01855_2",
+                "text": "A person takes a few sidewared steps to the right to recover from a push.",
+                "start": 0.0,
+                "end": 3.9
+            },
+            {
+                "seg_id": "01855_3",
+                "text": "a person stands still and gets pushed to the right",
+                "start": 0.0,
+                "end": 3.9
+            },
+            {
+                "seg_id": "01855_4",
+                "text": "A person gets shoved from his left, he stumbles to his right before standing still again.",
+                "start": 0.0,
+                "end": 3.9
+            }
+        ]
+    },
+    "01863": {
+        "path": "KIT/379/push_recovery_back08_poses",
+        "duration": 3.26,
+        "annotations": [
+            {
+                "seg_id": "01863_0",
+                "text": "A person stumbles while moving forward.",
+                "start": 0.0,
+                "end": 3.26
+            },
+            {
+                "seg_id": "01863_1",
+                "text": "a person walks forwards and gets pushed from behind",
+                "start": 0.0,
+                "end": 3.26
+            },
+            {
+                "seg_id": "01863_2",
+                "text": "a person walks forward and stumbles",
+                "start": 0.0,
+                "end": 3.26
+            }
+        ]
+    },
+    "01871": {
+        "path": "KIT/379/push_recovery_front07_poses",
+        "duration": 5.0,
+        "annotations": [
+            {
+                "seg_id": "01871_0",
+                "text": "A human runs into an obstacle.",
+                "start": 0.0,
+                "end": 5.0
+            }
+        ]
+    },
+    "01891": {
+        "path": "KIT/379/push_recovery_right09_poses",
+        "duration": 4.51,
+        "annotations": [
+            {
+                "seg_id": "01891_0",
+                "text": "The human is pushed from the right side during walking.",
+                "start": 0.0,
+                "end": 4.51
+            },
+            {
+                "seg_id": "01891_1",
+                "text": "A person walks as if drunk.",
+                "start": 0.0,
+                "end": 4.51
+            }
+        ]
+    },
+    "01917": {
+        "path": "KIT/421/push_recovery_left05_poses",
+        "duration": 6.01,
+        "annotations": [
+            {
+                "seg_id": "01917_0",
+                "text": "A person walks forward, gets pushed from the right and performs a side step.",
+                "start": 0.0,
+                "end": 6.01
+            },
+            {
+                "seg_id": "01917_1",
+                "text": "a person walks forwards and gets pushed to the right",
+                "start": 0.0,
+                "end": 6.01
+            }
+        ]
+    },
+    "01930": {
+        "path": "KIT/421/push_recovery_right08_poses",
+        "duration": 5.5,
+        "annotations": [
+            {
+                "seg_id": "01930_0",
+                "text": "A person walks forward during that the person is pushed to the left.",
+                "start": 0.0,
+                "end": 5.5
+            }
+        ]
+    },
+    "01934": {
+        "path": "KIT/421/push_recovery_stand_back02_poses",
+        "duration": 8.01,
+        "annotations": [
+            {
+                "seg_id": "01934_0",
+                "text": "the person is pushed forward by someone else",
+                "start": 0.0,
+                "end": 8.01
+            },
+            {
+                "seg_id": "01934_1",
+                "text": "A human makes a small steps forward.",
+                "start": 0.0,
+                "end": 8.01
+            },
+            {
+                "seg_id": "01934_2",
+                "text": "A person performs a single forward step after being pushed from behind.",
+                "start": 0.0,
+                "end": 8.01
+            }
+        ]
+    },
+    "01953": {
+        "path": "KIT/421/push_recovery_stand_left02_poses",
+        "duration": 9.02,
+        "annotations": [
+            {
+                "seg_id": "01953_0",
+                "text": "A person standing still and then stumbling to the right",
+                "start": 0.0,
+                "end": 9.02
+            }
+        ]
+    },
+    "01960": {
+        "path": "KIT/421/push_recovery_stand_left09_poses",
+        "duration": 9.0,
+        "annotations": [
+            {
+                "seg_id": "01960_0",
+                "text": "A standing person performs a fast sidestep to the right.",
+                "start": 0.0,
+                "end": 9.0
+            },
+            {
+                "seg_id": "01960_1",
+                "text": "A human is performing a sidestep to the right",
+                "start": 0.0,
+                "end": 9.0
+            },
+            {
+                "seg_id": "01960_2",
+                "text": "A person is taking one step to the right side.",
+                "start": 0.0,
+                "end": 9.0
+            },
+            {
+                "seg_id": "01960_3",
+                "text": "Someone steps to the right.",
+                "start": 0.0,
+                "end": 9.0
+            }
+        ]
+    },
+    "01973": {
+        "path": "KIT/425/bend_right02_poses",
+        "duration": 4.53,
+        "annotations": [
+            {
+                "seg_id": "01973_0",
+                "text": "A person turns to the right while walking.",
+                "start": 0.0,
+                "end": 4.53
+            },
+            {
+                "seg_id": "01973_1",
+                "text": "The human walks four steps in a right bend.",
+                "start": 0.0,
+                "end": 4.53
+            },
+            {
+                "seg_id": "01973_2",
+                "text": "A person walking in a curve to the left.",
+                "start": 0.0,
+                "end": 4.53
+            },
+            {
+                "seg_id": "01973_3",
+                "text": "A person walked away.",
+                "start": 0.0,
+                "end": 4.53
+            },
+            {
+                "seg_id": "01973_4",
+                "text": "Someone walks away.",
+                "start": 0.0,
+                "end": 4.53
+            },
+            {
+                "seg_id": "01973_5",
+                "text": "Someone walks a quarter circle to the right.",
+                "start": 0.0,
+                "end": 4.53
+            },
+            {
+                "seg_id": "01973_6",
+                "text": "A person walks diagonal to the right below corner of the display",
+                "start": 0.0,
+                "end": 4.53
+            },
+            {
+                "seg_id": "01973_7",
+                "text": "A person walks a 90 degree curve.",
+                "start": 0.0,
+                "end": 4.53
+            }
+        ]
+    },
+    "01978": {
+        "path": "KIT/425/bend_right07_poses",
+        "duration": 4.55,
+        "annotations": [
+            {
+                "seg_id": "01978_0",
+                "text": "A person walks a right curve",
+                "start": 0.0,
+                "end": 4.55
+            },
+            {
+                "seg_id": "01978_1",
+                "text": "A person walks in a quarter circle",
+                "start": 0.0,
+                "end": 4.55
+            }
+        ]
+    },
+    "01987": {
+        "path": "KIT/425/bend_left09_poses",
+        "duration": 5.21,
+        "annotations": [
+            {
+                "seg_id": "01987_0",
+                "text": "a person walks a quarter circle to his left",
+                "start": 0.0,
+                "end": 5.21
+            },
+            {
+                "seg_id": "01987_1",
+                "text": "A person walks forward in a 90 degree curve to his left.",
+                "start": 0.0,
+                "end": 5.21
+            },
+            {
+                "seg_id": "01987_2",
+                "text": "A person does a 90 degree left turn in five steps",
+                "start": 0.0,
+                "end": 5.21
+            }
+        ]
+    },
+    "02004": {
+        "path": "KIT/425/turn_left09_poses",
+        "duration": 4.26,
+        "annotations": [
+            {
+                "seg_id": "02004_0",
+                "text": "A person is walking and than changes direction.",
+                "start": 0.0,
+                "end": 4.26
+            },
+            {
+                "seg_id": "02004_1",
+                "text": "a person walks forward then turns around and walks back",
+                "start": 0.0,
+                "end": 4.26
+            }
+        ]
+    },
+    "02017": {
+        "path": "KIT/424/run01_poses",
+        "duration": 1.08,
+        "annotations": [
+            {
+                "seg_id": "02017_0",
+                "text": "A person runs fast.",
+                "start": 0.0,
+                "end": 1.08
+            }
+        ]
+    },
+    "02032": {
+        "path": "KIT/513/turn_left01_poses",
+        "duration": 7.09,
+        "annotations": [
+            {
+                "seg_id": "02032_0",
+                "text": "After walking a bit forward, a person turns around on one leg to return",
+                "start": 0.0,
+                "end": 7.09
+            },
+            {
+                "seg_id": "02032_1",
+                "text": "A person walks forward, turns on the spot and walks back.",
+                "start": 0.0,
+                "end": 7.09
+            },
+            {
+                "seg_id": "02032_2",
+                "text": "Someone is walking forward 2 steps starting with the right leg, then turning back around his left side and walking back 2 steps.",
+                "start": 0.0,
+                "end": 7.09
+            },
+            {
+                "seg_id": "02032_3",
+                "text": "A human does a tight 180 degree turn on the right foot",
+                "start": 0.0,
+                "end": 7.09
+            }
+        ]
+    },
+    "02060": {
+        "path": "KIT/3/kneel_down_with_left_hand10_poses",
+        "duration": 7.48,
+        "annotations": [
+            {
+                "seg_id": "02060_0",
+                "text": "A person raises the arms and then goes down on the knees.",
+                "start": 0.0,
+                "end": 7.48
+            },
+            {
+                "seg_id": "02060_1",
+                "text": "a person raises both hands like wings and then goes down to its knees",
+                "start": 0.0,
+                "end": 7.48
+            },
+            {
+                "seg_id": "02060_2",
+                "text": "A person lifts their arms and then kneels",
+                "start": 0.0,
+                "end": 7.48
+            }
+        ]
+    },
+    "02084": {
+        "path": "KIT/3/kneel_up_from_crawl01_poses",
+        "duration": 5.67,
+        "annotations": [
+            {
+                "seg_id": "02084_0",
+                "text": "A person stands up from a kneeling position.",
+                "start": 0.0,
+                "end": 5.67
+            },
+            {
+                "seg_id": "02084_1",
+                "text": "a person stands up from the ground",
+                "start": 0.0,
+                "end": 5.67
+            }
+        ]
+    },
+    "02090": {
+        "path": "KIT/3/kneel_up_from_crawl07_poses",
+        "duration": 6.14,
+        "annotations": [
+            {
+                "seg_id": "02090_0",
+                "text": "a person is on all fours and stands up",
+                "start": 0.0,
+                "end": 6.14
+            }
+        ]
+    },
+    "02100": {
+        "path": "KIT/3/crawl07_poses",
+        "duration": 5.34,
+        "annotations": [
+            {
+                "seg_id": "02100_0",
+                "text": "A persons crawls on the floor.",
+                "start": 0.0,
+                "end": 5.34
+            },
+            {
+                "seg_id": "02100_1",
+                "text": "Someone is kneeling down, then going down on all fours and crawling forward a bit.",
+                "start": 0.0,
+                "end": 5.34
+            }
+        ]
+    },
+    "02134": {
+        "path": "KIT/969/Trial_20_poses",
+        "duration": 16.88,
+        "annotations": [
+            {
+                "seg_id": "02134_0",
+                "text": "A person seems to open something and then reaches for an object using the right hand.",
+                "start": 0.0,
+                "end": 16.88
+            }
+        ]
+    },
+    "02139": {
+        "path": "KIT/969/Trial_25_poses",
+        "duration": 14.2,
+        "annotations": [
+            {
+                "seg_id": "02139_0",
+                "text": "a person signs a cross",
+                "start": 0.0,
+                "end": 14.2
+            }
+        ]
+    },
+    "02157": {
+        "path": "KIT/969/Trial_44_poses",
+        "duration": 11.7,
+        "annotations": [
+            {
+                "seg_id": "02157_0",
+                "text": "A human stretches his arms in front of him, draws circles in the air and lowers his arms again.",
+                "start": 0.0,
+                "end": 11.7
+            }
+        ]
+    },
+    "02160": {
+        "path": "KIT/969/Trial_47_poses",
+        "duration": 11.12,
+        "annotations": [
+            {
+                "seg_id": "02160_0",
+                "text": "A person performs circling motions with both hands.",
+                "start": 0.0,
+                "end": 11.12
+            }
+        ]
+    },
+    "02245": {
+        "path": "KIT/969/Trial_08_poses",
+        "duration": 15.1,
+        "annotations": [
+            {
+                "seg_id": "02245_0",
+                "text": "A human presses buttons on a wall in front of him using his right hand.",
+                "start": 0.0,
+                "end": 15.1
+            }
+        ]
+    },
+    "02318": {
+        "path": "CMU/132/132_24_poses",
+        "duration": 6.158,
+        "annotations": [
+            {
+                "seg_id": "02318_0",
+                "text": "A person walking with a limp",
+                "start": 0.0,
+                "end": 6.158
+            }
+        ]
+    },
+    "02328": {
+        "path": "CMU/132/132_34_poses",
+        "duration": 4.308,
+        "annotations": [
+            {
+                "seg_id": "02328_0",
+                "text": "A human is walking happy",
+                "start": 0.0,
+                "end": 4.308
+            }
+        ]
+    },
+    "02340": {
+        "path": "CMU/132/132_46_poses",
+        "duration": 10.192,
+        "annotations": [
+            {
+                "seg_id": "02340_0",
+                "text": "A person is slowly and quietly walking forward.",
+                "start": 0.0,
+                "end": 10.192
+            }
+        ]
+    },
+    "02342": {
+        "path": "CMU/132/132_48_poses",
+        "duration": 13.542,
+        "annotations": [
+            {
+                "seg_id": "02342_0",
+                "text": "A human walks slowly.",
+                "start": 0.0,
+                "end": 13.542
+            }
+        ]
+    },
+    "02405": {
+        "path": "CMU/136/136_03_poses",
+        "duration": 9.958,
+        "annotations": [
+            {
+                "seg_id": "02405_0",
+                "text": "A human walking backwards.",
+                "start": 0.0,
+                "end": 9.958
+            }
+        ]
+    },
+    "02411": {
+        "path": "CMU/136/136_09_poses",
+        "duration": 9.417,
+        "annotations": [
+            {
+                "seg_id": "02411_0",
+                "text": "A human bends her knees slightly and walks.",
+                "start": 0.0,
+                "end": 9.417
+            }
+        ]
+    },
+    "02424": {
+        "path": "CMU/136/136_23_poses",
+        "duration": 6.183,
+        "annotations": [
+            {
+                "seg_id": "02424_0",
+                "text": "a human goes forward",
+                "start": 0.0,
+                "end": 6.183
+            }
+        ]
+    },
+    "02509": {
+        "path": "CMU/139/139_33_poses",
+        "duration": 49.95,
+        "annotations": [
+            {
+                "seg_id": "02509_0",
+                "text": "A person is sneaking around.",
+                "start": 0.0,
+                "end": 49.95
+            }
+        ]
+    },
+    "02594": {
+        "path": "CMU/107/107_09_poses",
+        "duration": 10.433,
+        "annotations": [
+            {
+                "seg_id": "02594_0",
+                "text": "A person is moving forward over a larger obstacle by putting one leg after another.",
+                "start": 0.0,
+                "end": 10.433
+            }
+        ]
+    },
+    "02608": {
+        "path": "CMU/142/142_09_poses",
+        "duration": 22.217,
+        "annotations": [
+            {
+                "seg_id": "02608_0",
+                "text": "A person walks very enthusiastically.",
+                "start": 0.0,
+                "end": 22.217
+            }
+        ]
+    },
+    "02621": {
+        "path": "CMU/142/142_22_poses",
+        "duration": 43.508,
+        "annotations": [
+            {
+                "seg_id": "02621_0",
+                "text": "A person is walking carefully and bent over with his hands holding up in front of his body forward and backward.",
+                "start": 0.0,
+                "end": 43.508
+            }
+        ]
+    },
+    "02707": {
+        "path": "CMU/07/07_08_poses",
+        "duration": 3.017,
+        "annotations": [
+            {
+                "seg_id": "02707_0",
+                "text": "A person is walking straight forward.",
+                "start": 0.0,
+                "end": 3.017
+            }
+        ]
+    },
+    "02718": {
+        "path": "CMU/08/08_04_poses",
+        "duration": 4.033,
+        "annotations": [
+            {
+                "seg_id": "02718_0",
+                "text": "A person is slowly walking straight forward.",
+                "start": 0.0,
+                "end": 4.033
+            }
+        ]
+    },
+    "02808": {
+        "path": "CMU/143/143_20_poses",
+        "duration": 10.85,
+        "annotations": [
+            {
+                "seg_id": "02808_0",
+                "text": "Someone who throws and catches something.",
+                "start": 0.0,
+                "end": 10.85
+            }
+        ]
+    },
+    "02825": {
+        "path": "CMU/143/143_37_poses",
+        "duration": 9.183,
+        "annotations": [
+            {
+                "seg_id": "02825_0",
+                "text": "A human climbs up and down a ladder.",
+                "start": 0.0,
+                "end": 9.183
+            }
+        ]
+    },
+    "02900": {
+        "path": "CMU/74/74_12_poses",
+        "duration": 5.033,
+        "annotations": [
+            {
+                "seg_id": "02900_0",
+                "text": "A person is sitting and resting its head onto its right arm.",
+                "start": 0.0,
+                "end": 5.033
+            }
+        ]
+    },
+    "02922": {
+        "path": "CMU/75/75_14_poses",
+        "duration": 7.433,
+        "annotations": [
+            {
+                "seg_id": "02922_0",
+                "text": "Someone plays hopscotch.",
+                "start": 0.0,
+                "end": 7.433
+            }
+        ]
+    },
+    "02953": {
+        "path": "CMU/77/77_14_poses",
+        "duration": 16.5,
+        "annotations": [
+            {
+                "seg_id": "02953_0",
+                "text": "a person lurks around",
+                "start": 0.0,
+                "end": 16.5
+            }
+        ]
+    },
+    "02999": {
+        "path": "CMU/78/78_26_poses",
+        "duration": 2.717,
+        "annotations": [
+            {
+                "seg_id": "02999_0",
+                "text": "A person doing fast steps to the left while crouched a bit.",
+                "start": 0.0,
+                "end": 2.717
+            }
+        ]
+    },
+    "03003": {
+        "path": "CMU/78/78_30_poses",
+        "duration": 5.858,
+        "annotations": [
+            {
+                "seg_id": "03003_0",
+                "text": "Multiple times a human makes two jumps to the left and then two jumps to the right.",
+                "start": 0.0,
+                "end": 5.858
+            }
+        ]
+    },
+    "03077": {
+        "path": "CMU/79/79_69_poses",
+        "duration": 13.617,
+        "annotations": [
+            {
+                "seg_id": "03077_0",
+                "text": "A person who is laughing hard.",
+                "start": 0.0,
+                "end": 13.617
+            }
+        ]
+    },
+    "03082": {
+        "path": "CMU/79/79_74_poses",
+        "duration": 15.417,
+        "annotations": [
+            {
+                "seg_id": "03082_0",
+                "text": "A human performs gestures displaying frustration.",
+                "start": 0.0,
+                "end": 15.417
+            }
+        ]
+    },
+    "03166": {
+        "path": "CMU/80/80_62_poses",
+        "duration": 38.15,
+        "annotations": [
+            {
+                "seg_id": "03166_0",
+                "text": "A person is waving its arms up and down in a flying motion.",
+                "start": 0.0,
+                "end": 38.15
+            }
+        ]
+    },
+    "03207": {
+        "path": "CMU/141/141_30_poses",
+        "duration": 12.017,
+        "annotations": [
+            {
+                "seg_id": "03207_0",
+                "text": "A person walks a figure of eight.",
+                "start": 0.0,
+                "end": 12.017
+            }
+        ]
+    },
+    "03251": {
+        "path": "CMU/83/83_22_poses",
+        "duration": 44.758,
+        "annotations": [
+            {
+                "seg_id": "03251_0",
+                "text": "A person doing exercise, mainly rotating arms and legs.",
+                "start": 0.0,
+                "end": 44.758
+            }
+        ]
+    },
+    "03252": {
+        "path": "CMU/83/83_23_poses",
+        "duration": 4.517,
+        "annotations": [
+            {
+                "seg_id": "03252_0",
+                "text": "A human steps on a low platform.",
+                "start": 0.0,
+                "end": 4.517
+            }
+        ]
+    },
+    "03256": {
+        "path": "CMU/83/83_27_poses",
+        "duration": 8.192,
+        "annotations": [
+            {
+                "seg_id": "03256_0",
+                "text": "A human walks forward and goes up the stairs.",
+                "start": 0.0,
+                "end": 8.192
+            }
+        ]
+    },
+    "03279": {
+        "path": "CMU/83/83_50_poses",
+        "duration": 4.4,
+        "annotations": [
+            {
+                "seg_id": "03279_0",
+                "text": "A human jumps forwards.",
+                "start": 0.0,
+                "end": 4.4
+            }
+        ]
+    },
+    "03280": {
+        "path": "CMU/83/83_51_poses",
+        "duration": 4.925,
+        "annotations": [
+            {
+                "seg_id": "03280_0",
+                "text": "a human jumps while turning left",
+                "start": 0.0,
+                "end": 4.925
+            }
+        ]
+    },
+    "03431": {
+        "path": "CMU/91/91_48_poses",
+        "duration": 3.667,
+        "annotations": [
+            {
+                "seg_id": "03431_0",
+                "text": "A person jumps forward while turning 90 degrees to the left.",
+                "start": 0.0,
+                "end": 3.667
+            }
+        ]
+    },
+    "03480": {
+        "path": "CMU/102/102_07_poses",
+        "duration": 0.933,
+        "annotations": [
+            {
+                "seg_id": "03480_0",
+                "text": "A person is running.",
+                "start": 0.0,
+                "end": 0.933
+            }
+        ]
+    },
+    "03495": {
+        "path": "CMU/102/102_22_poses",
+        "duration": 2.05,
+        "annotations": [
+            {
+                "seg_id": "03495_0",
+                "text": "A person is bending a bit forward and then jumping and running a bit.",
+                "start": 0.0,
+                "end": 2.05
+            }
+        ]
+    },
+    "03580": {
+        "path": "CMU/105/105_09_poses",
+        "duration": 45.017,
+        "annotations": [
+            {
+                "seg_id": "03580_0",
+                "text": "A person is walking forward very unsteady, turns around and walks back again.",
+                "start": 0.0,
+                "end": 45.017
+            }
+        ]
+    },
+    "03585": {
+        "path": "CMU/105/105_14_poses",
+        "duration": 23.075,
+        "annotations": [
+            {
+                "seg_id": "03585_0",
+                "text": "A person is slowly and carefully walking forward and backward.",
+                "start": 0.0,
+                "end": 23.075
+            }
+        ]
+    },
+    "03597": {
+        "path": "CMU/105/105_26_poses",
+        "duration": 17.35,
+        "annotations": [
+            {
+                "seg_id": "03597_0",
+                "text": "Someone walks carefully and maybe feared around.",
+                "start": 0.0,
+                "end": 17.35
+            }
+        ]
+    },
+    "03689": {
+        "path": "CMU/108/108_12_poses",
+        "duration": 1.142,
+        "annotations": [
+            {
+                "seg_id": "03689_0",
+                "text": "A person runs forward.",
+                "start": 0.0,
+                "end": 1.142
+            }
+        ]
+    },
+    "03695": {
+        "path": "CMU/108/108_18_poses",
+        "duration": 2.05,
+        "annotations": [
+            {
+                "seg_id": "03695_0",
+                "text": "A man strid forth",
+                "start": 0.0,
+                "end": 2.05
+            }
+        ]
+    },
+    "03723": {
+        "path": "CMU/111/111_18_poses",
+        "duration": 4.508,
+        "annotations": [
+            {
+                "seg_id": "03723_0",
+                "text": "a human picks something up",
+                "start": 0.0,
+                "end": 4.508
+            }
+        ]
+    },
+    "03728": {
+        "path": "CMU/111/111_23_poses",
+        "duration": 9.408,
+        "annotations": [
+            {
+                "seg_id": "03728_0",
+                "text": "A person turns then walks in a circle",
+                "start": 0.0,
+                "end": 9.408
+            }
+        ]
+    },
+    "03800": {
+        "path": "CMU/118/118_28_poses",
+        "duration": 5.808,
+        "annotations": [
+            {
+                "seg_id": "03800_0",
+                "text": "Jump with both feet about 50 centimeters forward",
+                "start": 0.0,
+                "end": 5.808
+            }
+        ]
+    },
+    "03817": {
+        "path": "CMU/120/120_13_poses",
+        "duration": 8.342,
+        "annotations": [
+            {
+                "seg_id": "03817_0",
+                "text": "A person is walking slowly and strongly bent over forward while repeatedly dragging his arms to his hip.",
+                "start": 0.0,
+                "end": 8.342
+            }
+        ]
+    },
+    "03842": {
+        "path": "CMU/122/122_16_poses",
+        "duration": 4.25,
+        "annotations": [
+            {
+                "seg_id": "03842_0",
+                "text": "A person is making a sidestep to the left.",
+                "start": 0.0,
+                "end": 4.25
+            }
+        ]
+    },
+    "03854": {
+        "path": "CMU/122/122_28_poses",
+        "duration": 7.758,
+        "annotations": [
+            {
+                "seg_id": "03854_0",
+                "text": "A man take something up on the ground , and put it into the shelf",
+                "start": 0.0,
+                "end": 7.758
+            }
+        ]
+    },
+    "03876": {
+        "path": "CMU/122/122_50_poses",
+        "duration": 4.4,
+        "annotations": [
+            {
+                "seg_id": "03876_0",
+                "text": "A person jumps approximately a meter forward with both feet.",
+                "start": 0.0,
+                "end": 4.4
+            }
+        ]
+    },
+    "M00033": {
+        "path": "M/KIT/4/WalkInClockwiseCircle06_poses",
+        "duration": 8.29,
+        "annotations": [
+            {
+                "seg_id": "M00033_0",
+                "text": "A Person walks in a circle counterclockwise.",
+                "start": 0.0,
+                "end": 8.29
+            },
+            {
+                "seg_id": "M00033_1",
+                "text": "A person walks in a circle to his left side.",
+                "start": 0.0,
+                "end": 8.29
+            }
+        ]
+    },
+    "M00034": {
+        "path": "M/KIT/4/WalkInClockwiseCircle07_poses",
+        "duration": 8.06,
+        "annotations": [
+            {
+                "seg_id": "M00034_0",
+                "text": "A human walking in a circle counterclockwise",
+                "start": 0.0,
+                "end": 8.06
+            },
+            {
+                "seg_id": "M00034_1",
+                "text": "A person walks in a little circle.",
+                "start": 0.0,
+                "end": 8.06
+            }
+        ]
+    },
+    "M00042": {
+        "path": "M/KIT/4/RightTurn05_poses",
+        "duration": 5.4,
+        "annotations": [
+            {
+                "seg_id": "M00042_0",
+                "text": "Subject walks a quarter circle counterclockwise.",
+                "start": 0.0,
+                "end": 5.4
+            },
+            {
+                "seg_id": "M00042_1",
+                "text": "A person walks in a 90 degree curve to his left.",
+                "start": 0.0,
+                "end": 5.4
+            },
+            {
+                "seg_id": "M00042_2",
+                "text": "A person waits on a ATM line and then goes to the machine.",
+                "start": 0.0,
+                "end": 5.4
+            },
+            {
+                "seg_id": "M00042_3",
+                "text": "a human sit",
+                "start": 0.0,
+                "end": 5.4
+            }
+        ]
+    },
+    "M00046": {
+        "path": "M/KIT/4/RightTurn09_poses",
+        "duration": 4.82,
+        "annotations": [
+            {
+                "seg_id": "M00046_0",
+                "text": "A person walks a quarter circle counterclockwise with 4 steps.",
+                "start": 0.0,
+                "end": 4.82
+            }
+        ]
+    },
+    "M00060": {
+        "path": "M/KIT/6/WalkInCounterClockwiseCircle03_1_poses",
+        "duration": 7.29,
+        "annotations": [
+            {
+                "seg_id": "M00060_0",
+                "text": "A human walking in a circle clockwise",
+                "start": 0.0,
+                "end": 7.29
+            }
+        ]
+    },
+    "M00068": {
+        "path": "M/KIT/6/WalkInClockwiseCircle01_1_poses",
+        "duration": 7.06,
+        "annotations": [
+            {
+                "seg_id": "M00068_0",
+                "text": "Someone walks a left circle.",
+                "start": 0.0,
+                "end": 7.06
+            }
+        ]
+    },
+    "M00070": {
+        "path": "M/KIT/6/WalkInClockwiseCircle03_1_poses",
+        "duration": 7.15,
+        "annotations": [
+            {
+                "seg_id": "M00070_0",
+                "text": "A person walks a circle counterclockwise.",
+                "start": 0.0,
+                "end": 7.15
+            },
+            {
+                "seg_id": "M00070_1",
+                "text": "Someone walks in a small circle to the left.",
+                "start": 0.0,
+                "end": 7.15
+            }
+        ]
+    },
+    "M00072": {
+        "path": "M/KIT/6/WalkInClockwiseCircle05_1_poses",
+        "duration": 7.34,
+        "annotations": [
+            {
+                "seg_id": "M00072_0",
+                "text": "A person walks in a circle.",
+                "start": 0.0,
+                "end": 7.34
+            }
+        ]
+    },
+    "M00092": {
+        "path": "M/KIT/6/RightTurn05_1_poses",
+        "duration": 5.05,
+        "annotations": [
+            {
+                "seg_id": "M00092_0",
+                "text": "the person is making a wide turn to the left",
+                "start": 0.0,
+                "end": 5.05
+            },
+            {
+                "seg_id": "M00092_1",
+                "text": "a person walks in a quarter circle to the left",
+                "start": 0.0,
+                "end": 5.05
+            }
+        ]
+    },
+    "M00130": {
+        "path": "M/KIT/7/WalkInClockwiseCircle03_poses",
+        "duration": 7.44,
+        "annotations": [
+            {
+                "seg_id": "M00130_0",
+                "text": "A person walks in a small circle, to the left.",
+                "start": 0.0,
+                "end": 7.44
+            },
+            {
+                "seg_id": "M00130_1",
+                "text": "human goes in a circle counterclockwise starting with left",
+                "start": 0.0,
+                "end": 7.44
+            },
+            {
+                "seg_id": "M00130_2",
+                "text": "a person walks in a circle to the left",
+                "start": 0.0,
+                "end": 7.44
+            },
+            {
+                "seg_id": "M00130_3",
+                "text": "Person walking in a circle.",
+                "start": 0.0,
+                "end": 7.44
+            }
+        ]
+    },
+    "M00153": {
+        "path": "M/KIT/7/RightTurn06_poses",
+        "duration": 5.25,
+        "annotations": [
+            {
+                "seg_id": "M00153_0",
+                "text": "A person goes to the left slowly.",
+                "start": 0.0,
+                "end": 5.25
+            },
+            {
+                "seg_id": "M00153_1",
+                "text": "A person walks a left curve",
+                "start": 0.0,
+                "end": 5.25
+            }
+        ]
+    },
+    "M00170": {
+        "path": "M/KIT/8/WalkingStraightBackwards03_poses",
+        "duration": 5.77,
+        "annotations": [
+            {
+                "seg_id": "M00170_0",
+                "text": "the person is walking backwards",
+                "start": 0.0,
+                "end": 5.77
+            },
+            {
+                "seg_id": "M00170_1",
+                "text": "A person walkes backward.",
+                "start": 0.0,
+                "end": 5.77
+            }
+        ]
+    },
+    "M00200": {
+        "path": "M/KIT/8/RightTurn03_poses",
+        "duration": 5.5,
+        "annotations": [
+            {
+                "seg_id": "M00200_0",
+                "text": "Someone walks in a slight left curve",
+                "start": 0.0,
+                "end": 5.5
+            }
+        ]
+    },
+    "M00252": {
+        "path": "M/KIT/9/LeftTurn06_poses",
+        "duration": 4.82,
+        "annotations": [
+            {
+                "seg_id": "M00252_0",
+                "text": "A person starts a circular movement towards the left.",
+                "start": 0.0,
+                "end": 4.82
+            },
+            {
+                "seg_id": "M00252_1",
+                "text": "Someone walks a left turn",
+                "start": 0.0,
+                "end": 4.82
+            }
+        ]
+    },
+    "M00274": {
+        "path": "M/KIT/10/WalkingStraightBackwards08_poses",
+        "duration": 5.75,
+        "annotations": [
+            {
+                "seg_id": "M00274_0",
+                "text": "A human walking backwards",
+                "start": 0.0,
+                "end": 5.75
+            },
+            {
+                "seg_id": "M00274_1",
+                "text": "A person walks backwards.",
+                "start": 0.0,
+                "end": 5.75
+            },
+            {
+                "seg_id": "M00274_2",
+                "text": "A person is walking backwards.",
+                "start": 0.0,
+                "end": 5.75
+            }
+        ]
+    },
+    "M00299": {
+        "path": "M/KIT/10/LeftTurn03_poses",
+        "duration": 3.64,
+        "annotations": [
+            {
+                "seg_id": "M00299_0",
+                "text": "A person walks clockwise in a circle.",
+                "start": 0.0,
+                "end": 3.64
+            },
+            {
+                "seg_id": "M00299_1",
+                "text": "human performs a bending walking movement to the right",
+                "start": 0.0,
+                "end": 3.64
+            }
+        ]
+    },
+    "M00308": {
+        "path": "M/KIT/10/RightTurn02_poses",
+        "duration": 4.95,
+        "annotations": [
+            {
+                "seg_id": "M00308_0",
+                "text": "A person walking in a curve to the left and then standing still",
+                "start": 0.0,
+                "end": 4.95
+            },
+            {
+                "seg_id": "M00308_1",
+                "text": "A human walks a quarter turn to the left",
+                "start": 0.0,
+                "end": 4.95
+            }
+        ]
+    },
+    "M00336": {
+        "path": "M/KIT/11/WalkingStraightBackwards10_poses",
+        "duration": 4.58,
+        "annotations": [
+            {
+                "seg_id": "M00336_0",
+                "text": "A human walks four steps backwards",
+                "start": 0.0,
+                "end": 4.58
+            },
+            {
+                "seg_id": "M00336_1",
+                "text": "a person taes some steps backwards",
+                "start": 0.0,
+                "end": 4.58
+            },
+            {
+                "seg_id": "M00336_2",
+                "text": "A person walks 5 steps backwards.",
+                "start": 0.0,
+                "end": 4.58
+            },
+            {
+                "seg_id": "M00336_3",
+                "text": "a human starts walking backwards",
+                "start": 0.0,
+                "end": 4.58
+            }
+        ]
+    },
+    "M00364": {
+        "path": "M/KIT/11/LeftTurn08_poses",
+        "duration": 3.06,
+        "annotations": [
+            {
+                "seg_id": "M00364_0",
+                "text": "A person turns right",
+                "start": 0.0,
+                "end": 3.06
+            },
+            {
+                "seg_id": "M00364_1",
+                "text": "Someone walks a right turn",
+                "start": 0.0,
+                "end": 3.06
+            }
+        ]
+    },
+    "M00392": {
+        "path": "M/KIT/12/WalkingStraightBackwards08_poses",
+        "duration": 5.37,
+        "annotations": [
+            {
+                "seg_id": "M00392_0",
+                "text": "A person is walking quickly backwards",
+                "start": 0.0,
+                "end": 5.37
+            },
+            {
+                "seg_id": "M00392_1",
+                "text": "A person walkes backwards.",
+                "start": 0.0,
+                "end": 5.37
+            }
+        ]
+    },
+    "M00400": {
+        "path": "M/KIT/12/WalkInCounterClockwiseCircle07_poses",
+        "duration": 6.49,
+        "annotations": [
+            {
+                "seg_id": "M00400_0",
+                "text": "a person walks in a circle to he right",
+                "start": 0.0,
+                "end": 6.49
+            }
+        ]
+    },
+    "M00404": {
+        "path": "M/KIT/12/WalkInClockwiseCircle02_poses",
+        "duration": 5.66,
+        "annotations": [
+            {
+                "seg_id": "M00404_0",
+                "text": "A person walks in counterclockwise circle and stops facing 90 degrees to the right relative from the starting position.",
+                "start": 0.0,
+                "end": 5.66
+            },
+            {
+                "seg_id": "M00404_1",
+                "text": "A human is walking three quarter of a circle to its left.",
+                "start": 0.0,
+                "end": 5.66
+            },
+            {
+                "seg_id": "M00404_2",
+                "text": "A person walks in a circle.",
+                "start": 0.0,
+                "end": 5.66
+            }
+        ]
+    },
+    "M00427": {
+        "path": "M/KIT/167/walking_slow04_poses",
+        "duration": 6.51,
+        "annotations": [
+            {
+                "seg_id": "M00427_0",
+                "text": "Someone is walking.",
+                "start": 0.0,
+                "end": 6.51
+            },
+            {
+                "seg_id": "M00427_1",
+                "text": "Someone is walking forward 4 steps starting with the left leg.",
+                "start": 0.0,
+                "end": 6.51
+            },
+            {
+                "seg_id": "M00427_2",
+                "text": "a person walks forward quite slow",
+                "start": 0.0,
+                "end": 6.51
+            },
+            {
+                "seg_id": "M00427_3",
+                "text": "Somebody walks lazy",
+                "start": 0.0,
+                "end": 6.51
+            }
+        ]
+    },
+    "M00431": {
+        "path": "M/KIT/167/walking_slow08_poses",
+        "duration": 6.73,
+        "annotations": [
+            {
+                "seg_id": "M00431_0",
+                "text": "A person walks forwards.",
+                "start": 0.0,
+                "end": 6.73
+            }
+        ]
+    },
+    "M00454": {
+        "path": "M/KIT/167/walking_run10_poses",
+        "duration": 4.89,
+        "annotations": [
+            {
+                "seg_id": "M00454_0",
+                "text": "a person starts sprinting and stops again.",
+                "start": 0.0,
+                "end": 4.89
+            },
+            {
+                "seg_id": "M00454_1",
+                "text": "A person is running.",
+                "start": 0.0,
+                "end": 4.89
+            },
+            {
+                "seg_id": "M00454_2",
+                "text": "human runs forward",
+                "start": 0.0,
+                "end": 4.89
+            }
+        ]
+    },
+    "M00511": {
+        "path": "M/KIT/183/walking_run08_poses",
+        "duration": 3.86,
+        "annotations": [
+            {
+                "seg_id": "M00511_0",
+                "text": "A person is running a few steps forwards.",
+                "start": 0.0,
+                "end": 3.86
+            }
+        ]
+    },
+    "M00556": {
+        "path": "M/KIT/9/walking_run03_poses",
+        "duration": 3.18,
+        "annotations": [
+            {
+                "seg_id": "M00556_0",
+                "text": "A person running forward for a few steps",
+                "start": 0.0,
+                "end": 3.18
+            }
+        ]
+    },
+    "M00594": {
+        "path": "M/KIT/200/Kniebeuge01_poses",
+        "duration": 7.49,
+        "annotations": [
+            {
+                "seg_id": "M00594_0",
+                "text": "Person doing squads",
+                "start": 0.0,
+                "end": 7.49
+            },
+            {
+                "seg_id": "M00594_1",
+                "text": "A person performs a squat",
+                "start": 0.0,
+                "end": 7.49
+            },
+            {
+                "seg_id": "M00594_2",
+                "text": "A person performs two successive squats.",
+                "start": 0.0,
+                "end": 7.49
+            },
+            {
+                "seg_id": "M00594_3",
+                "text": "A human performs two squats with his arms extended forward",
+                "start": 0.0,
+                "end": 7.49
+            },
+            {
+                "seg_id": "M00594_4",
+                "text": "A person performs a squat with the feet together, and performs another squat with the feet distance being wider.",
+                "start": 0.0,
+                "end": 7.49
+            },
+            {
+                "seg_id": "M00594_5",
+                "text": "a person does some squad exercises",
+                "start": 0.0,
+                "end": 7.49
+            },
+            {
+                "seg_id": "M00594_6",
+                "text": "someone squats and then steps one of his foot a little aside and make another squats",
+                "start": 0.0,
+                "end": 7.49
+            },
+            {
+                "seg_id": "M00594_7",
+                "text": "Someone does two squats.",
+                "start": 0.0,
+                "end": 7.49
+            }
+        ]
+    },
+    "M00619": {
+        "path": "M/KIT/205/walking_slow07_poses",
+        "duration": 5.67,
+        "annotations": [
+            {
+                "seg_id": "M00619_0",
+                "text": "A human walking slowly forwards",
+                "start": 0.0,
+                "end": 5.67
+            },
+            {
+                "seg_id": "M00619_1",
+                "text": "A person walks slowly.",
+                "start": 0.0,
+                "end": 5.67
+            },
+            {
+                "seg_id": "M00619_2",
+                "text": "A human goes slowly 4 steps forward.",
+                "start": 0.0,
+                "end": 5.67
+            }
+        ]
+    },
+    "M00650": {
+        "path": "M/KIT/291/jumping_jack01_poses",
+        "duration": 3.16,
+        "annotations": [
+            {
+                "seg_id": "M00650_0",
+                "text": "A person raises both arms like jumping jack.",
+                "start": 0.0,
+                "end": 3.16
+            },
+            {
+                "seg_id": "M00650_1",
+                "text": "someone lifts his arm over his head.",
+                "start": 0.0,
+                "end": 3.16
+            },
+            {
+                "seg_id": "M00650_2",
+                "text": "Somebody raises his hands in form of a circle",
+                "start": 0.0,
+                "end": 3.16
+            }
+        ]
+    },
+    "M00680": {
+        "path": "M/KIT/314/walking_medium03_poses",
+        "duration": 6.99,
+        "annotations": [
+            {
+                "seg_id": "M00680_0",
+                "text": "Person walking forwards",
+                "start": 0.0,
+                "end": 6.99
+            },
+            {
+                "seg_id": "M00680_1",
+                "text": "A person walks forward.",
+                "start": 0.0,
+                "end": 6.99
+            },
+            {
+                "seg_id": "M00680_2",
+                "text": "someone walks straight on",
+                "start": 0.0,
+                "end": 6.99
+            },
+            {
+                "seg_id": "M00680_3",
+                "text": "A person takes 4 steps forward",
+                "start": 0.0,
+                "end": 6.99
+            },
+            {
+                "seg_id": "M00680_4",
+                "text": "a person takes 5 steps forward starting with his left foot",
+                "start": 0.0,
+                "end": 6.99
+            },
+            {
+                "seg_id": "M00680_5",
+                "text": "A person walkes forward.",
+                "start": 0.0,
+                "end": 6.99
+            }
+        ]
+    },
+    "M00682": {
+        "path": "M/KIT/314/walking_medium05_poses",
+        "duration": 7.95,
+        "annotations": [
+            {
+                "seg_id": "M00682_0",
+                "text": "a person walks forward",
+                "start": 0.0,
+                "end": 7.95
+            }
+        ]
+    },
+    "M00709": {
+        "path": "M/KIT/314/walking_run08_poses",
+        "duration": 4.52,
+        "annotations": [
+            {
+                "seg_id": "M00709_0",
+                "text": "A person starts sprinting and then stops.",
+                "start": 0.0,
+                "end": 4.52
+            },
+            {
+                "seg_id": "M00709_1",
+                "text": "a person runs forwards",
+                "start": 0.0,
+                "end": 4.52
+            },
+            {
+                "seg_id": "M00709_2",
+                "text": "A person starts to run and stops.",
+                "start": 0.0,
+                "end": 4.52
+            }
+        ]
+    },
+    "M00719": {
+        "path": "M/KIT/314/turn_right07_poses",
+        "duration": 4.42,
+        "annotations": [
+            {
+                "seg_id": "M00719_0",
+                "text": "A person walks 2 steps forward, turns 180 degrees on the left foot and walks again 2 steps forward.",
+                "start": 0.0,
+                "end": 4.42
+            },
+            {
+                "seg_id": "M00719_1",
+                "text": "A person walks a few steps forward, then turns around and walks back again.",
+                "start": 0.0,
+                "end": 4.42
+            }
+        ]
+    },
+    "M00730": {
+        "path": "M/KIT/314/turn_left07_poses",
+        "duration": 4.01,
+        "annotations": [
+            {
+                "seg_id": "M00730_0",
+                "text": "A person walks, changes direction midway and walks back to where he came from",
+                "start": 0.0,
+                "end": 4.01
+            },
+            {
+                "seg_id": "M00730_1",
+                "text": "a person walks forwards a few step the turn 180 degrees to the right and keeps walking",
+                "start": 0.0,
+                "end": 4.01
+            }
+        ]
+    },
+    "M00752": {
+        "path": "M/KIT/317/walking_medium03_poses",
+        "duration": 4.65,
+        "annotations": [
+            {
+                "seg_id": "M00752_0",
+                "text": "A person walks forward.",
+                "start": 0.0,
+                "end": 4.65
+            }
+        ]
+    },
+    "M00756": {
+        "path": "M/KIT/317/walking_medium07_poses",
+        "duration": 3.64,
+        "annotations": [
+            {
+                "seg_id": "M00756_0",
+                "text": "Someone walks forward.",
+                "start": 0.0,
+                "end": 3.64
+            },
+            {
+                "seg_id": "M00756_1",
+                "text": "A person walking forwards.",
+                "start": 0.0,
+                "end": 3.64
+            },
+            {
+                "seg_id": "M00756_2",
+                "text": "A person walked away.",
+                "start": 0.0,
+                "end": 3.64
+            },
+            {
+                "seg_id": "M00756_3",
+                "text": "A person walks in a weird form",
+                "start": 0.0,
+                "end": 3.64
+            },
+            {
+                "seg_id": "M00756_4",
+                "text": "A human is walking 4 steps forward, starting with its left food.",
+                "start": 0.0,
+                "end": 3.64
+            },
+            {
+                "seg_id": "M00756_5",
+                "text": "a person walks forwards",
+                "start": 0.0,
+                "end": 3.64
+            }
+        ]
+    },
+    "M00759": {
+        "path": "M/KIT/317/walking_medium10_poses",
+        "duration": 4.51,
+        "annotations": [
+            {
+                "seg_id": "M00759_0",
+                "text": "fast walking motion",
+                "start": 0.0,
+                "end": 4.51
+            },
+            {
+                "seg_id": "M00759_1",
+                "text": "Someone is walking straight forward 4 steps starting with the left leg.",
+                "start": 0.0,
+                "end": 4.51
+            },
+            {
+                "seg_id": "M00759_2",
+                "text": "A person makes 5 steps forward.",
+                "start": 0.0,
+                "end": 4.51
+            },
+            {
+                "seg_id": "M00759_3",
+                "text": "A person walks straight forward a few meters",
+                "start": 0.0,
+                "end": 4.51
+            },
+            {
+                "seg_id": "M00759_4",
+                "text": "A person walks forwards.",
+                "start": 0.0,
+                "end": 4.51
+            },
+            {
+                "seg_id": "M00759_5",
+                "text": "A person is walking forward",
+                "start": 0.0,
+                "end": 4.51
+            },
+            {
+                "seg_id": "M00759_6",
+                "text": "The human walks straight forward",
+                "start": 0.0,
+                "end": 4.51
+            },
+            {
+                "seg_id": "M00759_7",
+                "text": "A person is walking forwards.",
+                "start": 0.0,
+                "end": 4.51
+            },
+            {
+                "seg_id": "M00759_8",
+                "text": "Somebody walks straight on.",
+                "start": 0.0,
+                "end": 4.51
+            }
+        ]
+    },
+    "M00772": {
+        "path": "M/KIT/317/walking_fast04_poses",
+        "duration": 3.28,
+        "annotations": [
+            {
+                "seg_id": "M00772_0",
+                "text": "a person walks forward",
+                "start": 0.0,
+                "end": 3.28
+            }
+        ]
+    },
+    "M00806": {
+        "path": "M/KIT/317/bend_right08_poses",
+        "duration": 3.59,
+        "annotations": [
+            {
+                "seg_id": "M00806_0",
+                "text": "A person turns left.",
+                "start": 0.0,
+                "end": 3.59
+            },
+            {
+                "seg_id": "M00806_1",
+                "text": "Someone is walking a quarter circle to the left.",
+                "start": 0.0,
+                "end": 3.59
+            }
+        ]
+    },
+    "M00809": {
+        "path": "M/KIT/317/turn_right02_poses",
+        "duration": 5.47,
+        "annotations": [
+            {
+                "seg_id": "M00809_0",
+                "text": "Subject walks forward one step then spins around and walks back.",
+                "start": 0.0,
+                "end": 5.47
+            },
+            {
+                "seg_id": "M00809_1",
+                "text": "Somebody turns swinging around.",
+                "start": 0.0,
+                "end": 5.47
+            }
+        ]
+    },
+    "M00832": {
+        "path": "M/KIT/9/turn_left05_poses",
+        "duration": 5.19,
+        "annotations": [
+            {
+                "seg_id": "M00832_0",
+                "text": "A walking person takes two steps forward then turns around to their right, and continues walking in the opposite direction and stops.",
+                "start": 0.0,
+                "end": 5.19
+            },
+            {
+                "seg_id": "M00832_1",
+                "text": "A person takes two steps forward, then turns around to the right by 180 degrees and takes another three steps, back to the starting point.",
+                "start": 0.0,
+                "end": 5.19
+            },
+            {
+                "seg_id": "M00832_2",
+                "text": "Someone is walking forward two steps starting with the left leg, turning around his right side facing backwards and doing another two steps.",
+                "start": 0.0,
+                "end": 5.19
+            }
+        ]
+    },
+    "M00835": {
+        "path": "M/KIT/9/turn_left08_poses",
+        "duration": 5.9,
+        "annotations": [
+            {
+                "seg_id": "M00835_0",
+                "text": "A person is making a sharp turn.",
+                "start": 0.0,
+                "end": 5.9
+            }
+        ]
+    },
+    "M00837": {
+        "path": "M/KIT/9/turn_left10_poses",
+        "duration": 5.25,
+        "annotations": [
+            {
+                "seg_id": "M00837_0",
+                "text": "Person walking and turning on one foot",
+                "start": 0.0,
+                "end": 5.25
+            },
+            {
+                "seg_id": "M00837_1",
+                "text": "Someone walks forward then turn around and walks back",
+                "start": 0.0,
+                "end": 5.25
+            },
+            {
+                "seg_id": "M00837_2",
+                "text": "a human does a turn around",
+                "start": 0.0,
+                "end": 5.25
+            }
+        ]
+    },
+    "M00856": {
+        "path": "M/KIT/183/walking_fast09_poses",
+        "duration": 4.78,
+        "annotations": [
+            {
+                "seg_id": "M00856_0",
+                "text": "A person accelerates forward and then slows down again",
+                "start": 0.0,
+                "end": 4.78
+            },
+            {
+                "seg_id": "M00856_1",
+                "text": "A person walks forward.",
+                "start": 0.0,
+                "end": 4.78
+            },
+            {
+                "seg_id": "M00856_2",
+                "text": "a person running energetically and brakes abruptly.",
+                "start": 0.0,
+                "end": 4.78
+            },
+            {
+                "seg_id": "M00856_3",
+                "text": "The human is running",
+                "start": 0.0,
+                "end": 4.78
+            }
+        ]
+    },
+    "M00877": {
+        "path": "M/KIT/183/turn_right10_poses",
+        "duration": 6.14,
+        "annotations": [
+            {
+                "seg_id": "M00877_0",
+                "text": "A person walks forward, turns on the spot and walk backwards.",
+                "start": 0.0,
+                "end": 6.14
+            },
+            {
+                "seg_id": "M00877_1",
+                "text": "A human walks a few steps before turning swiftly around on his left foot",
+                "start": 0.0,
+                "end": 6.14
+            },
+            {
+                "seg_id": "M00877_2",
+                "text": "A person is spining around a 180 degrees to the left while walking.",
+                "start": 0.0,
+                "end": 6.14
+            },
+            {
+                "seg_id": "M00877_3",
+                "text": "A person turns 180 degrees on his left foot.",
+                "start": 0.0,
+                "end": 6.14
+            },
+            {
+                "seg_id": "M00877_4",
+                "text": "some one turns counterclockwise back on his left foot.",
+                "start": 0.0,
+                "end": 6.14
+            },
+            {
+                "seg_id": "M00877_5",
+                "text": "Someone walks two steps forward, then turns around by 180 degree to the left and makes two steps again.",
+                "start": 0.0,
+                "end": 6.14
+            }
+        ]
+    },
+    "M00881": {
+        "path": "M/KIT/183/turn_left04_poses",
+        "duration": 5.01,
+        "annotations": [
+            {
+                "seg_id": "M00881_0",
+                "text": "Person walking and then turning on one foot",
+                "start": 0.0,
+                "end": 5.01
+            },
+            {
+                "seg_id": "M00881_1",
+                "text": "Someone walks forward then turn around and walks back",
+                "start": 0.0,
+                "end": 5.01
+            },
+            {
+                "seg_id": "M00881_2",
+                "text": "A person takes two step forward then turns around on one foot and takes another two steps.",
+                "start": 0.0,
+                "end": 5.01
+            },
+            {
+                "seg_id": "M00881_3",
+                "text": "A person turns 180 degrees on his right foot.",
+                "start": 0.0,
+                "end": 5.01
+            },
+            {
+                "seg_id": "M00881_4",
+                "text": "human goes forward and turns around partway",
+                "start": 0.0,
+                "end": 5.01
+            }
+        ]
+    },
+    "M00882": {
+        "path": "M/KIT/183/turn_left05_poses",
+        "duration": 5.03,
+        "annotations": [
+            {
+                "seg_id": "M00882_0",
+                "text": "A person doing a waving movement with the left hand",
+                "start": 0.0,
+                "end": 5.03
+            }
+        ]
+    },
+    "M00888": {
+        "path": "M/KIT/359/walking_slow01_poses",
+        "duration": 7.21,
+        "annotations": [
+            {
+                "seg_id": "M00888_0",
+                "text": "A human is slowly walking forward.",
+                "start": 0.0,
+                "end": 7.21
+            },
+            {
+                "seg_id": "M00888_1",
+                "text": "Someone is walking 5 steps very slowly starting with the left leg.",
+                "start": 0.0,
+                "end": 7.21
+            },
+            {
+                "seg_id": "M00888_2",
+                "text": "a person walks very slowly forwards",
+                "start": 0.0,
+                "end": 7.21
+            }
+        ]
+    },
+    "M00941": {
+        "path": "M/KIT/348/bend_left05_poses",
+        "duration": 5.38,
+        "annotations": [
+            {
+                "seg_id": "M00941_0",
+                "text": "A person walks clockwise on a quarter circle with 1,5m radius.",
+                "start": 0.0,
+                "end": 5.38
+            },
+            {
+                "seg_id": "M00941_1",
+                "text": "A person walks a right turn of 90 degrees.",
+                "start": 0.0,
+                "end": 5.38
+            }
+        ]
+    },
+    "M00954": {
+        "path": "M/KIT/348/turn_right08_poses",
+        "duration": 5.56,
+        "annotations": [
+            {
+                "seg_id": "M00954_0",
+                "text": "A human walking back and forward in a straight line",
+                "start": 0.0,
+                "end": 5.56
+            },
+            {
+                "seg_id": "M00954_1",
+                "text": "human goes forward, turns around partways, and goes back to starting position",
+                "start": 0.0,
+                "end": 5.56
+            }
+        ]
+    },
+    "M00987": {
+        "path": "M/KIT/359/bend_left02_poses",
+        "duration": 4.26,
+        "annotations": [
+            {
+                "seg_id": "M00987_0",
+                "text": "A human turning right",
+                "start": 0.0,
+                "end": 4.26
+            }
+        ]
+    },
+    "M00995": {
+        "path": "M/KIT/359/bend_left10_poses",
+        "duration": 4.61,
+        "annotations": [
+            {
+                "seg_id": "M00995_0",
+                "text": "a person walks a quarter circle to his right",
+                "start": 0.0,
+                "end": 4.61
+            }
+        ]
+    },
+    "M01023": {
+        "path": "M/KIT/291/push_recovery_stand_right08_poses",
+        "duration": 4.51,
+        "annotations": [
+            {
+                "seg_id": "M01023_0",
+                "text": "A person steps to the right with his right foot then crosses behind with his left foot before returning to the starting position.",
+                "start": 0.0,
+                "end": 4.51
+            },
+            {
+                "seg_id": "M01023_1",
+                "text": "A person gets pushed from the left and performs a recovery step to the behind right side.",
+                "start": 0.0,
+                "end": 4.51
+            },
+            {
+                "seg_id": "M01023_2",
+                "text": "A person dodges backwards to the right",
+                "start": 0.0,
+                "end": 4.51
+            },
+            {
+                "seg_id": "M01023_3",
+                "text": "A person dodges sidewards.",
+                "start": 0.0,
+                "end": 4.51
+            }
+        ]
+    },
+    "M01029": {
+        "path": "M/KIT/3/walking_medium04_poses",
+        "duration": 5.29,
+        "annotations": [
+            {
+                "seg_id": "M01029_0",
+                "text": "A person walks four steps forward.",
+                "start": 0.0,
+                "end": 5.29
+            }
+        ]
+    },
+    "M01047": {
+        "path": "M/KIT/3/walking_fast03_poses",
+        "duration": 4.11,
+        "annotations": [
+            {
+                "seg_id": "M01047_0",
+                "text": "Someone walks forward.",
+                "start": 0.0,
+                "end": 4.11
+            },
+            {
+                "seg_id": "M01047_1",
+                "text": "A human walks forwards.",
+                "start": 0.0,
+                "end": 4.11
+            },
+            {
+                "seg_id": "M01047_2",
+                "text": "A person walked away.",
+                "start": 0.0,
+                "end": 4.11
+            },
+            {
+                "seg_id": "M01047_3",
+                "text": "Person walking forwards",
+                "start": 0.0,
+                "end": 4.11
+            },
+            {
+                "seg_id": "M01047_4",
+                "text": "someone walks quickly",
+                "start": 0.0,
+                "end": 4.11
+            },
+            {
+                "seg_id": "M01047_5",
+                "text": "A person walks approximately 2 meters straight on.",
+                "start": 0.0,
+                "end": 4.11
+            },
+            {
+                "seg_id": "M01047_6",
+                "text": "A person starts walking forward for 4 steps before he stands still again.",
+                "start": 0.0,
+                "end": 4.11
+            },
+            {
+                "seg_id": "M01047_7",
+                "text": "a person walks forwards",
+                "start": 0.0,
+                "end": 4.11
+            },
+            {
+                "seg_id": "M01047_8",
+                "text": "human goes forward",
+                "start": 0.0,
+                "end": 4.11
+            }
+        ]
+    },
+    "M01063": {
+        "path": "M/KIT/3/bend_right04_poses",
+        "duration": 5.51,
+        "annotations": [
+            {
+                "seg_id": "M01063_0",
+                "text": "A human turning left",
+                "start": 0.0,
+                "end": 5.51
+            }
+        ]
+    },
+    "M01068": {
+        "path": "M/KIT/3/bend_right09_poses",
+        "duration": 5.65,
+        "annotations": [
+            {
+                "seg_id": "M01068_0",
+                "text": "A human turning left",
+                "start": 0.0,
+                "end": 5.65
+            },
+            {
+                "seg_id": "M01068_1",
+                "text": "a person walks in a quarter circle to the left",
+                "start": 0.0,
+                "end": 5.65
+            }
+        ]
+    },
+    "M01069": {
+        "path": "M/KIT/3/bend_right10_poses",
+        "duration": 5.51,
+        "annotations": [
+            {
+                "seg_id": "M01069_0",
+                "text": "A human walks forwards and slowly turns left, then stops.",
+                "start": 0.0,
+                "end": 5.51
+            },
+            {
+                "seg_id": "M01069_1",
+                "text": "The person walks a left bend.",
+                "start": 0.0,
+                "end": 5.51
+            },
+            {
+                "seg_id": "M01069_2",
+                "text": "A human is walking a 90 degree left curve",
+                "start": 0.0,
+                "end": 5.51
+            },
+            {
+                "seg_id": "M01069_3",
+                "text": "A perso n turns left.",
+                "start": 0.0,
+                "end": 5.51
+            },
+            {
+                "seg_id": "M01069_4",
+                "text": "some one turns a lager left corner.",
+                "start": 0.0,
+                "end": 5.51
+            }
+        ]
+    },
+    "M01080": {
+        "path": "M/KIT/3/turn_right01_poses",
+        "duration": 4.94,
+        "annotations": [
+            {
+                "seg_id": "M01080_0",
+                "text": "A person makes two steps forward, then turns 180 degrees and makes two steps forward.",
+                "start": 0.0,
+                "end": 4.94
+            },
+            {
+                "seg_id": "M01080_1",
+                "text": "human goes forward, turns around counterclockwise, and goes back to starting point",
+                "start": 0.0,
+                "end": 4.94
+            },
+            {
+                "seg_id": "M01080_2",
+                "text": "a person walks a few steps takes a turn of 180 degrees and walks some more steps",
+                "start": 0.0,
+                "end": 4.94
+            },
+            {
+                "seg_id": "M01080_3",
+                "text": "A person is spinning around while walking",
+                "start": 0.0,
+                "end": 4.94
+            },
+            {
+                "seg_id": "M01080_4",
+                "text": "The human walks a couple of steps turn around and goes back to starting point",
+                "start": 0.0,
+                "end": 4.94
+            },
+            {
+                "seg_id": "M01080_5",
+                "text": "A person does one step and a fast 180 degree turn",
+                "start": 0.0,
+                "end": 4.94
+            }
+        ]
+    },
+    "M01084": {
+        "path": "M/KIT/3/turn_right05_poses",
+        "duration": 5.17,
+        "annotations": [
+            {
+                "seg_id": "M01084_0",
+                "text": "Someone walks and turns on the spot",
+                "start": 0.0,
+                "end": 5.17
+            },
+            {
+                "seg_id": "M01084_1",
+                "text": "A person walks two steps, then spins around.",
+                "start": 0.0,
+                "end": 5.17
+            }
+        ]
+    },
+    "M01085": {
+        "path": "M/KIT/3/turn_right06_poses",
+        "duration": 4.46,
+        "annotations": [
+            {
+                "seg_id": "M01085_0",
+                "text": "A person is making a sharp turn.",
+                "start": 0.0,
+                "end": 4.46
+            }
+        ]
+    },
+    "M01144": {
+        "path": "M/KIT/424/bend_left10_poses",
+        "duration": 5.96,
+        "annotations": [
+            {
+                "seg_id": "M01144_0",
+                "text": "A person walks a quarter circle clockwise with 4 steps.",
+                "start": 0.0,
+                "end": 5.96
+            },
+            {
+                "seg_id": "M01144_1",
+                "text": "A person is taking a right turn while walking",
+                "start": 0.0,
+                "end": 5.96
+            },
+            {
+                "seg_id": "M01144_2",
+                "text": "A persond walks a right curve",
+                "start": 0.0,
+                "end": 5.96
+            }
+        ]
+    },
+    "M01147": {
+        "path": "M/KIT/424/bend_right03_poses",
+        "duration": 6.14,
+        "annotations": [
+            {
+                "seg_id": "M01147_0",
+                "text": "A person turns left",
+                "start": 0.0,
+                "end": 6.14
+            },
+            {
+                "seg_id": "M01147_1",
+                "text": "Someone walks in a circle counterclockwise",
+                "start": 0.0,
+                "end": 6.14
+            },
+            {
+                "seg_id": "M01147_2",
+                "text": "A person turns around a left corner",
+                "start": 0.0,
+                "end": 6.14
+            }
+        ]
+    },
+    "M01152": {
+        "path": "M/KIT/424/bend_right08_poses",
+        "duration": 8.55,
+        "annotations": [
+            {
+                "seg_id": "M01152_0",
+                "text": "A person turns left with medium speed.",
+                "start": 0.0,
+                "end": 8.55
+            }
+        ]
+    },
+    "M01154": {
+        "path": "M/KIT/424/bend_right10_poses",
+        "duration": 6.2,
+        "annotations": [
+            {
+                "seg_id": "M01154_0",
+                "text": "A person walks and turns left",
+                "start": 0.0,
+                "end": 6.2
+            },
+            {
+                "seg_id": "M01154_1",
+                "text": "human walks in a quater circle counterclockwise starting with left",
+                "start": 0.0,
+                "end": 6.2
+            },
+            {
+                "seg_id": "M01154_2",
+                "text": "A human is walking in a quarter of a circle to its left approximately with a radius of the same size as its body.",
+                "start": 0.0,
+                "end": 6.2
+            }
+        ]
+    },
+    "M01167": {
+        "path": "M/KIT/424/turn_right03_poses",
+        "duration": 5.65,
+        "annotations": [
+            {
+                "seg_id": "M01167_0",
+                "text": "A person walks forward, turns around on the spot and walks back",
+                "start": 0.0,
+                "end": 5.65
+            },
+            {
+                "seg_id": "M01167_1",
+                "text": "Someone walks forward then turn 180 degree and walks forward",
+                "start": 0.0,
+                "end": 5.65
+            }
+        ]
+    },
+    "M01195": {
+        "path": "M/KIT/424/walking_fast01_poses",
+        "duration": 4.94,
+        "annotations": [
+            {
+                "seg_id": "M01195_0",
+                "text": "A person walks forward",
+                "start": 0.0,
+                "end": 4.94
+            }
+        ]
+    },
+    "M01201": {
+        "path": "M/KIT/424/walking_fast07_poses",
+        "duration": 4.26,
+        "annotations": [
+            {
+                "seg_id": "M01201_0",
+                "text": "Someone walks forward",
+                "start": 0.0,
+                "end": 4.26
+            }
+        ]
+    },
+    "M01258": {
+        "path": "M/KIT/572/throw_left02_poses",
+        "duration": 3.58,
+        "annotations": [
+            {
+                "seg_id": "M01258_0",
+                "text": "A person throws an object with the right hand.",
+                "start": 0.0,
+                "end": 3.58
+            }
+        ]
+    },
+    "M01269": {
+        "path": "M/KIT/572/bow_slight03_poses",
+        "duration": 5.01,
+        "annotations": [
+            {
+                "seg_id": "M01269_0",
+                "text": "A person bows slightly",
+                "start": 0.0,
+                "end": 5.01
+            },
+            {
+                "seg_id": "M01269_1",
+                "text": "A person makes a bow.",
+                "start": 0.0,
+                "end": 5.01
+            },
+            {
+                "seg_id": "M01269_2",
+                "text": "A person bows.",
+                "start": 0.0,
+                "end": 5.01
+            },
+            {
+                "seg_id": "M01269_3",
+                "text": "A person takes a bow.",
+                "start": 0.0,
+                "end": 5.01
+            }
+        ]
+    },
+    "M01285": {
+        "path": "M/KIT/572/kick_low_right04_poses",
+        "duration": 5.02,
+        "annotations": [
+            {
+                "seg_id": "M01285_0",
+                "text": "A person is kicking at something at knee height",
+                "start": 0.0,
+                "end": 5.02
+            },
+            {
+                "seg_id": "M01285_1",
+                "text": "A person kicks something with its left foot",
+                "start": 0.0,
+                "end": 5.02
+            },
+            {
+                "seg_id": "M01285_2",
+                "text": "A person performs a low kick.",
+                "start": 0.0,
+                "end": 5.02
+            },
+            {
+                "seg_id": "M01285_3",
+                "text": "A human performs a forward kick with his left leg.",
+                "start": 0.0,
+                "end": 5.02
+            }
+        ]
+    },
+    "M01310": {
+        "path": "M/KIT/572/stomp_right05_poses",
+        "duration": 4.63,
+        "annotations": [
+            {
+                "seg_id": "M01310_0",
+                "text": "Subject raises its left leg.",
+                "start": 0.0,
+                "end": 4.63
+            },
+            {
+                "seg_id": "M01310_1",
+                "text": "a person stomps on the ground with its left foot",
+                "start": 0.0,
+                "end": 4.63
+            }
+        ]
+    },
+    "M01355": {
+        "path": "M/KIT/572/tennis_smash_right04_poses",
+        "duration": 7.74,
+        "annotations": [
+            {
+                "seg_id": "M01355_0",
+                "text": "A person performs a punching motion.",
+                "start": 0.0,
+                "end": 7.74
+            }
+        ]
+    },
+    "M01373": {
+        "path": "M/KIT/572/wave_right03_poses",
+        "duration": 6.58,
+        "annotations": [
+            {
+                "seg_id": "M01373_0",
+                "text": "A person is waving withthe left hand.",
+                "start": 0.0,
+                "end": 6.58
+            },
+            {
+                "seg_id": "M01373_1",
+                "text": "A person is wiping a surface in front of him.",
+                "start": 0.0,
+                "end": 6.58
+            }
+        ]
+    },
+    "M01382": {
+        "path": "M/KIT/572/wave_right12_poses",
+        "duration": 10.68,
+        "annotations": [
+            {
+                "seg_id": "M01382_0",
+                "text": "A human subject is waving five times with the left hand.",
+                "start": 0.0,
+                "end": 10.68
+            },
+            {
+                "seg_id": "M01382_1",
+                "text": "a person waves with his left hand",
+                "start": 0.0,
+                "end": 10.68
+            }
+        ]
+    },
+    "M01390": {
+        "path": "M/KIT/572/wave_left05_poses",
+        "duration": 6.22,
+        "annotations": [
+            {
+                "seg_id": "M01390_0",
+                "text": "A person is waving right hand.",
+                "start": 0.0,
+                "end": 6.22
+            },
+            {
+                "seg_id": "M01390_1",
+                "text": "a person waves with its right hand",
+                "start": 0.0,
+                "end": 6.22
+            },
+            {
+                "seg_id": "M01390_2",
+                "text": "Someone waving with his right hand.",
+                "start": 0.0,
+                "end": 6.22
+            }
+        ]
+    },
+    "M01391": {
+        "path": "M/KIT/572/wave_left06_poses",
+        "duration": 5.89,
+        "annotations": [
+            {
+                "seg_id": "M01391_0",
+                "text": "A person is waving.",
+                "start": 0.0,
+                "end": 5.89
+            }
+        ]
+    },
+    "M01399": {
+        "path": "M/KIT/572/wave_left14_poses",
+        "duration": 9.23,
+        "annotations": [
+            {
+                "seg_id": "M01399_0",
+                "text": "A person waves his right hand.",
+                "start": 0.0,
+                "end": 9.23
+            }
+        ]
+    },
+    "M01406": {
+        "path": "M/KIT/572/wave_both05_poses",
+        "duration": 7.13,
+        "annotations": [
+            {
+                "seg_id": "M01406_0",
+                "text": "the person is waving both hands",
+                "start": 0.0,
+                "end": 7.13
+            }
+        ]
+    },
+    "M01416": {
+        "path": "M/KIT/572/wave_both15_poses",
+        "duration": 10.1,
+        "annotations": [
+            {
+                "seg_id": "M01416_0",
+                "text": "A person is waving his hands in a big motion",
+                "start": 0.0,
+                "end": 10.1
+            },
+            {
+                "seg_id": "M01416_1",
+                "text": "A person waves with both hands.",
+                "start": 0.0,
+                "end": 10.1
+            },
+            {
+                "seg_id": "M01416_2",
+                "text": "a person waves with its two hands",
+                "start": 0.0,
+                "end": 10.1
+            },
+            {
+                "seg_id": "M01416_3",
+                "text": "A human waves with two hands simultaneously.",
+                "start": 0.0,
+                "end": 10.1
+            }
+        ]
+    },
+    "M01526": {
+        "path": "M/KIT/572/wipe_circular_left06_poses",
+        "duration": 6.17,
+        "annotations": [
+            {
+                "seg_id": "M01526_0",
+                "text": "Someone wipes something.",
+                "start": 0.0,
+                "end": 6.17
+            },
+            {
+                "seg_id": "M01526_1",
+                "text": "A human performs a sirring motion",
+                "start": 0.0,
+                "end": 6.17
+            },
+            {
+                "seg_id": "M01526_2",
+                "text": "a person wipes omething with its right hand",
+                "start": 0.0,
+                "end": 6.17
+            },
+            {
+                "seg_id": "M01526_3",
+                "text": "A person is moving as if cleaning a surface at breast hight.",
+                "start": 0.0,
+                "end": 6.17
+            }
+        ]
+    },
+    "M01535": {
+        "path": "M/KIT/572/wipe_circular_left15_poses",
+        "duration": 9.32,
+        "annotations": [
+            {
+                "seg_id": "M01535_0",
+                "text": "A human is stirring.",
+                "start": 0.0,
+                "end": 9.32
+            },
+            {
+                "seg_id": "M01535_1",
+                "text": "A person wipes a surface with his right arm.",
+                "start": 0.0,
+                "end": 9.32
+            },
+            {
+                "seg_id": "M01535_2",
+                "text": "a person wipes something in front of it with its right hand",
+                "start": 0.0,
+                "end": 9.32
+            }
+        ]
+    },
+    "M01542": {
+        "path": "M/EKUT/125/WSTR2_poses",
+        "duration": 6.08,
+        "annotations": [
+            {
+                "seg_id": "M01542_0",
+                "text": "a person walks forward",
+                "start": 0.0,
+                "end": 6.08
+            }
+        ]
+    },
+    "M01543": {
+        "path": "M/EKUT/125/WSTR3_poses",
+        "duration": 6.16,
+        "annotations": [
+            {
+                "seg_id": "M01543_0",
+                "text": "A person walking forwards for a few steps.",
+                "start": 0.0,
+                "end": 6.16
+            },
+            {
+                "seg_id": "M01543_1",
+                "text": "a person walks some meters forwards",
+                "start": 0.0,
+                "end": 6.16
+            }
+        ]
+    },
+    "M01555": {
+        "path": "M/EKUT/125/SLP301_poses",
+        "duration": 6.74,
+        "annotations": [
+            {
+                "seg_id": "M01555_0",
+                "text": "A person walking forwards and upwards",
+                "start": 0.0,
+                "end": 6.74
+            },
+            {
+                "seg_id": "M01555_1",
+                "text": "human goes forward",
+                "start": 0.0,
+                "end": 6.74
+            }
+        ]
+    },
+    "M01556": {
+        "path": "M/EKUT/125/SLP302_poses",
+        "duration": 6.94,
+        "annotations": [
+            {
+                "seg_id": "M01556_0",
+                "text": "A person is walking slightly slouched while drifting to the left.",
+                "start": 0.0,
+                "end": 6.94
+            },
+            {
+                "seg_id": "M01556_1",
+                "text": "human seems to be walking on a beam or something similar",
+                "start": 0.0,
+                "end": 6.94
+            },
+            {
+                "seg_id": "M01556_2",
+                "text": "A human is moving up a ramp",
+                "start": 0.0,
+                "end": 6.94
+            },
+            {
+                "seg_id": "M01556_3",
+                "text": "A person is walking forward",
+                "start": 0.0,
+                "end": 6.94
+            }
+        ]
+    },
+    "M01667": {
+        "path": "M/KIT/348/turn_left05_poses",
+        "duration": 6.19,
+        "annotations": [
+            {
+                "seg_id": "M01667_0",
+                "text": "A person walks forward then tu rns around by his right side and walks forward again.",
+                "start": 0.0,
+                "end": 6.19
+            },
+            {
+                "seg_id": "M01667_1",
+                "text": "A person walks two steps forward, turns around and walks back to the starting point.",
+                "start": 0.0,
+                "end": 6.19
+            }
+        ]
+    },
+    "M01694": {
+        "path": "M/KIT/425/walking_fast04_poses",
+        "duration": 4.73,
+        "annotations": [
+            {
+                "seg_id": "M01694_0",
+                "text": "A person walks four fast steps forward.",
+                "start": 0.0,
+                "end": 4.73
+            }
+        ]
+    },
+    "M01707": {
+        "path": "M/KIT/379/push_recovery_stand_right10_poses",
+        "duration": 3.51,
+        "annotations": [
+            {
+                "seg_id": "M01707_0",
+                "text": "A person is pushed to the right.",
+                "start": 0.0,
+                "end": 3.51
+            }
+        ]
+    },
+    "M01709": {
+        "path": "M/KIT/378/push_recovery_stand_back01_poses",
+        "duration": 3.11,
+        "annotations": [
+            {
+                "seg_id": "M01709_0",
+                "text": "A person gets pushed in the back and recovers in 1 step.",
+                "start": 0.0,
+                "end": 3.11
+            }
+        ]
+    },
+    "M01716": {
+        "path": "M/KIT/378/push_recovery_stand_back08_poses",
+        "duration": 4.01,
+        "annotations": [
+            {
+                "seg_id": "M01716_0",
+                "text": "human is pushed from behind and tries to compensate the pushing force by taking a step forward",
+                "start": 0.0,
+                "end": 4.01
+            },
+            {
+                "seg_id": "M01716_1",
+                "text": "A person gets pushed from the back",
+                "start": 0.0,
+                "end": 4.01
+            }
+        ]
+    },
+    "M01722": {
+        "path": "M/KIT/291/push_recovery_stand_front04_poses",
+        "duration": 5.0,
+        "annotations": [
+            {
+                "seg_id": "M01722_0",
+                "text": "Someone gets pushed backwards.",
+                "start": 0.0,
+                "end": 5.0
+            },
+            {
+                "seg_id": "M01722_1",
+                "text": "A person gets pushed from the front a few meters back",
+                "start": 0.0,
+                "end": 5.0
+            }
+        ]
+    },
+    "M01750": {
+        "path": "M/KIT/291/push_recovery_left08_poses",
+        "duration": 8.31,
+        "annotations": [
+            {
+                "seg_id": "M01750_0",
+                "text": "A person walks slowly forward and is pushed very slightly to the left.",
+                "start": 0.0,
+                "end": 8.31
+            },
+            {
+                "seg_id": "M01750_1",
+                "text": "A person walks forward, is pushed from the right, recovers and keeps walking.",
+                "start": 0.0,
+                "end": 8.31
+            },
+            {
+                "seg_id": "M01750_2",
+                "text": "someone steps suddenly aside to the left when he is walking and then steps forwards right back.",
+                "start": 0.0,
+                "end": 8.31
+            }
+        ]
+    },
+    "M01753": {
+        "path": "M/KIT/291/push_recovery_front05_poses",
+        "duration": 6.81,
+        "annotations": [
+            {
+                "seg_id": "M01753_0",
+                "text": "the person is walking forward and backward",
+                "start": 0.0,
+                "end": 6.81
+            },
+            {
+                "seg_id": "M01753_1",
+                "text": "A person walks forward then backward and forward again",
+                "start": 0.0,
+                "end": 6.81
+            },
+            {
+                "seg_id": "M01753_2",
+                "text": "a person walks some steps forward gets pushed backwards and then continues walking",
+                "start": 0.0,
+                "end": 6.81
+            }
+        ]
+    },
+    "M01761": {
+        "path": "M/KIT/291/push_recovery_back01_poses",
+        "duration": 5.76,
+        "annotations": [
+            {
+                "seg_id": "M01761_0",
+                "text": "something is happening to the person during the forward walk",
+                "start": 0.0,
+                "end": 5.76
+            },
+            {
+                "seg_id": "M01761_1",
+                "text": "A human walks forwards",
+                "start": 0.0,
+                "end": 5.76
+            },
+            {
+                "seg_id": "M01761_2",
+                "text": "A person is pushed slightly from behind while walking.",
+                "start": 0.0,
+                "end": 5.76
+            },
+            {
+                "seg_id": "M01761_3",
+                "text": "A human is stumbling with the left foot",
+                "start": 0.0,
+                "end": 5.76
+            },
+            {
+                "seg_id": "M01761_4",
+                "text": "a person walks forwards and gets then pushed from the back",
+                "start": 0.0,
+                "end": 5.76
+            },
+            {
+                "seg_id": "M01761_5",
+                "text": "A person starts to walk forward and stumbles after 2 steps.",
+                "start": 0.0,
+                "end": 5.76
+            },
+            {
+                "seg_id": "M01761_6",
+                "text": "A person takes seven forward steps at varying walking speed.",
+                "start": 0.0,
+                "end": 5.76
+            },
+            {
+                "seg_id": "M01761_7",
+                "text": "A person is walking forward.",
+                "start": 0.0,
+                "end": 5.76
+            },
+            {
+                "seg_id": "M01761_8",
+                "text": "A person walks and gets pushed forward.",
+                "start": 0.0,
+                "end": 5.76
+            },
+            {
+                "seg_id": "M01761_9",
+                "text": "Person makes one slow and three fast steps, then stops.",
+                "start": 0.0,
+                "end": 5.76
+            },
+            {
+                "seg_id": "M01761_10",
+                "text": "a person takes a few steps forward and stumbles.",
+                "start": 0.0,
+                "end": 5.76
+            },
+            {
+                "seg_id": "M01761_11",
+                "text": "Some is walking and doing some faster steps in between.",
+                "start": 0.0,
+                "end": 5.76
+            }
+        ]
+    },
+    "M01772": {
+        "path": "M/KIT/378/push_recovery_back04_poses",
+        "duration": 3.51,
+        "annotations": [
+            {
+                "seg_id": "M01772_0",
+                "text": "Person stumbles forward.",
+                "start": 0.0,
+                "end": 3.51
+            },
+            {
+                "seg_id": "M01772_1",
+                "text": "A human stumbles",
+                "start": 0.0,
+                "end": 3.51
+            },
+            {
+                "seg_id": "M01772_2",
+                "text": "A person trips a little.",
+                "start": 0.0,
+                "end": 3.51
+            }
+        ]
+    },
+    "M01775": {
+        "path": "M/KIT/378/push_recovery_back07_poses",
+        "duration": 3.51,
+        "annotations": [
+            {
+                "seg_id": "M01775_0",
+                "text": "A person is pushed forward while walking forwards.",
+                "start": 0.0,
+                "end": 3.51
+            }
+        ]
+    },
+    "M01800": {
+        "path": "M/KIT/378/push_recovery_right03_poses",
+        "duration": 7.01,
+        "annotations": [
+            {
+                "seg_id": "M01800_0",
+                "text": "the person is pushed to the right while walking forward",
+                "start": 0.0,
+                "end": 7.01
+            }
+        ]
+    },
+    "M01816": {
+        "path": "M/KIT/378/push_recovery_stand_left09_poses",
+        "duration": 3.31,
+        "annotations": [
+            {
+                "seg_id": "M01816_0",
+                "text": "A person recovers from a strong push to his right shoulder.",
+                "start": 0.0,
+                "end": 3.31
+            },
+            {
+                "seg_id": "M01816_1",
+                "text": "a person stand still and gets pushed to the left",
+                "start": 0.0,
+                "end": 3.31
+            },
+            {
+                "seg_id": "M01816_2",
+                "text": "A standing person gets shoved from his right.",
+                "start": 0.0,
+                "end": 3.31
+            },
+            {
+                "seg_id": "M01816_3",
+                "text": "A person is pushed from his right side.",
+                "start": 0.0,
+                "end": 3.31
+            }
+        ]
+    },
+    "M01849": {
+        "path": "M/KIT/379/push_recovery_stand_left03_poses",
+        "duration": 4.01,
+        "annotations": [
+            {
+                "seg_id": "M01849_0",
+                "text": "A person is pushed to the left.",
+                "start": 0.0,
+                "end": 4.01
+            },
+            {
+                "seg_id": "M01849_1",
+                "text": "A human jumps to the left.",
+                "start": 0.0,
+                "end": 4.01
+            },
+            {
+                "seg_id": "M01849_2",
+                "text": "A person jumps to his left.",
+                "start": 0.0,
+                "end": 4.01
+            },
+            {
+                "seg_id": "M01849_3",
+                "text": "Someone jumps to the right",
+                "start": 0.0,
+                "end": 4.01
+            },
+            {
+                "seg_id": "M01849_4",
+                "text": "Person being pushed to the left",
+                "start": 0.0,
+                "end": 4.01
+            },
+            {
+                "seg_id": "M01849_5",
+                "text": "Someone makes two sidejumps and stands straight afterwards.",
+                "start": 0.0,
+                "end": 4.01
+            },
+            {
+                "seg_id": "M01849_6",
+                "text": "Someone steps quickly to the left.",
+                "start": 0.0,
+                "end": 4.01
+            },
+            {
+                "seg_id": "M01849_7",
+                "text": "a jump to the left",
+                "start": 0.0,
+                "end": 4.01
+            },
+            {
+                "seg_id": "M01849_8",
+                "text": "A persons jumps to the left.",
+                "start": 0.0,
+                "end": 4.01
+            },
+            {
+                "seg_id": "M01849_9",
+                "text": "A person fastly moves to the left",
+                "start": 0.0,
+                "end": 4.01
+            },
+            {
+                "seg_id": "M01849_10",
+                "text": "A person gets pushed to the left.",
+                "start": 0.0,
+                "end": 4.01
+            },
+            {
+                "seg_id": "M01849_11",
+                "text": "A person makes two little jumps to the left.",
+                "start": 0.0,
+                "end": 4.01
+            },
+            {
+                "seg_id": "M01849_12",
+                "text": "A person jumps to the left.",
+                "start": 0.0,
+                "end": 4.01
+            }
+        ]
+    },
+    "M01877": {
+        "path": "M/KIT/379/push_recovery_left04_poses",
+        "duration": 6.01,
+        "annotations": [
+            {
+                "seg_id": "M01877_0",
+                "text": "A person walks forward, gets pushed from the right and performs a sidestep.",
+                "start": 0.0,
+                "end": 6.01
+            }
+        ]
+    },
+    "M01881": {
+        "path": "M/KIT/379/push_recovery_left08_poses",
+        "duration": 5.76,
+        "annotations": [
+            {
+                "seg_id": "M01881_0",
+                "text": "the person walking to forward is suddenly pushed to the left",
+                "start": 0.0,
+                "end": 5.76
+            },
+            {
+                "seg_id": "M01881_1",
+                "text": "A person is getting pushed while walking",
+                "start": 0.0,
+                "end": 5.76
+            },
+            {
+                "seg_id": "M01881_2",
+                "text": "A person walks forward and is pushed from the right.",
+                "start": 0.0,
+                "end": 5.76
+            }
+        ]
+    },
+    "M01886": {
+        "path": "M/KIT/379/push_recovery_right04_poses",
+        "duration": 4.76,
+        "annotations": [
+            {
+                "seg_id": "M01886_0",
+                "text": "A human is being pushed.",
+                "start": 0.0,
+                "end": 4.76
+            },
+            {
+                "seg_id": "M01886_1",
+                "text": "A person makes two steps and makes a sitestep.",
+                "start": 0.0,
+                "end": 4.76
+            }
+        ]
+    },
+    "M01906": {
+        "path": "M/KIT/421/push_recovery_front04_poses",
+        "duration": 6.26,
+        "annotations": [
+            {
+                "seg_id": "M01906_0",
+                "text": "A human walks 2 and a half steps forward, one step backwards and 3 steps forward",
+                "start": 0.0,
+                "end": 6.26
+            },
+            {
+                "seg_id": "M01906_1",
+                "text": "a person walks forwards then backwards and then forwards again",
+                "start": 0.0,
+                "end": 6.26
+            },
+            {
+                "seg_id": "M01906_2",
+                "text": "human is pushed from front while walking forward",
+                "start": 0.0,
+                "end": 6.26
+            },
+            {
+                "seg_id": "M01906_3",
+                "text": "A person kicks something, takes a step backward and then continues walking",
+                "start": 0.0,
+                "end": 6.26
+            }
+        ]
+    },
+    "M01920": {
+        "path": "M/KIT/421/push_recovery_left08_poses",
+        "duration": 5.01,
+        "annotations": [
+            {
+                "seg_id": "M01920_0",
+                "text": "A person walks forward and is pushed to the left.",
+                "start": 0.0,
+                "end": 5.01
+            },
+            {
+                "seg_id": "M01920_1",
+                "text": "A person is dodging an obstacle to the left.",
+                "start": 0.0,
+                "end": 5.01
+            }
+        ]
+    },
+    "M01949": {
+        "path": "M/KIT/421/push_recovery_stand_front08_poses",
+        "duration": 3.52,
+        "annotations": [
+            {
+                "seg_id": "M01949_0",
+                "text": "A person stumbles backwards.",
+                "start": 0.0,
+                "end": 3.52
+            },
+            {
+                "seg_id": "M01949_1",
+                "text": "A person taking a step back",
+                "start": 0.0,
+                "end": 3.52
+            }
+        ]
+    },
+    "M01952": {
+        "path": "M/KIT/421/push_recovery_stand_left01_poses",
+        "duration": 9.32,
+        "annotations": [
+            {
+                "seg_id": "M01952_0",
+                "text": "A person takes a sudden step to the left, left foot leading, right foot following.",
+                "start": 0.0,
+                "end": 9.32
+            },
+            {
+                "seg_id": "M01952_1",
+                "text": "human is pushed from right side and counterbalances push by stepping sideways",
+                "start": 0.0,
+                "end": 9.32
+            },
+            {
+                "seg_id": "M01952_2",
+                "text": "A person stands still, he then gets pushed from his right and stumbles to his left.",
+                "start": 0.0,
+                "end": 9.32
+            }
+        ]
+    },
+    "M02021": {
+        "path": "M/KIT/424/run05_poses",
+        "duration": 0.82,
+        "annotations": [
+            {
+                "seg_id": "M02021_0",
+                "text": "Someone is sprinting through the room.",
+                "start": 0.0,
+                "end": 0.82
+            },
+            {
+                "seg_id": "M02021_1",
+                "text": "a person runs straight forward",
+                "start": 0.0,
+                "end": 0.82
+            },
+            {
+                "seg_id": "M02021_2",
+                "text": "a man is running",
+                "start": 0.0,
+                "end": 0.82
+            }
+        ]
+    },
+    "M02023": {
+        "path": "M/KIT/513/turn_right02_poses",
+        "duration": 6.29,
+        "annotations": [
+            {
+                "seg_id": "M02023_0",
+                "text": "A person turns around",
+                "start": 0.0,
+                "end": 6.29
+            },
+            {
+                "seg_id": "M02023_1",
+                "text": "Subject walks forward spins around and walks back.",
+                "start": 0.0,
+                "end": 6.29
+            }
+        ]
+    },
+    "M02031": {
+        "path": "M/KIT/513/turn_right10_poses",
+        "duration": 5.39,
+        "annotations": [
+            {
+                "seg_id": "M02031_0",
+                "text": "A person walks forwards, turns and walks back.",
+                "start": 0.0,
+                "end": 5.39
+            },
+            {
+                "seg_id": "M02031_1",
+                "text": "a person walks forwards a few steps then turns 180 degrees to the left and keeps walking",
+                "start": 0.0,
+                "end": 5.39
+            }
+        ]
+    },
+    "M02032": {
+        "path": "M/KIT/513/turn_left01_poses",
+        "duration": 7.09,
+        "annotations": [
+            {
+                "seg_id": "M02032_0",
+                "text": "After walking a bit forward, a person turns around on one leg to return",
+                "start": 0.0,
+                "end": 7.09
+            },
+            {
+                "seg_id": "M02032_1",
+                "text": "A person walks forward, turns on the spot and walks back.",
+                "start": 0.0,
+                "end": 7.09
+            },
+            {
+                "seg_id": "M02032_2",
+                "text": "Someone is walking forward 2 steps starting with the left leg, then turning back around his right side and walking back 2 steps.",
+                "start": 0.0,
+                "end": 7.09
+            },
+            {
+                "seg_id": "M02032_3",
+                "text": "A human does a tight 180 degree turn on the left foot",
+                "start": 0.0,
+                "end": 7.09
+            }
+        ]
+    },
+    "M02040": {
+        "path": "M/KIT/513/turn_left09_poses",
+        "duration": 5.52,
+        "annotations": [
+            {
+                "seg_id": "M02040_0",
+                "text": "Person is walking, while looking down, changes direction and walks back",
+                "start": 0.0,
+                "end": 5.52
+            },
+            {
+                "seg_id": "M02040_1",
+                "text": "a person walks forward takes a 180 degree turn to the right and walks some more steps",
+                "start": 0.0,
+                "end": 5.52
+            }
+        ]
+    },
+    "M02042": {
+        "path": "M/KIT/3/kneel_down_with_right_hand02_poses",
+        "duration": 6.02,
+        "annotations": [
+            {
+                "seg_id": "M02042_0",
+                "text": "A person kneels down.",
+                "start": 0.0,
+                "end": 6.02
+            }
+        ]
+    },
+    "M02061": {
+        "path": "M/KIT/3/kneel_up_with_right_hand01_poses",
+        "duration": 6.17,
+        "annotations": [
+            {
+                "seg_id": "M02061_0",
+                "text": "A kneeling person stands up.",
+                "start": 0.0,
+                "end": 6.17
+            },
+            {
+                "seg_id": "M02061_1",
+                "text": "A human is kneeling and getting up by pushing with the left arm from the floo",
+                "start": 0.0,
+                "end": 6.17
+            },
+            {
+                "seg_id": "M02061_2",
+                "text": "a man starts on his knees and stands up",
+                "start": 0.0,
+                "end": 6.17
+            }
+        ]
+    },
+    "M02089": {
+        "path": "M/KIT/3/kneel_up_from_crawl06_poses",
+        "duration": 6.16,
+        "annotations": [
+            {
+                "seg_id": "M02089_0",
+                "text": "A person laying on their hands and knees stands up by using their left foot first, then pushing off it to stay balanced.",
+                "start": 0.0,
+                "end": 6.16
+            },
+            {
+                "seg_id": "M02089_1",
+                "text": "A person rises to upleft stance from resting on all fours",
+                "start": 0.0,
+                "end": 6.16
+            },
+            {
+                "seg_id": "M02089_2",
+                "text": "A person is getting up from a kneeling position.",
+                "start": 0.0,
+                "end": 6.16
+            },
+            {
+                "seg_id": "M02089_3",
+                "text": "A crawling person stands up.",
+                "start": 0.0,
+                "end": 6.16
+            },
+            {
+                "seg_id": "M02089_4",
+                "text": "someone throws his knees and hands on the ground and then he stands up.",
+                "start": 0.0,
+                "end": 6.16
+            }
+        ]
+    },
+    "M02114": {
+        "path": "M/KIT/3/kneel_down_with_both_hands11_poses",
+        "duration": 5.4,
+        "annotations": [
+            {
+                "seg_id": "M02114_0",
+                "text": "A person knees down with hand support",
+                "start": 0.0,
+                "end": 5.4
+            },
+            {
+                "seg_id": "M02114_1",
+                "text": "Someone is kneeling down.",
+                "start": 0.0,
+                "end": 5.4
+            }
+        ]
+    },
+    "M02120": {
+        "path": "M/KIT/425/walking_06_poses",
+        "duration": 5.2,
+        "annotations": [
+            {
+                "seg_id": "M02120_0",
+                "text": "A person makes a little jump then walks forwards.",
+                "start": 0.0,
+                "end": 5.2
+            },
+            {
+                "seg_id": "M02120_1",
+                "text": "Someone is jumping and then walking forward doing 4 steps starting with the left leg.",
+                "start": 0.0,
+                "end": 5.2
+            }
+        ]
+    },
+    "M02135": {
+        "path": "M/KIT/969/Trial_21_poses",
+        "duration": 17.3,
+        "annotations": [
+            {
+                "seg_id": "M02135_0",
+                "text": "A person performs swiping motions using the left hand.",
+                "start": 0.0,
+                "end": 17.3
+            }
+        ]
+    },
+    "M02140": {
+        "path": "M/KIT/969/Trial_26_poses",
+        "duration": 15.28,
+        "annotations": [
+            {
+                "seg_id": "M02140_0",
+                "text": "A person performs swiping gestures with the right hand.",
+                "start": 0.0,
+                "end": 15.28
+            }
+        ]
+    },
+    "M02159": {
+        "path": "M/KIT/969/Trial_46_poses",
+        "duration": 11.94,
+        "annotations": [
+            {
+                "seg_id": "M02159_0",
+                "text": "A person makes with both hands big circles in the air.",
+                "start": 0.0,
+                "end": 11.94
+            }
+        ]
+    },
+    "M02160": {
+        "path": "M/KIT/969/Trial_47_poses",
+        "duration": 11.12,
+        "annotations": [
+            {
+                "seg_id": "M02160_0",
+                "text": "A person performs circling motions with both hands.",
+                "start": 0.0,
+                "end": 11.12
+            }
+        ]
+    },
+    "M02253": {
+        "path": "M/CMU/128/128_06_poses",
+        "duration": 1.642,
+        "annotations": [
+            {
+                "seg_id": "M02253_0",
+                "text": "A human runs, stops abruptly and continues running.",
+                "start": 0.0,
+                "end": 1.642
+            }
+        ]
+    },
+    "M02261": {
+        "path": "M/CMU/01/01_03_poses",
+        "duration": 37.583,
+        "annotations": [
+            {
+                "seg_id": "M02261_0",
+                "text": "A person doing sport by climbing up a ladder and hanging at a bar.",
+                "start": 0.0,
+                "end": 37.583
+            }
+        ]
+    },
+    "M02279": {
+        "path": "M/CMU/02/02_09_poses",
+        "duration": 8.608,
+        "annotations": [
+            {
+                "seg_id": "M02279_0",
+                "text": "A person is doing sidewards punches like with paddle at ping-pong.",
+                "start": 0.0,
+                "end": 8.608
+            }
+        ]
+    },
+    "M02339": {
+        "path": "M/CMU/132/132_45_poses",
+        "duration": 12.758,
+        "annotations": [
+            {
+                "seg_id": "M02339_0",
+                "text": "A person is carefully and slowly moving straight forward.",
+                "start": 0.0,
+                "end": 12.758
+            }
+        ]
+    },
+    "M02400": {
+        "path": "M/CMU/135/135_09_poses",
+        "duration": 17.917,
+        "annotations": [
+            {
+                "seg_id": "M02400_0",
+                "text": "A person is doing punch moves while stepping forward and backward again.",
+                "start": 0.0,
+                "end": 17.917
+            }
+        ]
+    },
+    "M02427": {
+        "path": "M/CMU/136/136_26_poses",
+        "duration": 11.85,
+        "annotations": [
+            {
+                "seg_id": "M02427_0",
+                "text": "a person walks backwards",
+                "start": 0.0,
+                "end": 11.85
+            }
+        ]
+    },
+    "M02441": {
+        "path": "M/CMU/137/137_07_poses",
+        "duration": 39.792,
+        "annotations": [
+            {
+                "seg_id": "M02441_0",
+                "text": "A person is walking carefully and strongly bent over like inspecting the ground for something.",
+                "start": 0.0,
+                "end": 39.792
+            }
+        ]
+    },
+    "M02470": {
+        "path": "M/CMU/137/137_36_poses",
+        "duration": 21.3,
+        "annotations": [
+            {
+                "seg_id": "M02470_0",
+                "text": "A person walks casually around and picks something up from the floor.",
+                "start": 0.0,
+                "end": 21.3
+            }
+        ]
+    },
+    "M02474": {
+        "path": "M/CMU/137/137_40_poses",
+        "duration": 16.983,
+        "annotations": [
+            {
+                "seg_id": "M02474_0",
+                "text": "a person walks, picks up an object and inspects it",
+                "start": 0.0,
+                "end": 16.983
+            }
+        ]
+    },
+    "M02490": {
+        "path": "M/CMU/139/139_14_poses",
+        "duration": 16.5,
+        "annotations": [
+            {
+                "seg_id": "M02490_0",
+                "text": "A person is bent over walking to the left then to the right.",
+                "start": 0.0,
+                "end": 16.5
+            }
+        ]
+    },
+    "M02499": {
+        "path": "M/CMU/139/139_23_poses",
+        "duration": 26.533,
+        "annotations": [
+            {
+                "seg_id": "M02499_0",
+                "text": "A human walks holding her left upper leg with both hands.",
+                "start": 0.0,
+                "end": 26.533
+            }
+        ]
+    },
+    "M02598": {
+        "path": "M/CMU/107/107_13_poses",
+        "duration": 3.583,
+        "annotations": [
+            {
+                "seg_id": "M02598_0",
+                "text": "A human slowly walks two steps.",
+                "start": 0.0,
+                "end": 3.583
+            }
+        ]
+    },
+    "M02644": {
+        "path": "M/CMU/36/36_14_poses",
+        "duration": 34.55,
+        "annotations": [
+            {
+                "seg_id": "M02644_0",
+                "text": "A human walks up and down over small platforms.",
+                "start": 0.0,
+                "end": 34.55
+            }
+        ]
+    },
+    "M02671": {
+        "path": "M/CMU/38/38_04_poses",
+        "duration": 71.925,
+        "annotations": [
+            {
+                "seg_id": "M02671_0",
+                "text": "A man wolk back and forth in straight line, and denn in eight figures",
+                "start": 0.0,
+                "end": 71.925
+            }
+        ]
+    },
+    "M02702": {
+        "path": "M/CMU/07/07_03_poses",
+        "duration": 3.458,
+        "annotations": [
+            {
+                "seg_id": "M02702_0",
+                "text": "A person walks forward.",
+                "start": 0.0,
+                "end": 3.458
+            }
+        ]
+    },
+    "M02703": {
+        "path": "M/CMU/07/07_04_poses",
+        "duration": 3.742,
+        "annotations": [
+            {
+                "seg_id": "M02703_0",
+                "text": "A human walks straight.",
+                "start": 0.0,
+                "end": 3.742
+            }
+        ]
+    },
+    "M02715": {
+        "path": "M/CMU/08/08_01_poses",
+        "duration": 2.308,
+        "annotations": [
+            {
+                "seg_id": "M02715_0",
+                "text": "A person is slowly and casually walking forward with swinging arms.",
+                "start": 0.0,
+                "end": 2.308
+            }
+        ]
+    },
+    "M02723": {
+        "path": "M/CMU/08/08_09_poses",
+        "duration": 2.442,
+        "annotations": [
+            {
+                "seg_id": "M02723_0",
+                "text": "A human is walking",
+                "start": 0.0,
+                "end": 2.442
+            }
+        ]
+    },
+    "M02752": {
+        "path": "M/CMU/54/54_27_poses",
+        "duration": 28.667,
+        "annotations": [
+            {
+                "seg_id": "M02752_0",
+                "text": "A person exploring its environment with head moves.",
+                "start": 0.0,
+                "end": 28.667
+            }
+        ]
+    },
+    "M02795": {
+        "path": "M/CMU/143/143_07_poses",
+        "duration": 9.283,
+        "annotations": [
+            {
+                "seg_id": "M02795_0",
+                "text": "A human jumps to the right, then to the left.",
+                "start": 0.0,
+                "end": 9.283
+            }
+        ]
+    },
+    "M02903": {
+        "path": "M/CMU/74/74_15_poses",
+        "duration": 7.317,
+        "annotations": [
+            {
+                "seg_id": "M02903_0",
+                "text": "A person walks up a slope.",
+                "start": 0.0,
+                "end": 7.317
+            }
+        ]
+    },
+    "M02914": {
+        "path": "M/CMU/75/75_06_poses",
+        "duration": 12.15,
+        "annotations": [
+            {
+                "seg_id": "M02914_0",
+                "text": "A person jumps 180 degree clockwise.",
+                "start": 0.0,
+                "end": 12.15
+            }
+        ]
+    },
+    "M02943": {
+        "path": "M/CMU/77/77_04_poses",
+        "duration": 14.717,
+        "annotations": [
+            {
+                "seg_id": "M02943_0",
+                "text": "suspicious looking to the right and left",
+                "start": 0.0,
+                "end": 14.717
+            }
+        ]
+    },
+    "M02992": {
+        "path": "M/CMU/78/78_19_poses",
+        "duration": 1.467,
+        "annotations": [
+            {
+                "seg_id": "M02992_0",
+                "text": "a person does a dodge movement and runs forward",
+                "start": 0.0,
+                "end": 1.467
+            }
+        ]
+    },
+    "M03072": {
+        "path": "M/CMU/79/79_64_poses",
+        "duration": 17.967,
+        "annotations": [
+            {
+                "seg_id": "M03072_0",
+                "text": "A person imitates a penguin.",
+                "start": 0.0,
+                "end": 17.967
+            }
+        ]
+    },
+    "M03083": {
+        "path": "M/CMU/79/79_75_poses",
+        "duration": 21.5,
+        "annotations": [
+            {
+                "seg_id": "M03083_0",
+                "text": "Someone who describes something.",
+                "start": 0.0,
+                "end": 21.5
+            }
+        ]
+    },
+    "M03099": {
+        "path": "M/CMU/79/79_91_poses",
+        "duration": 8.3,
+        "annotations": [
+            {
+                "seg_id": "M03099_0",
+                "text": "Someone who throwing something and looks after it.",
+                "start": 0.0,
+                "end": 8.3
+            }
+        ]
+    },
+    "M03107": {
+        "path": "M/CMU/80/80_03_poses",
+        "duration": 11.0,
+        "annotations": [
+            {
+                "seg_id": "M03107_0",
+                "text": "A human shoots with a gun.",
+                "start": 0.0,
+                "end": 11.0
+            }
+        ]
+    },
+    "M03219": {
+        "path": "M/CMU/82/82_08_poses",
+        "duration": 14.158,
+        "annotations": [
+            {
+                "seg_id": "M03219_0",
+                "text": "A person looks around and then walks forward.",
+                "start": 0.0,
+                "end": 14.158
+            }
+        ]
+    },
+    "M03245": {
+        "path": "M/CMU/83/83_16_poses",
+        "duration": 4.25,
+        "annotations": [
+            {
+                "seg_id": "M03245_0",
+                "text": "A person doing a big step to the right.",
+                "start": 0.0,
+                "end": 4.25
+            }
+        ]
+    },
+    "M03246": {
+        "path": "M/CMU/83/83_17_poses",
+        "duration": 4.367,
+        "annotations": [
+            {
+                "seg_id": "M03246_0",
+                "text": "A person performs a huge right-diagonal step",
+                "start": 0.0,
+                "end": 4.367
+            }
+        ]
+    },
+    "M03263": {
+        "path": "M/CMU/83/83_34_poses",
+        "duration": 8.058,
+        "annotations": [
+            {
+                "seg_id": "M03263_0",
+                "text": "A person is climbing stairs.",
+                "start": 0.0,
+                "end": 8.058
+            }
+        ]
+    },
+    "M03265": {
+        "path": "M/CMU/83/83_36_poses",
+        "duration": 8.85,
+        "annotations": [
+            {
+                "seg_id": "M03265_0",
+                "text": "A human walking and turning 90 degree to right.",
+                "start": 0.0,
+                "end": 8.85
+            }
+        ]
+    },
+    "M03267": {
+        "path": "M/CMU/83/83_38_poses",
+        "duration": 8.383,
+        "annotations": [
+            {
+                "seg_id": "M03267_0",
+                "text": "A person walks ahead and then turns right",
+                "start": 0.0,
+                "end": 8.383
+            }
+        ]
+    },
+    "M03280": {
+        "path": "M/CMU/83/83_51_poses",
+        "duration": 4.925,
+        "annotations": [
+            {
+                "seg_id": "M03280_0",
+                "text": "a human jumps while turning right",
+                "start": 0.0,
+                "end": 4.925
+            }
+        ]
+    },
+    "M03283": {
+        "path": "M/CMU/83/83_54_poses",
+        "duration": 3.5,
+        "annotations": [
+            {
+                "seg_id": "M03283_0",
+                "text": "A human performs a 180 degree clockwise jump.",
+                "start": 0.0,
+                "end": 3.5
+            }
+        ]
+    },
+    "M03344": {
+        "path": "M/CMU/89/89_02_poses",
+        "duration": 3.0,
+        "annotations": [
+            {
+                "seg_id": "M03344_0",
+                "text": "A person is standing a little bit bent backwards with both arms streched forward.",
+                "start": 0.0,
+                "end": 3.0
+            }
+        ]
+    },
+    "M03370": {
+        "path": "M/CMU/90/90_23_poses",
+        "duration": 9.892,
+        "annotations": [
+            {
+                "seg_id": "M03370_0",
+                "text": "A human walks.",
+                "start": 0.0,
+                "end": 9.892
+            }
+        ]
+    },
+    "M03401": {
+        "path": "M/CMU/91/91_18_poses",
+        "duration": 28.025,
+        "annotations": [
+            {
+                "seg_id": "M03401_0",
+                "text": "A human walks three steps, stops and repeats three times. Then turns around and walks back to start.",
+                "start": 0.0,
+                "end": 28.025
+            }
+        ]
+    },
+    "M03477": {
+        "path": "M/CMU/102/102_04_poses",
+        "duration": 1.392,
+        "annotations": [
+            {
+                "seg_id": "M03477_0",
+                "text": "A person do a fast change in walking direction.",
+                "start": 0.0,
+                "end": 1.392
+            }
+        ]
+    },
+    "M03513": {
+        "path": "M/CMU/103/103_07_poses",
+        "duration": 3.933,
+        "annotations": [
+            {
+                "seg_id": "M03513_0",
+                "text": "A human walking.",
+                "start": 0.0,
+                "end": 3.933
+            }
+        ]
+    },
+    "M03578": {
+        "path": "M/CMU/105/105_07_poses",
+        "duration": 21.517,
+        "annotations": [
+            {
+                "seg_id": "M03578_0",
+                "text": "A person is moving disoriented through the area in all directions.",
+                "start": 0.0,
+                "end": 21.517
+            }
+        ]
+    },
+    "M03635": {
+        "path": "M/CMU/106/106_02_poses",
+        "duration": 1.867,
+        "annotations": [
+            {
+                "seg_id": "M03635_0",
+                "text": "A person that is going forward stops immediately.",
+                "start": 0.0,
+                "end": 1.867
+            }
+        ]
+    },
+    "M03699": {
+        "path": "M/CMU/108/108_22_poses",
+        "duration": 3.85,
+        "annotations": [
+            {
+                "seg_id": "M03699_0",
+                "text": "A human runs, looks on the floor while continuing to walk slowly and continues her run.",
+                "start": 0.0,
+                "end": 3.85
+            }
+        ]
+    },
+    "M03726": {
+        "path": "M/CMU/111/111_21_poses",
+        "duration": 18.958,
+        "annotations": [
+            {
+                "seg_id": "M03726_0",
+                "text": "A person is lying on the ground and rolls onto the right side.",
+                "start": 0.0,
+                "end": 18.958
+            }
+        ]
+    },
+    "M03731": {
+        "path": "M/CMU/111/111_26_poses",
+        "duration": 22.675,
+        "annotations": [
+            {
+                "seg_id": "M03731_0",
+                "text": "A person walks to the left and then to the right with lateral steps.",
+                "start": 0.0,
+                "end": 22.675
+            }
+        ]
+    },
+    "M03750": {
+        "path": "M/CMU/114/114_04_poses",
+        "duration": 7.458,
+        "annotations": [
+            {
+                "seg_id": "M03750_0",
+                "text": "A man is standing up and turns around",
+                "start": 0.0,
+                "end": 7.458
+            }
+        ]
+    },
+    "M03753": {
+        "path": "M/CMU/114/114_07_poses",
+        "duration": 13.492,
+        "annotations": [
+            {
+                "seg_id": "M03753_0",
+                "text": "a person walks up and down a podest",
+                "start": 0.0,
+                "end": 13.492
+            }
+        ]
+    },
+    "M03783": {
+        "path": "M/CMU/118/118_11_poses",
+        "duration": 5.758,
+        "annotations": [
+            {
+                "seg_id": "M03783_0",
+                "text": "A man jump a step front.",
+                "start": 0.0,
+                "end": 5.758
+            }
+        ]
+    },
+    "M03785": {
+        "path": "M/CMU/118/118_13_poses",
+        "duration": 5.675,
+        "annotations": [
+            {
+                "seg_id": "M03785_0",
+                "text": "A person jumping with both feet.",
+                "start": 0.0,
+                "end": 5.675
+            }
+        ]
+    },
+    "M03800": {
+        "path": "M/CMU/118/118_28_poses",
+        "duration": 5.808,
+        "annotations": [
+            {
+                "seg_id": "M03800_0",
+                "text": "Jump with both feet about 50 centimeters forward",
+                "start": 0.0,
+                "end": 5.808
+            }
+        ]
+    },
+    "M03813": {
+        "path": "M/CMU/120/120_09_poses",
+        "duration": 10.642,
+        "annotations": [
+            {
+                "seg_id": "M03813_0",
+                "text": "a human walks slowly while bonding forward",
+                "start": 0.0,
+                "end": 10.642
+            }
+        ]
+    },
+    "M03841": {
+        "path": "M/CMU/122/122_15_poses",
+        "duration": 4.35,
+        "annotations": [
+            {
+                "seg_id": "M03841_0",
+                "text": "A human steps down a low platform.",
+                "start": 0.0,
+                "end": 4.35
+            }
+        ]
+    },
+    "M03846": {
+        "path": "M/CMU/122/122_20_poses",
+        "duration": 4.367,
+        "annotations": [
+            {
+                "seg_id": "M03846_0",
+                "text": "A human takes one large step.",
+                "start": 0.0,
+                "end": 4.367
+            }
+        ]
+    },
+    "M03917": {
+        "path": "M/CMU/126/126_03_poses",
+        "duration": 21.525,
+        "annotations": [
+            {
+                "seg_id": "M03917_0",
+                "text": "a person is swimming",
+                "start": 0.0,
+                "end": 21.525
+            }
+        ]
+    },
+    "M03937": {
+        "path": "M/CMU/127/127_09_poses",
+        "duration": 1.65,
+        "annotations": [
+            {
+                "seg_id": "M03937_0",
+                "text": "A human runs in a curve.",
+                "start": 0.0,
+                "end": 1.65
+            }
+        ]
+    }
+}

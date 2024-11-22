@@ -1,0 +1,3 @@
+A person stands with legs spread apart and arms up. # 0 # 2.5 # spine
+A person leans back slightly while holding their arms up. # 0 # 2.5 # spine
+A person appears to be dodging something. # 0 # 2.5 # spine

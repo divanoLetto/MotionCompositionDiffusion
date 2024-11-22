@@ -1,0 +1,2 @@
+A person is swaying from side to side. # 0 # 5 # spine # legs
+A person is moving their arms from side to side. # 5 # 8.433 # right arm # left arm

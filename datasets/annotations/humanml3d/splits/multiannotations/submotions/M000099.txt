@@ -1,0 +1,3 @@
+a person jogs in place # 0 # 3.675 # spine
+a person is jogging on the spot. # 0 # 3.675 # spine
+person jogs on the spot # 0 # 3.675 # spine

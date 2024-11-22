@@ -1,0 +1,3 @@
+a person does jumping jacks fast. # 0 # 2.392 # spine
+a man jumps and brings both arms above his head as he spread his legs and then moves them back into the original position. # 0 # 2.392 # spine
+the figure is doing two jumping jacks. # 0 # 2.392 # spine

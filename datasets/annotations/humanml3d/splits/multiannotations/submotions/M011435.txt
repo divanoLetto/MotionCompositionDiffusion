@@ -1,0 +1,3 @@
+a person has his left hand in the air. # 0 # 10 # spine
+a person waved hands and then shaking while talking to the audience # 0 # 10 # spine
+person waves at someone, and then fidgets side-to-side. # 0 # 10 # spine

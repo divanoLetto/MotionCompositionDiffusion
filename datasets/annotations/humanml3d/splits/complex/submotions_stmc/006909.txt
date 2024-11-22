@@ -1,0 +1,2 @@
+A person holds both hands together as if they are holding something. # 0 # 2 # left arm # right arm
+A person moves their right arm up and down. # 2 # 5.91 # right arm

@@ -1,0 +1,3 @@
+a man stretches his arms out, then moves his right arm back and forth. # 0 # 10 # spine
+person starts with both arms raised before using right hand pushing forward in an opening position hesitantly holds the position # 0 # 10 # spine
+a person lowers their arms, then uses their right hand to push an object to the side. # 0 # 10 # spine

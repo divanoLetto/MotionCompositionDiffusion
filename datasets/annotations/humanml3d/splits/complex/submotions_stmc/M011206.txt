@@ -1,0 +1,2 @@
+A person runs forward quickly. # 0 # 2 # legs
+A person stops moving. # 2 # 2.717 # legs

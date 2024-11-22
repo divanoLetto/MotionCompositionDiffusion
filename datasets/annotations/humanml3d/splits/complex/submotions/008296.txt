@@ -1,0 +1,2 @@
+A person is moving their feet in circles. # 0 # 5 # spine
+A person is flapping his arms. # 3 # 5.475 # spine

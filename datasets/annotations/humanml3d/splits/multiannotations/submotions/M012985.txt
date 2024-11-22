@@ -1,0 +1,3 @@
+walking backwards and then stopping. # 0 # 8.175 # spine
+a person is walking backwards slowly. # 0 # 8.175 # spine
+a man steps backwards slowly. # 0 # 8.175 # spine

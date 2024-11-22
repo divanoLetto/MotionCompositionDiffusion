@@ -1,0 +1,2 @@
+A man is dancing.  # 0 # 5 # legs # spine
+A man jumps while spinning.  # 5 # 10.0 # spine # legs

@@ -1,0 +1,3 @@
+a person walks in a counter clockwise circle. # 0 # 8.61 # spine
+the person is walking in a counter clockwise circle. # 0 # 8.61 # spine
+a person walks in a slow counterclockwise circle while slowly swinging their arms. # 0 # 8.61 # spine

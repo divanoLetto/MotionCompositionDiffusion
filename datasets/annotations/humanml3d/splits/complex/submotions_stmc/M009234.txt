@@ -1,0 +1,4 @@
+A person swings both arms to the right. # 0 # 2 # right arm # left arm
+A person swings both arms to the right. # 2 # 4 # right arm # left arm
+A person turns around. # 4 # 6 # spine
+A person swings both arms to the left. # 6 # 10.000000000000002 # right arm # left arm

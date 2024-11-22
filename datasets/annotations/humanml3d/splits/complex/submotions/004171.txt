@@ -1,0 +1,4 @@
+A person raises their right arm. # 0 # 2 # spine
+A person swings their right arm to hit the ball. # 2 # 5 # spine
+A person swings their right arm to hit the ball again. # 5 # 8 # spine
+A person swings their right arm to hit the ball for the third time. # 8 # 9.95 # spine

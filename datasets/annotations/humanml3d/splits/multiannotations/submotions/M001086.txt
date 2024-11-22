@@ -1,0 +1,3 @@
+a person raises their left hand to the side of their head. # 0 # 4.175 # spine
+a person raises a drink to their mouth. # 0 # 4.175 # spine
+a person scratches their head with their left hand while slightly swaying their body. # 0 # 4.175 # spine

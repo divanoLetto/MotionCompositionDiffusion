@@ -1,0 +1,3 @@
+laying down and crawling forward. # 0 # 7.908 # spine
+a person gets on their hands and knees and crawls forwards, then stands. # 0 # 7.908 # spine
+a man gets down on his knees, crawls and then gets up again. # 0 # 7.908 # spine

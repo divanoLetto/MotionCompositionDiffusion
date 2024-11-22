@@ -1,0 +1,3 @@
+a person walks forward slowly, their arms swinging slightly, then they turn around. # 0 # 10 # spine
+a person slowly walks forward with arms swinging. turns in a clockwise circle # 0 # 10 # spine
+a person slowly walks forward and then turns around. # 0 # 10 # spine

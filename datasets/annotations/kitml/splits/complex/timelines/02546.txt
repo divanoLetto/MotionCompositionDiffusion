@@ -1,0 +1,2 @@
+A person performs a punch with his right hand. # 0 # 6 # spine
+A person is punching with his right fist. # 5 # 10 # spine

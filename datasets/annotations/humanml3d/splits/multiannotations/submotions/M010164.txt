@@ -1,0 +1,3 @@
+moving arms up and down near face. # 0 # 1.7 # spine
+the person is playing the drums with both hands. # 0 # 1.7 # spine
+person jerks both hands up and down while turning to the right and then left slightly. # 0 # 1.7 # spine

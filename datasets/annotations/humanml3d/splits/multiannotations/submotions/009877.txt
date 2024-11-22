@@ -1,0 +1,3 @@
+a man steps forward, then picks something up with his right hand, then with his right hand, brings them close together, and sets them back down in the same order. # 0 # 10 # spine
+a person walking, picking up 2 things and then pouring both # 0 # 10 # spine
+the person is double pouring and mixing some thing. # 0 # 10 # spine

@@ -1,0 +1,2 @@
+A person is flapping his arms. # 0 # 6 # spine
+A person is moving around his left and right hand. # 4 # 8.458 # spine

@@ -1,0 +1,3 @@
+A person is walking forward slowly. # 0 # 3 # spine
+A person is balancing on their left leg. # 3 # 6 # spine
+A person is kicking with their right leg. # 6 # 9.25 # spine

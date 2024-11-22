@@ -1,0 +1,3 @@
+A person walks forward.  # 0 # 3 # legs
+A person kicks with their right leg.  # 3 # 6 # legs
+A person performs a karate move with their left arm.  # 6 # 10.0 # left arm

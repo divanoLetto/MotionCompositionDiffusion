@@ -1,0 +1,2 @@
+A person stands with arms outstretched at the shoulders. # 0 # 2 # spine
+A person is moving their hips repeatedly to the right and left. # 0 # 4.25 # spine

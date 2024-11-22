@@ -1,0 +1,2 @@
+A person is walking quickly to the right. # 0 # 3 # legs
+A person continues to move to the right. # 3 # 4.325 # legs

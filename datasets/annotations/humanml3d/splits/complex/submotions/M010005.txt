@@ -1,0 +1,3 @@
+A person stands in a static pose. # 0 # 3 # spine
+A person lowers their head. # 2 # 5 # spine
+A person bends their legs slightly. # 4 # 7.892 # spine

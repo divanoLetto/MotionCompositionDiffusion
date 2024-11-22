@@ -1,0 +1,2 @@
+A person holds something in their right hand. # 0 # 5 # right arm
+A person raises their right hand. # 5 # 10.0 # right arm

@@ -1,0 +1,1 @@
+a person walks forward but slowly curves towards the left as they are walking and then stops. # 0 # 6.61 # spine

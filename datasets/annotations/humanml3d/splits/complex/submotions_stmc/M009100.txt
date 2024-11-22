@@ -1,0 +1,2 @@
+A person raises their right arm to prepare for a throw. # 0 # 3 # right arm
+A person throws something with their right hand. # 3 # 10.0 # right arm

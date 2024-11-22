@@ -1,0 +1,3 @@
+the person was holding the right side of his head. # 0 # 3.708 # spine
+a person lifts his right hand to his mouth are and then puts it back by his side. # 0 # 3.708 # spine
+a person brings their right hand up to their face with the palm facing forward as if examining it and then brings their arm back to their side. # 0 # 3.708 # spine

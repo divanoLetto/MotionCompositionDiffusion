@@ -1,0 +1,3 @@
+A person dances while moving their legs.  # 0 # 3.0 # legs
+A person runs forward.  # 3.0 # 5.0 # legs
+A person runs backward.  # 5.0 # 6.4 # legs

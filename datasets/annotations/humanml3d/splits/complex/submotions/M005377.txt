@@ -1,0 +1,3 @@
+A person stands still and raises their arms. # 0 # 4 # spine
+A person takes a step forward with their right foot. # 2 # 6 # spine
+A person prepares to throw something with their right hand. # 4 # 10.0 # spine

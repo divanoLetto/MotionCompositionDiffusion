@@ -1,0 +1,2 @@
+A person puts their hands to their armpits and wiggles their elbows. # 0 # 2 # right arm # left arm
+A person flaps their arms like a chicken. # 2 # 3.75 # right arm # left arm

@@ -1,0 +1,2 @@
+A figure holds the violin with the left arm. # 0 # 3 # left arm
+A figure moves the right arm to play the violin. # 3 # 7.43 # right arm

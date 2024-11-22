@@ -1,0 +1,3 @@
+a person that picks up a item lifts it to the left and places it back down in the same position # 0 # 9.86 # spine
+a person remains standing while moving downward, back up, to the right, and back centered. # 0 # 9.86 # spine
+person lifts something and moves it to their left side. # 0 # 9.86 # spine

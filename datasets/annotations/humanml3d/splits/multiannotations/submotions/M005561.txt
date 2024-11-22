@@ -1,0 +1,3 @@
+the sim appears to be standing an object onto their left side. # 0 # 9.09 # spine
+this person lifts something then places it to the left. # 0 # 9.09 # spine
+a person picks something up with each hand and then stacks the item from their right hand on top of the item their left hand. # 0 # 9.09 # spine

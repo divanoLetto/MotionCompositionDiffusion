@@ -1,0 +1,3 @@
+the person turns on the faucet to wash the dishes # 0 # 10 # spine
+a person grabbed something with right and left hand, and did something # 0 # 10 # spine
+the person is in the shower washing his left arm. # 0 # 10 # spine

@@ -1,0 +1,3 @@
+A person bends down to pick something up with both hands. # 0 # 4 # left arm # right arm
+A person walks forward with both arms down by their side. # 4 # 6 # legs
+A person raises both arms above their head in a chopping motion. # 6 # 10.0 # left arm # right arm

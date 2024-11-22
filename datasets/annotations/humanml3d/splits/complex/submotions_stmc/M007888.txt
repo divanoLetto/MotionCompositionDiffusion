@@ -1,0 +1,2 @@
+A person runs forward, taking quick steps.  # 0 # 2.0 # legs
+A person moves their right arm forward with a throwing motion.  # 2.0 # 3.733 # right arm

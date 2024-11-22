@@ -1,0 +1,2 @@
+A person raises both arms to protect their face. # 0 # 3 # spine
+A person punches with their left hand. # 3 # 6.949999999999999 # spine

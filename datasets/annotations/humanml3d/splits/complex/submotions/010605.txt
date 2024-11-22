@@ -1,0 +1,2 @@
+A person is in a fighting stance.  # 0 # 2.983 # spine
+A person hops in place on his right leg.  # 2.983 # 9.85 # spine

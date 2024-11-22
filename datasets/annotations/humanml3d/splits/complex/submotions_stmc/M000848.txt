@@ -1,0 +1,2 @@
+A person raises their right leg.  # 0 # 3 # legs
+A person moves their hands up and down.  # 3 # 8.4 # right arm # left arm

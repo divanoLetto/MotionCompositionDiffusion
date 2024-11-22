@@ -1,0 +1,2 @@
+a person has both hands together and is moving them in the air. # 0 # 4 # right arm # left arm
+a person raises both hands above their head. # 4 # 8.400000000000006 # right arm # left arm

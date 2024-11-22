@@ -1,0 +1,2 @@
+A person moves their hips and legs in a small dance.  # 0 # 2 # legs # spine
+A person sways with their arms out to the side.  # 2 # 3.317 # right arm # left arm

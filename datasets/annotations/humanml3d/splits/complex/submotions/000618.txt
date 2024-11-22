@@ -1,0 +1,4 @@
+A person stands still and looks around as if confused. # 0 # 3 # spine
+A person raises their arms in a questioning manner. # 2 # 5 # spine
+A person moves their feet slightly as if trying to find a rhythm. # 4 # 7 # spine
+A person gestures with their hands as if trying to express something. # 6 # 10.000000000000002 # spine

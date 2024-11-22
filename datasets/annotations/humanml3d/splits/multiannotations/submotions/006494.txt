@@ -1,0 +1,3 @@
+a person walks forwards, places their left hand on something to support them, then bends their right knee back and using their right hand holds their shoe, to inspect the sole of it. # 0 # 8.63 # spine
+a man steps forward, then leans on something with his left arm as he lifts his right leg behind him, holding it with his right arm as he inspects something, before lowering his leg and stepping backwards. # 0 # 8.63 # spine
+a person looks at the bottom of their right shoe. # 0 # 8.63 # spine

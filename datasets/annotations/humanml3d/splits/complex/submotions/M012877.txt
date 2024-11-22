@@ -1,0 +1,4 @@
+A person walks forward. # 0 # 2 # spine
+A person does a funky line dance. # 2 # 8 # spine
+A person turns to their right. # 8 # 9 # spine
+A person exits to their right. # 9 # 9.283 # spine

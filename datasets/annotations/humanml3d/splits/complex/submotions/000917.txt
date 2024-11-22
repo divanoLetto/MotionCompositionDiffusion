@@ -1,0 +1,3 @@
+A person raises their arms in front of them. # 0 # 3 # spine
+A person moves their arms in circles. # 2 # 5 # spine
+A person lowers their arms. # 5 # 10.0 # spine

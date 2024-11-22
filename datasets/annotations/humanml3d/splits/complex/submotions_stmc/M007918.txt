@@ -1,0 +1,2 @@
+A person holds arms bent up while playing an instrument. # 0 # 3.0 # right arm # left arm
+A person raises their arms above their head. # 3.0 # 5.05 # right arm # left arm

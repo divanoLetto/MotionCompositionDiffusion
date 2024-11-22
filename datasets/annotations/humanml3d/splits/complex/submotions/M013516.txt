@@ -1,0 +1,2 @@
+A person raises their right arm. # 0 # 4 # spine
+A person swings their right arm. # 2 # 4.04 # spine

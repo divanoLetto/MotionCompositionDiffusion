@@ -1,0 +1,4 @@
+A person jumps forward. # 0 # 3 # spine
+A person steps to the left. # 2 # 5 # spine
+A person kicks with their left leg. # 4 # 7 # spine
+A person jumps to the right. # 6 # 10.0 # spine

@@ -1,0 +1,3 @@
+person walks up something towards hit left hand side. # 0 # 8.408 # spine
+a person who is standing with this hands by his sides walks forward and then takes two steps up. # 0 # 8.408 # spine
+person walks straight then looks like it takes a couple steps up # 0 # 8.408 # spine

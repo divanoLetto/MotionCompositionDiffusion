@@ -1,0 +1,2 @@
+A person performs a ballerina balance pose, first on their left leg.  # 0 # 5 # spine # legs
+A person spins around in a circular motion on their right leg.  # 5 # 9.792000000000002 # spine # legs

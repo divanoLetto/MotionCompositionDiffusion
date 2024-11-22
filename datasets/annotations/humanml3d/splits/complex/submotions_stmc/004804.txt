@@ -1,0 +1,2 @@
+A person raises their right arm to swing something. # 0 # 2.0 # right arm
+A person swings the golf club. # 2.0 # 4.108 # right arm

@@ -1,0 +1,3 @@
+person walking in an s shape # 0 # 10 # spine
+a person slowly walks forward in a zig zag pattern # 0 # 10 # spine
+a figure walks in a zig zag pattern # 0 # 10 # spine

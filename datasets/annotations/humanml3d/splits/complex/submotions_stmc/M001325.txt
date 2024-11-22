@@ -1,0 +1,2 @@
+A person walks forward while swinging both arms. # 0 # 4.0 # right arm # left arm # legs
+A person turns around in a semi-circle. # 4.0 # 10.0 # spine # legs

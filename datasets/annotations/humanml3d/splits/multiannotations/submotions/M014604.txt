@@ -1,0 +1,2 @@
+a man paces back and forth along the same line. # 0 # 10 # spine
+a man turns and walks back before turning around and walking again. # 0 # 10 # spine

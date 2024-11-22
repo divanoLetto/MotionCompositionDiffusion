@@ -1,0 +1,2 @@
+A person raises both hands above their head. # 0 # 2 # spine
+A person holds something up toward their face. # 2 # 7.54 # spine

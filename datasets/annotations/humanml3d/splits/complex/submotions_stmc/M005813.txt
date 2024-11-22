@@ -1,0 +1,2 @@
+A person is moving their hips repeatedly to the left and right. # 0 # 5 # spine # legs
+A person sways left to right while swaying their arms from hip to hip. # 5 # 5.35 # right arm # left arm # spine # legs

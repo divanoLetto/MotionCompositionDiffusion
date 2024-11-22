@@ -1,0 +1,2 @@
+A person raises their left arm to play the guitar. # 0 # 3 # left arm
+A person moves their left arm down after playing the guitar. # 3 # 5.93 # left arm

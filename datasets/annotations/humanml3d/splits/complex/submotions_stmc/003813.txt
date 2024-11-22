@@ -1,0 +1,2 @@
+A person stands while holding a violin with both arms. # 0 # 5 # right arm # left arm
+A person puts the violin down and stops playing. # 5 # 7.84 # right arm # left arm

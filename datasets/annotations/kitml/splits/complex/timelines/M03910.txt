@@ -1,0 +1,2 @@
+A person is laying face down. # 0 # 10 # spine
+A person moves their hands forward. # 2 # 10 # spine

@@ -1,0 +1,2 @@
+A person walks forward.  # 0 # 1.633 # spine
+A person jumps while moving their arms.  # 1 # 1.633 # spine

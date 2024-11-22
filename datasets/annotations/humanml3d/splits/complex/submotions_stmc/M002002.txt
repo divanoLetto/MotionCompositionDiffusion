@@ -1,0 +1,4 @@
+A person walks forward. # 0 # 2 # legs
+A person steps to the right with right leg. # 2 # 4 # legs
+A person steps to the left with left leg. # 4 # 6 # legs
+A person stops. # 6 # 6.61 # legs

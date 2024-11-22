@@ -1,0 +1,3 @@
+someone kick twice doing karate # 0 # 10 # spine
+a man walks forward two steps and kicks his right leg and foot into the air two times in a row. he then walks backwards two steps and pauses, followed by walking forward two steps and kicks into the air with his left leg and foot. # 0 # 10 # spine
+a man walks forward, does two kicks to the side and then one kick to the front. # 0 # 10 # spine

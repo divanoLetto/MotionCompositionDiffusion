@@ -1,0 +1,3 @@
+a person squats to almost parallel then jumps to the horizontally to the right. # 0 # 5.68 # spine
+a person jumps sideways to his right side. # 0 # 5.68 # spine
+the person hopped a big step to the right. # 0 # 5.68 # spine

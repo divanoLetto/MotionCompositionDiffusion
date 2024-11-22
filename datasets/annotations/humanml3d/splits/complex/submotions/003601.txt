@@ -1,0 +1,3 @@
+A person stands balancing on one leg while moving their left leg from side to side. # 0 # 6 # spine
+A person raises their arms to the side. # 0 # 10.0 # spine
+A person is moving their left leg behind them. # 4 # 10.0 # spine

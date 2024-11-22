@@ -1,0 +1,3 @@
+A person raises both arms above their head. # 0 # 2 # spine
+A person moves their arms in circles. # 2 # 6 # spine
+A person jumps up while spreading the legs and lifting the arms up above the head. # 6 # 10.0 # spine

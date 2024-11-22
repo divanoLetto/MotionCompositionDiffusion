@@ -1,0 +1,2 @@
+A person kicks something with their left foot. # 0 # 3.54 # left arm # legs
+A person continues to kick at something in front of him with his left foot. # 3.54 # 4.542 # left arm # legs

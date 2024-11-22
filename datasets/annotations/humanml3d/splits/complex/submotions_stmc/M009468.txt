@@ -1,0 +1,2 @@
+A person raises their right arm and strums with their left. # 0 # 3.0 # right arm # left arm
+A person moves their left arm in a circular motion. # 3 # 5.28 # left arm

@@ -1,0 +1,4 @@
+A person steps backward with their arms extended forward. # 0 # 2 # left arm # right arm # legs
+A person steps forward, keeping their arms extended. # 2 # 4 # left arm # right arm # legs
+A person continues stepping backward in a diamond-shaped pattern. # 4 # 8 # legs
+A person raises their arms above their head while dancing. # 8 # 10.000000000000002 # left arm # right arm

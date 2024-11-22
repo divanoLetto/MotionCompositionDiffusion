@@ -1,0 +1,4 @@
+A person raises their arms out to the side. # 0 # 3 # spine
+A person steps backward. # 2 # 5 # spine
+A person steps forward. # 4 # 7 # spine
+A person continues to dance with arms extended. # 6 # 10 # spine

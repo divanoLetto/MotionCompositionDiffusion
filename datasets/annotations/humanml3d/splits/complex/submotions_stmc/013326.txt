@@ -1,0 +1,2 @@
+A person walks forward with hands straight up in the air. # 0 # 5.0 # legs # right arm # left arm
+A person moves their arms in a circular motion. # 5.0 # 7.375 # right arm # left arm

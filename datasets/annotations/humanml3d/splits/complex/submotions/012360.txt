@@ -1,0 +1,2 @@
+A person is walking forward with excitement. # 0 # 6 # spine
+A person raises both hands above their head. # 4 # 10.0 # spine

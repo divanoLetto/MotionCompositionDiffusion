@@ -1,0 +1,2 @@
+A person turns to their right.  # 0 # 2 # spine
+A person kicks high with their right foot.  # 2 # 4.09 # legs

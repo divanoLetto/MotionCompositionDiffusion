@@ -1,0 +1,3 @@
+a person stands still and raises their arms in basketball signal motions. # 0 # 10 # spine
+a standing person first puts both of their hands on their hips, then kicks out their left leg, then raises both of their hands in the air above their head, and finally waves their left hand, palm down, in front of them. # 0 # 10 # spine
+a person is doing basketball signals # 0 # 10 # spine

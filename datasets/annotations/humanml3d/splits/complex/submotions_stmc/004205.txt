@@ -1,0 +1,3 @@
+A person raises both arms above their head. # 0 # 5 # right arm # left arm
+A person swings their body to the right. # 5 # 7 # spine # legs
+A person swings their body to the left. # 7 # 10.0 # spine # legs

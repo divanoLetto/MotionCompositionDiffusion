@@ -1,0 +1,2 @@
+A person bends at the waist and places a tee in the ground with their left hand. # 0 # 2.5 # left arm # spine
+A person makes a swinging motion with their right arm. # 2.5 # 2.51 # right arm

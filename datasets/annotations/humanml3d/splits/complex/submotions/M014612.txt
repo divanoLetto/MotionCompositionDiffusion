@@ -1,0 +1,2 @@
+A person raises their arms to the side. # 0 # 4 # spine
+A person moves both hands in large circles. # 3 # 10.0 # spine

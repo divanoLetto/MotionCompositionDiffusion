@@ -1,0 +1,3 @@
+A person holds a violin with their left hand. # 0 # 3 # spine
+A person uses their right hand to move the bow. # 2 # 6 # spine
+A person continues to hold the violin with their left hand. # 5 # 9.639999999999999 # spine

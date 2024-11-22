@@ -1,0 +1,3 @@
+the sim appears to be using their left hand to wipe or wash a window. # 0 # 10 # spine
+a person rubs his upper body and right arm in a counterclockwise motion with his left hand and then rubs his left-arm in a counterclockwise motion with his right hand. # 0 # 10 # spine
+the right arm scrubbing in big circles on the stomach, up to the left arm, and then left arm to the right arm. # 0 # 10 # spine

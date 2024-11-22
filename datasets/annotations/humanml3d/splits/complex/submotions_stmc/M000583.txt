@@ -1,0 +1,2 @@
+A person is doing arm exercises.  # 0 # 3.9 # right arm # left arm
+A person moves their arms.  # 3.9 # 7.95 # right arm # left arm

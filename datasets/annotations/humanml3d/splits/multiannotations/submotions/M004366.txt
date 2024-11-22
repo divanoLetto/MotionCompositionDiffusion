@@ -1,0 +1,3 @@
+the person was laying down on their back. # 0 # 10 # spine
+the man is laying down and getting up # 0 # 10 # spine
+the man is sitting then lays down. # 0 # 10 # spine

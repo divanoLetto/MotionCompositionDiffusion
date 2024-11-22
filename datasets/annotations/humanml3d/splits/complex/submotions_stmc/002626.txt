@@ -1,0 +1,3 @@
+A person sways their hips from side to side.  # 0 # 3 # spine # legs
+A person moves their head side to side.  # 3 # 5 # head
+A person raises their left arm in rhythm with their body.  # 5 # 6.85 # left arm

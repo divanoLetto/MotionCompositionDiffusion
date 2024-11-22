@@ -1,0 +1,3 @@
+A person shifts to the left.  # 0 # 2 # spine
+A person shifts to the right.  # 1.5 # 4.5 # spine
+A person moves forward quickly.  # 4 # 6.65 # spine

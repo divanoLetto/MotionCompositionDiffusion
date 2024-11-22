@@ -1,0 +1,3 @@
+A person jumps around.  # 0 # 3 # spine
+A person raises both hands above their head.  # 2 # 5 # spine
+A person hops around and raises their arms.  # 4 # 10.0 # spine

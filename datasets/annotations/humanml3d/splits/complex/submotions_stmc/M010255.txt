@@ -1,0 +1,3 @@
+A person raises both arms in the air as if strumming a guitar. # 0 # 3 # right arm # left arm
+A person mimics playing something with their right hand. # 3 # 6 # right arm
+A person moves their left arm as if following along with the music. # 6 # 9.19 # left arm

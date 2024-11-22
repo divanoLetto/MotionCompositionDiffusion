@@ -1,0 +1,2 @@
+a person takes two steps forward. # 0 # 4 # legs
+a person is dancing while moving their arms. # 4 # 10.0 # right arm # left arm

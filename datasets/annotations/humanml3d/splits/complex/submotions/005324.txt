@@ -1,0 +1,4 @@
+A person walks backward. # 0 # 3 # spine
+A person sways from side to side. # 2 # 5 # spine
+A person lifts their feet. # 4 # 7 # spine
+A person walks backward in a side to side motion. # 6 # 10.0 # spine

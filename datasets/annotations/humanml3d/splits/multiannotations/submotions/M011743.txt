@@ -1,0 +1,3 @@
+turning body from side to side. # 0 # 10 # spine
+a person slowly looks around themselves from left to right. # 0 # 10 # spine
+the person looks around from side to side # 0 # 10 # spine

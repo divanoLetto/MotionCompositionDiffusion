@@ -1,0 +1,3 @@
+a man sidesteps suddenly to his left, bumps into something and leans over, looks around, then walks to his left, bumping into something else and once more leaning over. # 0 # 10 # spine
+person takes a step to the left and seems to injure left leg # 0 # 10 # spine
+the person was walking and hit his left leg and hurt it . # 0 # 10 # spine

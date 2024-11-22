@@ -1,0 +1,2 @@
+A person stands still. # 0 # 2 # legs # spine # head
+A person throws something with their right hand. # 2 # 5.717 # right arm

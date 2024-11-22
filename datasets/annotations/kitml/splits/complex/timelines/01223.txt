@@ -1,0 +1,2 @@
+A person moves to the left. # 0 # 4.75 # spine
+A person performs a step to the left. # 4.5 # 8.71 # spine

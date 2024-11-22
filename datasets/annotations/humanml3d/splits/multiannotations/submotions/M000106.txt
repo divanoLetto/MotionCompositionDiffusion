@@ -1,0 +1,3 @@
+a person moves backwards then forwards then jumps. # 0 # 10 # spine
+someone jumping over a puddle # 0 # 10 # spine
+a person jumps forward turns around and jumps in the other direction. # 0 # 10 # spine

@@ -1,0 +1,4 @@
+A person walks forward.  # 0 # 3 # spine
+A person spins around.  # 2 # 5 # spine
+A person turns 180 degrees.  # 5 # 7 # spine
+A person walks backward.  # 6 # 8.083 # spine

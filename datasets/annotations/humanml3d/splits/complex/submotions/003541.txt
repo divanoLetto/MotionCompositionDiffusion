@@ -1,0 +1,2 @@
+A person puts their arms out into a T. # 0 # 6 # spine
+A person raises their arms to shoulder height. # 4 # 10.0 # spine

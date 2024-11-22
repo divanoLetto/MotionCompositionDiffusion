@@ -1,0 +1,3 @@
+a person walks, turns around, and walks back # 0 # 5.19 # spine
+the person is walking and turning left. # 0 # 5.19 # spine
+a person walks and turns around left. # 0 # 5.19 # spine

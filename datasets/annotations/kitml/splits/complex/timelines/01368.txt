@@ -1,0 +1,2 @@
+A person throws something with their left hand. # 0 # 2.71 # spine
+A person is throwing something with their left arm. # 2.5 # 6.24 # spine

@@ -1,0 +1,4 @@
+A person stands with their left leg forward. # 0 # 0.5 # legs
+A person leans forward. # 0.5 # 1.5 # spine
+A person kicks high with their left leg. # 1.5 # 2.5 # legs
+A person returns to the stance. # 2.5 # 2.758 # legs

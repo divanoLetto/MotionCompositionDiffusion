@@ -1,0 +1,2 @@
+A person blocks with their right arm. # 0 # 5 # right arm
+A person performs a karate chop with their left hand. # 5.0 # 10.0 # left arm

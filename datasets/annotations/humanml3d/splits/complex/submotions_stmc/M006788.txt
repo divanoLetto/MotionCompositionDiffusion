@@ -1,0 +1,3 @@
+A person raises their right arm.  # 0 # 2.0 # right arm
+A person lifts their left leg.  # 0 # 2 # legs
+A person switches their right arm and left leg.  # 2 # 4.742 # right arm # legs

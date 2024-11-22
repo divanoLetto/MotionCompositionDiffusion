@@ -1,0 +1,2 @@
+A person turns to the left while bending their elbows and raising both arms. # 0 # 4 # right arm # left arm
+A person continues to turn while moving to the right with their left arm raised higher than the right. # 4 # 10.0 # right arm # left arm

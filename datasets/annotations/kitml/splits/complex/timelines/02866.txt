@@ -1,0 +1,2 @@
+A person raises his right arm. # 0 # 2 # spine
+A person swings a bat. # 2 # 3.767 # spine

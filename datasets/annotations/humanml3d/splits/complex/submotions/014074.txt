@@ -1,0 +1,2 @@
+A person stands in a boxing stance with both hands up. # 0 # 2 # spine
+A person throws a right hook with their right arm. # 0 # 2.583 # spine

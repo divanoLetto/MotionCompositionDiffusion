@@ -1,0 +1,2 @@
+the person makes a left turn. # 0 # 5.52 # spine
+a person walks in a curve towards the left # 0 # 5.52 # spine

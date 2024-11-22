@@ -1,0 +1,1 @@
+A person walks to the left.  # 0 # 2.85 # legs

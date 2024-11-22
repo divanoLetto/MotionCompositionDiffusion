@@ -1,0 +1,2 @@
+A man raises his right arm in front of him. # 0 # 2.0 # right arm
+A man makes a circular motion with his left hand. # 2.0 # 2.567 # left arm

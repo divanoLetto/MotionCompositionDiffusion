@@ -1,0 +1,3 @@
+A person throws something with their left arm. # 0 # 2 # left arm
+A person raises their right arm and bends it. # 2 # 5 # right arm
+A person raises both fists to cover their face. # 5 # 10.0 # right arm # left arm

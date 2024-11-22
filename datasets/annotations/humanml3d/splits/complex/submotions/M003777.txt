@@ -1,0 +1,3 @@
+A person sways from side to side. # 0 # 5 # spine
+A person dances while moving their hips. # 4 # 10 # spine
+A person twirls around. # 8 # 10 # spine

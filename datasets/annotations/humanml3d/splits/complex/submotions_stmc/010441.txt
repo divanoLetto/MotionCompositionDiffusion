@@ -1,0 +1,2 @@
+A person raises their right arm to throw something. # 0 # 3 # right arm
+A person swings their arms in a wide circle. # 3 # 9.608 # right arm # left arm

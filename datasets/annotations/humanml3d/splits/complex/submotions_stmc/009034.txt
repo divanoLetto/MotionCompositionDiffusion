@@ -1,0 +1,2 @@
+A person stands and raises their arms.  # 0 # 2 # right arm # left arm
+A person starts waving both arms back and forth.  # 2 # 5.742 # right arm # left arm

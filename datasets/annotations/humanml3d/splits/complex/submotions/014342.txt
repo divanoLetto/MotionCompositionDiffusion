@@ -1,0 +1,2 @@
+a person kicks with their right leg. # 0 # 4 # spine
+a person throws a punch with their left arm. # 2 # 10.0 # spine

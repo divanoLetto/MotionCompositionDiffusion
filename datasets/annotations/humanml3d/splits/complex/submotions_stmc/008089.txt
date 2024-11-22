@@ -1,0 +1,2 @@
+A person raises their arms and bounces in place. # 0 # 5 # spine # legs # right arm # left arm
+A person turns their body and sways from side to side. # 5 # 10.0 # spine # legs

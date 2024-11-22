@@ -1,0 +1,3 @@
+a figure with arms out rotates down the moves hands around. # 0 # 5.99 # spine
+a person with arm up and to the side. lowers arms and rotates in circular motion. # 0 # 5.99 # spine
+person reaches arms out to the side then most circular motions forward # 0 # 5.99 # spine

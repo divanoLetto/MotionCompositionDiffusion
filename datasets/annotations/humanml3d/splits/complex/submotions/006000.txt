@@ -1,0 +1,2 @@
+A person walks forward with a joyful demeanor. # 0 # 5 # spine
+A person dances while moving their hips. # 4 # 10.0 # spine

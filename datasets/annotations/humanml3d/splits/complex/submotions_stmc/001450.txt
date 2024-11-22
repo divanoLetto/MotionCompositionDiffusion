@@ -1,0 +1,2 @@
+A person shifts their weight from foot to foot.  # 0 # 3 # legs
+A person moves their hands in circular motion.  # 3 # 4.95 # right arm # left arm

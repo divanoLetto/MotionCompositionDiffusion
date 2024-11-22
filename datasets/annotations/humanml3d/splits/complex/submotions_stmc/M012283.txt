@@ -1,0 +1,2 @@
+A person stands still while holding their arms out to keep balance. # 0 # 5 # right arm # left arm
+A person takes a few small steps forward while balancing. # 5 # 10.000000000000002 # legs

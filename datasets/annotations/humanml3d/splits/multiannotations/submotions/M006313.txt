@@ -1,0 +1,3 @@
+the person is boxing with their right hand. # 0 # 1.45 # spine
+the person is making a swimming motion with it's left arm. # 0 # 1.45 # spine
+the person raises its blue shoulder. # 0 # 1.45 # spine

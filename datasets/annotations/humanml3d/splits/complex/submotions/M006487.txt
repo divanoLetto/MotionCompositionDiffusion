@@ -1,0 +1,3 @@
+A person backs up. # 0 # 2 # spine
+A person raises their right arm and waves. # 2 # 6 # spine
+A person throws something with their right hand. # 6 # 10.0 # spine

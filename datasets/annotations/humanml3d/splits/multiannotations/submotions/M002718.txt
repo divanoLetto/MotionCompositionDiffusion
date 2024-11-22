@@ -1,0 +1,3 @@
+a person lunges forward bending their right knee and elbow. # 0 # 10 # spine
+he lunges his right arm # 0 # 10 # spine
+a person kneels three times to the left # 0 # 10 # spine

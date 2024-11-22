@@ -1,0 +1,2 @@
+A person is doing standing abdominal stretches. # 0 # 6 # spine
+The person is lifting a dumbbell over their head. # 6 # 10.0 # spine

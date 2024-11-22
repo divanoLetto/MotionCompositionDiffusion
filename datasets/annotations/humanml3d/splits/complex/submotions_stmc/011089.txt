@@ -1,0 +1,2 @@
+A person jumps up and down.  # 0 # 3.575 # legs # spine
+A person raises both arms above their head.  # 3.575 # 10.0 # right arm # left arm

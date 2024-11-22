@@ -1,0 +1,4 @@
+A person is dancing. # 0 # 3 # spine
+A person raises their arms. # 3 # 6 # spine
+A person moves their feet to the side. # 5 # 8 # spine
+A person turns their body. # 7 # 10 # spine

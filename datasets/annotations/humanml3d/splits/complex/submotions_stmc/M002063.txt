@@ -1,0 +1,2 @@
+A person stands in one place while their arms and upper body move around. # 0 # 2 # spine # right arm # left arm
+A person moves arms in a sway motion off balance before raising arms up. # 2 # 4.25 # spine # right arm # left arm

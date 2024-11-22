@@ -1,0 +1,2 @@
+a person stands with arms at their side and then alternatively moves their shoulders up and down in a shimmying motion. # 0 # 2 # spine # head
+a person stands with feet slightly apart, swaying side to side. # 2 # 5.008 # legs # spine

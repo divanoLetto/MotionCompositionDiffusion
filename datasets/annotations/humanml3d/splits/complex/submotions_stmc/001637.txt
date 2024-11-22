@@ -1,0 +1,2 @@
+A person is moving their hips from side to side. # 0 # 5 # spine # legs
+A person appears to wave their arms awkwardly. # 5 # 10.0 # right arm # left arm

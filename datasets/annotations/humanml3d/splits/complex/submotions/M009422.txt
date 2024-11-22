@@ -1,0 +1,3 @@
+A person makes the signals for traveling. # 0 # 2 # spine
+A person makes the signals for double dribble. # 2 # 4 # spine
+A person makes the signals for carry. # 4 # 10.0 # spine

@@ -1,0 +1,2 @@
+A person sways side to side with their hips. # 0 # 5 # spine
+A person raises their arms and sways. # 4 # 9.966999999999999 # spine

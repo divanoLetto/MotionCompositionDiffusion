@@ -1,0 +1,2 @@
+A person steps forward, back, to the side, back, and then forward again while their hands are around their partner. # 0 # 6 # legs
+A person moves their arms while dancing with their partner. # 6 # 8.3 # right arm # left arm

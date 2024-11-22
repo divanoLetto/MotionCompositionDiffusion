@@ -1,0 +1,3 @@
+the figure rises from a laying position and walks in a clockwise circle, and then lays back down the ground. # 0 # 10 # spine
+a person walks in a clockwise direction and sits down. # 0 # 10 # spine
+a person stands up from laying, walks in a clockwise circle, and lays down again. # 0 # 10 # spine

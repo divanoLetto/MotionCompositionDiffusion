@@ -1,0 +1,3 @@
+A person shuffles quickly to the right. # 0 # 3 # legs
+A person shuffles quickly to the left. # 3 # 6 # legs
+A person hops up and down. # 6 # 8.700000000000001 # legs

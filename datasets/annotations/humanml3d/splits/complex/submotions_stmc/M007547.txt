@@ -1,0 +1,2 @@
+A person balances shakily on her right foot while raising both arms.  # 0 # 5 # right arm # left arm # legs # spine
+A person does ballet poses while on their tip-toes.  # 5 # 10.0 # legs # spine

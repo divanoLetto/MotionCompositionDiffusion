@@ -1,0 +1,2 @@
+A person raises their right arm to throw a punch. # 0 # 1.5 # right arm
+A person swings their left arm to throw a punch. # 1.5 # 3.0 # left arm

@@ -1,0 +1,2 @@
+A person is cleaning freestyle. # 0 # 6 # spine
+A person is walking forward. # 6 # 10.0 # spine

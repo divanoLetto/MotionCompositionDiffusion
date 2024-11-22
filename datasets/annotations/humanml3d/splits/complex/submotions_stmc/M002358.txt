@@ -1,0 +1,4 @@
+A person takes a step forward to the side. # 0 # 2.0 # legs
+A person takes another step forward. # 2.0 # 4.0 # legs
+A person sways slightly from side to side. # 4.0 # 7.0 # spine # legs
+A person holds their arms out as they continue to move. # 7.0 # 10.0 # right arm # left arm

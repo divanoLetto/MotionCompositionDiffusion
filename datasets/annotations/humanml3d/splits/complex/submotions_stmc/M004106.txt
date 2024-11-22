@@ -1,0 +1,2 @@
+A person bends down to pick up something.  # 0 # 2.5 # legs
+A person holds something with their right hand.  # 2.5 # 10.0 # right arm

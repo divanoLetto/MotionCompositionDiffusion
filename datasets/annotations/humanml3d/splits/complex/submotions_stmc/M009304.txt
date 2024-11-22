@@ -1,0 +1,3 @@
+A person throws something with their right hand. # 0 # 3 # right arm
+A person throws something with their right hand again. # 3 # 6 # right arm
+A person shoots something with their right hand. # 6 # 10.0 # right arm

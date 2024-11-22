@@ -1,0 +1,2 @@
+A person waves with their right hand. # 0 # 4 # spine
+A person dances with both hands raised. # 4 # 10.0 # spine

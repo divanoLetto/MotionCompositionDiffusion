@@ -1,0 +1,3 @@
+a man jumps then kicks the air whilst moving to the opposite end of the room. # 0 # 5.2 # spine
+the person kick his left foot up and both hands up in counterclockwise circle and stop. # 0 # 5.2 # spine
+a person jumps and spins to the left while kicking # 0 # 5.2 # spine

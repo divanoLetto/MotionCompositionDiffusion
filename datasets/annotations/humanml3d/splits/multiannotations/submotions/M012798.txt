@@ -1,0 +1,3 @@
+a person holds something above, and swings. # 0 # 10 # spine
+a person raised arms up and pull them down # 0 # 10 # spine
+putting hands above head and swinging # 0 # 10 # spine

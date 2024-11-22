@@ -1,0 +1,2 @@
+A person picks something up with their right hand. # 0 # 3 # right arm
+A person holds something with their right hand. # 3 # 10.0 # right arm

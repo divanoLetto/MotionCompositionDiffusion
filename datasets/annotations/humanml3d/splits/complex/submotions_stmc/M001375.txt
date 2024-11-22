@@ -1,0 +1,2 @@
+A person swings their right arm to the left. # 0 # 5 # right arm
+A person swings their left arm to the right. # 5 # 10.0 # left arm

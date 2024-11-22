@@ -1,0 +1,3 @@
+A person raises both arms into a y shape. # 0 # 2 # right arm # left arm
+A person makes rowing motions with both arms. # 2 # 6 # right arm # left arm
+A person rotates their upper body back and forth from the hips. # 6 # 10.0 # spine

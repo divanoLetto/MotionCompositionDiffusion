@@ -1,0 +1,2 @@
+A person walks in a clockwise circle using their legs. # 0 # 4 # legs
+A person holds their left arm out to the side. # 4 # 5.9 # left arm

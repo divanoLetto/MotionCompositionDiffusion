@@ -1,0 +1,3 @@
+a person holds their right arm out on something to support them while sticking their right leg up to balance. # 0 # 10 # spine
+a person stands with their right arm out while moving their right leg. # 0 # 10 # spine
+a person has right arm straight to side, and is trying to kick something with right leg # 0 # 10 # spine

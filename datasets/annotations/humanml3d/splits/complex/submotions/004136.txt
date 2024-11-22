@@ -1,0 +1,4 @@
+A person punches the air with their left hand. # 0 # 2 # spine
+A person punches the air with their right hand. # 2 # 4 # spine
+A person raises both hands into fists. # 4 # 6 # spine
+A person is doing fast quick punches with their left hand. # 6 # 10.0 # spine

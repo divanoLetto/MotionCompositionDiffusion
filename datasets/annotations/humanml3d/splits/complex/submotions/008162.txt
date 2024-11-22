@@ -1,0 +1,2 @@
+A person raises their arms wide open. # 0 # 3 # spine
+A person dances while moving their arms. # 2 # 10.0 # spine

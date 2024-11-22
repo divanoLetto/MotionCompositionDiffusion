@@ -1,0 +1,2 @@
+A person throws something with their left hand. # 0 # 3 # spine
+A person steps forward with their left foot. # 2 # 4.0 # spine

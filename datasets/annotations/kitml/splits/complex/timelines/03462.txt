@@ -1,0 +1,4 @@
+A person raises their arms to the side. # 0 # 3 # spine
+A person moves their body rhythmically to the music. # 2 # 5 # spine
+A person moves their feet to the rhythm of the music. # 4 # 6 # spine
+A person performs a dance movement. # 5 # 10 # spine

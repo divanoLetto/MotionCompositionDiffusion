@@ -1,0 +1,2 @@
+A person steps to the left by sliding their feet. # 0 # 3 # legs
+A person steps to the right by stepping foot over foot. # 3 # 6.899999999999999 # legs

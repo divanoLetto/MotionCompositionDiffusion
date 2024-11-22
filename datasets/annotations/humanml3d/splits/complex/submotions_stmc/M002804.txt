@@ -1,0 +1,2 @@
+A person is performing a dance move on the ground using their legs. # 0 # 5.0 # legs
+A person is posing with their arms out. # 5.0 # 8.832999999999998 # right arm # left arm

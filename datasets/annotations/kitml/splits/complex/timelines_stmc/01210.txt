@@ -1,0 +1,4 @@
+A person walks forward. # 0 # 2 # legs
+A person turns to the left. # 2 # 4 # spine # head
+A person walks forward. # 4 # 6 # legs
+A person turns to the right. # 6 # 7.79 # spine # head

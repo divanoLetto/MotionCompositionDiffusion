@@ -1,0 +1,3 @@
+a person throws something with their right hand # 0 # 10 # spine
+the person softly tosses the ball # 0 # 10 # spine
+a person practices throwing and object # 0 # 10 # spine

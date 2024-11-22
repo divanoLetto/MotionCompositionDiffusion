@@ -1,0 +1,2 @@
+A person takes a stance with their legs.  # 0 # 2.0 # legs
+A person swings a golf club with their right arm. # 2.0 # 4.683 # right arm

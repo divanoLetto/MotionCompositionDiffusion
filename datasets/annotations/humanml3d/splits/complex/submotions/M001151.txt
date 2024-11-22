@@ -1,0 +1,4 @@
+A person raises both arms to chest level.  # 0 # 3 # spine
+A person spreads their arms out to the sides.  # 2 # 5 # spine
+A person lowers their right hand.  # 4 # 7 # spine
+A person makes a circular motion with their left hand at chest level.  # 6 # 10 # spine

@@ -1,0 +1,2 @@
+A person flaps their arms like a lovely bird. # 0 # 5 # right arm # left arm
+A person kicks forward with their left leg. # 5 # 10.0 # left arm # legs

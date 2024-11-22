@@ -1,0 +1,2 @@
+A person steps forward and throws a punch with their left hand. # 0 # 2.75 # left arm
+A person lunges while throwing a punch with their left hand. # 2.75 # 3.4 # left arm

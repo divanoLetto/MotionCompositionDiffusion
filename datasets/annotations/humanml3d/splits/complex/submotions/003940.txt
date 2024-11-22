@@ -1,0 +1,2 @@
+A person stands on their left leg and kicks with their right foot. # 0 # 3 # spine
+A person kicks out with their right foot. # 3 # 5.44 # spine

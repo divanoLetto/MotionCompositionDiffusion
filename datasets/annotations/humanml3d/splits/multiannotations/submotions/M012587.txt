@@ -1,0 +1,3 @@
+a person walks backwards to the left, then turns around and walks backward to the left. # 0 # 10 # spine
+a figure walks on their heels # 0 # 10 # spine
+a person walks backwards, turns around and walks backwards the other way. # 0 # 10 # spine

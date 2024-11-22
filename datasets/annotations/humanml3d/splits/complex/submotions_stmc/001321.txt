@@ -1,0 +1,3 @@
+A person is stepping to their left.  # 0 # 2 # legs
+A person is stepping to their right.  # 2 # 4 # legs
+A person raises both arms out to the side.  # 4 # 5.433 # right arm # left arm

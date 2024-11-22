@@ -1,0 +1,2 @@
+A person waves both of their arms in a signalling manner. # 0 # 9.217 # spine
+The person puts both arms forward and moves them around. # 7 # 9.592000000000002 # spine
