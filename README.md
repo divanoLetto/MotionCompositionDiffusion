@@ -5,7 +5,7 @@
 
 ---
 
-![](https://img.shields.io/github/contributors/divanoLetto/MotionCompositionDiffusion?color=light%20green) ![](https://img.shields.io/github/repo-size/divanoLetto/MotionCompositionDiffusion)
+![](https://img.shields.io/github/contributors/divanoLetto/MotionCompositionDiffusion?color=light%20green) ![](https://img.shields.io/github/repo-size/divanoLetto/MotionCompositionDiffusion?cacheSeconds=60)
 
 
 The project also contains an implementation of the paper *Generation of Complex 3D Human Motion by Temporal and Spatial Composition of Diffusion Models*, which allows the generation of realistic 3D human motions for action classes that were never seen during the training phase.
