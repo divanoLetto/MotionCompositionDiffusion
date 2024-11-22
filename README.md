@@ -176,37 +176,6 @@ datasets/motions
 
 </details>
 
-#### Texts
-
-<details><summary>Click to expand</summary>
- 
-run the following command to pre-compute the CLIP embeddings (ViT-B/32):
-
-```bash
-python -m prepare.embeddings
-```
-
-The folder should look like this:
-
-```
-datasets/annotations/humanml3d
-├── annotations.json
-├── splits
-│   ├── all.txt
-│   ├── test_tiny.txt
-│   ├── test.txt
-│   ├── train_tiny.txt
-│   ├── train.txt
-│   ├── val_tiny.txt
-│   └── val.txt
-└── text_embeddings
-    └── ViT-B
-        ├── 32_index.json
-        ├── 32.npy
-        └── 32_slice.npy
-```
-</details> 
-
 ## Usage
 
 ### Train a model 
