@@ -179,17 +179,8 @@ datasets/motions
 #### Texts
 
 <details><summary>Click to expand</summary>
-
-In the MCD directory, clone the [TMR repo](https://github.com/Mathux/TMR): ``git clone https://github.com/Mathux/TMR.git``.
-It will also be useful for evaluation purposes.
-
-Run this command to copy the processed HumanML3D text annotations. This allows us to use the HumanML3D annotations with the original AMASS sequences, as explained in the [AMASS-Annotation-Unifier repo](https://github.com/Mathux/A MASS-Annotation-Unifier).
  
-``` bash
-cp -r TMR/datasets/annotations datasets/
-```
-
-Next, run the following command to pre-compute the CLIP embeddings (ViT-B/32):
+run the following command to pre-compute the CLIP embeddings (ViT-B/32):
 
 ```bash
 python -m prepare.embeddings
