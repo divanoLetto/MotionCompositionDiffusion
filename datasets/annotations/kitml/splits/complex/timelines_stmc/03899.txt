@@ -1,0 +1,2 @@
+A person bounces a basketball with their right hand. # 0 # 3 # right arm
+A person throws something with their right arm. # 3 # 6.05 # right arm

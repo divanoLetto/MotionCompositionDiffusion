@@ -1,0 +1,8 @@
+Person doing squads # 0 # 7.49 # spine
+A person performs a squat # 0 # 7.49 # spine
+A person performs two successive squats. # 0 # 7.49 # spine
+A human performs two squats with his arms extended forward # 0 # 7.49 # spine
+A person performs a squat with the feet together, and performs another squat with the feet distance being wider. # 0 # 7.49 # spine
+a person does some squad exercises # 0 # 7.49 # spine
+someone squats and then steps one of his foot a little aside and make another squats # 0 # 7.49 # spine
+Someone does two squats. # 0 # 7.49 # spine

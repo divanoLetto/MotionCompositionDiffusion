@@ -1,0 +1,4 @@
+A person walks two steps forward. # 0 # 2 # legs
+A person takes a step to the side with the left foot. # 2 # 4 # legs
+A person takes a step to the side with the right foot. # 4 # 6 # legs
+A person walks backward. # 6 # 12.03 # legs

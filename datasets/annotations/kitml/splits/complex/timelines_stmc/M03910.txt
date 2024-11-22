@@ -1,0 +1,2 @@
+A person moves their arms in a butterfly stroke motion. # 0 # 18 # left arm # right arm
+A person kicks with their legs in a coordinated movement. # 18 # 36.733 # legs

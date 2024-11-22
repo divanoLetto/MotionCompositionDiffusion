@@ -1,0 +1,4 @@
+A person goes one step forward. # 0 # 2 # legs
+A person takes a step to the side. # 2 # 4 # legs
+A person goes one step backward. # 4 # 6 # legs
+A person spins around. # 6 # 21.38 # spine

@@ -1,0 +1,3 @@
+A person is shoved to the left by someone. # 0 # 3.01 # spine
+a person stands still and gets pushed to the left # 0 # 3.01 # spine
+Somebody has been hit # 0 # 3.01 # spine

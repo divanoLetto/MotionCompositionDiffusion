@@ -1,0 +1,4 @@
+A human walking forwards # 0 # 6.54 # spine
+A person walks forward. # 0 # 6.54 # spine
+A human goes 4 steps forward. # 0 # 6.54 # spine
+Somebody walks carefully straight on. # 0 # 6.54 # spine

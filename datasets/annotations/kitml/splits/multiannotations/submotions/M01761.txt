@@ -1,0 +1,12 @@
+something is happening to the person during the forward walk # 0 # 5.76 # spine
+A human walks forwards # 0 # 5.76 # spine
+A person is pushed slightly from behind while walking. # 0 # 5.76 # spine
+A human is stumbling with the left foot # 0 # 5.76 # spine
+a person walks forwards and gets then pushed from the back # 0 # 5.76 # spine
+A person starts to walk forward and stumbles after 2 steps. # 0 # 5.76 # spine
+A person takes seven forward steps at varying walking speed. # 0 # 5.76 # spine
+A person is walking forward. # 0 # 5.76 # spine
+A person walks and gets pushed forward. # 0 # 5.76 # spine
+Person makes one slow and three fast steps, then stops. # 0 # 5.76 # spine
+a person takes a few steps forward and stumbles. # 0 # 5.76 # spine
+Some is walking and doing some faster steps in between. # 0 # 5.76 # spine

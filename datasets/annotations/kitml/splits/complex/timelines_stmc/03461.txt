@@ -1,0 +1,4 @@
+A person raises their arms to the side. # 0 # 5 # left arm # right arm
+A person moves their legs to the rhythm. # 5 # 10 # legs
+A person leans their spine. # 10 # 12 # spine
+A person performs a small jump. # 12 # 22.908 # legs

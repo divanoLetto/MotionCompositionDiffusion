@@ -1,0 +1,2 @@
+A person raises their right arm to putt. # 0 # 2.5 # right arm
+A person swings the club forward with their right arm. # 2.5 # 5.89 # right arm

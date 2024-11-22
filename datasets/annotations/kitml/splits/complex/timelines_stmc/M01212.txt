@@ -1,0 +1,2 @@
+A person raises their arms to the side. # 0 # 4 # left arm # right arm
+A person moves their body while dancing. # 4 # 11.18 # spine # legs # left arm # right arm

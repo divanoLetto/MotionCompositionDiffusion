@@ -1,0 +1,5 @@
+A person lifts their left foot and stomps back onto the ground. # 0 # 4.06 # spine
+A person stomps with their left leg. # 0 # 4.06 # spine
+a person lifts his left foot to look at it # 0 # 4.06 # spine
+A person rises and lowers its left foot. # 0 # 4.06 # spine
+The human lifts his left foot # 0 # 4.06 # spine

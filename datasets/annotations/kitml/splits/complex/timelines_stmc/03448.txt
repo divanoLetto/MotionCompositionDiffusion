@@ -1,0 +1,2 @@
+A person raises both arms upwards. # 0 # 3 # left arm # right arm
+A person moves their arms downwards. # 3 # 7.367 # left arm # right arm

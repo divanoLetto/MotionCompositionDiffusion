@@ -1,0 +1,3 @@
+A person receives a strong push from the right. # 0 # 4.01 # spine
+the person is walking back and forth # 0 # 4.01 # spine
+A person is doing a recovery step # 0 # 4.01 # spine

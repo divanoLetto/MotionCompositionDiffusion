@@ -1,0 +1,3 @@
+A person turns in a circle # 0 # 9.09 # spine
+Someone walks in a circle counterclockwise # 0 # 9.09 # spine
+Somebody wals a circle anticlockwise. # 0 # 9.09 # spine

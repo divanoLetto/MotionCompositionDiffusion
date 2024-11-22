@@ -1,0 +1,2 @@
+A person performs a whipping movement with the right hand. # 0 # 5.2 # right arm
+A person performs a whipping movement with the left hand. # 5.2 # 7.01 # left arm

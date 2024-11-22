@@ -1,0 +1,2 @@
+A person walks four steps forward. # 0 # 4.0 # legs
+A person walks slowly forward. # 4.0 # 7.09 # legs

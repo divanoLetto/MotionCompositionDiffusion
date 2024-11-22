@@ -1,0 +1,2 @@
+A person is raising both arms. # 0 # 4 # left arm # right arm
+A person is moving the legs side to side. # 4 # 12.2 # legs

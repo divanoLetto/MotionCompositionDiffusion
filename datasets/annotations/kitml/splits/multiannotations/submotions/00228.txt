@@ -1,0 +1,5 @@
+Person walking in a circle # 0 # 7.71 # spine
+A person walks in a counter-clockwise circle # 0 # 7.71 # spine
+a person walks in a circle to the left # 0 # 7.71 # spine
+A person moves anti-clockwise in a cirle and needs 8 steps to complete the circle. # 0 # 7.71 # spine
+A person walks in a small circle. # 0 # 7.71 # spine

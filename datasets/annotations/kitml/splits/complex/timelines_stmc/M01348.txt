@@ -1,0 +1,1 @@
+A person performs a low kick.  # 0 # 5.02 # legs

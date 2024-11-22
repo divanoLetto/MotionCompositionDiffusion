@@ -1,0 +1,1 @@
+A person makes eight steps forward, turns round and walks back to the origin. # 0 # 10 # spine

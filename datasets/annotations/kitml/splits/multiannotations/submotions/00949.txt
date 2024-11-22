@@ -1,0 +1,2 @@
+A person walks, then turns on the spot and walks back # 0 # 6.24 # spine
+a person walks forward then turn 180 degrees to the right and starts walking again # 0 # 6.24 # spine

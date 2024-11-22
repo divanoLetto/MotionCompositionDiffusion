@@ -1,0 +1,3 @@
+A person is starting to run but stops after a few steps # 0 # 5.52 # spine
+a persons jogs forward # 0 # 5.52 # spine
+a human starts running a few steps # 0 # 5.52 # spine

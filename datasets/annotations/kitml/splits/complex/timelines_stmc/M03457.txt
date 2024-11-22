@@ -1,0 +1,3 @@
+A person raises their arms for presentation. # 0 # 5 # left arm # right arm
+A person makes a step forward. # 5 # 10 # legs
+A person moves their arms gracefully. # 10 # 26.192 # left arm # right arm

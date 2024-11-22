@@ -1,0 +1,2 @@
+A person dodges to his left side. # 0 # 3 # legs
+A person is pushed from the left. # 3 # 3.36 # legs

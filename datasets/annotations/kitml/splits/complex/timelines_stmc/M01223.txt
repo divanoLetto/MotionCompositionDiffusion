@@ -1,0 +1,2 @@
+A person walks to the right. # 0 # 4.93 # legs
+A person walks a quarter circle to the right. # 4.93 # 8.71 # legs

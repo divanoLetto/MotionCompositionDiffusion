@@ -1,0 +1,2 @@
+A person raises the right arm and moves the left arm up and down. # 0 # 6 # left arm # right arm
+A person moves the legs while dancing. # 6 # 12.77 # legs

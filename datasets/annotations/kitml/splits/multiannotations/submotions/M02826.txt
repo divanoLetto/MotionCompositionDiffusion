@@ -1,0 +1,1 @@
+A human walks along a path of a number 8. # 0 # 10 # spine

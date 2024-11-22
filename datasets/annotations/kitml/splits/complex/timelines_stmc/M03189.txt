@@ -1,0 +1,2 @@
+A person moves both arms like wings. # 0 # 5 # left arm # right arm
+A person raises their arms in front of them. # 5 # 9.467 # left arm # right arm

@@ -1,0 +1,2 @@
+A person walks 2 steps forward, turns on right foot 180 degree and walks again 2 steps. # 0 # 4.95 # spine
+a person walks forward takes a 180 degree turn to the right and keeps on walking # 0 # 4.95 # spine

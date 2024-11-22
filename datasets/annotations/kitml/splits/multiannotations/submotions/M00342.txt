@@ -1,0 +1,3 @@
+Person walking in a circle to the right # 0 # 7.46 # spine
+A person walks clockwise circle # 0 # 7.46 # spine
+someone walks a larger clockwise. # 0 # 7.46 # spine

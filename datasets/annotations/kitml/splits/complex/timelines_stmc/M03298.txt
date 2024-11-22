@@ -1,0 +1,2 @@
+A person jumps about 20 cm high. # 0 # 5.93 # legs
+A person is jumping forward with both feet. # 5.93 # 8.317 # legs

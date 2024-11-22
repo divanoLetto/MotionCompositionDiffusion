@@ -1,0 +1,2 @@
+A person catches a ball with their left arm. # 0 # 1.5 # left arm
+A person dribbles with the ball using their right arm. # 1.5 # 1.917 # right arm

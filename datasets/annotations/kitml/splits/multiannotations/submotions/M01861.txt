@@ -1,0 +1,5 @@
+A human trips over something. # 0 # 3.77 # spine
+Someone beeing pushed from some direction while walking forward. # 0 # 3.77 # spine
+A forward walking person gets shoved from behind. # 0 # 3.77 # spine
+a person starts to walk but then gets pushed from behind # 0 # 3.77 # spine
+A person is walking and then kicks his own feet. # 0 # 3.77 # spine

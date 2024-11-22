@@ -1,0 +1,2 @@
+A person performs a kick with the right leg. # 0 # 5 # legs
+A person is kicking with his right foot. # 5 # 5.07 # legs

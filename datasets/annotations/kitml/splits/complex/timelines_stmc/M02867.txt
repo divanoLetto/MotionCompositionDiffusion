@@ -1,0 +1,2 @@
+A person raises the right arm to throw something. # 0 # 2 # right arm
+A person swings a club with the right arm. # 2 # 4.683 # right arm

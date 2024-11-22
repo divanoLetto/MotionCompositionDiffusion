@@ -1,0 +1,3 @@
+A person walks and turns right # 0 # 6.2 # spine
+human walks in a quater circle clockwise starting with right # 0 # 6.2 # spine
+A human is walking in a quarter of a circle to its right approximately with a radius of the same size as its body. # 0 # 6.2 # spine

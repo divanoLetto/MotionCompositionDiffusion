@@ -1,0 +1,4 @@
+A person walks forward.  # 0 # 5 # legs
+A person raises both arms.  # 5 # 10 # left arm # right arm
+A person performs a low kick with his left foot.  # 10 # 15 # legs
+A person turns slightly to the right.  # 15 # 31.325 # spine

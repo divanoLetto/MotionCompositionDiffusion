@@ -1,0 +1,4 @@
+Person is turning right # 0 # 4.35 # spine
+a person walks to the right performing a 90 degrees turn and walking in a quarter circle # 0 # 4.35 # spine
+The human perfoms a right turn # 0 # 4.35 # spine
+a person takes a right turn of 90 degrees # 0 # 4.35 # spine

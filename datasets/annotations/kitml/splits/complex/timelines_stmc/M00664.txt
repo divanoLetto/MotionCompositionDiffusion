@@ -1,0 +1,2 @@
+A person moves their legs while dancing. # 0 # 2.0 # legs
+A person raises their arms while dancing. # 2.0 # 3.45 # left arm # right arm

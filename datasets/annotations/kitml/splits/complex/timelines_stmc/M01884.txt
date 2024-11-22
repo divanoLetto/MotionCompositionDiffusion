@@ -1,0 +1,2 @@
+A person kicks something with its left foot. # 0 # 5 # legs
+A human throws something with his right arm. # 5 # 5.07 # right arm

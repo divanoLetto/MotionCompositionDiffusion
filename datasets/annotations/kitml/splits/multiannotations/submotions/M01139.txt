@@ -1,0 +1,5 @@
+Person walking in a curve to the right # 0 # 6.7 # spine
+human goes forward in a quater circle contercounterclockwise starting with right # 0 # 6.7 # spine
+A human performs a tight 90 degree right curve # 0 # 6.7 # spine
+a person walks a quater circle to the right # 0 # 6.7 # spine
+A person taking a 90 degree right turn # 0 # 6.7 # spine

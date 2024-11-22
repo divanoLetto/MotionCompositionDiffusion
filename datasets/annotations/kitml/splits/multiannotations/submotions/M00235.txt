@@ -1,0 +1,2 @@
+A person moves in a circle counterclockwise. # 0 # 8.41 # spine
+A human walks a small circle to its right. # 0 # 8.41 # spine

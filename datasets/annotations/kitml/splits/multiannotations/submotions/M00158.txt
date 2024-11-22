@@ -1,0 +1,5 @@
+Person walking forwards # 0 # 5.43 # spine
+someone walks slowly # 0 # 5.43 # spine
+A person walks forward # 0 # 5.43 # spine
+A human takes slow steps forward # 0 # 5.43 # spine
+A person walks forward. # 0 # 5.43 # spine

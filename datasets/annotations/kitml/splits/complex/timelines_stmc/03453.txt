@@ -1,0 +1,3 @@
+A person walks forward. # 0 # 3 # legs
+A person raises his arms in front of him. # 3 # 6 # left arm # right arm
+A person moves his legs to the rhythm. # 6 # 9.283 # legs

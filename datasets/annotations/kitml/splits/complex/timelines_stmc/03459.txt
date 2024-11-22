@@ -1,0 +1,2 @@
+A person is walking forward. # 0 # 5 # legs
+A person raises the right arm and moves the left arm up and down. # 5 # 20.95 # left arm # right arm

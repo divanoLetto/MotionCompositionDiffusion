@@ -1,0 +1,4 @@
+A human playing a violin # 0 # 7.52 # spine
+A person is flexing their biceps. # 0 # 7.52 # spine
+A person holds an object with his right hand and wipes it with its left hand. # 0 # 7.52 # spine
+a person plays the violin with its left hand # 0 # 7.52 # spine

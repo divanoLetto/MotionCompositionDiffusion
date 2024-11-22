@@ -1,0 +1,3 @@
+A person squats down and stands up again. # 0 # 5.43 # spine
+a person does some squad exercises # 0 # 5.43 # spine
+A person does a squat. # 0 # 5.43 # spine

@@ -1,0 +1,3 @@
+A person performs a kick with their left leg. # 0 # 5 # legs
+A person raises his arms in a defense position. # 0 # 5 # left arm # right arm
+A person kicks with the left foot. # 5 # 30.275 # legs

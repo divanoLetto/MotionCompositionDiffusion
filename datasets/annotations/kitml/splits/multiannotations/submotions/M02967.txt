@@ -1,0 +1,1 @@
+A human slowly walks in a zig-zag pattern. # 0 # 10 # spine

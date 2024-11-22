@@ -1,0 +1,6 @@
+Person kicking with the left foot # 0 # 6.65 # spine
+human performs a low kick with left leg # 0 # 6.65 # spine
+A person kicking belly high in front of him while holding up his arms in defense. # 0 # 6.65 # spine
+A person performs a kick. # 0 # 6.65 # spine
+a person kicks something in front of it with its left foot # 0 # 6.65 # spine
+Somebody kicks something with his left foot. # 0 # 6.65 # spine

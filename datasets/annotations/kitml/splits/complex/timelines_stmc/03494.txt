@@ -1,0 +1,2 @@
+A person walks forward. # 0 # 2.54 # legs
+A person jumps upwards with the basketball in both hands. # 2.54 # 4.325 # spine # legs # left arm # right arm

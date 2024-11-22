@@ -1,0 +1,2 @@
+Someone is stirring with his left hand. # 0 # 9.1 # spine
+A person wipes a desk. # 0 # 9.1 # spine

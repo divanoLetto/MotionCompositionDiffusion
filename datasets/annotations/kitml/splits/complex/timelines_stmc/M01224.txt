@@ -1,0 +1,2 @@
+A person raises their arms to the side. # 0 # 3 # left arm # right arm
+A person goes down to their knees. # 3 # 9.05 # legs

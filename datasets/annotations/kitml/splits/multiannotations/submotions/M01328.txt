@@ -1,0 +1,4 @@
+A person jumps backwards. # 0 # 5.53 # spine
+a person jumps back about 20cm # 0 # 5.53 # spine
+A person jumping with both legs backwards. # 0 # 5.53 # spine
+A human performs a two legged hop to the back # 0 # 5.53 # spine

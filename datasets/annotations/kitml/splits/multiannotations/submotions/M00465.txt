@@ -1,0 +1,4 @@
+A human turns abruptly. # 0 # 6.81 # spine
+A person walks two steps forward, performs a spot turn on the right foot and walks back to the start position. # 0 # 6.81 # spine
+A person turns on his left foot. # 0 # 6.81 # spine
+a person walks forward takes a 180 degree turn to the left and walks some more steps # 0 # 6.81 # spine

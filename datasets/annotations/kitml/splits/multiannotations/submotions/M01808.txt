@@ -1,0 +1,2 @@
+Someone is pushed to the left. # 0 # 3.73 # spine
+A standing person is pushed from the right side and compensates with a sidestep to the left. # 0 # 3.73 # spine

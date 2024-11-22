@@ -1,0 +1,3 @@
+A person raises both arms in the air. # 0 # 5 # left arm # right arm
+A person moves their legs in a dance-like manner. # 5 # 10 # legs
+A person turns their body slightly. # 10 # 19.34 # spine

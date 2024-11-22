@@ -1,0 +1,1 @@
+A person is making a sidestep to the left. # 0 # 5.5 # spine

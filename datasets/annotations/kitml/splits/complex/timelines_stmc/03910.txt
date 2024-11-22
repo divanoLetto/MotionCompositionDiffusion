@@ -1,0 +1,2 @@
+A human performs front crawl movements with her arms. # 0 # 12.933 # right arm # left arm # spine
+A person is swimming. # 12.933 # 36.733 # spine # legs

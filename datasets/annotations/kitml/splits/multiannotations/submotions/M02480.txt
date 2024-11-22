@@ -1,0 +1,1 @@
+A person attentively follows an object that moves around it. # 0 # 10 # spine

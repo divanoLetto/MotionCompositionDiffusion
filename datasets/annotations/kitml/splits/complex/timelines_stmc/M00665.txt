@@ -1,0 +1,2 @@
+A person is walking in a weird form. # 0 # 3.64 # legs
+A person walks forward with medium speed. # 3.64 # 4.26 # legs

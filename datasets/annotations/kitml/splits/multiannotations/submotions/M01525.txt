@@ -1,0 +1,1 @@
+A person makes a single wipe movement with the right arm. # 0 # 4.96 # spine

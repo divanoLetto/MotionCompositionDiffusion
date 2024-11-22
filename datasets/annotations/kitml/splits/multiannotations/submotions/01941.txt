@@ -1,0 +1,5 @@
+A clumsy or intoxicated person takes one step forward and stops to balance themselves. # 0 # 3.99 # spine
+Subject takes one step forward with right foot. # 0 # 3.99 # spine
+A human is pushed from the bak # 0 # 3.99 # spine
+a person gets a little bit pushed from the back # 0 # 3.99 # spine
+A human gets a gentle punch in the back and trips on step forward. # 0 # 3.99 # spine

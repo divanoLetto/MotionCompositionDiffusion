@@ -1,0 +1,2 @@
+someone walks a 90 degrees curve to the right # 0 # 5.27 # spine
+A person walks forward in a 90 degree curve to his right. # 0 # 5.27 # spine

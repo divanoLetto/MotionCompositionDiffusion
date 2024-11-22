@@ -1,0 +1,1 @@
+A person walks in a 90 degree curve to his right. # 0 # 2.542 # legs

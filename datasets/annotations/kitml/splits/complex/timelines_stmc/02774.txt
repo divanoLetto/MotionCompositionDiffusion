@@ -1,0 +1,2 @@
+A person walks forward. # 0 # 10 # legs
+A person is spinning around while walking. # 10 # 54.508 # legs

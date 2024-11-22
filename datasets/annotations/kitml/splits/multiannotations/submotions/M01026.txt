@@ -1,0 +1,2 @@
+A person walks four straight steps forward. # 0 # 3.18 # spine
+Somebody walks slowly straight on. # 0 # 3.18 # spine

@@ -1,0 +1,3 @@
+A person jumps about 20 cm high. # 0 # 5.93 # spine
+Someone is jumping up while standing. # 0 # 5.93 # spine
+a human jumps on the spot # 0 # 5.93 # spine

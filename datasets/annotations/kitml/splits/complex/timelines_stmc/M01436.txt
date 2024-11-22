@@ -1,0 +1,1 @@
+A person moves the right hand in front of the body in a half circle. # 0 # 5.19 # right arm

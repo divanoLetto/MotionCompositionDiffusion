@@ -1,0 +1,2 @@
+A person raises their arms to the side. # 0 # 3 # left arm # right arm
+A person is dancing. # 3 # 9.1 # spine # legs # left arm # right arm

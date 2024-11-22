@@ -1,0 +1,5 @@
+A human walking in a circle counterclockwise # 0 # 7.4 # spine
+A person is walking in a circle counterclockwise. # 0 # 7.4 # spine
+A human goes around the circle counterclockwise # 0 # 7.4 # spine
+someone walks a larger counterclockwise. # 0 # 7.4 # spine
+a person walks in a circle to the left # 0 # 7.4 # spine

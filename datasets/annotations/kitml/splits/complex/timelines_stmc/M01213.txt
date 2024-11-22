@@ -1,0 +1,2 @@
+A person walks forward in a circle. # 0 # 4 # legs
+A person raises both arms. # 4 # 12.49 # left arm # right arm

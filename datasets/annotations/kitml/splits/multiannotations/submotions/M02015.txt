@@ -1,0 +1,4 @@
+A person sprints forward. # 0 # 0.73 # spine
+a person is running forward. # 0 # 0.73 # spine
+A person is running. # 0 # 0.73 # spine
+Somebody is running # 0 # 0.73 # spine

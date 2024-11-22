@@ -1,0 +1,4 @@
+Person walking in a circle # 0 # 6.83 # spine
+human goes in a circle clockwise starting with right # 0 # 6.83 # spine
+A person moves in a circle. # 0 # 6.83 # spine
+A person is walking in a circle clockwise. # 0 # 6.83 # spine

@@ -1,0 +1,2 @@
+A person walks forward, gets pushed from the right and performs a side step. # 0 # 6.01 # spine
+a person walks forwards and gets pushed to the right # 0 # 6.01 # spine

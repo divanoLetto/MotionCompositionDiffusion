@@ -1,0 +1,4 @@
+A human looks to the left. Afterwards walks forwards slowly. # 0 # 7.48 # spine
+a person walks straight on and then walks up a step # 0 # 7.48 # spine
+a person walks straight forwards some steps # 0 # 7.48 # spine
+A person is walking forward. # 0 # 7.48 # spine

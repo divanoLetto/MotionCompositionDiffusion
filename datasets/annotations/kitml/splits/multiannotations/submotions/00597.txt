@@ -1,0 +1,2 @@
+A person bends ts knees. # 0 # 4.36 # spine
+A person performs one squat. # 0 # 4.36 # spine

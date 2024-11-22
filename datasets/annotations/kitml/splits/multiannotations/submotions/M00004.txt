@@ -1,0 +1,2 @@
+A person walks forward at medium speed. # 0 # 5.66 # spine
+human slowly goes forward # 0 # 5.66 # spine

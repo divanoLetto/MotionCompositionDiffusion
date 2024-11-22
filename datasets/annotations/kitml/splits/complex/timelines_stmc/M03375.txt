@@ -1,0 +1,2 @@
+A person performs a kick with their right leg. # 0 # 4 # legs
+A person raises their left arm and moves it up and down. # 4 # 6.417 # left arm

@@ -1,0 +1,2 @@
+A person walking forwards, one step back and then forwards again. # 0 # 6.02 # spine
+A person walks forwards, goes back and forth mid-walk and then continues walking forward # 0 # 6.02 # spine

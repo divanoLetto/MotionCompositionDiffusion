@@ -1,0 +1,1 @@
+A person turns left at medium speed. # 0 # 4.45 # spine

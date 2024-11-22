@@ -1,0 +1,3 @@
+A human performing a low kick with the left leg # 0 # 5.13 # spine
+A human kicks something with his left foot # 0 # 5.13 # spine
+a person kicks something in the lower front # 0 # 5.13 # spine

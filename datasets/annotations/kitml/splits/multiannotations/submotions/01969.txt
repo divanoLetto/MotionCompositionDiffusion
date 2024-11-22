@@ -1,0 +1,4 @@
+Someone runs forward # 0 # 5.34 # spine
+A person joggs forward. # 0 # 5.34 # spine
+A human jogs a few steps forward. # 0 # 5.34 # spine
+a person jogs some meters forward # 0 # 5.34 # spine

@@ -1,0 +1,1 @@
+A person is moving forward over a larger obstacle by putting one leg after another. # 0 # 10 # spine

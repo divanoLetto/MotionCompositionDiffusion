@@ -1,0 +1,1 @@
+A person jumps in the air and then walks 4 steps in the forward direction. # 0 # 6.21 # spine

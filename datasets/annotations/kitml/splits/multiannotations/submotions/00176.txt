@@ -1,0 +1,2 @@
+a person walks a few steps backwards # 0 # 6.19 # spine
+a person walks backwards about 4 steps # 0 # 6.19 # spine

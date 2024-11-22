@@ -1,0 +1,4 @@
+A person is waving his hands in a big motion # 0 # 10 # spine
+A person waves with both hands. # 0 # 10 # spine
+a person waves with its two hands # 0 # 10 # spine
+A human waves with two hands simultaneously. # 0 # 10 # spine

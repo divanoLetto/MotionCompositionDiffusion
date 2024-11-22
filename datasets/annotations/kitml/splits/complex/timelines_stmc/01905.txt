@@ -1,0 +1,3 @@
+A person raises their arms in front of them. # 0 # 2 # left arm # right arm
+A person performs a kick with their left leg. # 2 # 5 # legs
+A person goes backward with its legs. # 5 # 7.01 # legs

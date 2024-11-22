@@ -1,0 +1,4 @@
+Person is turning left # 0 # 4.35 # spine
+a person walks to the left performing a 90 degrees turn and walking in a quarter circle # 0 # 4.35 # spine
+The human perfoms a left turn # 0 # 4.35 # spine
+a person takes a left turn of 90 degrees # 0 # 4.35 # spine

@@ -1,0 +1,1 @@
+The person steps half a meter to the left while looking at his feet. # 0 # 3.892 # spine

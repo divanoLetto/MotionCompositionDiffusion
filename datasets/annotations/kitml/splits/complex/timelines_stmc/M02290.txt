@@ -1,0 +1,4 @@
+A person raises their arms in front of them. # 0 # 3 # left arm # right arm
+A person moves their hips side to side. # 3 # 6 # spine
+A person raises their left arm. # 6 # 8 # left arm
+A person raises their right arm. # 8 # 14.808 # right arm

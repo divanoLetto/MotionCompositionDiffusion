@@ -1,0 +1,4 @@
+A person walks clockwise in a small circle. # 0 # 6 # legs
+A person walks counterclockwise in a small circle. # 6 # 12 # legs
+A person turns left. # 12 # 15 # spine
+A person performs a kick with the right leg. # 15 # 53.55 # legs

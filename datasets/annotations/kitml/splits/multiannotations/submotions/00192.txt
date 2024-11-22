@@ -1,0 +1,2 @@
+the person is walking in a circular shape # 0 # 7.94 # spine
+Person walks a circle. # 0 # 7.94 # spine

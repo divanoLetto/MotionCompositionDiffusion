@@ -1,0 +1,1 @@
+A human walks forward and backwards in large steps. # 0 # 10 # spine

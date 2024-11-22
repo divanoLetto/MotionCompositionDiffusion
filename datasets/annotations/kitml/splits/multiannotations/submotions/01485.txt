@@ -1,0 +1,3 @@
+A human performing a stirring task # 0 # 5.12 # spine
+human performs a motion similar to mixing # 0 # 5.12 # spine
+a person wipes something with its right hand # 0 # 5.12 # spine

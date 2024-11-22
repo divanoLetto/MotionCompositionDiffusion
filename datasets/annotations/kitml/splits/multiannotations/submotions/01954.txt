@@ -1,0 +1,3 @@
+A human stepping to the right side # 0 # 9.01 # spine
+A person doing a side step to the right # 0 # 9.01 # spine
+a person takes a step to the right side # 0 # 9.01 # spine

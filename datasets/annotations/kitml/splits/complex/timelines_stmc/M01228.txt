@@ -1,0 +1,2 @@
+A person is walking in a small circle. # 0 # 5.0 # legs
+A person raises both hands and moves them back down. # 5.0 # 11.98 # right arm # left arm

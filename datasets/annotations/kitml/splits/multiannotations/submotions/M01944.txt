@@ -1,0 +1,5 @@
+The subject does one backward step starting with his left leg. # 0 # 5.01 # spine
+A person performs a single backward stride. # 0 # 5.01 # spine
+A persons makes a fast step backwards. # 0 # 5.01 # spine
+a person gets pushed from the front # 0 # 5.01 # spine
+Someone takes a quick step to the back. # 0 # 5.01 # spine

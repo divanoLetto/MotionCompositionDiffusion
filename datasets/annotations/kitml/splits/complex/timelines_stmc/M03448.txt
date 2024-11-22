@@ -1,0 +1,2 @@
+A person raises both arms and moves them side to side. # 0 # 4 # left arm # right arm
+A person bends slightly at the spine while moving. # 4 # 7.367 # spine

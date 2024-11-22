@@ -1,0 +1,2 @@
+A person shakes the bent arms and the head like an eating chicken. # 0 # 10 # left arm # right arm # head
+A person is walking in a counter-clockwise circle. # 10 # 33.117 # legs

@@ -1,0 +1,1 @@
+A human performs a kick with the right foot. # 0 # 6.6 # spine

@@ -1,0 +1,1 @@
+A person performs multiple fast punches with the left hand. # 0 # 16.083 # left arm

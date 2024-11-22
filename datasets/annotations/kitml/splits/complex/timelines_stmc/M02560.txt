@@ -1,0 +1,2 @@
+A person raises their left arm.  # 0 # 3 # left arm
+A person swings with their left arm.  # 3 # 16.217 # left arm

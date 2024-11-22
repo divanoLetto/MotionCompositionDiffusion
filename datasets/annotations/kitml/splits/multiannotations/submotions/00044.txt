@@ -1,0 +1,2 @@
+a person walks a quarter rightwards circle # 0 # 5.14 # spine
+A person walks in a quarter circle. # 0 # 5.14 # spine

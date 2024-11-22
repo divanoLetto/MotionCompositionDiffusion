@@ -1,0 +1,4 @@
+A person walks forward. # 0 # 5 # legs
+A person performs a turn to the left. # 5 # 10 # legs
+A person walks forward. # 10 # 15 # legs
+A person turns right. # 15 # 22.45 # legs

@@ -1,0 +1,2 @@
+A person walks 4 steps forward. # 0 # 4.39 # spine
+A person walking four steps forward. # 0 # 4.39 # spine

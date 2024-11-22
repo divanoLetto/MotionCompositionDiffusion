@@ -1,0 +1,2 @@
+A person raises both arms and moves them back down. # 0 # 5 # left arm # right arm
+A person is doing a low kick with the left foot. # 5 # 10.392 # legs

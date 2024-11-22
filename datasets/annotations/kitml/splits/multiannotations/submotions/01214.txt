@@ -1,0 +1,3 @@
+A person dances. # 0 # 10 # spine
+a person is dancing waltz # 0 # 10 # spine
+The human lift his hands perfoms a step forward then a step to the right and at the end a step backwards # 0 # 10 # spine

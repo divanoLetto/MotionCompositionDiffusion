@@ -1,0 +1,2 @@
+A person raises both arms and waves them. # 0 # 6 # left arm # right arm
+A person performs movements with the legs. # 6 # 20.95 # legs

@@ -1,0 +1,2 @@
+A person is shaking arms and legs like doing a warming up. # 0 # 5 # left arm # right arm # legs
+A person waves with both hands. # 5 # 10.533 # left arm # right arm

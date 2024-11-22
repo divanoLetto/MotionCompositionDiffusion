@@ -1,0 +1,1 @@
+A kneeling person is standing up. # 0 # 4.71 # spine

@@ -1,0 +1,3 @@
+A person moves their legs to the left side. # 0 # 2.0 # legs
+A person moves their legs to the right side. # 2.0 # 6.0 # legs
+A person moves their legs forward. # 6.0 # 9.61 # legs

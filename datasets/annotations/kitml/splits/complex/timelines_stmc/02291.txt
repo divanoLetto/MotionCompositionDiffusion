@@ -1,0 +1,2 @@
+A person is jumping. # 0 # 3 # legs
+A person is waving with both hands. # 3 # 9.733 # right arm # left arm

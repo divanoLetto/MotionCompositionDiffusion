@@ -1,0 +1,3 @@
+A human raises their left foot and touches it with the right hand. # 0 # 4.6 # spine
+a person is stomping with the left foot on the ground # 0 # 4.6 # spine
+a person stomps his left foot # 0 # 4.6 # spine

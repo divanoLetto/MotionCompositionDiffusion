@@ -1,0 +1,2 @@
+A person is dancing with his legs. # 0 # 10 # legs
+A person moves his right arm in rhythm. # 10 # 20.5 # right arm

@@ -1,0 +1,4 @@
+a person jumps forward # 0 # 4.93 # spine
+a person jumps forward with its two legs about 10 centimeters # 0 # 4.93 # spine
+A person performs one jump foreward # 0 # 4.93 # spine
+Someone jumps forwards. # 0 # 4.93 # spine

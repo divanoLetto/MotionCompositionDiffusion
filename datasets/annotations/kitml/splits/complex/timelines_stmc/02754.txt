@@ -1,0 +1,2 @@
+A person raises the right arm and moves the left arm up and down. # 0 # 10 # left arm # right arm
+A person walks a quarter circle to the left. # 10 # 18.167 # legs

@@ -1,0 +1,4 @@
+A person gets down on all fours. # 0 # 4.97 # spine
+A person will step on his two knees, making use both arms to support itself. # 0 # 4.97 # spine
+a person goes down on his knees # 0 # 4.97 # spine
+A person goes down to his knees. # 0 # 4.97 # spine

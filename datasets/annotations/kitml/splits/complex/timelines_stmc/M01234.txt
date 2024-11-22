@@ -1,0 +1,4 @@
+A person walks forward. # 0 # 4 # legs
+A person takes three steps forward. # 4 # 7 # legs
+A person turns to the right. # 7 # 9 # spine
+A person walks forward. # 9 # 16.69 # legs

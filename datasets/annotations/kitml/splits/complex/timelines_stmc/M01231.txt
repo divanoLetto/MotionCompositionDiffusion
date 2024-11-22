@@ -1,0 +1,4 @@
+A person walks forward for two steps. # 0 # 3.0 # legs
+A person steps to the side to the left. # 3.0 # 7.0 # legs
+A person steps to the side to the right. # 7.0 # 11.0 # legs
+A person walks forward for two steps. # 11.0 # 19.69 # legs

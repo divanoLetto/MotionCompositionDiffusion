@@ -1,0 +1,5 @@
+Person stumbling while standing # 0 # 3.51 # spine
+A person is pushed to the left # 0 # 3.51 # spine
+Standing person is beeing pushed hard from the right side and is maintaining balance. # 0 # 3.51 # spine
+a person stands still and gets pushed to the left # 0 # 3.51 # spine
+The human jumps the the left # 0 # 3.51 # spine

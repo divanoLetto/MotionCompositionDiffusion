@@ -1,0 +1,5 @@
+Someone walks a quarter-circle to the left. # 0 # 5.46 # spine
+Someone walks a left turn # 0 # 5.46 # spine
+A human performs a 90 degree curve tu the left # 0 # 5.46 # spine
+A human walks a quarter to his left # 0 # 5.46 # spine
+A person turns left. # 0 # 5.46 # spine

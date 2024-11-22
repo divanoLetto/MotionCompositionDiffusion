@@ -1,0 +1,2 @@
+the person is first walking forward and then turning to the right # 0 # 7.48 # spine
+A person is turning to the right while walking # 0 # 7.48 # spine

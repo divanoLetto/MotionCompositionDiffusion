@@ -1,0 +1,3 @@
+A human gets a push from the right and recovers. # 0 # 5.51 # spine
+Person walks as if drunk. # 0 # 5.51 # spine
+human is pushed from its right hand side while slowly walking forward # 0 # 5.51 # spine

@@ -1,0 +1,2 @@
+A person stirs something. # 0 # 4.88 # spine
+a person wipes something away with its left hand # 0 # 4.88 # spine

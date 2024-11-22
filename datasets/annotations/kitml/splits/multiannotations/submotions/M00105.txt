@@ -1,0 +1,2 @@
+a person walks forward # 0 # 5.39 # spine
+human goes forward # 0 # 5.39 # spine

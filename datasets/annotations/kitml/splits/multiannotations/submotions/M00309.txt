@@ -1,0 +1,1 @@
+A human is walking in a 90 degree curve to the left. # 0 # 5.42 # spine

@@ -1,0 +1,2 @@
+human goes in a circle clockwise # 0 # 7.5 # spine
+A human is walking in a circle to its right. # 0 # 7.5 # spine

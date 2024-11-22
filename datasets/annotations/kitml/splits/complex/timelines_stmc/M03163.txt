@@ -1,0 +1,3 @@
+A person performs a punching motion. # 0 # 5 # left arm # right arm
+A person is doing punches forward with the left arm on different heights. # 5 # 10 # left arm
+A person continues to punch forward. # 10 # 25.633 # right arm

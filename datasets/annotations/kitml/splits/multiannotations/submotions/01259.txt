@@ -1,0 +1,4 @@
+Someone does a tennis smash with the left arm. # 0 # 3.43 # spine
+A human performs a hit with a racket with its left hand over its head. # 0 # 3.43 # spine
+a person throws something with its left hand # 0 # 3.43 # spine
+A person is throwing an object with his left arm. # 0 # 3.43 # spine

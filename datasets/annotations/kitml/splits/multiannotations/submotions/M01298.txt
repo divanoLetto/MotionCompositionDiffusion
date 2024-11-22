@@ -1,0 +1,10 @@
+A person performs a punch with their left hand. # 0 # 5.44 # spine
+Person boxing with left hand # 0 # 5.44 # spine
+A person punches. # 0 # 5.44 # spine
+The human performs a left-handed punch. # 0 # 5.44 # spine
+someone makes a step forward with his left foot by boxing with his left hand # 0 # 5.44 # spine
+Someone is doing a high punch with his left fist. # 0 # 5.44 # spine
+A person punches in the air in front of him with his left arm # 0 # 5.44 # spine
+a person punches something with its left hand # 0 # 5.44 # spine
+A person performs a jab with his left hand. # 0 # 5.44 # spine
+A person is punching with his left hand. # 0 # 5.44 # spine

@@ -1,0 +1,2 @@
+A person walks slowly 4 steps forward. # 0 # 6.63 # spine
+A person walks straight forward a few meters # 0 # 6.63 # spine

@@ -1,0 +1,3 @@
+A person runs forward. # 0 # 2 # legs
+A person jumps upwards with the basketball in both hands. # 2 # 5 # spine # legs # left arm # right arm
+A person releases the basketball. # 5 # 8.008 # left arm # right arm

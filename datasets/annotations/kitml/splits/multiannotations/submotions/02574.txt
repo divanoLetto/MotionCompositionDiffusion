@@ -1,0 +1,1 @@
+A person makes punch moves with his right hand like fencing. # 0 # 10 # spine

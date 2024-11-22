@@ -1,0 +1,2 @@
+A person is bending their spine and moving their legs to the beat. # 0 # 4 # spine # legs
+A person raises their arms like they are dancing. # 4 # 7.992 # left arm # right arm

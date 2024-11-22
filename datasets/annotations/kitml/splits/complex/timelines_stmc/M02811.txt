@@ -1,0 +1,2 @@
+A person is performing a punch with his right hand. # 0 # 6 # right arm
+A person is performing a punch with his left hand. # 6 # 13.567 # left arm

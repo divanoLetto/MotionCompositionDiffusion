@@ -1,0 +1,3 @@
+a person gets pushed right and walks further. # 0 # 6.51 # spine
+Someone is being pushed viciously from the left side while walking forwards and compensates the disturbance. # 0 # 6.51 # spine
+A person gets pushed from his left side. # 0 # 6.51 # spine

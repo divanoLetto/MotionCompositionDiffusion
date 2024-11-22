@@ -1,0 +1,2 @@
+A person is performing punches with his right hand. # 0 # 5 # right arm
+A person throws a punch with his right fist. # 5 # 12.233 # right arm

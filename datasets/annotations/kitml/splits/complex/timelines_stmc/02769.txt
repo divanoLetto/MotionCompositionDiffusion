@@ -1,0 +1,2 @@
+A person is slowly walking forward. # 0 # 30 # legs
+A person raises their arms to the side. # 30 # 51.467 # left arm # right arm

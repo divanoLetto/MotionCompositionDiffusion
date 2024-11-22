@@ -1,0 +1,2 @@
+A human walks around calmly # 0 # 4.24 # spine
+a person walks to the right performing a 90 degrees turn in a quarter circle # 0 # 4.24 # spine

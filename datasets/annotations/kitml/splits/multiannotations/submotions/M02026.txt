@@ -1,0 +1,2 @@
+A person walks two steps forward, starting with the right foot, performs a spot-turn of 180 degree on the left foot and walks back two steps # 0 # 5.75 # spine
+A person turns 180 degress on the tip of their left foot # 0 # 5.75 # spine

@@ -1,0 +1,2 @@
+A person receives a push from the front, tumbles backward, and finally takes a step forward. # 0 # 4.76 # spine
+A person lost its balance as he almost fell backwards but then recovered his posture. # 0 # 4.76 # spine

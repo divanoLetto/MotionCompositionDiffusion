@@ -1,0 +1,2 @@
+A person walks around. # 0 # 27 # legs
+A person raises the right arm and moves the left arm up and down. # 27 # 54.508 # left arm # right arm

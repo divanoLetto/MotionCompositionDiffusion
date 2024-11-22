@@ -1,0 +1,3 @@
+the person is walking forth and back # 0 # 7.51 # spine
+A human is walking forward three steps without closing his feet, then backward three steps and finally forward five steps # 0 # 7.51 # spine
+a person walks forwards gets pushed backwards and then continues walking forward # 0 # 7.51 # spine

@@ -1,0 +1,2 @@
+A person stands still, holding a golf club with the right arm. # 0 # 2 # right arm
+A person swings the golf club with the left arm. # 2 # 3.642 # left arm

@@ -1,0 +1,2 @@
+A person is moving disoriented through the area in all directions. # 0 # 21.517 # spine # legs
+A person walks forward. # 21.517 # 53.55 # legs

@@ -1,0 +1,2 @@
+A human turning left # 0 # 4.74 # spine
+a person walks 90 degrees to the left # 0 # 4.74 # spine

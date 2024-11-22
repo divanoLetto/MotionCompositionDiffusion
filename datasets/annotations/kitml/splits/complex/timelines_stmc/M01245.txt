@@ -1,0 +1,2 @@
+A person raises their arms in a defense position. # 0 # 3 # left arm # right arm
+A person dodges to the side. # 3 # 4.05 # spine
