@@ -151,3 +151,5 @@ datasets/motions/*
 multirun/*
 outputs/*
 logs/*
+datasets/annotations/humanml3d/text_embeddings/*
+datasets/annotations/kitml/text_embeddings/*
