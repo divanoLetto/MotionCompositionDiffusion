@@ -176,12 +176,43 @@ datasets/motions
 
 </details>
 
+#### Text
+
+<details><summary>Click to expand</summary>
+
+Next, run the following command to pre-compute the CLIP embeddings (ViT-B/32):
+
+```
+python -m prepare.embeddings
+```
+
+The folder should look like this:
+```
+datasets/annotations/humanml3d
+├── annotations.json
+├── splits
+│   ├── all.txt
+│   ├── test_tiny.txt
+│   ├── test.txt
+│   ├── train_tiny.txt
+│   ├── train.txt
+│   ├── val_tiny.txt
+│   └── val.txt
+└── text_embeddings
+    └── ViT-B
+        ├── 32_index.json
+        ├── 32.npy
+        └── 32_slice.npy
+```
+
+</details>
+
 ## Usage
 
 ### Train a model 
 Start the training process with:
 ```
-python train.py trainer.max_epochs=10000 +split='complex/train' run_dir='outputs/mdm-smpl_splitme_humanml3d/logs/checkpoints/'
+python train.py trainer.max_epochs=10000 +split='complex/train' run_dir='outputs/mdm-smpl_splitcomplex_humanml3d/logs/checkpoints/'
 ```
 It will save the outputs to the folder specified by the argument `run_dir`. The number of diffusion steps is defined by the argument `trainer.max_epochs`. \
 The default dataset is HumanML3D, it can be changed to KitML using the argument `dataset=kitml`. To resume a training it's possible to use the argument `resume_dir` and `ckpt`, where the first specify the base directory where the config of the model are saved and the latter specify the path of the *.ckpt* file. \
@@ -212,7 +243,7 @@ python decompose/decompose_text2submotions.py dataset="humanml3d" compose="MCD" 
 To generate the testset from saved decomposed submotions to evaluation purposes run:
 
 ```
-python generate_testset.py input_type='submotions' +only_not_generated=False +submotions_dir='datasets/annotations/humanml3d/splits/complex/submotions' ckpt='pretrained_models/mdm-smpl_splitme_humanml3d/logs/checkpoints/last.ckpt' run_dir='pretrained_models/mdm-smpl_splitme_humanml3d' +out_dir='pretrained_models/mdm-smpl_splitme_humanml3d/generations_submotions' +split='complex/test' diffusion.mcd=True diffusion.weight=7 animations=False
+python generate_testset.py input_type='submotions' +only_not_generated=False +submotions_dir='datasets/annotations/humanml3d/splits/complex/submotions' ckpt='pretrained_models/mdm-smpl_splitcomplex_humanml3d/logs/checkpoints/last.ckpt' run_dir='pretrained_models/mdm-smpl_splitcomplex_humanml3d' +out_dir='pretrained_models/mdm-smpl_splitcomplex_humanml3d/generations_submotions' +split='complex/test' diffusion.mcd=True diffusion.weight=7 animations=False
 ```
 
 - `only_not_generated` to generate only the ids that are not already saved in the output directory.

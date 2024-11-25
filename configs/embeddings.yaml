@@ -1,6 +1,6 @@
 text_features: ${hydra:runtime.choices.text_encoder}
 
-dataset: kitml # humanml3d
+dataset: humanml3d # kitml or humanml3d
 
 defaults:
   - text_encoder: clip

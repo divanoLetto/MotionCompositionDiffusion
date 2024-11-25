@@ -117,15 +117,14 @@ hydra:
   overrides:
     hydra:
     - hydra.mode=RUN
-    task:
-    - path='/andromeda/personal/lmandelli/stmc/outputs/mdm-smpl_clip_smplrifke_humanml3d/generations/000000.npy'
+    task: []
   job:
-    name: render
+    name: embeddings
     chdir: null
-    override_dirname: path='/andromeda/personal/lmandelli/stmc/outputs/mdm-smpl_clip_smplrifke_humanml3d/generations/000000.npy'
+    override_dirname: ''
     id: ???
     num: ???
-    config_name: render
+    config_name: embeddings
     env_set: {}
     env_copy: []
     config:
@@ -136,21 +135,20 @@ hydra:
   runtime:
     version: 1.3.2
     version_base: '1.3'
-    cwd: /andromeda/personal/lmandelli/MCD
+    cwd: /andromeda/personal/lmandelli/MotionCompositionDiffusion
     config_sources:
     - path: hydra.conf
       schema: pkg
       provider: hydra
-    - path: /andromeda/personal/lmandelli/MCD/configs
+    - path: /andromeda/personal/lmandelli/MotionCompositionDiffusion/configs
       schema: file
       provider: main
     - path: ''
       schema: structured
       provider: schema
-    output_dir: /andromeda/personal/lmandelli/MCD/logs
+    output_dir: /andromeda/personal/lmandelli/MotionCompositionDiffusion/logs
     choices:
-      smpl_renderer: humor
-      joints_renderer: matplotlib
+      text_encoder: clip
       hydra/env: default
       hydra/callbacks: null
       hydra/job_logging: tqdm

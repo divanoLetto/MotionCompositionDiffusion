@@ -1,26 +1,16 @@
-joints_renderer:
-  _target_: src.renderer.matplotlib.MatplotlibRender
-  jointstype: guoh3djoints
-  fps: 20.0
-  colors:
-  - black
-  - magenta
-  - red
-  - green
-  - blue
-  figsize: 4
-  canonicalize: true
-smpl_renderer:
-  _target_: src.renderer.humor.HumorRenderer
-  fps: 20.0
-  imw: 720
-  imh: 720
+data:
+  text_encoder:
+    _target_: src.data.text.TextEmbeddings
+    dataname: ${dataset}
+    modelname: ViT-B/32
+    device: ${device}
+    preload: true
+    mean_pooling: false
+    disable: false
+    nfeats: 512
 run_dir: logs
 seed: 1234
 logger_level: INFO
-device: cpu
-path: /andromeda/personal/lmandelli/stmc/outputs/mdm-smpl_clip_smplrifke_humanml3d/generations/000000.npy
-out_path: null
-ext: mp4
-fps: 20.0
-y_is_z_axis: false
+device: cuda
+text_features: ${hydra:runtime.choices.text_encoder}
+dataset: kitml

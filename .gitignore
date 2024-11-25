@@ -150,3 +150,4 @@ deps/*
 datasets/motions/*
 multirun/*
 outputs/*
+logs/*
