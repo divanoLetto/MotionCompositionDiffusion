@@ -211,11 +211,8 @@ datasets/annotations/humanml3d
 
 ## Download pretrained models
 
-Please run this command to download the pre-trained model:
-
-bash prepare/download_pretrain_models.sh
-
-The model will be downloaded and saved in pretrained_models/mdm-smpl_clip_smplrifke_humanml3d.
+Click on this [link](https://drive.google.com/file/d/1s8yHZQwO0rDK_a3JeCGDSWrU-DgQuKE7) and download from your web browser.
+Then extract in pretrained_models/ dir.
 
 ## Usage
 
