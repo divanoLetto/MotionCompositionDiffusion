@@ -1,6 +1,3 @@
-# Copyright (c) Facebook, Inc. and its affiliates. All rights reserved.
-# Check PYTORCH3D_LICENCE before use
-
 import functools
 from typing import Optional
 
