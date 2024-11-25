@@ -94,6 +94,8 @@ bash prepare/smplh.sh
 
 This will create ``SMPLH_FEMALE.npz``, ``SMPLH_MALE.npz``, ``SMPLH_NEUTRAL.npz`` inside the ``deps/smplh`` folder.
 
+The error `ImportError: cannot import name 'bool' from 'numpy'` may occur depending on the versions of numpy and chumpy, in this case try commenting out the row that throws the exception: `from numpy import bool, int, float, complex, object, unicode, str, nan, inf`.
+
 </details>
 
 #### Motions
@@ -206,6 +208,14 @@ datasets/annotations/humanml3d
 ```
 
 </details>
+
+## Download pretrained models
+
+Please run this command to download the pre-trained model:
+
+bash prepare/download_pretrain_models.sh
+
+The model will be downloaded and saved in pretrained_models/mdm-smpl_clip_smplrifke_humanml3d.
 
 ## Usage
 
