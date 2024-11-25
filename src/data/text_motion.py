@@ -9,8 +9,6 @@ from tqdm import tqdm
 
 from .collate import collate_text_motion
 
-from neverseen_dataset.labels import labels
-
 
 def read_split(path, split):
     split_file = os.path.join(path, "splits", split + ".txt")
