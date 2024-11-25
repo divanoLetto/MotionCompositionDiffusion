@@ -4,7 +4,6 @@ import logging
 import hydra
 from omegaconf import DictConfig
 from hydra.utils import instantiate
-from my_utils.my_utils import update_cfg
 from src.config import read_config, save_config
 import pytorch_lightning as pl
 

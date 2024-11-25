@@ -212,7 +212,7 @@ datasets/annotations/humanml3d
 ## Download pretrained models
 
 Click on this [link](https://drive.google.com/file/d/1s8yHZQwO0rDK_a3JeCGDSWrU-DgQuKE7) and download from your web browser.
-Then extract in pretrained_models/ dir.
+Then extract in `pretrained_models/` dir.
 
 ## Usage
 

@@ -1,23 +1,23 @@
 import logging
 import hydra
-
-from hydra.utils import instantiate
-from omegaconf import DictConfig
-from src.config import read_config
-
 import os
 from os import listdir
 from pathlib import Path
-import shutil
 import json
+from hydra.utils import instantiate
+from omegaconf import DictConfig
 
+from src.config import read_config
 from src.tools.extract_joints import extract_joints
-from my_utils.my_utils import update_cfg
-
 from src.stmc import read_submotions, process_submotions
-from src.text import TextDuration, read_texts
+from src.text import TextDuration
 from src.tools.smpl_layer import SMPLH
 
+def update_cfg(cfg, c):
+    if hasattr(c, "diffusion") and hasattr(c["diffusion"], "weight"):
+        cfg.diffusion.weight = c.diffusion.weight
+    if hasattr(c, "diffusion") and hasattr(c["diffusion"], "mcd"):
+        cfg.diffusion.mcd = c.diffusion.mcd
 
 # avoid conflic between tokenizer and rendering
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
@@ -211,9 +211,9 @@ def generate_testset(c: DictConfig):
 
                 if hasattr(c, "animations") and c.animations is True:
                     logger.info(f"Joints rendering {idx}")
-                    # joints_renderer(
-                         # joints, title="", output=joints_video_paths[idx], canonicalize=False
-                    #  )
+                    joints_renderer(
+                        joints, title="", output=joints_video_paths[idx], canonicalize=False
+                    )
                     print(joints_video_paths[idx])
 
                     smpl_renderer(
