@@ -1,6 +1,4 @@
 import os
-import shutil
-
 import hydra
 from hydra.utils import instantiate
 from omegaconf import DictConfig

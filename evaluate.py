@@ -2,12 +2,9 @@ import os
 import numpy as np 
 import json
 import orjson
-import matplotlib.pyplot as plt
 import numpy as np
-import matplotlib.animation as animation
 
 import src.prepare  # noqa
-
 from TMR.mtt.metrics import calculate_activation_statistics_normalized
 from TMR.mtt.load_tmr_model import load_tmr_model_easy
 from TMR.src.guofeats import joints_to_guofeats

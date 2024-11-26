@@ -25,8 +25,6 @@ def render(c: DictConfig):
     import numpy as np
 
     motions = np.load(c.path)
-    # aaa = "/andromeda/personal/lmandelli/stmc/pretrained_models/mdm-smpl_clip_smplrifke_humanml3d/generations/000000_last_timeline_to_motion_w7/000000_timeline_0.npy"
-    # motions = np.load(aaa)
     
     if motions.shape[1] == 6890:
         renderer = instantiate(c.smpl_renderer)
