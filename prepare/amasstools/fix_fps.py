@@ -107,7 +107,7 @@ def main():
     new_fps = 20.0
 
     force_redo = False
-    base_folder = "/andromeda/personal/lmandelli/HumanML3D/amass_data" #"datasets/motions/AMASS"
+    base_folder = "datasets/motions/AMASS"
     new_base_folder = f"datasets/motions/AMASS_{new_fps}_fps_nh"  # nh for no hands
 
     fix_fps(base_folder, new_base_folder, new_fps, force_redo)
