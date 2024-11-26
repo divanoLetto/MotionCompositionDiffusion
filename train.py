@@ -10,27 +10,6 @@ import pytorch_lightning as pl
 logger = logging.getLogger(__name__)
 
 
-def save_stats(dataset, run_dir):
-    is_training = dataset.is_training
-    dataset.is_training = False
-
-    from tqdm import tqdm
-    import torch
-    from src.normalizer import Normalizer
-
-    logger.info("Compute motion embedding stats")
-    motionfeats = torch.cat([x["x"] for x in tqdm(dataset)])
-    mean_motionfeats = motionfeats.mean(0)
-    std_motionfeats = motionfeats.std(0)
-
-    logger.info("Compute text embedding stats")
-    textfeats = torch.cat([x["tx"]["x"] for x in tqdm(dataset)])
-    mean_textfeats = textfeats.mean(0)
-    std_textfeats = textfeats.std(0)
-
-    dataset.is_training = is_training
-
-
 @hydra.main(config_path="configs", config_name="train", version_base="1.3")
 def train(cfg: DictConfig):    
     ckpt = None
@@ -60,10 +39,6 @@ def train(cfg: DictConfig):
     logger.info("Loading the dataloaders") 
     train_dataset = instantiate(cfg.data, split=cfg.split.replace("test", "train"))
     val_dataset = instantiate(cfg.data, split=cfg.split.replace("test", "val").replace("train", "val"))
-
-    if resume_dir is not None:
-        logger.info("Computing statistics")
-        save_stats(train_dataset, cfg.run_dir)
 
     train_dataloader = instantiate(
         cfg.dataloader,
