@@ -14,6 +14,20 @@ from TMR.mtt.metrics import calculate_frechet_distance, calculate_activation_sta
 from TMR.src.model.tmr import get_sim_matrix
 
 
+def print_result(result):
+    pp = ""
+    for r in result:
+        if type(r) is str:
+            word = str(r)
+            spaces=  (15 - len(word)) * " " 
+        else:
+            word = str(round(r, 3))
+            spaces =  (15 - len(word)) * " "
+        pp = pp + word + spaces + "- "
+
+    print(pp)
+
+
 def T(x):
     if isinstance(x, torch.Tensor):
         return x.permute(*torch.arange(x.ndim - 1, -1, -1))
@@ -181,8 +195,8 @@ def load_test_texts_motions(path_ids, path_all_texts, path_annotations, DEBUG=0,
 
 
 amass_folder = "./datasets/motions/AMASS_20.0_fps_nh_smpljoints_neutral_nobetas"
-base_path_splitme_humanml3d = f"{os.getcwd()}/pretrained_models/mdm-smpl_splitme_humanml3d"
-base_path_splitme_kitml = f"{os.getcwd()}/pretrained_models/mdm-smpl_splitme_kitml"
+base_path_splitcomplex_humanml3d = f"{os.getcwd()}/pretrained_models/mdm-smpl_splitcomplex_humanml3d"
+base_path_splitcomplex_kitml = f"{os.getcwd()}/pretrained_models/mdm-smpl_splitcomplex_kitml"
 base_path_humanml_clip = f"{os.getcwd()}/pretrained_models/mdm-smpl_clip_smplrifke_humanml3d"
 base_path_kitml_clip = f"{os.getcwd()}/pretrained_models/mdm-smpl_clip_smplrifke_kitml"
 
@@ -194,19 +208,19 @@ def main():
     exp_text_humanml = {
             "name": "text",
             "path_ids":f"{os.getcwd()}/datasets/annotations/humanml3d/splits/complex/test.txt",
-            "generations_folder": f"{base_path_splitme_humanml3d}/generations_text/", 
+            "generations_folder": f"{base_path_splitcomplex_humanml3d}/generations_text/", 
             "path_annotations": f"{os.getcwd()}/datasets/annotations/humanml3d/splits/complex/annotations_test.json"
     }
     exp_submotions_humanml = {
             "name": "submotions mcd",
             "path_ids":f"{os.getcwd()}/datasets/annotations/humanml3d/splits/complex/test.txt",
-            "generations_folder": f"{base_path_splitme_humanml3d}/generations_submotions/",
+            "generations_folder": f"{base_path_splitcomplex_humanml3d}/generations_submotions/",
             "path_annotations": f"{os.getcwd()}/datasets/annotations/humanml3d/splits/complex/annotations_test.json"
     }
     exp_stmc_humanml ={
             "name": "submotions stmc",
             "path_ids":f"{os.getcwd()}/datasets/annotations/humanml3d/splits/complex/test.txt",
-            "generations_folder":f"{base_path_splitme_humanml3d}/generations_submotions_stmc/", 
+            "generations_folder":f"{base_path_splitcomplex_humanml3d}/generations_submotions_stmc/", 
             "path_annotations": f"{os.getcwd()}/datasets/annotations/humanml3d/splits/complex/annotations_test.json"
     }
     exp_multitext_text_humanml ={
@@ -224,19 +238,19 @@ def main():
     exp_text_kitml = {
             "name": "text",
             "path_ids":f"{os.getcwd()}/datasets/annotations/kitml/splits/complex/test.txt",
-            "generations_folder": f"{base_path_splitme_kitml}/generations_text/", 
+            "generations_folder": f"{base_path_splitcomplex_kitml}/generations_text/", 
             "path_annotations": f"{os.getcwd()}/datasets/annotations/kitml/splits/complex/annotations_test.json"
     }
     exp_submotions_kitml = {
             "name": "submotions",
             "path_ids":f"{os.getcwd()}/datasets/annotations/kitml/splits/complex/test.txt",
-            "generations_folder": f"{base_path_splitme_kitml}/generations_submotions/",
+            "generations_folder": f"{base_path_splitcomplex_kitml}/generations_submotions/",
             "path_annotations": f"{os.getcwd()}/datasets/annotations/kitml/splits/complex/annotations_test.json"
     }
     exp_stmc_kitml ={
             "name": "submotions_stmc",
             "path_ids":f"{os.getcwd()}/datasets/annotations/kitml/splits/complex/test.txt",
-            "generations_folder":f"{base_path_splitme_kitml}/generations_submotions_stmc/", 
+            "generations_folder":f"{base_path_splitcomplex_kitml}/generations_submotions_stmc/", 
             "path_annotations": f"{os.getcwd()}/datasets/annotations/kitml/splits/complex/annotations_test.json"
     }
     exp_multitext_text_kitml ={
@@ -256,7 +270,7 @@ def main():
     # input_types = [exp_gt, exp_text_humanml, exp_stmc_humanml, exp_submotions_humanml] 
     input_types = [exp_gt, exp_text_kitml] 
     
-    DEBUG = 0 # to test the evaluation script, only the firsts #{DEBUG} eleemnts with {DEBUG}!=0 are considered
+    DEBUG = 10 # to test the evaluation script, only the firsts #{DEBUG} eleemnts with {DEBUG}!=0 are considered
     
     ###
     np.random.seed(0)
