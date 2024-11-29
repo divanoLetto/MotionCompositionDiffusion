@@ -123,7 +123,7 @@ class MeshViewer(object):
             self.set_background_color([1.0, 1.0, 1.0, 0.0])
 
         # MYCODE gray background
-        # self.set_background_color([0.5, 0.5, 0.5, 0.1])
+        self.set_background_color([0.5, 0.5, 0.5, 0.1])
 
         self.figsize = (width, height)
 

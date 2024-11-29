@@ -21,15 +21,15 @@ class HumorRenderer:
         self.kwargs = kwargs
         self.fps = fps
 
-    def __call__(self, vertices, output, **kwargs):
+    def __call__(self, vertices, output, video=False, **kwargs):
         params = self.kwargs | kwargs
         fps = self.fps
         if "fps" in params:
             fps = params.pop("fps")
-        render(vertices, output, fps, **params)
+        render(vertices, output, fps, video=video, **params)
 
 
-def render(vertices, out_path, fps, progress_bar=tqdm, **kwargs):
+def render(vertices, out_path, fps, progress_bar=tqdm, video=False, **kwargs):
     # Put the vertices at the floor level
     ground = vertices[..., 2].min()
     vertices[..., 2] -= ground
@@ -48,11 +48,12 @@ def render(vertices, out_path, fps, progress_bar=tqdm, **kwargs):
 
     # out_folder, body_pred, start, end, fps, kwargs = args
     viz_smpl_seq(
-        pyrender, out_folder, body_pred, fps=fps, progress_bar=progress_bar, joints_seq=verts, **kwargs
+        pyrender, out_folder, body_pred, fps=fps, progress_bar=progress_bar, joints_seq=verts, video=video, **kwargs
     )
     # Uncomment to render the video
-    # video = Video(out_folder, fps=fps)
-    # video.save(out_path)
+    if video:
+        video = Video(out_folder, fps=fps)
+        video.save(out_path)
 
 
 def render_offset(args):

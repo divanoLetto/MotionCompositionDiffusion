@@ -267,7 +267,7 @@ def generate(c: DictConfig):
             if "vertices" in output and c.animations:
                 print(f"SMPL rendering {idx}")
                 smpl_renderer(
-                    output["vertices"], title="", output=smpl_video_paths[idx]
+                    output["vertices"], title="", output=smpl_video_paths[idx], video=False
                 )
                 print(smpl_video_paths[idx])
                 print()
