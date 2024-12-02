@@ -1,2 +1,2 @@
-A person swings both arms. # 0 # 6 # spine
-A person is swinging his hands down. # 4 # 8.11 # spine
+A person swings both arms. # 0 # 6
+A person is swinging his hands down. # 4 # 8.11

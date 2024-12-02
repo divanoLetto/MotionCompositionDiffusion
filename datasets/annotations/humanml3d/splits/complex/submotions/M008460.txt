@@ -1,2 +1,2 @@
-A person lifts both arms to the left. # 0 # 5 # spine
-A person moves their arms in a circular motion. # 3 # 5.02 # spine
+A person lifts both arms to the left. # 0 # 5
+A person moves their arms in a circular motion. # 3 # 5.02

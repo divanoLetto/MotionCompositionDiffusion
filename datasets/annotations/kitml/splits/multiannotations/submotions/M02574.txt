@@ -1,1 +1,1 @@
-A person makes punch moves with his left hand like fencing. # 0 # 10 # spine
+A person makes punch moves with his left hand like fencing. # 0 # 10

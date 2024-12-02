@@ -1,3 +1,3 @@
-moving the left hand on stand. # 0 # 7.99 # spine
-person is pulling a book from the shelf. # 0 # 7.99 # spine
-a person slightly raises their left hand in front of them. # 0 # 7.99 # spine
+moving the left hand on stand. # 0 # 7.99
+person is pulling a book from the shelf. # 0 # 7.99
+a person slightly raises their left hand in front of them. # 0 # 7.99

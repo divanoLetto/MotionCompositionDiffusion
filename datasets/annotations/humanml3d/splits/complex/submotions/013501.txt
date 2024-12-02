@@ -1,2 +1,2 @@
-A person shuffles back and forth. # 0 # 5 # spine
-A person raises their arms to their sides. # 4 # 10 # spine
+A person shuffles back and forth. # 0 # 5
+A person raises their arms to their sides. # 4 # 10

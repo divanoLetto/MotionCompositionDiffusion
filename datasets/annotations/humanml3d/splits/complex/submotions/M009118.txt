@@ -1,2 +1,2 @@
-A person raises his right arm up. # 0 # 6 # spine
-A person holds his right leg up. # 4 # 10.0 # spine
+A person raises his right arm up. # 0 # 6
+A person holds his right leg up. # 4 # 10.0

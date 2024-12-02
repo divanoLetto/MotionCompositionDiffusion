@@ -1,2 +1,2 @@
-A person is stirring with their right hand. # 0 # 3 # spine
-A person is doing a wiping movement with the right hand. # 3 # 6.5 # spine
+A person is stirring with their right hand. # 0 # 3
+A person is doing a wiping movement with the right hand. # 3 # 6.5

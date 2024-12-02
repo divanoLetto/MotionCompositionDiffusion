@@ -1,3 +1,3 @@
-person opens drink and drinks it # 0 # 2.2 # spine
-a person is holding something in their right hand, touches it with their left hand, and lifts their right hand to their face. # 0 # 2.2 # spine
-a person has both arms raised, bending at the elbows. they lift their right hand up to take a drink. # 0 # 2.2 # spine
+person opens drink and drinks it # 0 # 2.2
+a person is holding something in their right hand, touches it with their left hand, and lifts their right hand to their face. # 0 # 2.2
+a person has both arms raised, bending at the elbows. they lift their right hand up to take a drink. # 0 # 2.2

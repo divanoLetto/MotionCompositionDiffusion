@@ -1,3 +1,3 @@
-a person is dancing by putting their arms out making a t-pose and rotating their wrists, then moves their legs up and out one at a time. # 0 # 10 # spine
-a person rotates hands in front of body, then rotates them with arms outstretched from sides, rotates right leg up, to the side and down, and raises left leg. # 0 # 10 # spine
-a man rotates his writsts in front of him, then off to the side, then moves his right and left legs. # 0 # 10 # spine
+a person is dancing by putting their arms out making a t-pose and rotating their wrists, then moves their legs up and out one at a time. # 0 # 10
+a person rotates hands in front of body, then rotates them with arms outstretched from sides, rotates right leg up, to the side and down, and raises left leg. # 0 # 10
+a man rotates his writsts in front of him, then off to the side, then moves his right and left legs. # 0 # 10

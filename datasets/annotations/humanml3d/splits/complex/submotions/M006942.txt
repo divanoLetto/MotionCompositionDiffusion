@@ -1,2 +1,2 @@
-A person takes a step back with their left foot. # 0 # 2 # spine
-A person is throwing something with their left hand. # 2 # 9.875 # spine
+A person takes a step back with their left foot. # 0 # 2
+A person is throwing something with their left hand. # 2 # 9.875

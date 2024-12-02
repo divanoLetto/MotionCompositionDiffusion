@@ -1,3 +1,3 @@
-a person sits on the ground and gets back up. # 0 # 9.025 # spine
-sitting down on the ground then standing. # 0 # 9.025 # spine
-a man sits down on the ground then lays most of the way down on the ground uses both hands to push off the ground and stand back up. # 0 # 9.025 # spine
+a person sits on the ground and gets back up. # 0 # 9.025
+sitting down on the ground then standing. # 0 # 9.025
+a man sits down on the ground then lays most of the way down on the ground uses both hands to push off the ground and stand back up. # 0 # 9.025

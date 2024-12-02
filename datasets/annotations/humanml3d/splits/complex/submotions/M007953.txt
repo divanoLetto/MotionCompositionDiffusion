@@ -1,3 +1,3 @@
-The person is crouching and moving their arms in front of them. # 0 # 2 # spine
-The figure side skips in a figure 8 motion. # 2 # 8 # spine
-The person is walking forward. # 8 # 10.0 # spine
+The person is crouching and moving their arms in front of them. # 0 # 2
+The figure side skips in a figure 8 motion. # 2 # 8
+The person is walking forward. # 8 # 10.0

@@ -1,1 +1,1 @@
-A person walks straight forward, then turns around 180 degrees and walks back again. # 0 # 10 # spine
+A person walks straight forward, then turns around 180 degrees and walks back again. # 0 # 10

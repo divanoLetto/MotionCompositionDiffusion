@@ -1,2 +1,2 @@
-A person raises their hands and claps. # 0 # 4.742 # spine
-A person lifts their arms and hits with both hands. # 4 # 8.850000000000001 # spine
+A person raises their hands and claps. # 0 # 4.742
+A person lifts their arms and hits with both hands. # 4 # 8.850000000000001

@@ -1,2 +1,2 @@
-A person is walking on a balance beam. # 0 # 6 # spine
-A person raises their arms to maintain balance. # 5 # 10 # spine
+A person is walking on a balance beam. # 0 # 6
+A person raises their arms to maintain balance. # 5 # 10

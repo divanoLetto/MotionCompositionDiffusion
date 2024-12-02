@@ -1,2 +1,2 @@
-A person grabs his wrist and practices a putt. # 0 # 4 # spine
-A person stands still and prepares to swing. # 3 # 4.658 # spine
+A person grabs his wrist and practices a putt. # 0 # 4
+A person stands still and prepares to swing. # 3 # 4.658

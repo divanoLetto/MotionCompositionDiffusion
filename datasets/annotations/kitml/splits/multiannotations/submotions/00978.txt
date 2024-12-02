@@ -1,1 +1,1 @@
-A person turns right at medium speed. # 0 # 4.45 # spine
+A person turns right at medium speed. # 0 # 4.45

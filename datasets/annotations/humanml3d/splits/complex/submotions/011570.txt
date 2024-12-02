@@ -1,2 +1,2 @@
-A person jumps to the left. # 0 # 4 # spine
-A person jumps to the right. # 4 # 10.0 # spine
+A person jumps to the left. # 0 # 4
+A person jumps to the right. # 4 # 10.0

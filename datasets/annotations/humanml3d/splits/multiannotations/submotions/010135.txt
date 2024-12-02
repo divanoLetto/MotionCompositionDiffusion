@@ -1,3 +1,3 @@
-a person is sitting and makes slight movements of his hands # 0 # 3.95 # spine
-a person is squatting down. # 0 # 3.95 # spine
-a person is sitting or squatting and makes motions towards their head with their left hand. # 0 # 3.95 # spine
+a person is sitting and makes slight movements of his hands # 0 # 3.95
+a person is squatting down. # 0 # 3.95
+a person is sitting or squatting and makes motions towards their head with their left hand. # 0 # 3.95

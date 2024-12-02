@@ -1,2 +1,2 @@
-the person is playing violin # 0 # 5.98 # spine
-a person plays the violin with its right hand # 0 # 5.98 # spine
+the person is playing violin # 0 # 5.98
+a person plays the violin with its right hand # 0 # 5.98

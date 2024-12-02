@@ -1,2 +1,2 @@
-A person raises both arms in a fluid motion. # 0 # 3 # spine
-A person swings their arms back and forth as if playing an instrument. # 2 # 10 # spine
+A person raises both arms in a fluid motion. # 0 # 3
+A person swings their arms back and forth as if playing an instrument. # 2 # 10

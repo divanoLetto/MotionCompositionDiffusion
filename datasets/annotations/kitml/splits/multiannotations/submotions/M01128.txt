@@ -1,4 +1,4 @@
-A persond steps one step to the right side. # 0 # 4.24 # spine
-a person takes a step to the right # 0 # 4.24 # spine
-A person is taking one step to the right. # 0 # 4.24 # spine
-A person does a quick sidestep to the right. # 0 # 4.24 # spine
+A persond steps one step to the right side. # 0 # 4.24
+a person takes a step to the right # 0 # 4.24
+A person is taking one step to the right. # 0 # 4.24
+A person does a quick sidestep to the right. # 0 # 4.24

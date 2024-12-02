@@ -1,3 +1,3 @@
-a person is standing still while waving his left hand. # 0 # 3.875 # spine
-a man waves with his left hand. # 0 # 3.875 # spine
-a man leans across his table, craning his neck to the right, so as to better see the kitchen from his position. # 0 # 3.875 # spine
+a person is standing still while waving his left hand. # 0 # 3.875
+a man waves with his left hand. # 0 # 3.875
+a man leans across his table, craning his neck to the right, so as to better see the kitchen from his position. # 0 # 3.875

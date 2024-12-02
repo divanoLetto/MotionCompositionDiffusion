@@ -1,5 +1,5 @@
-Person walking and then turning on one foot # 0 # 5.01 # spine
-Someone walks forward then turn around and walks back # 0 # 5.01 # spine
-A person takes two step forward then turns around on one foot and takes another two steps. # 0 # 5.01 # spine
-A person turns 180 degrees on his left foot. # 0 # 5.01 # spine
-human goes forward and turns around partway # 0 # 5.01 # spine
+Person walking and then turning on one foot # 0 # 5.01
+Someone walks forward then turn around and walks back # 0 # 5.01
+A person takes two step forward then turns around on one foot and takes another two steps. # 0 # 5.01
+A person turns 180 degrees on his left foot. # 0 # 5.01
+human goes forward and turns around partway # 0 # 5.01

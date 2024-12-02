@@ -1,2 +1,2 @@
-A person kicks with their left leg. # 0 # 3 # spine
-A person raises their left leg to perform a kick. # 2 # 9.999999999999998 # spine
+A person kicks with their left leg. # 0 # 3
+A person raises their left leg to perform a kick. # 2 # 9.999999999999998

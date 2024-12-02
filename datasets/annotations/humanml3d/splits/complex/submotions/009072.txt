@@ -1,2 +1,2 @@
-A person lowers outstretched arms and then begins hopping side to side in random directions while flailing their arms. # 0 # 6 # spine
-A person is flailing arms and legs randomly. # 6 # 10.0 # spine
+A person lowers outstretched arms and then begins hopping side to side in random directions while flailing their arms. # 0 # 6
+A person is flailing arms and legs randomly. # 6 # 10.0

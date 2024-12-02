@@ -1,2 +1,2 @@
-A person holds their hands close to their mouth and chest area. # 0 # 3 # spine
-A person moves their arms in and out like they are swimming. # 2 # 9.2 # spine
+A person holds their hands close to their mouth and chest area. # 0 # 3
+A person moves their arms in and out like they are swimming. # 2 # 9.2

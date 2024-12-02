@@ -1,3 +1,3 @@
-a person stands in place while flexing both biceps. # 0 # 4.95 # spine
-the figure flexes its arms upwards towards its face at elbow level five times. # 0 # 4.95 # spine
-a person uses both of their hands to curl an object 5 times at the same time. # 0 # 4.95 # spine
+a person stands in place while flexing both biceps. # 0 # 4.95
+the figure flexes its arms upwards towards its face at elbow level five times. # 0 # 4.95
+a person uses both of their hands to curl an object 5 times at the same time. # 0 # 4.95

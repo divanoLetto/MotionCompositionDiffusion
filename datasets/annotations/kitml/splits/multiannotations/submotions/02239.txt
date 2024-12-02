@@ -1,1 +1,1 @@
-A human stands up from a kneeling position. # 0 # 5.52 # spine
+A human stands up from a kneeling position. # 0 # 5.52

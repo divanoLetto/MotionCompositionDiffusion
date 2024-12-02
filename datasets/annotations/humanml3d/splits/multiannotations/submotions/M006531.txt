@@ -1,3 +1,3 @@
-the person walks up a ramp. # 0 # 7.94 # spine
-a man moved forward swinging his left arm side to side. # 0 # 7.94 # spine
-a man walks forward slightly swinging his arms. # 0 # 7.94 # spine
+the person walks up a ramp. # 0 # 7.94
+a man moved forward swinging his left arm side to side. # 0 # 7.94
+a man walks forward slightly swinging his arms. # 0 # 7.94

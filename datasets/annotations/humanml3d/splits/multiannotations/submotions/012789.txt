@@ -1,3 +1,3 @@
-person is throwing and catching a football. # 0 # 7.742 # spine
-a person throws an object against a wall with their right hand, and catches its rebound with both hands. # 0 # 7.742 # spine
-person is playing catch with someone # 0 # 7.742 # spine
+person is throwing and catching a football. # 0 # 7.742
+a person throws an object against a wall with their right hand, and catches its rebound with both hands. # 0 # 7.742
+person is playing catch with someone # 0 # 7.742

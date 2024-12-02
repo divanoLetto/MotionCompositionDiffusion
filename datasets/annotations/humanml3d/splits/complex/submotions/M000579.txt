@@ -1,2 +1,2 @@
-A person raises both arms up. # 0 # 2.0 # spine
-A person moves their arms up and down. # 1 # 2.0 # spine
+A person raises both arms up. # 0 # 2.0
+A person moves their arms up and down. # 1 # 2.0

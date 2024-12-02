@@ -1,4 +1,4 @@
-A person sits down with both hands on their knees. # 0 # 3 # spine
-A person brushes their right knee with their right hand. # 2 # 5 # spine
-A person continues to brush their right knee. # 5 # 8 # spine
-A person raises their right hand. # 8 # 10.0 # spine
+A person sits down with both hands on their knees. # 0 # 3
+A person brushes their right knee with their right hand. # 2 # 5
+A person continues to brush their right knee. # 5 # 8
+A person raises their right hand. # 8 # 10.0

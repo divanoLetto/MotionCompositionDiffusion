@@ -1,3 +1,3 @@
-someone is pulling back, while standing on one foot. # 0 # 4.95 # spine
-a person leans back as if to throw a ball, lifting his left leg in the process. # 0 # 4.95 # spine
-bending back and punching the air. # 0 # 4.95 # spine
+someone is pulling back, while standing on one foot. # 0 # 4.95
+a person leans back as if to throw a ball, lifting his left leg in the process. # 0 # 4.95
+bending back and punching the air. # 0 # 4.95

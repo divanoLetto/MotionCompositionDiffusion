@@ -1,3 +1,3 @@
-a person sits their motion stutters # 0 # 1.5 # spine
-a person starts sitting down. # 0 # 1.5 # spine
-person sat down on the ground. # 0 # 1.5 # spine
+a person sits their motion stutters # 0 # 1.5
+a person starts sitting down. # 0 # 1.5
+person sat down on the ground. # 0 # 1.5

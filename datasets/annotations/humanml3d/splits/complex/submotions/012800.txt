@@ -1,2 +1,2 @@
-A person is swinging from side to side while clapping their hands. # 0 # 6 # spine
-A person is walking in a clockwise circle. # 4 # 10.0 # spine
+A person is swinging from side to side while clapping their hands. # 0 # 6
+A person is walking in a clockwise circle. # 4 # 10.0

@@ -1,3 +1,3 @@
-a person walks backwards on their toes. # 0 # 9.85 # spine
-a person is walking backwards. # 0 # 9.85 # spine
-a person who is standing slowly moves backwards as he takes twelve careful steps and stops. # 0 # 9.85 # spine
+a person walks backwards on their toes. # 0 # 9.85
+a person is walking backwards. # 0 # 9.85
+a person who is standing slowly moves backwards as he takes twelve careful steps and stops. # 0 # 9.85

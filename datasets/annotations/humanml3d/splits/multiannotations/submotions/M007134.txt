@@ -1,3 +1,3 @@
-the figure is walking in a clockwise motion slowly. # 0 # 10 # spine
-a person walking around making a circle. # 0 # 10 # spine
-a person walks in a small circle to the right. # 0 # 10 # spine
+the figure is walking in a clockwise motion slowly. # 0 # 10
+a person walking around making a circle. # 0 # 10
+a person walks in a small circle to the right. # 0 # 10

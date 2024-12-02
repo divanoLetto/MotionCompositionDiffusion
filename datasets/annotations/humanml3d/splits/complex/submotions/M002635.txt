@@ -1,3 +1,3 @@
-A person walks forward.  # 0 # 3 # spine
-A person raises their arms to dance.  # 2 # 5 # spine
-A person dances while moving their hips.  # 4 # 10 # spine
+A person walks forward.  # 0 # 3
+A person raises their arms to dance.  # 2 # 5
+A person dances while moving their hips.  # 4 # 10

@@ -1,3 +1,3 @@
-A person is moving their hips from side to side. # 0 # 3 # spine
-A person raises their arms either side and straight outwards. # 2 # 6 # spine
-A person is dancing while moving their arms. # 4 # 6.899999999999999 # spine
+A person is moving their hips from side to side. # 0 # 3
+A person raises their arms either side and straight outwards. # 2 # 6
+A person is dancing while moving their arms. # 4 # 6.899999999999999

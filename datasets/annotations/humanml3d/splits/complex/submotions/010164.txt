@@ -1,2 +1,2 @@
-A person is standing and moving their hands up and down. # 0 # 1.7 # spine
-A person is using both hands to strike downwards. # 1.5 # 1.7 # spine
+A person is standing and moving their hands up and down. # 0 # 1.7
+A person is using both hands to strike downwards. # 1.5 # 1.7

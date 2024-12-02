@@ -1,4 +1,4 @@
-A person raises both arms above their head. # 0 # 2 # spine
-A person takes a huge step to his right. # 2 # 4 # spine
-A person walks backwards. # 4 # 6 # spine
-A person is waving both arms in front of him. # 6 # 10.0 # spine
+A person raises both arms above their head. # 0 # 2
+A person takes a huge step to his right. # 2 # 4
+A person walks backwards. # 4 # 6
+A person is waving both arms in front of him. # 6 # 10.0

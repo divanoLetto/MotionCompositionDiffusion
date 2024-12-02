@@ -1,3 +1,3 @@
-a person carefully sits down on the ground and crosses their legs. # 0 # 10 # spine
-a figure bends down to sit on the floor slowly and cross-legged # 0 # 10 # spine
-a person sit on the floor, while cross both legs # 0 # 10 # spine
+a person carefully sits down on the ground and crosses their legs. # 0 # 10
+a figure bends down to sit on the floor slowly and cross-legged # 0 # 10
+a person sit on the floor, while cross both legs # 0 # 10

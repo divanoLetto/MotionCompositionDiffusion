@@ -1,3 +1,3 @@
-pretend to hold a ball in your right hand, toss the ball upward and kick it with your right foot as it falls toward your foot. take steps forward and keep going out of the area. # 0 # 4.533 # spine
-the person through something up and kicked it forward. # 0 # 4.533 # spine
-person is making a kicking motion # 0 # 4.533 # spine
+pretend to hold a ball in your right hand, toss the ball upward and kick it with your right foot as it falls toward your foot. take steps forward and keep going out of the area. # 0 # 4.533
+the person through something up and kicked it forward. # 0 # 4.533
+person is making a kicking motion # 0 # 4.533

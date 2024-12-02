@@ -1,2 +1,2 @@
-A person is dribbling something with both hands. # 0 # 4 # spine
-A person is shooting something with both hands. # 4 # 6.542 # spine
+A person is dribbling something with both hands. # 0 # 4
+A person is shooting something with both hands. # 4 # 6.542

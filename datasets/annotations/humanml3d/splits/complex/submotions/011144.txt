@@ -1,2 +1,2 @@
-A person raises both arms in the air. # 0 # 2 # spine
-A person swings their arms over their head. # 2 # 10.0 # spine
+A person raises both arms in the air. # 0 # 2
+A person swings their arms over their head. # 2 # 10.0

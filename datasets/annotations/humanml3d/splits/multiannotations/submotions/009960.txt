@@ -1,3 +1,3 @@
-the person is cleaning something. # 0 # 5.6 # spine
-person looks around and then takes a step to their right # 0 # 5.6 # spine
-a person side steps once to the right. # 0 # 5.6 # spine
+the person is cleaning something. # 0 # 5.6
+person looks around and then takes a step to their right # 0 # 5.6
+a person side steps once to the right. # 0 # 5.6

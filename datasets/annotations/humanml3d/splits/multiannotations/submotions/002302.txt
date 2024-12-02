@@ -1,3 +1,3 @@
-a person uses their right arm to scratch their head. # 0 # 3.942 # spine
-he sctratches his head # 0 # 3.942 # spine
-a person scratches his head with his right hand. # 0 # 3.942 # spine
+a person uses their right arm to scratch their head. # 0 # 3.942
+he sctratches his head # 0 # 3.942
+a person scratches his head with his right hand. # 0 # 3.942

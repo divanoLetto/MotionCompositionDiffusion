@@ -1,3 +1,3 @@
-a person raises both hands and waves them in various ways. # 0 # 10 # spine
-a person leans on something in front of them, then waves with each hand. # 0 # 10 # spine
-a man stands for few seconds and picks up his arms and shakes them # 0 # 10 # spine
+a person raises both hands and waves them in various ways. # 0 # 10
+a person leans on something in front of them, then waves with each hand. # 0 # 10
+a man stands for few seconds and picks up his arms and shakes them # 0 # 10

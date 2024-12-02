@@ -1,2 +1,2 @@
-A person does a twist dance. # 0 # 6 # spine
-A person walks forward. # 5 # 8.208 # spine
+A person does a twist dance. # 0 # 6
+A person walks forward. # 5 # 8.208

@@ -1,2 +1,2 @@
-A person is seated with knees bent and hands in front, elbows bent, moving hands in a counter clockwise then clockwise circle. # 0 # 4.6 # spine
-A person raises their left hand and waves. # 4 # 9.9 # spine
+A person is seated with knees bent and hands in front, elbows bent, moving hands in a counter clockwise then clockwise circle. # 0 # 4.6
+A person raises their left hand and waves. # 4 # 9.9

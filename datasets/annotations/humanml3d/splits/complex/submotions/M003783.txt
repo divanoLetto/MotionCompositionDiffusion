@@ -1,3 +1,3 @@
-A person raises their right arm to throw. # 0 # 2 # spine
-A person throws something with their right arm. # 2 # 6 # spine
-A person prepares to throw with their left arm. # 6 # 10 # spine
+A person raises their right arm to throw. # 0 # 2
+A person throws something with their right arm. # 2 # 6
+A person prepares to throw with their left arm. # 6 # 10

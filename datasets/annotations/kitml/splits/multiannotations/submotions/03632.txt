@@ -1,1 +1,1 @@
-A human performs a 360 degree jump. # 0 # 3.017 # spine
+A human performs a 360 degree jump. # 0 # 3.017

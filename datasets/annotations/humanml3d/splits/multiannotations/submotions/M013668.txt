@@ -1,3 +1,3 @@
-a figure leans forward as though impersonating an airplane/scanner # 0 # 10 # spine
-person bending down and making odd circular movements # 0 # 10 # spine
-a person is bent over forward and moves their body right to left like a snake several times. # 0 # 10 # spine
+a figure leans forward as though impersonating an airplane/scanner # 0 # 10
+person bending down and making odd circular movements # 0 # 10
+a person is bent over forward and moves their body right to left like a snake several times. # 0 # 10

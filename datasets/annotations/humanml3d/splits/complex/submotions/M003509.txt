@@ -1,2 +1,2 @@
-A person raises both hands into fists. # 0 # 2 # spine
-A person stands in a strong stance. # 2 # 4.075 # spine
+A person raises both hands into fists. # 0 # 2
+A person stands in a strong stance. # 2 # 4.075

@@ -1,3 +1,3 @@
-a person walked in a clockwise circle. # 0 # 7.16 # spine
-a person slowly walekd by making the circle # 0 # 7.16 # spine
-a figure walks to the left in a circle # 0 # 7.16 # spine
+a person walked in a clockwise circle. # 0 # 7.16
+a person slowly walekd by making the circle # 0 # 7.16
+a figure walks to the left in a circle # 0 # 7.16

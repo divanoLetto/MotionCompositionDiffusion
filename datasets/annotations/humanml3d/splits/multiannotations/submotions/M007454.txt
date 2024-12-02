@@ -1,3 +1,3 @@
-a person waves with his left hand two times then stops, touching his right shoulder with his right hand. # 0 # 10 # spine
-a person in dancing mode, moving both left and right hands in the air, moving both left and right right while still dancing. # 0 # 10 # spine
-a person moves their left arm up and the right arm toward their chest as a gesture. # 0 # 10 # spine
+a person waves with his left hand two times then stops, touching his right shoulder with his right hand. # 0 # 10
+a person in dancing mode, moving both left and right hands in the air, moving both left and right right while still dancing. # 0 # 10
+a person moves their left arm up and the right arm toward their chest as a gesture. # 0 # 10

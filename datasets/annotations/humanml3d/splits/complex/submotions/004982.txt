@@ -1,2 +1,2 @@
-A person is waving with both arms above their head. # 0 # 10.0 # spine
-A person is moving their hips repeatedly to the right and left. # 0 # 6 # spine
+A person is waving with both arms above their head. # 0 # 10.0
+A person is moving their hips repeatedly to the right and left. # 0 # 6

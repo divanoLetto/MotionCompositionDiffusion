@@ -1,3 +1,3 @@
-a person is running rapidly. # 0 # 1.18 # spine
-a person trots in a slightly curved line. # 0 # 1.18 # spine
-a person runs forward. # 0 # 1.18 # spine
+a person is running rapidly. # 0 # 1.18
+a person trots in a slightly curved line. # 0 # 1.18
+a person runs forward. # 0 # 1.18

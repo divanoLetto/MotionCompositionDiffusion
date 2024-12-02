@@ -1,3 +1,3 @@
-a standing person leans forward and down then back up placing both their hand up infornt of their chest then elaning forward and down # 0 # 10 # spine
-a person holds his arms out in front of him, bows slightly, lowers his arms, raises them again, and bows once more. # 0 # 10 # spine
-a person bows with their arms bent beside them. # 0 # 10 # spine
+a standing person leans forward and down then back up placing both their hand up infornt of their chest then elaning forward and down # 0 # 10
+a person holds his arms out in front of him, bows slightly, lowers his arms, raises them again, and bows once more. # 0 # 10
+a person bows with their arms bent beside them. # 0 # 10

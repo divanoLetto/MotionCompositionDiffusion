@@ -1,3 +1,3 @@
-a person standing and acting like a chicken. # 0 # 10 # spine
-a figure holds their elbows out to the side before flapping their arms as they are a chicken or bird. # 0 # 10 # spine
-a man is flapping his arms like wings. # 0 # 10 # spine
+a person standing and acting like a chicken. # 0 # 10
+a figure holds their elbows out to the side before flapping their arms as they are a chicken or bird. # 0 # 10
+a man is flapping his arms like wings. # 0 # 10

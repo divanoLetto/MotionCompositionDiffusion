@@ -1,3 +1,3 @@
-the person holds something up to their face. # 0 # 10 # spine
-a person holding a cell phone to ear. # 0 # 10 # spine
-an individual takes a long slow drink of something. # 0 # 10 # spine
+the person holds something up to their face. # 0 # 10
+a person holding a cell phone to ear. # 0 # 10
+an individual takes a long slow drink of something. # 0 # 10

@@ -1,1 +1,1 @@
-A person is walking forward like a robot. # 0 # 10 # spine
+A person is walking forward like a robot. # 0 # 10

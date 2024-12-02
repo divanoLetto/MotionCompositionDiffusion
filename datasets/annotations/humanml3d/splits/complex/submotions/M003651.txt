@@ -1,2 +1,2 @@
-A person holds his arms up at his side and then moves them back performing a breast stroke movement. # 0 # 6 # spine
-A person is doing a breast stroke. # 6 # 10.0 # spine
+A person holds his arms up at his side and then moves them back performing a breast stroke movement. # 0 # 6
+A person is doing a breast stroke. # 6 # 10.0

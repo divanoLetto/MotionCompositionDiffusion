@@ -1,4 +1,4 @@
-A person takes a big step to the side. # 0 # 2 # spine
-A person steps backwards. # 2 # 5 # spine
-A person walks forward. # 5 # 8 # spine
-A person pivots and turns. # 8 # 10 # spine
+A person takes a big step to the side. # 0 # 2
+A person steps backwards. # 2 # 5
+A person walks forward. # 5 # 8
+A person pivots and turns. # 8 # 10

@@ -1,3 +1,3 @@
-A person is flapping his arms. # 0 # 6 # spine
-A person is kicking with their left leg. # 4 # 10.0 # spine
-A person is walking forward. # 0 # 10.0 # spine
+A person is flapping his arms. # 0 # 6
+A person is kicking with their left leg. # 4 # 10.0
+A person is walking forward. # 0 # 10.0

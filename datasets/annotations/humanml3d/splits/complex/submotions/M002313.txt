@@ -1,2 +1,2 @@
-A person throws an uppercut from the left arm. # 0 # 1.8 # spine
-A person is doing a left uppercut. # 1.5 # 1.8 # spine
+A person throws an uppercut from the left arm. # 0 # 1.8
+A person is doing a left uppercut. # 1.5 # 1.8

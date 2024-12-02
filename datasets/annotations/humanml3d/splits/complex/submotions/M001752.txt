@@ -1,2 +1,2 @@
-A person stands tall and stretches arms forward while rotating between right and left arms. # 0 # 3 # spine
-A person is throwing something with both hands overhead. # 3 # 5.717 # spine
+A person stands tall and stretches arms forward while rotating between right and left arms. # 0 # 3
+A person is throwing something with both hands overhead. # 3 # 5.717

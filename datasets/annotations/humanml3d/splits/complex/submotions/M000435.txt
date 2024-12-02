@@ -1,2 +1,2 @@
-A person holds an object with both hands. # 0 # 3 # spine
-A person is trying to evade something by moving to the left. # 2 # 6.65 # spine
+A person holds an object with both hands. # 0 # 3
+A person is trying to evade something by moving to the left. # 2 # 6.65

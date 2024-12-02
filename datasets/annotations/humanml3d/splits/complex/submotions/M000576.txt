@@ -1,2 +1,2 @@
-A person walks forward while bouncing something in their right hand against the floor. # 0 # 6 # spine
-A person walks around in a circular motion. # 4 # 10.0 # spine
+A person walks forward while bouncing something in their right hand against the floor. # 0 # 6
+A person walks around in a circular motion. # 4 # 10.0

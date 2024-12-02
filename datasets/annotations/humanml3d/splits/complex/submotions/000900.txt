@@ -1,2 +1,2 @@
-A person is punching with their right hand. # 0 # 3 # spine
-A person raises their right arm. # 3 # 10.0 # spine
+A person is punching with their right hand. # 0 # 3
+A person raises their right arm. # 3 # 10.0

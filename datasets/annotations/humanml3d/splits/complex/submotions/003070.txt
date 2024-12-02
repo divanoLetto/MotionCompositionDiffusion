@@ -1,2 +1,2 @@
-A person throws a punch with his right hand. # 0 # 0.95 # spine
-A person raises his right hand. # 0 # 0.5 # spine
+A person throws a punch with his right hand. # 0 # 0.95
+A person raises his right hand. # 0 # 0.5

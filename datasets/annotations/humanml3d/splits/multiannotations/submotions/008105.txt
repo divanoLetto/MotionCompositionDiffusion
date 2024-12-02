@@ -1,3 +1,3 @@
-a person eagerly practicing karate. # 0 # 10 # spine
-a person dodges to the left, then to the right, then performs a kick with the left leg. # 0 # 10 # spine
-person is doing fighting moves and exercises # 0 # 10 # spine
+a person eagerly practicing karate. # 0 # 10
+a person dodges to the left, then to the right, then performs a kick with the left leg. # 0 # 10
+person is doing fighting moves and exercises # 0 # 10

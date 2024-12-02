@@ -1,2 +1,2 @@
-A person stands still. # 0 # 2 # spine
-A person throws punches with both arms. # 2 # 10.0 # spine
+A person stands still. # 0 # 2
+A person throws punches with both arms. # 2 # 10.0

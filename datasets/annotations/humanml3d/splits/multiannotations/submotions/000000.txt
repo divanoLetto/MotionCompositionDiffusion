@@ -1,4 +1,4 @@
-a man kicks something or someone with his left leg. # 0 # 5.82 # spine
-the standing person kicks with their left foot before going back to their original stance. # 0 # 5.82 # spine
-a man kicks with something or someone with his left leg. # 0 # 5.82 # spine
-he is flying kick with his left leg # 0 # 5.82 # spine
+a man kicks something or someone with his left leg. # 0 # 5.82
+the standing person kicks with their left foot before going back to their original stance. # 0 # 5.82
+a man kicks with something or someone with his left leg. # 0 # 5.82
+he is flying kick with his left leg # 0 # 5.82

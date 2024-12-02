@@ -1,1 +1,1 @@
-A person makes a sharp turn. # 0 # 6.5 # spine
+A person makes a sharp turn. # 0 # 6.5

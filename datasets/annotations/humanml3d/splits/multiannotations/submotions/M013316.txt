@@ -1,3 +1,3 @@
-move the both the hand and after hold the legs. # 0 # 10 # spine
-a person starts in a squat with arms outstretched, then lowers their hands to their thighs and stands still. # 0 # 10 # spine
-a person quickly drops his hands to rest on his upper thighs. # 0 # 10 # spine
+move the both the hand and after hold the legs. # 0 # 10
+a person starts in a squat with arms outstretched, then lowers their hands to their thighs and stands still. # 0 # 10
+a person quickly drops his hands to rest on his upper thighs. # 0 # 10

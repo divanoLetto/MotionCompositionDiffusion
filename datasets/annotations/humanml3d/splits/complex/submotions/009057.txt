@@ -1,2 +1,2 @@
-A person raises both arms above their head. # 0 # 1.35 # spine
-A person is lifting something up. # 0 # 1.35 # spine
+A person raises both arms above their head. # 0 # 1.35
+A person is lifting something up. # 0 # 1.35

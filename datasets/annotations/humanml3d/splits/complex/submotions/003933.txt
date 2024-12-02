@@ -1,2 +1,2 @@
-A person swings their arms around. # 0 # 5 # spine
-A person waves both their hands. # 4 # 10.0 # spine
+A person swings their arms around. # 0 # 5
+A person waves both their hands. # 4 # 10.0

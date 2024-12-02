@@ -1,3 +1,3 @@
-the person is leaving at someone with his right hand. # 0 # 10 # spine
-a person shakes an item with his right hand # 0 # 10 # spine
-[from 4s- to 9s] a person waves their right hand repeatedly above their head. # 0 # 10 # spine
+the person is leaving at someone with his right hand. # 0 # 10
+a person shakes an item with his right hand # 0 # 10
+[from 4s- to 9s] a person waves their right hand repeatedly above their head. # 0 # 10

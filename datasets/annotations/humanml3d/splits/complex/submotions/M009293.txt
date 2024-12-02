@@ -1,2 +1,2 @@
-A person kicks the air with their left leg. # 0 # 4 # spine
-A person punches the air multiple times. # 4 # 10.0 # spine
+A person kicks the air with their left leg. # 0 # 4
+A person punches the air multiple times. # 4 # 10.0

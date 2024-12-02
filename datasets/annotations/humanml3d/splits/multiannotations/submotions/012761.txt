@@ -1,3 +1,3 @@
-a person shifts from foot to foot several times. # 0 # 10 # spine
-a person leans to the right, then the left and then moves their right foot out and then their left foot out. # 0 # 10 # spine
-a person stayned on the place while shaking the hands # 0 # 10 # spine
+a person shifts from foot to foot several times. # 0 # 10
+a person leans to the right, then the left and then moves their right foot out and then their left foot out. # 0 # 10
+a person stayned on the place while shaking the hands # 0 # 10

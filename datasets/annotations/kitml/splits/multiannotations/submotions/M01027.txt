@@ -1,2 +1,2 @@
-Subject walks forward. # 0 # 6.61 # spine
-A person walks forward for 4 steps. # 0 # 6.61 # spine
+Subject walks forward. # 0 # 6.61
+A person walks forward for 4 steps. # 0 # 6.61

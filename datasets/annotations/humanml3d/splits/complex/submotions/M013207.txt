@@ -1,2 +1,2 @@
-A person runs straight forward at a fast pace. # 0 # 1.783 # spine
-A person holds an object with both hands. # 0 # 1.783 # spine
+A person runs straight forward at a fast pace. # 0 # 1.783
+A person holds an object with both hands. # 0 # 1.783

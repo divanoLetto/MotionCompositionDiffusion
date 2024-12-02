@@ -1,2 +1,2 @@
-A person is flapping their arms like a chicken. # 0 # 5 # spine
-A person is acting like a chicken. # 4 # 10 # spine
+A person is flapping their arms like a chicken. # 0 # 5
+A person is acting like a chicken. # 4 # 10

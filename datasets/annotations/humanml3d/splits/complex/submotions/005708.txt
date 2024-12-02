@@ -1,2 +1,2 @@
-A person raises their right arm. # 0 # 2 # spine
-A person plays the guitar with their right hand. # 2 # 5.84 # spine
+A person raises their right arm. # 0 # 2
+A person plays the guitar with their right hand. # 2 # 5.84

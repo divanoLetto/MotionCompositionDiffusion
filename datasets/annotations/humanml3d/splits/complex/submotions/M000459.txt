@@ -1,2 +1,2 @@
-A person is preparing to throw something with their left arm. # 0 # 4 # spine
-A person throws something with their left arm. # 4 # 9.508 # spine
+A person is preparing to throw something with their left arm. # 0 # 4
+A person throws something with their left arm. # 4 # 9.508

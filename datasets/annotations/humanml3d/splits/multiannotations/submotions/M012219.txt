@@ -1,3 +1,3 @@
-person runs in place, stops, then runs in place again. he crouches down and creeps forward starting with his right foot. # 0 # 10 # spine
-a person ran on the place and after bend the kne and start slowly walk # 0 # 10 # spine
-the figure jogs in place slowly before pausing and jogging in place quickly before squatting down and doing a walking squat. # 0 # 10 # spine
+person runs in place, stops, then runs in place again. he crouches down and creeps forward starting with his right foot. # 0 # 10
+a person ran on the place and after bend the kne and start slowly walk # 0 # 10
+the figure jogs in place slowly before pausing and jogging in place quickly before squatting down and doing a walking squat. # 0 # 10

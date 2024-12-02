@@ -1,2 +1,2 @@
-A person is dribbling something with both hands. # 0 # 2 # spine
-A person takes a step forward while dribbling. # 1 # 2.975 # spine
+A person is dribbling something with both hands. # 0 # 2
+A person takes a step forward while dribbling. # 1 # 2.975

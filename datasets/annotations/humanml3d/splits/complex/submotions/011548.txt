@@ -1,3 +1,3 @@
-A person is swimming with both arms and legs extending in motion. # 0 # 10.0 # spine
-A person is kicking with their legs. # 0 # 6 # spine
-A person is moving their arms in a circular motion. # 4 # 10.0 # spine
+A person is swimming with both arms and legs extending in motion. # 0 # 10.0
+A person is kicking with their legs. # 0 # 6
+A person is moving their arms in a circular motion. # 4 # 10.0

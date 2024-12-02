@@ -1,3 +1,3 @@
-a person standing straight ,holding hands . # 0 # 4.2 # spine
-a person hold their hands out in front of them and slowly swings back and forth starting to the right # 0 # 4.2 # spine
-a stick person stands in a wide stance and looks as if they are swinging a golf club # 0 # 4.2 # spine
+a person standing straight ,holding hands . # 0 # 4.2
+a person hold their hands out in front of them and slowly swings back and forth starting to the right # 0 # 4.2
+a stick person stands in a wide stance and looks as if they are swinging a golf club # 0 # 4.2

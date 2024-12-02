@@ -1,5 +1,5 @@
-A person is doing jumping jacks. # 0 # 2 # spine
-A person is waving both its arms inward and out. # 2 # 4 # spine
-A person is walking in a counterclockwise circle. # 4 # 6 # spine
-A person is moving their hands around. # 6 # 8 # spine
-A person is standing and waving with his left hand. # 8 # 9.142 # spine
+A person is doing jumping jacks. # 0 # 2
+A person is waving both its arms inward and out. # 2 # 4
+A person is walking in a counterclockwise circle. # 4 # 6
+A person is moving their hands around. # 6 # 8
+A person is standing and waving with his left hand. # 8 # 9.142

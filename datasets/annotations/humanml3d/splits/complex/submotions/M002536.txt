@@ -1,4 +1,4 @@
-A person raises both hands in front of them. # 0 # 4 # spine
-A person makes deliberate steps forward. # 2 # 6 # spine
-A person alternates their hands quickly. # 4 # 8 # spine
-A person retreats while raising their hands. # 6 # 10.0 # spine
+A person raises both hands in front of them. # 0 # 4
+A person makes deliberate steps forward. # 2 # 6
+A person alternates their hands quickly. # 4 # 8
+A person retreats while raising their hands. # 6 # 10.0

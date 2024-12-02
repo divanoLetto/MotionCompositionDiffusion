@@ -1,2 +1,2 @@
-A person bounces something with their left hand. # 0 # 1.775 # spine
-A person runs forward. # 0 # 1.775 # spine
+A person bounces something with their left hand. # 0 # 1.775
+A person runs forward. # 0 # 1.775

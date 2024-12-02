@@ -1,3 +1,3 @@
-A person swings their arms back and forth. # 0 # 2 # spine
-A person hesitates while pivoting back and forth. # 2 # 6 # spine
-A person swings their arms in front of them. # 6 # 10.0 # spine
+A person swings their arms back and forth. # 0 # 2
+A person hesitates while pivoting back and forth. # 2 # 6
+A person swings their arms in front of them. # 6 # 10.0

@@ -1,2 +1,2 @@
-A person walks forward while swinging their arms. # 0 # 3 # spine
-A person is dribbling with their right hand. # 0 # 3.3 # spine
+A person walks forward while swinging their arms. # 0 # 3
+A person is dribbling with their right hand. # 0 # 3.3

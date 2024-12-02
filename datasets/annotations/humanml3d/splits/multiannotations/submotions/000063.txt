@@ -1,3 +1,3 @@
-a person is drying their right arm # 0 # 10 # spine
-a person reaches down with the left arm. the person then reaches out with right arm and begins a scratching, rotating motion. # 0 # 10 # spine
-a person bends down to grab something, then moves their arm # 0 # 10 # spine
+a person is drying their right arm # 0 # 10
+a person reaches down with the left arm. the person then reaches out with right arm and begins a scratching, rotating motion. # 0 # 10
+a person bends down to grab something, then moves their arm # 0 # 10

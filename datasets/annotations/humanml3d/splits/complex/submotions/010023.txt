@@ -1,3 +1,3 @@
-A person raises their arms as if holding a guitar. # 0 # 3 # spine
-A person moves their right hand as if strumming. # 2 # 6 # spine
-A person moves their left hand in a circular motion. # 5 # 8.88 # spine
+A person raises their arms as if holding a guitar. # 0 # 3
+A person moves their right hand as if strumming. # 2 # 6
+A person moves their left hand in a circular motion. # 5 # 8.88

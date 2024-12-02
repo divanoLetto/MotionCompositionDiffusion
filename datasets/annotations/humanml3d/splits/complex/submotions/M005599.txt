@@ -1,2 +1,2 @@
-A person throws something with their right hand. # 0 # 2 # spine
-A person catches something with both hands. # 2 # 6.008 # spine
+A person throws something with their right hand. # 0 # 2
+A person catches something with both hands. # 2 # 6.008

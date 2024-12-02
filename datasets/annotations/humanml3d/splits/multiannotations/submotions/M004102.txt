@@ -1,3 +1,3 @@
-from a standing position, the person raises both arms above their head, crouches low, slowly swings their body from left to right while tilting their head, and then stand up and takes a step to their left # 0 # 8.892 # spine
-a person pretends to be a dinosaur # 0 # 8.892 # spine
-a person crouches slightly with outstretched arms in the form of wings # 0 # 8.892 # spine
+from a standing position, the person raises both arms above their head, crouches low, slowly swings their body from left to right while tilting their head, and then stand up and takes a step to their left # 0 # 8.892
+a person pretends to be a dinosaur # 0 # 8.892
+a person crouches slightly with outstretched arms in the form of wings # 0 # 8.892

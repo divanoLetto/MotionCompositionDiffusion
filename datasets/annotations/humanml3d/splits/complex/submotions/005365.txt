@@ -1,2 +1,2 @@
-A person lifts their right hand up above their shoulders. # 0 # 3 # spine
-A person moves their left arm up and down. # 2 # 6.07 # spine
+A person lifts their right hand up above their shoulders. # 0 # 3
+A person moves their left arm up and down. # 2 # 6.07

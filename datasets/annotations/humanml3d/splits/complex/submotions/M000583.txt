@@ -1,3 +1,3 @@
-A person is doing arm exercises. # 0 # 3 # spine
-A person raises their arms above their head. # 2 # 5 # spine
-A person is dancing. # 4 # 7.95 # spine
+A person is doing arm exercises. # 0 # 3
+A person raises their arms above their head. # 2 # 5
+A person is dancing. # 4 # 7.95

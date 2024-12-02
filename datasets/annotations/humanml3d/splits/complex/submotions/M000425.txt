@@ -1,3 +1,3 @@
-A person steps back with their right leg.  # 0 # 2 # spine
-A person raises both hands in a fighting stance.  # 1 # 4 # spine
-A person runs forward with both arms swinging.  # 4 # 6.65 # spine
+A person steps back with their right leg.  # 0 # 2
+A person raises both hands in a fighting stance.  # 1 # 4
+A person runs forward with both arms swinging.  # 4 # 6.65

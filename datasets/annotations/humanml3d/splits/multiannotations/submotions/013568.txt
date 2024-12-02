@@ -1,3 +1,3 @@
-a person jumps repeatedly, waving their hands in circles. # 0 # 10 # spine
-a person is jumping up repeatedly. # 0 # 10 # spine
-a person is playing jumprope. # 0 # 10 # spine
+a person jumps repeatedly, waving their hands in circles. # 0 # 10
+a person is jumping up repeatedly. # 0 # 10
+a person is playing jumprope. # 0 # 10

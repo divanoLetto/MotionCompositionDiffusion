@@ -1,1 +1,1 @@
-A human picks something up from the ground and places the object on a table in front of him. # 0 # 6.65 # spine
+A human picks something up from the ground and places the object on a table in front of him. # 0 # 6.65

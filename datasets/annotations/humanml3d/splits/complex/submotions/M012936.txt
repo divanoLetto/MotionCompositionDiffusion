@@ -1,3 +1,3 @@
-A person puts their hands to their armpits and wiggles their elbows. # 0 # 2 # spine
-A person flaps their arms like a chicken. # 2 # 3.767 # spine
-A person bends forward at the waist while flapping their arms. # 2 # 3 # spine
+A person puts their hands to their armpits and wiggles their elbows. # 0 # 2
+A person flaps their arms like a chicken. # 2 # 3.767
+A person bends forward at the waist while flapping their arms. # 2 # 3

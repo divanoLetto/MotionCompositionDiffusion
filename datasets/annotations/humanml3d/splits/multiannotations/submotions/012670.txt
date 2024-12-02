@@ -1,3 +1,3 @@
-a man spins in a clockwise circle three times with his hands in front of him. # 0 # 6.342 # spine
-a person turns counter clockwise in a circle. # 0 # 6.342 # spine
-the person spins in place clockwise 4 times. # 0 # 6.342 # spine
+a man spins in a clockwise circle three times with his hands in front of him. # 0 # 6.342
+a person turns counter clockwise in a circle. # 0 # 6.342
+the person spins in place clockwise 4 times. # 0 # 6.342

@@ -1,2 +1,2 @@
-A person raises their right arm. # 0 # 6 # spine
-A person moves their left hand to their face. # 4 # 10.0 # spine
+A person raises their right arm. # 0 # 6
+A person moves their left hand to their face. # 4 # 10.0

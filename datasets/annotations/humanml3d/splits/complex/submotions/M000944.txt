@@ -1,4 +1,4 @@
-A person raises both arms above their head. # 0 # 2 # spine
-A person throws something with their right hand. # 2 # 6 # spine
-A person throws something with their left hand. # 4 # 8 # spine
-A person jumps up and down. # 6 # 10.0 # spine
+A person raises both arms above their head. # 0 # 2
+A person throws something with their right hand. # 2 # 6
+A person throws something with their left hand. # 4 # 8
+A person jumps up and down. # 6 # 10.0

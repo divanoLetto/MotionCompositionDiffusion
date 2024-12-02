@@ -1,4 +1,4 @@
-A person raises their arms in a large circle. # 0 # 2 # spine
-A person jumps forward very quickly once. # 2 # 4 # spine
-A person swings their arms upwards and jumps. # 4 # 6 # spine
-A person is dancing with expressive arm movement. # 6 # 8.517 # spine
+A person raises their arms in a large circle. # 0 # 2
+A person jumps forward very quickly once. # 2 # 4
+A person swings their arms upwards and jumps. # 4 # 6
+A person is dancing with expressive arm movement. # 6 # 8.517

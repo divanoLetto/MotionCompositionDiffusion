@@ -1,3 +1,3 @@
-someone gets up from the floor, seems to be talking on the phone and starts to walk # 0 # 10 # spine
-bringing hand towards face. # 0 # 10 # spine
-this person stands up and appears to be talking on a phone. # 0 # 10 # spine
+someone gets up from the floor, seems to be talking on the phone and starts to walk # 0 # 10
+bringing hand towards face. # 0 # 10
+this person stands up and appears to be talking on a phone. # 0 # 10

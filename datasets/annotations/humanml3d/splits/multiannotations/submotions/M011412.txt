@@ -1,2 +1,2 @@
-a person doing a limping walk, taking proper step with the left foot and limping with the right # 0 # 10 # spine
-somebody is drawing a line in the sand # 0 # 10 # spine
+a person doing a limping walk, taking proper step with the left foot and limping with the right # 0 # 10
+somebody is drawing a line in the sand # 0 # 10

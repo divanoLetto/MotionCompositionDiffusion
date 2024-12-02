@@ -1,2 +1,2 @@
-A person bends down to pick something up with their left hand. # 0 # 2 # spine
-A person stands up and places the object on a shelf. # 2 # 7.817 # spine
+A person bends down to pick something up with their left hand. # 0 # 2
+A person stands up and places the object on a shelf. # 2 # 7.817

@@ -1,2 +1,2 @@
-the person is first walking forward and then turning to the left # 0 # 7.48 # spine
-A person is turning to the left while walking # 0 # 7.48 # spine
+the person is first walking forward and then turning to the left # 0 # 7.48
+A person is turning to the left while walking # 0 # 7.48

@@ -1,2 +1,2 @@
-A person is making gestures with both hands. # 0 # 4 # spine
-A person is hopping little hops. # 2 # 4.75 # spine
+A person is making gestures with both hands. # 0 # 4
+A person is hopping little hops. # 2 # 4.75

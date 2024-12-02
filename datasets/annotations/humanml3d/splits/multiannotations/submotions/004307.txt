@@ -1,3 +1,3 @@
-a person vaults over an obstacle. # 0 # 9.983 # spine
-a person runs and jumps over an object, turns around and jumps over it again. # 0 # 9.983 # spine
-a person is getting a running start and jumping over something, turning around and doing it again. # 0 # 9.983 # spine
+a person vaults over an obstacle. # 0 # 9.983
+a person runs and jumps over an object, turns around and jumps over it again. # 0 # 9.983
+a person is getting a running start and jumping over something, turning around and doing it again. # 0 # 9.983

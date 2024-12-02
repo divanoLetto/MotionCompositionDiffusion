@@ -1,2 +1,2 @@
-A person is punching the air with their left arm. # 0 # 1.65 # spine
-A person throws an uppercut punch with their left arm. # 0 # 1.65 # spine
+A person is punching the air with their left arm. # 0 # 1.65
+A person throws an uppercut punch with their left arm. # 0 # 1.65

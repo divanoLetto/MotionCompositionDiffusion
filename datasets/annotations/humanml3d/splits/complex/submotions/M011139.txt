@@ -1,3 +1,3 @@
-A person moves their arms to the side.  # 0 # 2 # spine
-A person moves their legs to the side.  # 1 # 3 # spine
-A person alternates moving their arms and legs.  # 2 # 5.575 # spine
+A person moves their arms to the side.  # 0 # 2
+A person moves their legs to the side.  # 1 # 3
+A person alternates moving their arms and legs.  # 2 # 5.575

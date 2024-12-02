@@ -1,3 +1,3 @@
-A person steps side to side. # 0 # 3 # spine
-A person raises both hands above their head and claps. # 3 # 7 # spine
-A person claps their hands in front of them. # 7 # 10 # spine
+A person steps side to side. # 0 # 3
+A person raises both hands above their head and claps. # 3 # 7
+A person claps their hands in front of them. # 7 # 10

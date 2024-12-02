@@ -1,2 +1,2 @@
-A person raises their arms as if playing an instrument. # 0 # 3 # spine
-A person moves their hands in a strumming motion. # 2 # 6.79 # spine
+A person raises their arms as if playing an instrument. # 0 # 3
+A person moves their hands in a strumming motion. # 2 # 6.79

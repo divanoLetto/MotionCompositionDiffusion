@@ -1,3 +1,3 @@
-a person is walking forward strangely # 0 # 2.92 # spine
-user does a slight jog on a diagonal path # 0 # 2.92 # spine
-a person takes four large steps diagonally forward and stops. # 0 # 2.92 # spine
+a person is walking forward strangely # 0 # 2.92
+user does a slight jog on a diagonal path # 0 # 2.92
+a person takes four large steps diagonally forward and stops. # 0 # 2.92

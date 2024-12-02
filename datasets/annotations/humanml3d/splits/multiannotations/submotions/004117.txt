@@ -1,3 +1,3 @@
-a person jumps into wide stance with his arms making a v shape and then jumps back into a normal, relaxed stance. # 0 # 4.125 # spine
-a person does one jumping jack. # 0 # 4.125 # spine
-a figure performs one jumping jack, hopping out to spread legs with arms sweeping out and up over head, then hopping back to starting position with arms relaxed by side. # 0 # 4.125 # spine
+a person jumps into wide stance with his arms making a v shape and then jumps back into a normal, relaxed stance. # 0 # 4.125
+a person does one jumping jack. # 0 # 4.125
+a figure performs one jumping jack, hopping out to spread legs with arms sweeping out and up over head, then hopping back to starting position with arms relaxed by side. # 0 # 4.125

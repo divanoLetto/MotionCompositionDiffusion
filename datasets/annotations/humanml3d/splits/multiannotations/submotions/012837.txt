@@ -1,3 +1,3 @@
-a person raised his hand, and leaned it near to face # 0 # 10 # spine
-the person calmly holds an object close to its face. # 0 # 10 # spine
-a person has their right hand up to their face, and moves their body around a bit. # 0 # 10 # spine
+a person raised his hand, and leaned it near to face # 0 # 10
+the person calmly holds an object close to its face. # 0 # 10
+a person has their right hand up to their face, and moves their body around a bit. # 0 # 10

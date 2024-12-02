@@ -1,2 +1,2 @@
-A person throws something with their left hand. # 0 # 6 # spine
-A person is using both hands to throw something. # 4 # 10.0 # spine
+A person throws something with their left hand. # 0 # 6
+A person is using both hands to throw something. # 4 # 10.0

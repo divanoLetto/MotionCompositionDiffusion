@@ -1,2 +1,2 @@
-a person steps backwards quickly, shakes their hands out by their side, then walks forward. # 0 # 10 # spine
-the person backed up and is walking diagonally. # 0 # 10 # spine
+a person steps backwards quickly, shakes their hands out by their side, then walks forward. # 0 # 10
+the person backed up and is walking diagonally. # 0 # 10

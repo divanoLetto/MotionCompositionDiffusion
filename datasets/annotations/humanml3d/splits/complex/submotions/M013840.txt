@@ -1,2 +1,2 @@
-A person raises both arms above their head. # 0 # 2 # spine
-A person signals to another person to go away. # 1 # 10 # spine
+A person raises both arms above their head. # 0 # 2
+A person signals to another person to go away. # 1 # 10

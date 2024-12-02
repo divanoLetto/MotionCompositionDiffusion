@@ -1,2 +1,2 @@
-A person is moving their hips repeatedly to the left and right. # 0 # 5 # spine
-A person raises their arms and dances. # 4 # 9.733 # spine
+A person is moving their hips repeatedly to the left and right. # 0 # 5
+A person raises their arms and dances. # 4 # 9.733

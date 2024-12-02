@@ -1,1 +1,1 @@
-A person performs swiping gestures with the left hand. # 0 # 10 # spine
+A person performs swiping gestures with the left hand. # 0 # 10

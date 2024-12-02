@@ -1,2 +1,2 @@
-A person is catching something and throwing it back. # 0 # 6 # spine
-A person holds something with both hands before winding up and throwing it with their left hand. # 5 # 7.208 # spine
+A person is catching something and throwing it back. # 0 # 6
+A person holds something with both hands before winding up and throwing it with their left hand. # 5 # 7.208

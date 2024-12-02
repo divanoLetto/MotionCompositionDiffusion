@@ -1,2 +1,2 @@
-A person punches with their left hand multiple times. # 0 # 4 # spine
-A person punches with their right hand multiple times. # 2 # 4.55 # spine
+A person punches with their left hand multiple times. # 0 # 4
+A person punches with their right hand multiple times. # 2 # 4.55

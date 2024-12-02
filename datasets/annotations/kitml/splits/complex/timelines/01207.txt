@@ -1,2 +1,2 @@
-A person takes two steps forward. # 0 # 3 # spine
-A person raises their arms to the side. # 2 # 9.04 # spine
+A person takes two steps forward. # 0 # 3
+A person raises their arms to the side. # 2 # 9.04

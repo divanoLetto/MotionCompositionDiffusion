@@ -1,2 +1,2 @@
-A person hops around playfully. # 0 # 5 # spine
-A person raises both hands above their head. # 4 # 10 # spine
+A person hops around playfully. # 0 # 5
+A person raises both hands above their head. # 4 # 10

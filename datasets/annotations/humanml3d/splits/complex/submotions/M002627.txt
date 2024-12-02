@@ -1,4 +1,4 @@
-A person stands in a t-pose. # 0 # 3 # spine
-A person turns around. # 2 # 5 # spine
-A person continues to dance. # 4 # 8 # spine
-A person turns around. # 6 # 10 # spine
+A person stands in a t-pose. # 0 # 3
+A person turns around. # 2 # 5
+A person continues to dance. # 4 # 8
+A person turns around. # 6 # 10

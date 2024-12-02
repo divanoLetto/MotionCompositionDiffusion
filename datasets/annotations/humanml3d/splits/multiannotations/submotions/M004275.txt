@@ -1,3 +1,3 @@
-person bends over to grab something and acts like they are fighting off other people from grabbing the thing. # 0 # 10 # spine
-a man is standing with feet wide apart and arms out swinging/swaying different motions acting like a monkey. # 0 # 10 # spine
-a person hunches fowrad and swings their arms to act like a monkey. # 0 # 10 # spine
+person bends over to grab something and acts like they are fighting off other people from grabbing the thing. # 0 # 10
+a man is standing with feet wide apart and arms out swinging/swaying different motions acting like a monkey. # 0 # 10
+a person hunches fowrad and swings their arms to act like a monkey. # 0 # 10

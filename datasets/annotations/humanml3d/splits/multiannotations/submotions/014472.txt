@@ -1,3 +1,3 @@
-a person dances briefly and then performs a backflip. # 0 # 8.317 # spine
-the person jumped and did a twist and landed on their feet. # 0 # 8.317 # spine
-a person jumps around from one foot to the other and does a backflip. # 0 # 8.317 # spine
+a person dances briefly and then performs a backflip. # 0 # 8.317
+the person jumped and did a twist and landed on their feet. # 0 # 8.317
+a person jumps around from one foot to the other and does a backflip. # 0 # 8.317

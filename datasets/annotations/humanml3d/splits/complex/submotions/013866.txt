@@ -1,2 +1,2 @@
-A person is kicking with their left leg. # 0 # 3 # spine
-A person is kicking something with their left leg. # 2 # 3.542 # spine
+A person is kicking with their left leg. # 0 # 3
+A person is kicking something with their left leg. # 2 # 3.542

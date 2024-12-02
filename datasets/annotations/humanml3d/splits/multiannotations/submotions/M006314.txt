@@ -1,3 +1,3 @@
-this person walks slowly forward in a zig zag. # 0 # 8.36 # spine
-the person sways to their right and then painfully walks forward. # 0 # 8.36 # spine
-a figure walks forward tentatively, occasionally dragging its feet # 0 # 8.36 # spine
+this person walks slowly forward in a zig zag. # 0 # 8.36
+the person sways to their right and then painfully walks forward. # 0 # 8.36
+a figure walks forward tentatively, occasionally dragging its feet # 0 # 8.36

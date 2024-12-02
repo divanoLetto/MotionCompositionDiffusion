@@ -1,3 +1,3 @@
-a person walking and helping maintain their balance and support, from holding onto a side rail or wall. # 0 # 5.04 # spine
-a man seems to be walking forward on a straight line # 0 # 5.04 # spine
-the person is walking forward. # 0 # 5.04 # spine
+a person walking and helping maintain their balance and support, from holding onto a side rail or wall. # 0 # 5.04
+a man seems to be walking forward on a straight line # 0 # 5.04
+the person is walking forward. # 0 # 5.04

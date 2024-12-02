@@ -1,2 +1,2 @@
-a person stands and looks over their left shoulder behind them. # 0 # 10 # spine
-person taking a few steps and looking around right to left. # 0 # 10 # spine
+a person stands and looks over their left shoulder behind them. # 0 # 10
+person taking a few steps and looking around right to left. # 0 # 10

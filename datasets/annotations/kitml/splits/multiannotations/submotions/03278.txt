@@ -1,1 +1,1 @@
-A person jumps with both legs approximately 30 centimeters forward. # 0 # 3.8 # spine
+A person jumps with both legs approximately 30 centimeters forward. # 0 # 3.8

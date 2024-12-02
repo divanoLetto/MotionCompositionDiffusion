@@ -1,2 +1,2 @@
-A person is blocking something with their right arm. # 0 # 10.0 # spine
-a person chops with an axe with the left hand. # 0 # 10.0 # spine
+A person is blocking something with their right arm. # 0 # 10.0
+a person chops with an axe with the left hand. # 0 # 10.0

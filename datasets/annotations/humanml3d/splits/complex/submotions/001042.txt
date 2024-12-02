@@ -1,2 +1,2 @@
-A person raises both arms above their head. # 0 # 4 # spine
-A person twirls in a circular motion. # 4 # 10.0 # spine
+A person raises both arms above their head. # 0 # 4
+A person twirls in a circular motion. # 4 # 10.0

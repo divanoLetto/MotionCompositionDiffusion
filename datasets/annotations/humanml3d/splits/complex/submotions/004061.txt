@@ -1,4 +1,4 @@
-A person punches with their left hand. # 0 # 2 # spine
-A person punches with their right hand. # 2 # 4 # spine
-A person is doing light punches with their right hand. # 4 # 6 # spine
-A person is practicing punching. # 6 # 10.0 # spine
+A person punches with their left hand. # 0 # 2
+A person punches with their right hand. # 2 # 4
+A person is doing light punches with their right hand. # 4 # 6
+A person is practicing punching. # 6 # 10.0

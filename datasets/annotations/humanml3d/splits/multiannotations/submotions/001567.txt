@@ -1,3 +1,3 @@
-a person throws their hands outwards then back in front of them. # 0 # 0.45 # spine
-a person stretches their elbows behind them. # 0 # 0.45 # spine
-this person looks like he’s just moving his arms a little bit. # 0 # 0.45 # spine
+a person throws their hands outwards then back in front of them. # 0 # 0.45
+a person stretches their elbows behind them. # 0 # 0.45
+this person looks like he’s just moving his arms a little bit. # 0 # 0.45

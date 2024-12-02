@@ -1,3 +1,3 @@
-person walks forward with left hand extended to side, trying to feel something. # 0 # 4.09 # spine
-a person walks forward placing their hand onto a hand rail on there left hand side for stability. # 0 # 4.09 # spine
-the man walks forward slowly # 0 # 4.09 # spine
+person walks forward with left hand extended to side, trying to feel something. # 0 # 4.09
+a person walks forward placing their hand onto a hand rail on there left hand side for stability. # 0 # 4.09
+the man walks forward slowly # 0 # 4.09

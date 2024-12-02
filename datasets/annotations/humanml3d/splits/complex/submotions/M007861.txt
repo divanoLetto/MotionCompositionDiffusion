@@ -1,2 +1,2 @@
-A person is reaching down to grab something at waist height. # 0 # 6 # spine
-A person lifts something with both hands. # 6 # 10.0 # spine
+A person is reaching down to grab something at waist height. # 0 # 6
+A person lifts something with both hands. # 6 # 10.0

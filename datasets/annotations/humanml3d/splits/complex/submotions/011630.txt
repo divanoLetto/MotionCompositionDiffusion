@@ -1,2 +1,2 @@
-A person is practicing a throw with the left arm, and receives with the right. # 0 # 6 # spine
-A person is swinging his right arm. # 4 # 6.76 # spine
+A person is practicing a throw with the left arm, and receives with the right. # 0 # 6
+A person is swinging his right arm. # 4 # 6.76

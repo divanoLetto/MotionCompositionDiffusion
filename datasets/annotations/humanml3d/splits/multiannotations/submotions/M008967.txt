@@ -1,3 +1,3 @@
-[from:to(0:3s)] a person dodges something to his right, before squatting down. # 0 # 10 # spine
-the person is playing dodgeball. # 0 # 10 # spine
-a person who seems to be dodging things # 0 # 10 # spine
+[from:to(0:3s)] a person dodges something to his right, before squatting down. # 0 # 10
+the person is playing dodgeball. # 0 # 10
+a person who seems to be dodging things # 0 # 10

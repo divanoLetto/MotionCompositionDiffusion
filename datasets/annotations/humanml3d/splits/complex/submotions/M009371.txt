@@ -1,2 +1,2 @@
-A person swings a golf club. # 0 # 3.225 # spine
-A person holds an object with both hands. # 2 # 3 # spine
+A person swings a golf club. # 0 # 3.225
+A person holds an object with both hands. # 2 # 3

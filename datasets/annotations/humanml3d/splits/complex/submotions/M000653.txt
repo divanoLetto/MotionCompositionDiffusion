@@ -1,2 +1,2 @@
-A person walks forward and swings arms. # 0 # 6 # spine
-A person steps to the left and then to the right. # 4 # 10.0 # spine
+A person walks forward and swings arms. # 0 # 6
+A person steps to the left and then to the right. # 4 # 10.0

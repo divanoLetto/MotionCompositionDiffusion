@@ -1,3 +1,3 @@
-A person is in a fighting stance. # 0 # 2.95 # spine
-A person punches with their left hand. # 2 # 3.1 # spine
-A person punches with their right hand. # 3 # 3.1 # spine
+A person is in a fighting stance. # 0 # 2.95
+A person punches with their left hand. # 2 # 3.1
+A person punches with their right hand. # 3 # 3.1

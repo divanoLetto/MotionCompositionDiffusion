@@ -1,2 +1,2 @@
-A person sways their hips from side to side. # 0 # 6 # spine
-A person raises both arms to the side. # 4 # 10.0 # spine
+A person sways their hips from side to side. # 0 # 6
+A person raises both arms to the side. # 4 # 10.0

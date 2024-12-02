@@ -1,2 +1,2 @@
-A person kicks low with his left foot. # 0 # 2 # spine
-A person raises his left knee up and down. # 2 # 4.72 # spine
+A person kicks low with his left foot. # 0 # 2
+A person raises his left knee up and down. # 2 # 4.72

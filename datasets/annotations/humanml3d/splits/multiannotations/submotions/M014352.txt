@@ -1,3 +1,3 @@
-a person raises their arms and throws them back down in frustration # 0 # 10 # spine
-a person raises their hands and then swings then down and swings their left hand around in a angry fashion # 0 # 10 # spine
-a man turns slightly then brings his arms up over his head and slams them down in a frustrated manner, before sweeping the air in front of him angrily with his left hand. # 0 # 10 # spine
+a person raises their arms and throws them back down in frustration # 0 # 10
+a person raises their hands and then swings then down and swings their left hand around in a angry fashion # 0 # 10
+a man turns slightly then brings his arms up over his head and slams them down in a frustrated manner, before sweeping the air in front of him angrily with his left hand. # 0 # 10

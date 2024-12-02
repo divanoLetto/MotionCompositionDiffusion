@@ -1,2 +1,2 @@
-A person throws a punch with their right arm. # 0 # 4 # spine
-A person performs a punching motion. # 4 # 6.46 # spine
+A person throws a punch with their right arm. # 0 # 4
+A person performs a punching motion. # 4 # 6.46

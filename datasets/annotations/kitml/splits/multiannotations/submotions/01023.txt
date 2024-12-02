@@ -1,4 +1,4 @@
-A person steps to the left with his left foot then crosses behind with his right foot before returning to the starting position. # 0 # 4.51 # spine
-A person gets pushed from the right and performs a recovery step to the behind left side. # 0 # 4.51 # spine
-A person dodges backwards to the left # 0 # 4.51 # spine
-A person dodges sidewards. # 0 # 4.51 # spine
+A person steps to the left with his left foot then crosses behind with his right foot before returning to the starting position. # 0 # 4.51
+A person gets pushed from the right and performs a recovery step to the behind left side. # 0 # 4.51
+A person dodges backwards to the left # 0 # 4.51
+A person dodges sidewards. # 0 # 4.51

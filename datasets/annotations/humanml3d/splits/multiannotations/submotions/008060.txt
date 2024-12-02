@@ -1,3 +1,3 @@
-a person throws punches, one with his right hand and four with his left hand. # 0 # 10 # spine
-a man stretches his right arm forward and then stretches out his left arm multiple times. # 0 # 10 # spine
-a person dances around and punches both of their arms out individually. # 0 # 10 # spine
+a person throws punches, one with his right hand and four with his left hand. # 0 # 10
+a man stretches his right arm forward and then stretches out his left arm multiple times. # 0 # 10
+a person dances around and punches both of their arms out individually. # 0 # 10

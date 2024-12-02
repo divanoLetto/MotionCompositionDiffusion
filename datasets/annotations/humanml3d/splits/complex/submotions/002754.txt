@@ -1,2 +1,2 @@
-A person is waving right arm in air. # 0 # 6 # spine
-A person poses with legs splayed and arms outstretched. # 6 # 10.0 # spine
+A person is waving right arm in air. # 0 # 6
+A person poses with legs splayed and arms outstretched. # 6 # 10.0

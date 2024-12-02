@@ -1,2 +1,2 @@
-A person is kicking with their right foot. # 0 # 2 # spine
-A person is swinging their arms. # 2 # 6.375 # spine
+A person is kicking with their right foot. # 0 # 2
+A person is swinging their arms. # 2 # 6.375

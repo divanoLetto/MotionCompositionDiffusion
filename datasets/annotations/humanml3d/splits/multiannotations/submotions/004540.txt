@@ -1,3 +1,3 @@
-a person lowers their arms, gets onto all fours, and crawls # 0 # 5.34 # spine
-a person steps forward then goes down to the ground on their hands and knees, then they crawl forward on all fours. # 0 # 5.34 # spine
-person is on their knees. # 0 # 5.34 # spine
+a person lowers their arms, gets onto all fours, and crawls # 0 # 5.34
+a person steps forward then goes down to the ground on their hands and knees, then they crawl forward on all fours. # 0 # 5.34
+person is on their knees. # 0 # 5.34

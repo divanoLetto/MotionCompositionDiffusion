@@ -1,3 +1,3 @@
-a person walks in a counter clockwise circle and turns around to look after possibly tripping over something. # 0 # 10 # spine
-a person walks and stumbles on their right foot. # 0 # 10 # spine
-a person twists their ankle # 0 # 10 # spine
+a person walks in a counter clockwise circle and turns around to look after possibly tripping over something. # 0 # 10
+a person walks and stumbles on their right foot. # 0 # 10
+a person twists their ankle # 0 # 10

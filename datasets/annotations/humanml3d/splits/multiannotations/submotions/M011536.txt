@@ -1,3 +1,3 @@
-this person is sitting and moving his left arm as if to eat. # 0 # 3.75 # spine
-the man is eating his finger i think # 0 # 3.75 # spine
-a person squats on the ground while eating something with his left hand. # 0 # 3.75 # spine
+this person is sitting and moving his left arm as if to eat. # 0 # 3.75
+the man is eating his finger i think # 0 # 3.75
+a person squats on the ground while eating something with his left hand. # 0 # 3.75

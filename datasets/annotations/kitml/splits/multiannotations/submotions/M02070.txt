@@ -1,5 +1,5 @@
-Subect stands up from kneeling. # 0 # 3.86 # spine
-A person is kneeling on the ground and gets up using his legs and right arm. # 0 # 3.86 # spine
-A person stands up from the ground # 0 # 3.86 # spine
-A crawling person standing up from the floor. # 0 # 3.86 # spine
-A person on their knees standing up # 0 # 3.86 # spine
+Subect stands up from kneeling. # 0 # 3.86
+A person is kneeling on the ground and gets up using his legs and right arm. # 0 # 3.86
+A person stands up from the ground # 0 # 3.86
+A crawling person standing up from the floor. # 0 # 3.86
+A person on their knees standing up # 0 # 3.86

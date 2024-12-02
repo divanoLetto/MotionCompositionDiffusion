@@ -1,1 +1,1 @@
-A person walks counterclockwise on a quarter circle with 1,5m radius. # 0 # 6.15 # spine
+A person walks counterclockwise on a quarter circle with 1,5m radius. # 0 # 6.15

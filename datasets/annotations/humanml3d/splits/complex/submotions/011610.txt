@@ -1,4 +1,4 @@
-A person dribbles a ball with their left hand. # 0 # 3 # spine
-A person walks forward while dribbling. # 2 # 5 # spine
-A person walks backwards while dribbling. # 5 # 8 # spine
-A person continues to dribble the ball. # 8 # 10.0 # spine
+A person dribbles a ball with their left hand. # 0 # 3
+A person walks forward while dribbling. # 2 # 5
+A person walks backwards while dribbling. # 5 # 8
+A person continues to dribble the ball. # 8 # 10.0

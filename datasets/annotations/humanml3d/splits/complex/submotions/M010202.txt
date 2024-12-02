@@ -1,4 +1,4 @@
-A person walks forward. # 0 # 2 # spine
-A person kicks forward with their left leg. # 2 # 4 # spine
-A person kicks forward with their right leg. # 4 # 5.95 # spine
-A person walks to the left. # 4 # 5.95 # spine
+A person walks forward. # 0 # 2
+A person kicks forward with their left leg. # 2 # 4
+A person kicks forward with their right leg. # 4 # 5.95
+A person walks to the left. # 4 # 5.95

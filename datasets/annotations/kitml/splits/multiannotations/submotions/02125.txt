@@ -1,3 +1,3 @@
-A person jumps and afterwards walks forward. # 0 # 6.81 # spine
-a person waves his hands jumps about 10 centimeters upwards and then walks for a few steps # 0 # 6.81 # spine
-The human perfoms a jump and walks straight forward # 0 # 6.81 # spine
+A person jumps and afterwards walks forward. # 0 # 6.81
+a person waves his hands jumps about 10 centimeters upwards and then walks for a few steps # 0 # 6.81
+The human perfoms a jump and walks straight forward # 0 # 6.81

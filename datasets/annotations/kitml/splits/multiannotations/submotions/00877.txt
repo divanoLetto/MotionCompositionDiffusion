@@ -1,6 +1,6 @@
-A person walks forward, turns on the spot and walk backwards. # 0 # 6.14 # spine
-A human walks a few steps before turning swiftly around on his right foot # 0 # 6.14 # spine
-A person is spining around a 180 degrees to the right while walking. # 0 # 6.14 # spine
-A person turns 180 degrees on his right foot. # 0 # 6.14 # spine
-some one turns clockwise back on his right foot. # 0 # 6.14 # spine
-Someone walks two steps forward, then turns around by 180 degree to the right and makes two steps again. # 0 # 6.14 # spine
+A person walks forward, turns on the spot and walk backwards. # 0 # 6.14
+A human walks a few steps before turning swiftly around on his right foot # 0 # 6.14
+A person is spining around a 180 degrees to the right while walking. # 0 # 6.14
+A person turns 180 degrees on his right foot. # 0 # 6.14
+some one turns clockwise back on his right foot. # 0 # 6.14
+Someone walks two steps forward, then turns around by 180 degree to the right and makes two steps again. # 0 # 6.14

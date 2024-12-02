@@ -1,1 +1,1 @@
-A human walks up stairs. # 0 # 8.733 # spine
+A human walks up stairs. # 0 # 8.733

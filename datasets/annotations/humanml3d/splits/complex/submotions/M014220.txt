@@ -1,2 +1,2 @@
-A person moves their left leg in a circle. # 0 # 6 # spine
-A person is swaying from side to side. # 4 # 10.0 # spine
+A person moves their left leg in a circle. # 0 # 6
+A person is swaying from side to side. # 4 # 10.0

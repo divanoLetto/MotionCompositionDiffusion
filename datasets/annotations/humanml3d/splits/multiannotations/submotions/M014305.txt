@@ -1,3 +1,3 @@
-man runs right from the middle, then all the way left, then back right and stops at the middle # 0 # 6.742 # spine
-a person begins from a standing position, begins to run to their right, turns around almost immediately, runs several steps, turns back around, and returns to their starting position. # 0 # 6.742 # spine
-running from side to side. # 0 # 6.742 # spine
+man runs right from the middle, then all the way left, then back right and stops at the middle # 0 # 6.742
+a person begins from a standing position, begins to run to their right, turns around almost immediately, runs several steps, turns back around, and returns to their starting position. # 0 # 6.742
+running from side to side. # 0 # 6.742

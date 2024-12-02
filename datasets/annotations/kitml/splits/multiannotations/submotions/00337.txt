@@ -1,1 +1,1 @@
-A person walks counter clockwise in a circle. # 0 # 8.18 # spine
+A person walks counter clockwise in a circle. # 0 # 8.18

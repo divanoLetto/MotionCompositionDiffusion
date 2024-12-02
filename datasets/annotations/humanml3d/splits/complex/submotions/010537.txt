@@ -1,2 +1,2 @@
-A person runs forward quickly. # 0 # 1 # spine
-A person dribbles a ball with their right hand. # 0.5 # 1.45 # spine
+A person runs forward quickly. # 0 # 1
+A person dribbles a ball with their right hand. # 0.5 # 1.45

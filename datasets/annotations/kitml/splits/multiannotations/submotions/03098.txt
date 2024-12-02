@@ -1,1 +1,1 @@
-A person takes a shower. # 0 # 10 # spine
+A person takes a shower. # 0 # 10

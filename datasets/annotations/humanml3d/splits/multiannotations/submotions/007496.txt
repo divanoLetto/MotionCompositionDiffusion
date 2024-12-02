@@ -1,3 +1,3 @@
-a person stands with knees bent and arms down on their sides, then continues to stand with arms spread out to the side. # 0 # 7.21 # spine
-this person with legs bent at the knee lowers his arms then raises them again. # 0 # 7.21 # spine
-a person bent, raises both arms at the same time, lowers them and raises # 0 # 7.21 # spine
+a person stands with knees bent and arms down on their sides, then continues to stand with arms spread out to the side. # 0 # 7.21
+this person with legs bent at the knee lowers his arms then raises them again. # 0 # 7.21
+a person bent, raises both arms at the same time, lowers them and raises # 0 # 7.21

@@ -1,3 +1,3 @@
-a man is pacing back and forth in a straight line. # 0 # 10 # spine
-a man walks forward, turns and walks back. # 0 # 10 # spine
-a person walks forwards, turns around, then walks forwards and turns around. # 0 # 10 # spine
+a man is pacing back and forth in a straight line. # 0 # 10
+a man walks forward, turns and walks back. # 0 # 10
+a person walks forwards, turns around, then walks forwards and turns around. # 0 # 10

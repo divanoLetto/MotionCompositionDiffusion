@@ -1,2 +1,2 @@
-A person is walking sideways. # 0 # 2 # spine
-A person is dribbling something with both hands. # 0 # 2.508 # spine
+A person is walking sideways. # 0 # 2
+A person is dribbling something with both hands. # 0 # 2.508

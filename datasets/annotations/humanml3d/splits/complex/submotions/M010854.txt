@@ -1,2 +1,2 @@
-A person kicks with his left foot. # 0 # 5 # spine
-A person walks forward. # 4 # 5.25 # spine
+A person kicks with his left foot. # 0 # 5
+A person walks forward. # 4 # 5.25

@@ -1,2 +1,2 @@
-A person is moving their hips repeatedly to the right and left. # 0 # 6 # spine
-A person raises their hands in front of their face, holds them there and then drops their hands back down. # 4 # 10.0 # spine
+A person is moving their hips repeatedly to the right and left. # 0 # 6
+A person raises their hands in front of their face, holds them there and then drops their hands back down. # 4 # 10.0

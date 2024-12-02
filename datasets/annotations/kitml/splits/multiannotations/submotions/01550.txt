@@ -1,2 +1,2 @@
-A person climbs stairs. # 0 # 8.94 # spine
-a human is climbing some stairs. # 0 # 8.94 # spine
+A person climbs stairs. # 0 # 8.94
+a human is climbing some stairs. # 0 # 8.94

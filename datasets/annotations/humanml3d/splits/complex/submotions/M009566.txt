@@ -1,2 +1,2 @@
-A man swings a golf club. # 0 # 4 # spine
-A person is hitting something with both hands. # 2 # 4.108 # spine
+A man swings a golf club. # 0 # 4
+A person is hitting something with both hands. # 2 # 4.108

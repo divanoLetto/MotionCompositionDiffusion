@@ -1,2 +1,2 @@
-A person jumps around the floor playfully. # 0 # 4 # spine
-A person jumps and does a 360 degree turn with his body. # 4 # 8.467 # spine
+A person jumps around the floor playfully. # 0 # 4
+A person jumps and does a 360 degree turn with his body. # 4 # 8.467

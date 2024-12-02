@@ -1,4 +1,4 @@
-A person punches with their left hand. # 0 # 3 # spine
-A person punches with their right hand. # 2 # 5 # spine
-A person punches with their left hand. # 4 # 7 # spine
-A person punches with their right hand. # 6 # 10.0 # spine
+A person punches with their left hand. # 0 # 3
+A person punches with their right hand. # 2 # 5
+A person punches with their left hand. # 4 # 7
+A person punches with their right hand. # 6 # 10.0

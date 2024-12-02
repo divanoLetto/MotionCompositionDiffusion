@@ -1,4 +1,4 @@
-A person walks 4 steps forward. # 0 # 6.49 # spine
-The human walks slowly # 0 # 6.49 # spine
-human goes forward # 0 # 6.49 # spine
-a person takes 5 steps forward # 0 # 6.49 # spine
+A person walks 4 steps forward. # 0 # 6.49
+The human walks slowly # 0 # 6.49
+human goes forward # 0 # 6.49
+a person takes 5 steps forward # 0 # 6.49

@@ -1,3 +1,3 @@
-A person runs forward quickly. # 0 # 6 # spine
-A person kicks with his right foot. # 6 # 8 # spine
-A person steps back with his left foot. # 8 # 10.0 # spine
+A person runs forward quickly. # 0 # 6
+A person kicks with his right foot. # 6 # 8
+A person steps back with his left foot. # 8 # 10.0

@@ -1,3 +1,3 @@
-a person is scrubbing a window # 0 # 10 # spine
-a man shakes his right arm and then puts something down. # 0 # 10 # spine
-person rotates hand in air lots of times then brings hand to right hip # 0 # 10 # spine
+a person is scrubbing a window # 0 # 10
+a man shakes his right arm and then puts something down. # 0 # 10
+person rotates hand in air lots of times then brings hand to right hip # 0 # 10

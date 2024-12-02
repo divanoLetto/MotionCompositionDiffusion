@@ -1,2 +1,2 @@
-A person goes down on one knee, then kneels on both and gets back up one leg at a time. # 0 # 2.5 # spine
-The person is in a fighting stance, then hops backwards and lowers their hands, trying to dodge something. # 2 # 3.758 # spine
+A person goes down on one knee, then kneels on both and gets back up one leg at a time. # 0 # 2.5
+The person is in a fighting stance, then hops backwards and lowers their hands, trying to dodge something. # 2 # 3.758

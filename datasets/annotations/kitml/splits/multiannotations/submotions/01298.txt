@@ -1,10 +1,10 @@
-A person performs a punch with their right hand. # 0 # 5.44 # spine
-Person boxing with right hand # 0 # 5.44 # spine
-A person punches. # 0 # 5.44 # spine
-The human performs a right-handed punch. # 0 # 5.44 # spine
-someone makes a step forward with his right foot by boxing with his right hand # 0 # 5.44 # spine
-Someone is doing a high punch with his right fist. # 0 # 5.44 # spine
-A person punches in the air in front of him with his right arm # 0 # 5.44 # spine
-a person punches something with its right hand # 0 # 5.44 # spine
-A person performs a jab with his right hand. # 0 # 5.44 # spine
-A person is punching with his right hand. # 0 # 5.44 # spine
+A person performs a punch with their right hand. # 0 # 5.44
+Person boxing with right hand # 0 # 5.44
+A person punches. # 0 # 5.44
+The human performs a right-handed punch. # 0 # 5.44
+someone makes a step forward with his right foot by boxing with his right hand # 0 # 5.44
+Someone is doing a high punch with his right fist. # 0 # 5.44
+A person punches in the air in front of him with his right arm # 0 # 5.44
+a person punches something with its right hand # 0 # 5.44
+A person performs a jab with his right hand. # 0 # 5.44
+A person is punching with his right hand. # 0 # 5.44

@@ -1,2 +1,2 @@
-A person stands in a defensive position. # 0 # 2 # spine
-A person raises both hands to the right. # 2 # 2.95 # spine
+A person stands in a defensive position. # 0 # 2
+A person raises both hands to the right. # 2 # 2.95

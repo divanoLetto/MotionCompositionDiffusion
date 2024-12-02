@@ -1,3 +1,3 @@
-a figure winds up for the pitch. # 0 # 4.2 # spine
-this person appears to be painting. # 0 # 4.2 # spine
-a person punches in front of them with their right hand. # 0 # 4.2 # spine
+a figure winds up for the pitch. # 0 # 4.2
+this person appears to be painting. # 0 # 4.2
+a person punches in front of them with their right hand. # 0 # 4.2

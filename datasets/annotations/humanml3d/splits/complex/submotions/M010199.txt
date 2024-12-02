@@ -1,2 +1,2 @@
-A person steps forward with their left foot.  # 0 # 2 # spine
-A person kicks with their right leg.  # 2 # 10 # spine
+A person steps forward with their left foot.  # 0 # 2
+A person kicks with their right leg.  # 2 # 10

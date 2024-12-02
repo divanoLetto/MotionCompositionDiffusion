@@ -1,3 +1,3 @@
-a man stands with arms on the side, leans to the left and moves one step to the left. # 0 # 10 # spine
-a man stands without moving for a few seconds, then takes a small side step # 0 # 10 # spine
-person moves to the right aggressively, shoulder first. seems to be more aggressive # 0 # 10 # spine
+a man stands with arms on the side, leans to the left and moves one step to the left. # 0 # 10
+a man stands without moving for a few seconds, then takes a small side step # 0 # 10
+person moves to the right aggressively, shoulder first. seems to be more aggressive # 0 # 10

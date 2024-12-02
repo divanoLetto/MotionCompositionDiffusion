@@ -1,3 +1,3 @@
-standing on one foot. # 0 # 10 # spine
-a person moves their right foor around while balancing on their left foot. # 0 # 10 # spine
-person is lifting his right knee. # 0 # 10 # spine
+standing on one foot. # 0 # 10
+a person moves their right foor around while balancing on their left foot. # 0 # 10
+person is lifting his right knee. # 0 # 10

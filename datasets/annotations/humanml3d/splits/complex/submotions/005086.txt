@@ -1,3 +1,3 @@
-A person walks forward slowly. # 0 # 3 # spine
-A person sways their arms back and forth. # 2 # 5 # spine
-A person dances back and forth. # 4 # 10.0 # spine
+A person walks forward slowly. # 0 # 3
+A person sways their arms back and forth. # 2 # 5
+A person dances back and forth. # 4 # 10.0

@@ -1,2 +1,2 @@
-A person moves sideways slowly almost as if crawling. # 0 # 5 # spine
-A person slides their feet and sneaks to the right. # 4 # 9.999999999999998 # spine
+A person moves sideways slowly almost as if crawling. # 0 # 5
+A person slides their feet and sneaks to the right. # 4 # 9.999999999999998

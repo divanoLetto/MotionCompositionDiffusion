@@ -1,3 +1,3 @@
-a person is standing with slightly bent knees, then raises right arm to the side and holds for 8 seconds # 0 # 10 # spine
-a man seated lifts both hands in a "t-pose" then lowers them and then stretches out his right arm. # 0 # 10 # spine
-a person raises their right arm out straight. # 0 # 10 # spine
+a person is standing with slightly bent knees, then raises right arm to the side and holds for 8 seconds # 0 # 10
+a man seated lifts both hands in a "t-pose" then lowers them and then stretches out his right arm. # 0 # 10
+a person raises their right arm out straight. # 0 # 10

@@ -1,2 +1,2 @@
-A person raises their left arm to punch.  # 0 # 0.5 # spine
-A person punches with their left hand.  # 0.5 # 0.95 # spine
+A person raises their left arm to punch.  # 0 # 0.5
+A person punches with their left hand.  # 0.5 # 0.95

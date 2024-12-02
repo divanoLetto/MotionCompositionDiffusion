@@ -1,2 +1,2 @@
-A person is dancing.  # 0 # 4 # spine
-A person takes large steps in a circle rhythmically.  # 4 # 7.79 # spine
+A person is dancing.  # 0 # 4
+A person takes large steps in a circle rhythmically.  # 4 # 7.79

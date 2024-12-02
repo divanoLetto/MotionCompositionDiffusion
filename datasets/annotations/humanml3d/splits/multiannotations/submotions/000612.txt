@@ -1,3 +1,3 @@
-the person is around and i think holding someone dancing. # 0 # 10 # spine
-person walks from right to left then drags right leg moving forward three paces holding left arm with right hand on elbow then stops raising left arm above head # 0 # 10 # spine
-person is walking forwards with their body to the side, and seemingly forcing an item forwards as well. appears to be pushing an object # 0 # 10 # spine
+the person is around and i think holding someone dancing. # 0 # 10
+person walks from right to left then drags right leg moving forward three paces holding left arm with right hand on elbow then stops raising left arm above head # 0 # 10
+person is walking forwards with their body to the side, and seemingly forcing an item forwards as well. appears to be pushing an object # 0 # 10

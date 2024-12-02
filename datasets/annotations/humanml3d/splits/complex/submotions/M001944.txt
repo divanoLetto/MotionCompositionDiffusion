@@ -1,2 +1,2 @@
-A person is running forward. # 0 # 6 # spine
-A person is throwing something with their right arm. # 4 # 10.0 # spine
+A person is running forward. # 0 # 6
+A person is throwing something with their right arm. # 4 # 10.0

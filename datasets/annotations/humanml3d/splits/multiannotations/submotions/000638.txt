@@ -1,3 +1,3 @@
-a person claps with hands. # 0 # 3.875 # spine
-a person claps their hands together a couple times while maintaining a wide stance # 0 # 3.875 # spine
-a person claps their hands 5 times in front of their chest then drops arms to their side # 0 # 3.875 # spine
+a person claps with hands. # 0 # 3.875
+a person claps their hands together a couple times while maintaining a wide stance # 0 # 3.875
+a person claps their hands 5 times in front of their chest then drops arms to their side # 0 # 3.875

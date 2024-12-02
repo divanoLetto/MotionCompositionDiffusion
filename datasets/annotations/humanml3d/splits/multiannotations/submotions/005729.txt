@@ -1,3 +1,3 @@
-a person sways to the right. # 0 # 5.34 # spine
-the man is pushing from left side # 0 # 5.34 # spine
-a person standing for a long time may shift his weight from one foot to another. # 0 # 5.34 # spine
+a person sways to the right. # 0 # 5.34
+the man is pushing from left side # 0 # 5.34
+a person standing for a long time may shift his weight from one foot to another. # 0 # 5.34

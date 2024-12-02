@@ -1,3 +1,3 @@
-ther person walks forward and leans down to pick something up. # 0 # 10 # spine
-a person walks forward and picks something up off the ground with their right hand. # 0 # 10 # spine
-a person walks forward slowly and then stops and bends over to pick up something with their right arm and hand. # 0 # 10 # spine
+ther person walks forward and leans down to pick something up. # 0 # 10
+a person walks forward and picks something up off the ground with their right hand. # 0 # 10
+a person walks forward slowly and then stops and bends over to pick up something with their right arm and hand. # 0 # 10

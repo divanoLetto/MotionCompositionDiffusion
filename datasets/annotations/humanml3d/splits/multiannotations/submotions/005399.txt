@@ -1,3 +1,3 @@
-a man stands on the ground and lifts his right hand for a moment above the shoulder and then puts it down. # 0 # 10 # spine
-a person raises his right hand to his head and then lowers it back to his side. # 0 # 10 # spine
-the person raises his right arm like a u-shape twice and then raise a little bit in a shoulder level but in bend position then stop. # 0 # 10 # spine
+a man stands on the ground and lifts his right hand for a moment above the shoulder and then puts it down. # 0 # 10
+a person raises his right hand to his head and then lowers it back to his side. # 0 # 10
+the person raises his right arm like a u-shape twice and then raise a little bit in a shoulder level but in bend position then stop. # 0 # 10

@@ -1,3 +1,3 @@
-the person pulls the book off of the shelf # 0 # 3.26 # spine
-a person pushes their hand forward and then lowers it. # 0 # 3.26 # spine
-the person is taking a cook off the shelves with his left arm. # 0 # 3.26 # spine
+the person pulls the book off of the shelf # 0 # 3.26
+a person pushes their hand forward and then lowers it. # 0 # 3.26
+the person is taking a cook off the shelves with his left arm. # 0 # 3.26

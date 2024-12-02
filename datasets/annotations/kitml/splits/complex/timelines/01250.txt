@@ -1,2 +1,2 @@
-A person performs an evasive motion bending backwards. # 0 # 3 # spine
-A person is absorbing a punch with the left hand while holding the hands up. # 3 # 4.42 # spine
+A person performs an evasive motion bending backwards. # 0 # 3
+A person is absorbing a punch with the left hand while holding the hands up. # 3 # 4.42

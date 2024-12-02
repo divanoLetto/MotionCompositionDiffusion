@@ -1,3 +1,3 @@
-a person lifts up their arm at a 120 degree angle twice and then reverts their arm to the opposite lower part of their body. # 0 # 10 # spine
-a person standing in one position uses their right arm to pick up one object and place it in a cart two times. # 0 # 10 # spine
-a person reaches with his right hand to grab something. he then releases item in front of him. # 0 # 10 # spine
+a person lifts up their arm at a 120 degree angle twice and then reverts their arm to the opposite lower part of their body. # 0 # 10
+a person standing in one position uses their right arm to pick up one object and place it in a cart two times. # 0 # 10
+a person reaches with his right hand to grab something. he then releases item in front of him. # 0 # 10

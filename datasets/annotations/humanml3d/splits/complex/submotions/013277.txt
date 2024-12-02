@@ -1,2 +1,2 @@
-A person raises their right arm to throw something. # 0 # 3 # spine
-A person stops their throwing motion. # 3 # 5.07 # spine
+A person raises their right arm to throw something. # 0 # 3
+A person stops their throwing motion. # 3 # 5.07

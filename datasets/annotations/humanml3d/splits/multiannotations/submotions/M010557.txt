@@ -1,3 +1,3 @@
-person puts hands on head then chest then knees then toes # 0 # 8.49 # spine
-a person brings their hands to their face, before crossing their arms at their chest in an x # 0 # 8.49 # spine
-a person does head, shoulders, knees, and toes. # 0 # 8.49 # spine
+person puts hands on head then chest then knees then toes # 0 # 8.49
+a person brings their hands to their face, before crossing their arms at their chest in an x # 0 # 8.49
+a person does head, shoulders, knees, and toes. # 0 # 8.49

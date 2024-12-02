@@ -1,2 +1,2 @@
-A person holds something in their right hand while hitting it with their left hand. # 0 # 5 # spine
-A person continues to hit with their left hand. # 5 # 8.35 # spine
+A person holds something in their right hand while hitting it with their left hand. # 0 # 5
+A person continues to hit with their left hand. # 5 # 8.35

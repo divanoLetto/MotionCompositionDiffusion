@@ -1,2 +1,2 @@
-A person kicks with his right foot. # 0 # 3 # spine
-A person raises their left leg. # 2 # 3.633 # spine
+A person kicks with his right foot. # 0 # 3
+A person raises their left leg. # 2 # 3.633

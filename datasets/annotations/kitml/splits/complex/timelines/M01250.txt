@@ -1,2 +1,2 @@
-A person is absorbing a punch with the right hand while holding the hands up. # 0 # 4.42 # spine
-A person dodges a hit. # 3 # 4.42 # spine
+A person is absorbing a punch with the right hand while holding the hands up. # 0 # 4.42
+A person dodges a hit. # 3 # 4.42

@@ -1,4 +1,4 @@
-A person is moving their hips in a circular motion with their arms stretched outward to the sides. # 0 # 3 # spine
-A person is moving their arms around in a circular motion. # 2 # 5 # spine
-A person spins clockwise. # 3 # 7 # spine
-A person is moving their arms around in wide circles. # 5 # 7.332999999999998 # spine
+A person is moving their hips in a circular motion with their arms stretched outward to the sides. # 0 # 3
+A person is moving their arms around in a circular motion. # 2 # 5
+A person spins clockwise. # 3 # 7
+A person is moving their arms around in wide circles. # 5 # 7.332999999999998

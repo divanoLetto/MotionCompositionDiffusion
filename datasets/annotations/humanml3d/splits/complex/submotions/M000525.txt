@@ -1,2 +1,2 @@
-A person stands straight with his feet wide and lifts his hands up and shakes his hips. # 0 # 2.883 # spine
-The person shakes their hips while also moving their arms. # 2 # 5.333 # spine
+A person stands straight with his feet wide and lifts his hands up and shakes his hips. # 0 # 2.883
+The person shakes their hips while also moving their arms. # 2 # 5.333

@@ -1,3 +1,3 @@
-a person bends forward and straights, and then bends forward to touch their feet. # 0 # 10 # spine
-person has both arms above head before throwing them down and turning to the right # 0 # 10 # spine
-a person bends their back to stretch. # 0 # 10 # spine
+a person bends forward and straights, and then bends forward to touch their feet. # 0 # 10
+person has both arms above head before throwing them down and turning to the right # 0 # 10
+a person bends their back to stretch. # 0 # 10

@@ -1,2 +1,2 @@
-A person stands while holding an object with their left hand. # 0 # 3 # spine
-A person moves their left hand up and down. # 2 # 7.32 # spine
+A person stands while holding an object with their left hand. # 0 # 3
+A person moves their left hand up and down. # 2 # 7.32

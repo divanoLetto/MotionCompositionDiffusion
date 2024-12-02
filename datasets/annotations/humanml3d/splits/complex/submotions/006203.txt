@@ -1,2 +1,2 @@
-a person throws something with their right hand. # 0 # 1.9 # spine
-a person throws something with their left hand. # 1.5 # 1.9 # spine
+a person throws something with their right hand. # 0 # 1.9
+a person throws something with their left hand. # 1.5 # 1.9

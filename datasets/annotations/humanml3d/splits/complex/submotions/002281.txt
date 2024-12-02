@@ -1,2 +1,2 @@
-A person is waving with both of their arms. # 0 # 5 # spine
-A person jumps up and down while swinging their arms. # 4 # 9.999999999999993 # spine
+A person is waving with both of their arms. # 0 # 5
+A person jumps up and down while swinging their arms. # 4 # 9.999999999999993

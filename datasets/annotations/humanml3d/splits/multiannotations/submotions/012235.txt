@@ -1,3 +1,3 @@
-a person is doing acting like a little teapot. # 0 # 10 # spine
-a person brings their hands up to chest level, then flexes them both to either side. # 0 # 10 # spine
-the person was acting out the nursery rhyme i’m a little teapot. # 0 # 10 # spine
+a person is doing acting like a little teapot. # 0 # 10
+a person brings their hands up to chest level, then flexes them both to either side. # 0 # 10
+the person was acting out the nursery rhyme i’m a little teapot. # 0 # 10

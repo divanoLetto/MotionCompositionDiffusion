@@ -1,2 +1,2 @@
-a person raises their right hand. # 0 # 7.22 # spine
-a person moves their right arm in a circular motion. # 2 # 7.22 # spine
+a person raises their right hand. # 0 # 7.22
+a person moves their right arm in a circular motion. # 2 # 7.22

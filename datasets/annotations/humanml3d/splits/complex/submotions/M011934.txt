@@ -1,2 +1,2 @@
-A person is shaking their hands. # 0 # 2 # spine
-A person is waving with both hands. # 2 # 5.55 # spine
+A person is shaking their hands. # 0 # 2
+A person is waving with both hands. # 2 # 5.55

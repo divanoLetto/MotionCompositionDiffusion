@@ -1,2 +1,2 @@
-A person walks forward slowly. # 0 # 4.83 # spine
-A person walks diagonally to the left. # 4 # 9.733 # spine
+A person walks forward slowly. # 0 # 4.83
+A person walks diagonally to the left. # 4 # 9.733

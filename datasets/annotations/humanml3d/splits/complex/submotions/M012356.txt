@@ -1,2 +1,2 @@
-A person is dancing with both arms moving. # 0 # 3 # spine
-A person raises their right hand to drink something. # 2 # 3.45 # spine
+A person is dancing with both arms moving. # 0 # 3
+A person raises their right hand to drink something. # 2 # 3.45

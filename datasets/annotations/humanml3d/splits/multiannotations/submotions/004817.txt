@@ -1,3 +1,3 @@
-stick man walking straightforward in wobbling position maybe taking a dui test. # 0 # 4.55 # spine
-a man walks forward and then stumbles before continuing. # 0 # 4.55 # spine
-the person was pushed while walking across the balance beam. # 0 # 4.55 # spine
+stick man walking straightforward in wobbling position maybe taking a dui test. # 0 # 4.55
+a man walks forward and then stumbles before continuing. # 0 # 4.55
+the person was pushed while walking across the balance beam. # 0 # 4.55

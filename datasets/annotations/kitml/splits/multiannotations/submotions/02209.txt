@@ -1,1 +1,1 @@
-A person is slowing down from running. # 0 # 1.02 # spine
+A person is slowing down from running. # 0 # 1.02

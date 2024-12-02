@@ -1,3 +1,3 @@
-a man walks forward and takes two steps, turns clockwise and then goesni to a sitting position from standing. # 0 # 10 # spine
-a man walks forwards then sits in a chair and repositions himself for comfort. # 0 # 10 # spine
-a person starts in a stand up position, turns around to be seated, and then adjusts his seating a few times # 0 # 10 # spine
+a man walks forward and takes two steps, turns clockwise and then goesni to a sitting position from standing. # 0 # 10
+a man walks forwards then sits in a chair and repositions himself for comfort. # 0 # 10
+a person starts in a stand up position, turns around to be seated, and then adjusts his seating a few times # 0 # 10

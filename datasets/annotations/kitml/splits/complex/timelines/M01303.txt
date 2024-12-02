@@ -1,2 +1,2 @@
-A person punches something with its right hand. # 0 # 3 # spine
-A person throws something with their right hand. # 3 # 6.92 # spine
+A person punches something with its right hand. # 0 # 3
+A person throws something with their right hand. # 3 # 6.92

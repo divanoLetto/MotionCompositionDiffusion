@@ -1,2 +1,2 @@
-A person walks forward while making a dribbling motion with their right arm. # 0 # 3 # spine
-A person walks forward. # 2 # 3.3 # spine
+A person walks forward while making a dribbling motion with their right arm. # 0 # 3
+A person walks forward. # 2 # 3.3

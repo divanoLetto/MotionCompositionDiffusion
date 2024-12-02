@@ -1,3 +1,3 @@
-a man reaches his right hand out to his right the times before returning it to in front of him. # 0 # 10 # spine
-a person extends their right arm, and brings it back several times. # 0 # 10 # spine
-the person is working on an assembly line pulling something from the right to in front of them. # 0 # 10 # spine
+a man reaches his right hand out to his right the times before returning it to in front of him. # 0 # 10
+a person extends their right arm, and brings it back several times. # 0 # 10
+the person is working on an assembly line pulling something from the right to in front of them. # 0 # 10

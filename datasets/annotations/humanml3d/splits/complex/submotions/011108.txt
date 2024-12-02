@@ -1,1 +1,1 @@
-A person motions 'I'm a little teapot'. # 0 # 10.0 # spine
+A person motions 'I'm a little teapot'. # 0 # 10.0

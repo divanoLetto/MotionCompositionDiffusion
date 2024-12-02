@@ -1,2 +1,2 @@
-A person is waving with their left hand. # 0 # 2 # spine
-A person is moving their arms as if to enjoy a beat. # 2 # 3.25 # spine
+A person is waving with their left hand. # 0 # 2
+A person is moving their arms as if to enjoy a beat. # 2 # 3.25

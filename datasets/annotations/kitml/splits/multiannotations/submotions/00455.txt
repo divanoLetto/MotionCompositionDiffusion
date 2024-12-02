@@ -1,1 +1,1 @@
-A person walking in a quarter circle to the right. # 0 # 5.53 # spine
+A person walking in a quarter circle to the right. # 0 # 5.53

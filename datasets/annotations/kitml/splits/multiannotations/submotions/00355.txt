@@ -1,2 +1,2 @@
-Someone walks a full clockwise circle # 0 # 7.46 # spine
-a person is walking in a circle in clockwise direction. # 0 # 7.46 # spine
+Someone walks a full clockwise circle # 0 # 7.46
+a person is walking in a circle in clockwise direction. # 0 # 7.46

@@ -1,3 +1,3 @@
-someone working out the right arm # 0 # 10 # spine
-someone reaches to the left side with their right hand three times getting lower each time. # 0 # 10 # spine
-a man reaches to his left three times, grabbing objects and bringing them to his right side. # 0 # 10 # spine
+someone working out the right arm # 0 # 10
+someone reaches to the left side with their right hand three times getting lower each time. # 0 # 10
+a man reaches to his left three times, grabbing objects and bringing them to his right side. # 0 # 10

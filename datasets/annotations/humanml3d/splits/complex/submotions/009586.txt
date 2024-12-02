@@ -1,2 +1,2 @@
-A person raises their arms to block something. # 0 # 6 # spine
-A person stands with arms extended to the side. # 4 # 10.0 # spine
+A person raises their arms to block something. # 0 # 6
+A person stands with arms extended to the side. # 4 # 10.0

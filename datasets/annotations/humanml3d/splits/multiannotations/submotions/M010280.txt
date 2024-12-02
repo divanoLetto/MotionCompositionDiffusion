@@ -1,3 +1,3 @@
-a man scratches his head with his left hand. # 0 # 4.875 # spine
-a person scratches their head with their left hand. # 0 # 4.875 # spine
-a standing figure repeatedly touches his head with his hand. # 0 # 4.875 # spine
+a man scratches his head with his left hand. # 0 # 4.875
+a person scratches their head with their left hand. # 0 # 4.875
+a standing figure repeatedly touches his head with his hand. # 0 # 4.875

@@ -1,16 +1,16 @@
 import torch
 
-from src.data.collate import collate_x_dict
-from src.config import read_config
-from src.load import load_model_from_cfg
+from TMR.src.data.collate import collate_x_dict
+from TMR.src.config import read_config
+from TMR.src.load import load_model_from_cfg
 from hydra.utils import instantiate
 
 
 def load_tmr_model_easy(device="cpu", dataset="humanml3d"):
     if dataset == "humanml3d":
-        run_dir = "models/tmr_humanml3d_guoh3dfeats"
+        run_dir = "TMR/models/tmr_humanml3d_guoh3dfeats"
     elif dataset == "kitml":
-        run_dir = "models/tmr_kitml_guoh3dfeats"
+        run_dir = "TMR/models/tmr_kitml_guoh3dfeats"
     # run_dir = "models/tmr_humanml3d_guoh3dfeats"
     ckpt_name = "last"
     cfg = read_config(run_dir)

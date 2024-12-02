@@ -1,2 +1,2 @@
-a man walks towards the left. # 0 # 4.21 # spine
-a person walks curved to their right. # 0 # 4.21 # spine
+a man walks towards the left. # 0 # 4.21
+a person walks curved to their right. # 0 # 4.21

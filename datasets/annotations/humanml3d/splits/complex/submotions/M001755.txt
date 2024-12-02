@@ -1,3 +1,3 @@
-A person steps backward starting with their left foot. # 0 # 2 # spine
-A person sidesteps to the right. # 1 # 4 # spine
-A person sidesteps to the left. # 3 # 4.508 # spine
+A person steps backward starting with their left foot. # 0 # 2
+A person sidesteps to the right. # 1 # 4
+A person sidesteps to the left. # 3 # 4.508

@@ -1,2 +1,2 @@
-A person raises up his left arm. # 0 # 6.79 # spine
-A person moves his right arm up and down. # 2 # 6.79 # spine
+A person raises up his left arm. # 0 # 6.79
+A person moves his right arm up and down. # 2 # 6.79

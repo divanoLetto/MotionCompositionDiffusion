@@ -1,3 +1,3 @@
-a person is walking at an angle to the right. # 0 # 3.55 # spine
-the man makes a right turn # 0 # 3.55 # spine
-person was walking towards the right. # 0 # 3.55 # spine
+a person is walking at an angle to the right. # 0 # 3.55
+the man makes a right turn # 0 # 3.55
+person was walking towards the right. # 0 # 3.55

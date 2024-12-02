@@ -1,3 +1,3 @@
-a person bends at the hips and moves from the right to left while lifting arms up, bent at the elbows # 0 # 10 # spine
-a person pretends to be a dinosuar # 0 # 10 # spine
-a figure holds its bent arms out and moves from side to side from the waist up, then claws at the air moving from side to side. # 0 # 10 # spine
+a person bends at the hips and moves from the right to left while lifting arms up, bent at the elbows # 0 # 10
+a person pretends to be a dinosuar # 0 # 10
+a figure holds its bent arms out and moves from side to side from the waist up, then claws at the air moving from side to side. # 0 # 10

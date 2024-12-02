@@ -1,4 +1,4 @@
-A person is warming up their arms for something. # 0 # 2.85 # spine
-A person punches quickly with their right hand. # 2 # 5.325 # spine
-A person punches with their left hand. # 5 # 7.75 # spine
-A person is making repeated punches with right hand. # 7 # 10 # spine
+A person is warming up their arms for something. # 0 # 2.85
+A person punches quickly with their right hand. # 2 # 5.325
+A person punches with their left hand. # 5 # 7.75
+A person is making repeated punches with right hand. # 7 # 10

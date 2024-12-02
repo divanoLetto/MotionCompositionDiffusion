@@ -1,2 +1,2 @@
-A person raises their left leg forward. # 0 # 4 # spine
-A person bows forward. # 4 # 9.425 # spine
+A person raises their left leg forward. # 0 # 4
+A person bows forward. # 4 # 9.425

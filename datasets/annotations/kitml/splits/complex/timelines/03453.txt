@@ -1,2 +1,2 @@
-A person waves with the left hand. # 0 # 5.98 # spine
-A person raises the right hand and waves. # 5 # 9.283 # spine
+A person waves with the left hand. # 0 # 5.98
+A person raises the right hand and waves. # 5 # 9.283

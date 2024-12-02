@@ -1,2 +1,2 @@
-A person swings a golf club. # 0 # 6 # spine
-A person bends over and hits at something on the ground. # 5 # 7.09 # spine
+A person swings a golf club. # 0 # 6
+A person bends over and hits at something on the ground. # 5 # 7.09

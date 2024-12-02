@@ -1,2 +1,2 @@
-a person does a high kick with his left leg and then pushes out with both hands. # 0 # 6 # spine
-a person kicks forward with his right leg. # 4 # 10.0 # spine
+a person does a high kick with his left leg and then pushes out with both hands. # 0 # 6
+a person kicks forward with his right leg. # 4 # 10.0

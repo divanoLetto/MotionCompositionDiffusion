@@ -1,2 +1,2 @@
-A person throws something with their left hand. # 0 # 3 # spine
-A person performs multiple fast punches with the left hand. # 2 # 6.24 # spine
+A person throws something with their left hand. # 0 # 3
+A person performs multiple fast punches with the left hand. # 2 # 6.24

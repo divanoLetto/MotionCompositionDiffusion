@@ -1,4 +1,4 @@
-A person raises their right leg and brings their right heel over their left heel. # 0 # 4 # spine
-A person takes one hop forward. # 2 # 4 # spine
-A person raises their right leg and brings their right heel over their left heel. # 4 # 8 # spine
-A person hops on one foot. # 6 # 10.0 # spine
+A person raises their right leg and brings their right heel over their left heel. # 0 # 4
+A person takes one hop forward. # 2 # 4
+A person raises their right leg and brings their right heel over their left heel. # 4 # 8
+A person hops on one foot. # 6 # 10.0

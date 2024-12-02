@@ -1,2 +1,2 @@
-A person raises both arms and dances. # 0 # 3 # spine
-A person rolls their hands. # 2 # 3.708 # spine
+A person raises both arms and dances. # 0 # 3
+A person rolls their hands. # 2 # 3.708

@@ -1,3 +1,3 @@
-a person walks straight back. # 0 # 4.56 # spine
-person is walking straight backwards. # 0 # 4.56 # spine
-the man takes 4 steps backwards. # 0 # 4.56 # spine
+a person walks straight back. # 0 # 4.56
+person is walking straight backwards. # 0 # 4.56
+the man takes 4 steps backwards. # 0 # 4.56

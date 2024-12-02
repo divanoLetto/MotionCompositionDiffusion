@@ -1,3 +1,3 @@
-a man stands with his legs parted and slowly rotates his upper torso a few times, then starts to rotate his hips. # 0 # 10 # spine
-a person moving the shoulders round and tries to wiggle the hips. # 0 # 10 # spine
-the person is doing his exercises. # 0 # 10 # spine
+a man stands with his legs parted and slowly rotates his upper torso a few times, then starts to rotate his hips. # 0 # 10
+a person moving the shoulders round and tries to wiggle the hips. # 0 # 10
+the person is doing his exercises. # 0 # 10

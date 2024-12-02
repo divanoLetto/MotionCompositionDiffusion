@@ -1,3 +1,3 @@
-the person is walking backwards and then forwards. # 0 # 10 # spine
-walking to the side while waving hands. # 0 # 10 # spine
-a man slowly turns around in the clockwise direction, then walks forwards and stands still # 0 # 10 # spine
+the person is walking backwards and then forwards. # 0 # 10
+walking to the side while waving hands. # 0 # 10
+a man slowly turns around in the clockwise direction, then walks forwards and stands still # 0 # 10

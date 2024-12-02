@@ -1,2 +1,2 @@
-a person is doing the waltz in a circle. # 0 # 6 # spine
-a person is moving their hips back and forth, right and left. # 0 # 10.0 # spine
+a person is doing the waltz in a circle. # 0 # 6
+a person is moving their hips back and forth, right and left. # 0 # 10.0

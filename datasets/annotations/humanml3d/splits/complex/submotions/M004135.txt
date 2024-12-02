@@ -1,3 +1,3 @@
-A person rolls their arms in front of them. # 0 # 6 # spine
-A person is making a dribbling motion with both hands. # 4 # 10.0 # spine
-A person swipes their left hand from right to left. # 8 # 10.0 # spine
+A person rolls their arms in front of them. # 0 # 6
+A person is making a dribbling motion with both hands. # 4 # 10.0
+A person swipes their left hand from right to left. # 8 # 10.0

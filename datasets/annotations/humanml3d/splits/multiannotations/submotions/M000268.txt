@@ -1,3 +1,3 @@
-someone slouched in a sitting position gets up and begins walking in a circle. # 0 # 10 # spine
-a person is sitting on the ground, then stands up and walks in a circle. # 0 # 10 # spine
-sit on bottom, get up normally, walk in a nearly whole circle starting right and circling back to the starting point # 0 # 10 # spine
+someone slouched in a sitting position gets up and begins walking in a circle. # 0 # 10
+a person is sitting on the ground, then stands up and walks in a circle. # 0 # 10
+sit on bottom, get up normally, walk in a nearly whole circle starting right and circling back to the starting point # 0 # 10

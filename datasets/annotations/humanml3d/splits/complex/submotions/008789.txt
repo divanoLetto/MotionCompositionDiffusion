@@ -1,5 +1,5 @@
-A person is doing a happy dance. # 0 # 6 # spine
-A person does a handstand. # 0 # 6 # spine
-A person is doing leg scissors forward and backward. # 2 # 10.0 # spine
-A person jumps on their hands. # 4 # 10.0 # spine
-A person falls briefly and then stands back up. # 8 # 10.0 # spine
+A person is doing a happy dance. # 0 # 6
+A person does a handstand. # 0 # 6
+A person is doing leg scissors forward and backward. # 2 # 10.0
+A person jumps on their hands. # 4 # 10.0
+A person falls briefly and then stands back up. # 8 # 10.0

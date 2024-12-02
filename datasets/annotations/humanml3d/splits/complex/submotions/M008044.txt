@@ -1,3 +1,3 @@
-A person jabs with their left hand. # 0 # 2 # spine
-A person chops at the air with their left hand. # 1 # 3.233 # spine
-A person keeps their right hand at their side. # 0 # 3 # spine
+A person jabs with their left hand. # 0 # 2
+A person chops at the air with their left hand. # 1 # 3.233
+A person keeps their right hand at their side. # 0 # 3

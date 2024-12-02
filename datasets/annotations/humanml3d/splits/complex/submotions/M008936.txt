@@ -1,2 +1,2 @@
-A person is dribbling something with both hands. # 0 # 3 # spine
-A person walks backwards. # 2 # 3.35 # spine
+A person is dribbling something with both hands. # 0 # 3
+A person walks backwards. # 2 # 3.35

@@ -1,2 +1,2 @@
-A person holds an object with their left hand. # 0 # 3 # spine
-A person moves their right arm as if playing. # 2 # 10.0 # spine
+A person holds an object with their left hand. # 0 # 3
+A person moves their right arm as if playing. # 2 # 10.0

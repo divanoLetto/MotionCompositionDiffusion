@@ -1,3 +1,3 @@
-a man postures his arms like holding a dance partner and dances the waltz from the left hand side to the right hand side. # 0 # 8.71 # spine
-a person dances the cha cha cha. # 0 # 8.71 # spine
-a person is dancing, holding an invisible partner, moving from one side to another. # 0 # 8.71 # spine
+a man postures his arms like holding a dance partner and dances the waltz from the left hand side to the right hand side. # 0 # 8.71
+a person dances the cha cha cha. # 0 # 8.71
+a person is dancing, holding an invisible partner, moving from one side to another. # 0 # 8.71

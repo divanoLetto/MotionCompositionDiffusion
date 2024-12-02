@@ -1,2 +1,2 @@
-A person is waving with both of their arms. # 0 # 5 # spine
-A person jumps around the floor playfully. # 4 # 8.589999999999998 # spine
+A person is waving with both of their arms. # 0 # 5
+A person jumps around the floor playfully. # 4 # 8.589999999999998

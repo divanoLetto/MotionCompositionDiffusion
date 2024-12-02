@@ -1,2 +1,2 @@
-A person punches upwards with their left arm. # 0 # 1.65 # spine
-A person throws a left hook. # 0.5 # 1.65 # spine
+A person punches upwards with their left arm. # 0 # 1.65
+A person throws a left hook. # 0.5 # 1.65

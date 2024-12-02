@@ -1,3 +1,3 @@
-someone sees something on the ground the they move slowly away from # 0 # 10 # spine
-a person stares at the ground then stands up straight # 0 # 10 # spine
-a person slowly leans back to the right and then lifts their left shoulder upwards. # 0 # 10 # spine
+someone sees something on the ground the they move slowly away from # 0 # 10
+a person stares at the ground then stands up straight # 0 # 10
+a person slowly leans back to the right and then lifts their left shoulder upwards. # 0 # 10

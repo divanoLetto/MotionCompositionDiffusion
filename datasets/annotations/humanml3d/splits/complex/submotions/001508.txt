@@ -1,2 +1,2 @@
-A person moon walks backward. # 0 # 5 # spine
-A person walks backward. # 5 # 8.908 # spine
+A person moon walks backward. # 0 # 5
+A person walks backward. # 5 # 8.908

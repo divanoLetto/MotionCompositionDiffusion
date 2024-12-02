@@ -1,3 +1,3 @@
-a person begins walking forward first with their right foot, taking wide awkward steps as if they are stepping around or over something; begins walking towards the left and then slowly continues to walk to the right, then continues to walk towards the left coming to a stop off to the left side. # 0 # 9.62 # spine
-a person slowly stepping forward trying to avoid some things on the ground. # 0 # 9.62 # spine
-a man walks forwards carefully with wide and uneven steps. # 0 # 9.62 # spine
+a person begins walking forward first with their right foot, taking wide awkward steps as if they are stepping around or over something; begins walking towards the left and then slowly continues to walk to the right, then continues to walk towards the left coming to a stop off to the left side. # 0 # 9.62
+a person slowly stepping forward trying to avoid some things on the ground. # 0 # 9.62
+a man walks forwards carefully with wide and uneven steps. # 0 # 9.62

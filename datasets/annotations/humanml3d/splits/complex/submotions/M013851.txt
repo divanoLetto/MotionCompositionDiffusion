@@ -1,2 +1,2 @@
-A person throws something with their right hand. # 0 # 3 # spine
-A person brings their right arm back. # 2 # 4.508 # spine
+A person throws something with their right hand. # 0 # 3
+A person brings their right arm back. # 2 # 4.508

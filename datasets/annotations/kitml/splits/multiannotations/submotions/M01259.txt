@@ -1,4 +1,4 @@
-Someone does a tennis smash with the right arm. # 0 # 3.43 # spine
-A human performs a hit with a racket with its right hand over its head. # 0 # 3.43 # spine
-a person throws something with its right hand # 0 # 3.43 # spine
-A person is throwing an object with his right arm. # 0 # 3.43 # spine
+Someone does a tennis smash with the right arm. # 0 # 3.43
+A human performs a hit with a racket with its right hand over its head. # 0 # 3.43
+a person throws something with its right hand # 0 # 3.43
+A person is throwing an object with his right arm. # 0 # 3.43

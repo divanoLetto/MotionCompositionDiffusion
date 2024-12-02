@@ -80,6 +80,7 @@ def viz_smpl_seq(
     render_bodies_static=None, # None,
     render_points_static=None,
     cam_rot=None,
+    video=False,
 ):
     """
     Visualizes the body model output of a smpl sequence.
@@ -91,14 +92,15 @@ def viz_smpl_seq(
     - render_bodies_static is an integer, if given renders all bodies at once but only every x steps
     """
     # Generiamo la sequenza con un n parametrico (esempio n=12)
-    one_frame_image = True
-    colorss = vertex_color
-    color_sequence = generate_color_sequence(body.v.size(0))
+    one_frame_image = not video
+    if one_frame_image:
+        color_sequence = generate_color_sequence(body.v.size(0))
+    else:
+        color_sequence = np.tile(colors["vertex"], (body.v.size(0), 1))
     if one_frame_image:
         cam_offset = [2.5, 2.5, 2.5]
         render_bodies_static = int(body.v.size(0) / 5)
         nv = body.v.size(1)
-        # colorss = np.tile(color_sequence[i], (nv, 1)) ## ahhhhhh, è sbagliato
 
     stick_humans = False
     if stick_humans:

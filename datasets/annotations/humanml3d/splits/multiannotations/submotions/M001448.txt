@@ -1,3 +1,3 @@
-the figure steps forward then turns slightly left and proceeds to walk in that direction. # 0 # 4.38 # spine
-a person walks in a left bend direction. # 0 # 4.38 # spine
-a person walks toward a left-branch in a smooth curve and stops while both arms swing very slightly. # 0 # 4.38 # spine
+the figure steps forward then turns slightly left and proceeds to walk in that direction. # 0 # 4.38
+a person walks in a left bend direction. # 0 # 4.38
+a person walks toward a left-branch in a smooth curve and stops while both arms swing very slightly. # 0 # 4.38

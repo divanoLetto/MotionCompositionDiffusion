@@ -1,3 +1,3 @@
-a person dribbles a basketball through their legs then runs quickly. # 0 # 10 # spine
-a person taking turns moving each hand up and down, while taking pivoting steps. # 0 # 10 # spine
-a person appears to be playing basketball. # 0 # 10 # spine
+a person dribbles a basketball through their legs then runs quickly. # 0 # 10
+a person taking turns moving each hand up and down, while taking pivoting steps. # 0 # 10
+a person appears to be playing basketball. # 0 # 10

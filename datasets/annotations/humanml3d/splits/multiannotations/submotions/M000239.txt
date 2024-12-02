@@ -1,3 +1,3 @@
-a person swings their left arm, then motions with their left arm # 0 # 10 # spine
-a person makes a swirling motion with their hand and then raises left arm to drinking position. # 0 # 10 # spine
-he is moving his left hand in round motion and then touched his head with the same hand. # 0 # 10 # spine
+a person swings their left arm, then motions with their left arm # 0 # 10
+a person makes a swirling motion with their hand and then raises left arm to drinking position. # 0 # 10
+he is moving his left hand in round motion and then touched his head with the same hand. # 0 # 10

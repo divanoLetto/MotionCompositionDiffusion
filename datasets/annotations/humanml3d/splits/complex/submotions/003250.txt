@@ -1,2 +1,2 @@
-A person kicks with his right foot. # 0 # 2 # spine
-A person kicks with his left foot. # 2 # 5.25 # spine
+A person kicks with his right foot. # 0 # 2
+A person kicks with his left foot. # 2 # 5.25

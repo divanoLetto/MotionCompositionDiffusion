@@ -1,3 +1,3 @@
-a person jogs for a few steps, then slows to a walk for a few more steps. # 0 # 3.85 # spine
-a person initially running and decelerating to a walking pace. # 0 # 3.85 # spine
-a person runs and then they walk. # 0 # 3.85 # spine
+a person jogs for a few steps, then slows to a walk for a few more steps. # 0 # 3.85
+a person initially running and decelerating to a walking pace. # 0 # 3.85
+a person runs and then they walk. # 0 # 3.85

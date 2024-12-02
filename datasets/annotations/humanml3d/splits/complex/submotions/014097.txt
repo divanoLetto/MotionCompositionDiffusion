@@ -1,3 +1,3 @@
-A person bends their right arm and moves it back and forth several times while slightly leaning to the right. # 0 # 6 # spine
-A person kicks their left leg out while raising their right arm. # 6 # 10.0 # spine
-A person jumps to the side. # 8 # 10.0 # spine
+A person bends their right arm and moves it back and forth several times while slightly leaning to the right. # 0 # 6
+A person kicks their left leg out while raising their right arm. # 6 # 10.0
+A person jumps to the side. # 8 # 10.0

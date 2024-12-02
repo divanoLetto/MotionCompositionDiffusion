@@ -1,2 +1,2 @@
-A person throws a right upper-cut punch. # 0 # 1.65 # spine
-A person raises their right arm. # 1.5 # 2.15 # spine
+A person throws a right upper-cut punch. # 0 # 1.65
+A person raises their right arm. # 1.5 # 2.15

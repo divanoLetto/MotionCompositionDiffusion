@@ -1,1 +1,1 @@
-A person jumping with both feet. # 0 # 5.675 # spine
+A person jumping with both feet. # 0 # 5.675

@@ -1,2 +1,2 @@
-A person is throwing something with his right hand. # 0 # 5.075 # spine
-A person is stepping forward. # 0 # 5 # spine
+A person is throwing something with his right hand. # 0 # 5.075
+A person is stepping forward. # 0 # 5

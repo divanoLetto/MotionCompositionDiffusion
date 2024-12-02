@@ -1,4 +1,4 @@
-A person raises their arms to their chest. # 0 # 2 # spine
-A person steps back. # 2 # 2.942 # spine
-A person crosses their arms. # 0 # 2.942 # spine
-A person lowers their arms. # 0 # 2.942 # spine
+A person raises their arms to their chest. # 0 # 2
+A person steps back. # 2 # 2.942
+A person crosses their arms. # 0 # 2.942
+A person lowers their arms. # 0 # 2.942

@@ -1,2 +1,2 @@
-A person is spinning around. # 0 # 2 # spine
-A person holds their feet up in the air. # 2 # 6.45 # spine
+A person is spinning around. # 0 # 2
+A person holds their feet up in the air. # 2 # 6.45

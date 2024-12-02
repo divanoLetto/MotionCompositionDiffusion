@@ -1,2 +1,2 @@
-A person makes pantomime gestures with his hands. # 0 # 5 # spine
-A person moves their hands along a surface, searching. # 4 # 9.9 # spine
+A person makes pantomime gestures with his hands. # 0 # 5
+A person moves their hands along a surface, searching. # 4 # 9.9

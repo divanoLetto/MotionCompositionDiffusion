@@ -1,7 +1,7 @@
-A human takes a huge step backwards # 0 # 3.76 # spine
-Someone gets pushed on the left shoulder and compensates with # 0 # 3.76 # spine
-A human is pushed at the sholder and performs a sidestep to the back with the left foot # 0 # 3.76 # spine
-A person takes a backward recovery step after being pushed from the front. # 0 # 3.76 # spine
-a person gets pushed from the front and stumbles backwards # 0 # 3.76 # spine
-A person getting shoved backwards # 0 # 3.76 # spine
-Someone gets pushed and takes a step back. # 0 # 3.76 # spine
+A human takes a huge step backwards # 0 # 3.76
+Someone gets pushed on the left shoulder and compensates with # 0 # 3.76
+A human is pushed at the sholder and performs a sidestep to the back with the left foot # 0 # 3.76
+A person takes a backward recovery step after being pushed from the front. # 0 # 3.76
+a person gets pushed from the front and stumbles backwards # 0 # 3.76
+A person getting shoved backwards # 0 # 3.76
+Someone gets pushed and takes a step back. # 0 # 3.76

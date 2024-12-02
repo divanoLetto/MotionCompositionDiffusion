@@ -1,3 +1,3 @@
-a person picks up something with his right hand and walks forward. # 0 # 7.117 # spine
-the person motions as to pick up a bag or item from the floor with their right hand, and begins walking forward at a moderate pace # 0 # 7.117 # spine
-the right arm dips down along the side and back up, then body walks forward. # 0 # 7.117 # spine
+a person picks up something with his right hand and walks forward. # 0 # 7.117
+the person motions as to pick up a bag or item from the floor with their right hand, and begins walking forward at a moderate pace # 0 # 7.117
+the right arm dips down along the side and back up, then body walks forward. # 0 # 7.117

@@ -1,3 +1,3 @@
-a person feeling the back of their head. # 0 # 5.075 # spine
-a person scratching his head. # 0 # 5.075 # spine
-moves hand up and lets it stay up # 0 # 5.075 # spine
+a person feeling the back of their head. # 0 # 5.075
+a person scratching his head. # 0 # 5.075
+moves hand up and lets it stay up # 0 # 5.075

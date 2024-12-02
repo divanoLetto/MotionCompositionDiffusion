@@ -1,2 +1,2 @@
-A person holds something in both hands. # 0 # 2 # spine
-A person raises their right arm to throw something. # 2 # 6.525 # spine
+A person holds something in both hands. # 0 # 2
+A person raises their right arm to throw something. # 2 # 6.525

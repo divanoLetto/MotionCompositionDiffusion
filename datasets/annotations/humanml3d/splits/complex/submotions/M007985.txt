@@ -1,2 +1,2 @@
-A person raises both arms into the air. # 0 # 2 # spine
-A person makes a throwing motion with their right arm. # 2 # 10.0 # spine
+A person raises both arms into the air. # 0 # 2
+A person makes a throwing motion with their right arm. # 2 # 10.0

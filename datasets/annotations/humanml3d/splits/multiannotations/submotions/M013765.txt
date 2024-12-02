@@ -1,3 +1,3 @@
-a person moves around in a random fashion, trying to dodge something. # 0 # 10 # spine
-person is jumping around like he was in an accident. # 0 # 10 # spine
-a figure nearly falls then gets up, reeling, drunken seeming as though they're being hit by things # 0 # 10 # spine
+a person moves around in a random fashion, trying to dodge something. # 0 # 10
+person is jumping around like he was in an accident. # 0 # 10
+a figure nearly falls then gets up, reeling, drunken seeming as though they're being hit by things # 0 # 10

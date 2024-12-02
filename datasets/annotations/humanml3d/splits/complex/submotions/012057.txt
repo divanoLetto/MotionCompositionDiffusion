@@ -1,2 +1,2 @@
-A person raises both hands up and down. # 0 # 2 # spine
-A person moves their arms in a forward circular motion. # 1 # 2.73 # spine
+A person raises both hands up and down. # 0 # 2
+A person moves their arms in a forward circular motion. # 1 # 2.73

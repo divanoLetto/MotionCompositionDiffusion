@@ -1,1 +1,1 @@
-A human walks up and down over small platforms. # 0 # 10 # spine
+A human walks up and down over small platforms. # 0 # 10

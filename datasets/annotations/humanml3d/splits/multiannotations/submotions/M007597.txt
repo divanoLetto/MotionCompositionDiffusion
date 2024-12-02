@@ -1,3 +1,3 @@
-the figure raises its right arm and makes reaching motions as if grabbing for something, and then extends its arms twice. # 0 # 10 # spine
-a person uses reaching motion with left arm, and then brings hands to middle and extends arms outward and horizontally twice # 0 # 10 # spine
-standing reaching forward with one arm, then with both arm makes lateral motions widening arm span out then in # 0 # 10 # spine
+the figure raises its right arm and makes reaching motions as if grabbing for something, and then extends its arms twice. # 0 # 10
+a person uses reaching motion with left arm, and then brings hands to middle and extends arms outward and horizontally twice # 0 # 10
+standing reaching forward with one arm, then with both arm makes lateral motions widening arm span out then in # 0 # 10

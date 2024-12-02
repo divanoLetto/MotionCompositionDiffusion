@@ -1,2 +1,2 @@
-A person is spinning while moving to the left. # 0 # 4 # spine
-A person raises both arms out to the side. # 2 # 6.43 # spine
+A person is spinning while moving to the left. # 0 # 4
+A person raises both arms out to the side. # 2 # 6.43

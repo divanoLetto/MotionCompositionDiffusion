@@ -1,2 +1,2 @@
-A person is moving around on the ground. # 0 # 5 # spine
-A person raises both arms overhead. # 5 # 8.832999999999998 # spine
+A person is moving around on the ground. # 0 # 5
+A person raises both arms overhead. # 5 # 8.832999999999998

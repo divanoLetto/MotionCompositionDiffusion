@@ -1,3 +1,3 @@
-someone steps back with their right foot and then sits down while placing his hands on his knees with elbows out. # 0 # 10 # spine
-the person has their arms out horizontally, drops their arms while taking two steps back, then sits down and places their hands on their knees. # 0 # 10 # spine
-a person backs up and then sits down placing hands on legs. # 0 # 10 # spine
+someone steps back with their right foot and then sits down while placing his hands on his knees with elbows out. # 0 # 10
+the person has their arms out horizontally, drops their arms while taking two steps back, then sits down and places their hands on their knees. # 0 # 10
+a person backs up and then sits down placing hands on legs. # 0 # 10

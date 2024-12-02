@@ -1,3 +1,3 @@
-a person, walked forward by changing direcion into right and left # 0 # 6.65 # spine
-a man walks slowly forwards, stepping widely to the right and left. # 0 # 6.65 # spine
-this person stumbles right and left while moving forward. # 0 # 6.65 # spine
+a person, walked forward by changing direcion into right and left # 0 # 6.65
+a man walks slowly forwards, stepping widely to the right and left. # 0 # 6.65
+this person stumbles right and left while moving forward. # 0 # 6.65

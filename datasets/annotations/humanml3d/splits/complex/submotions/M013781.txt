@@ -1,3 +1,3 @@
-A person rocks back and forth while holding something with both hands. # 0 # 3 # spine
-A person shrugs their shoulders. # 2 # 5 # spine
-A person waves with their right hand. # 4 # 9.0 # spine
+A person rocks back and forth while holding something with both hands. # 0 # 3
+A person shrugs their shoulders. # 2 # 5
+A person waves with their right hand. # 4 # 9.0

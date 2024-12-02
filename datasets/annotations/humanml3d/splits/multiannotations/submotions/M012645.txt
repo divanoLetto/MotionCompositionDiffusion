@@ -1,3 +1,3 @@
-a person looks around, steps back, then runs forward while throwing an object. # 0 # 10 # spine
-person takes a few steps backward, and then winds arm back to run forward and throw something and then walk backward a few steps # 0 # 10 # spine
-this person steps back then quickly jumps forward while throwing and then steps back. # 0 # 10 # spine
+a person looks around, steps back, then runs forward while throwing an object. # 0 # 10
+person takes a few steps backward, and then winds arm back to run forward and throw something and then walk backward a few steps # 0 # 10
+this person steps back then quickly jumps forward while throwing and then steps back. # 0 # 10

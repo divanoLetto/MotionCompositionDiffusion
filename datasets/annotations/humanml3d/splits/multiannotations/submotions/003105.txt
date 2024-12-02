@@ -1,3 +1,3 @@
-a person standing up and greeting someone with a respectful hand to forehead gesture. # 0 # 10 # spine
-a person is standing relaxed, then stiffens up and salutes with their right hand before relaxing again. # 0 # 10 # spine
-person is carefully scratching their head or ear. # 0 # 10 # spine
+a person standing up and greeting someone with a respectful hand to forehead gesture. # 0 # 10
+a person is standing relaxed, then stiffens up and salutes with their right hand before relaxing again. # 0 # 10
+person is carefully scratching their head or ear. # 0 # 10

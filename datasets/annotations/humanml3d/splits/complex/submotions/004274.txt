@@ -1,4 +1,4 @@
-A person bounces a ball with both hands. # 0 # 2 # spine
-A person raises their right arm. # 1 # 3 # spine
-A person is bouncing up and down lightly. # 2 # 4 # spine
-A person continues to bounce the ball. # 3 # 10.0 # spine
+A person bounces a ball with both hands. # 0 # 2
+A person raises their right arm. # 1 # 3
+A person is bouncing up and down lightly. # 2 # 4
+A person continues to bounce the ball. # 3 # 10.0

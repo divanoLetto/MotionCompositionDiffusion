@@ -1,3 +1,3 @@
-a person picks something up on the right and sets it down on the left. # 0 # 4.72 # spine
-a person lifts something with both hands, moves it to his left and sets it down. # 0 # 4.72 # spine
-a man picks up an object with both of his hands on his left side and then places it down on his right side. # 0 # 4.72 # spine
+a person picks something up on the right and sets it down on the left. # 0 # 4.72
+a person lifts something with both hands, moves it to his left and sets it down. # 0 # 4.72
+a man picks up an object with both of his hands on his left side and then places it down on his right side. # 0 # 4.72

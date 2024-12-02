@@ -1,2 +1,2 @@
-A human walking forwards # 0 # 7.25 # spine
-a person walks forward # 0 # 7.25 # spine
+A human walking forwards # 0 # 7.25
+a person walks forward # 0 # 7.25

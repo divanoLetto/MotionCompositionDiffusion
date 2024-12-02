@@ -1,2 +1,2 @@
-A person walks up a few stairs. # 0 # 6 # spine
-A person shifts his weight from his left foot to his right foot as he throws something with his right hand. # 6 # 10.0 # spine
+A person walks up a few stairs. # 0 # 6
+A person shifts his weight from his left foot to his right foot as he throws something with his right hand. # 6 # 10.0

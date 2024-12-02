@@ -1,1 +1,1 @@
-A person walks down a slope in the forward direction. # 0 # 6.3 # spine
+A person walks down a slope in the forward direction. # 0 # 6.3

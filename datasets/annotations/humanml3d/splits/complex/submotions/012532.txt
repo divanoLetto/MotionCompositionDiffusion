@@ -1,5 +1,5 @@
-A person walks forward slowly. # 0 # 2 # spine
-A person walks forward, then stops. # 2 # 4 # spine
-A person walks forward and swings their arms. # 4 # 6 # spine
-A person walks forward, then turns to the left. # 6 # 8 # spine
-A person walks forward and appears to be cautious. # 8 # 10.0 # spine
+A person walks forward slowly. # 0 # 2
+A person walks forward, then stops. # 2 # 4
+A person walks forward and swings their arms. # 4 # 6
+A person walks forward, then turns to the left. # 6 # 8
+A person walks forward and appears to be cautious. # 8 # 10.0

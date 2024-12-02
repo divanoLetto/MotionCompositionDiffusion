@@ -1,4 +1,4 @@
-A person walks forward slowly. # 0 # 3 # spine
-A person takes a step forward. # 2 # 5 # spine
-A person prepares to kick with their right leg. # 4 # 7 # spine
-A person kicks with their right leg. # 6 # 10.0 # spine
+A person walks forward slowly. # 0 # 3
+A person takes a step forward. # 2 # 5
+A person prepares to kick with their right leg. # 4 # 7
+A person kicks with their right leg. # 6 # 10.0

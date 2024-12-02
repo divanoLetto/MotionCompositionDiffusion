@@ -1,3 +1,3 @@
-person is throwing a ball hard. # 0 # 4.708 # spine
-a person throws an object with their right hand # 0 # 4.708 # spine
-the person performs a throw with his right arm # 0 # 4.708 # spine
+person is throwing a ball hard. # 0 # 4.708
+a person throws an object with their right hand # 0 # 4.708
+the person performs a throw with his right arm # 0 # 4.708

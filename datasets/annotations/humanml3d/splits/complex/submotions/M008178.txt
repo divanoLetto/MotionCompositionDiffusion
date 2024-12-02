@@ -1,2 +1,2 @@
-A person swings his left arm. # 0 # 6 # spine
-A person bends on the knees. # 4 # 10.0 # spine
+A person swings his left arm. # 0 # 6
+A person bends on the knees. # 4 # 10.0

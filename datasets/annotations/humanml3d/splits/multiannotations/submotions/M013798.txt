@@ -1,3 +1,3 @@
-a person is walkinf slow in a straight line # 0 # 7.24 # spine
-the person is walking very slow # 0 # 7.24 # spine
-a person is walking very slowly forward. # 0 # 7.24 # spine
+a person is walkinf slow in a straight line # 0 # 7.24
+the person is walking very slow # 0 # 7.24
+a person is walking very slowly forward. # 0 # 7.24

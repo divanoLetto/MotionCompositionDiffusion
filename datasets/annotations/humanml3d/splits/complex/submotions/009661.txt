@@ -1,2 +1,2 @@
-A person steps forward to kick a ball. # 0 # 5.25 # spine
-A person kicks something with their right foot. # 4 # 10.0 # spine
+A person steps forward to kick a ball. # 0 # 5.25
+A person kicks something with their right foot. # 4 # 10.0

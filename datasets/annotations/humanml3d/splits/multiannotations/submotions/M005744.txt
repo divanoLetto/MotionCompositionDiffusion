@@ -1,3 +1,3 @@
-man stands straight up with his hands out in front of him and creates a patting motion in the air continuously. # 0 # 10 # spine
-a person's elbows are slightly bent, hands in front of the body and are moving back and forth along a steady plane. # 0 # 10 # spine
-a man moves around objects with both his hands. # 0 # 10 # spine
+man stands straight up with his hands out in front of him and creates a patting motion in the air continuously. # 0 # 10
+a person's elbows are slightly bent, hands in front of the body and are moving back and forth along a steady plane. # 0 # 10
+a man moves around objects with both his hands. # 0 # 10

@@ -1,2 +1,2 @@
-A person raises their right arm. # 0 # 3 # spine
-A person performs a stirring motion with their right arm. # 2 # 6.63 # spine
+A person raises their right arm. # 0 # 3
+A person performs a stirring motion with their right arm. # 2 # 6.63

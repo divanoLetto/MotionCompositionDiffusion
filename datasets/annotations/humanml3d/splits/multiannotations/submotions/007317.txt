@@ -1,3 +1,3 @@
-a person raises their right hand above their head. # 0 # 1.65 # spine
-the person stretches their right arm above their head. # 0 # 1.65 # spine
-stick figure is holding its right rm up in the air # 0 # 1.65 # spine
+a person raises their right hand above their head. # 0 # 1.65
+the person stretches their right arm above their head. # 0 # 1.65
+stick figure is holding its right rm up in the air # 0 # 1.65

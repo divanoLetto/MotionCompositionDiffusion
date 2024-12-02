@@ -1,3 +1,3 @@
-someone execures a roundhouse kick with their left foot. # 0 # 2.758 # spine
-hands in fighting position while the left foot kicks aggressively up and over. # 0 # 2.758 # spine
-a person stands right leg forward in a karate pose, leans forward and makes a high karate kick with their left leg and returns to the karate pose. # 0 # 2.758 # spine
+someone execures a roundhouse kick with their left foot. # 0 # 2.758
+hands in fighting position while the left foot kicks aggressively up and over. # 0 # 2.758
+a person stands right leg forward in a karate pose, leans forward and makes a high karate kick with their left leg and returns to the karate pose. # 0 # 2.758

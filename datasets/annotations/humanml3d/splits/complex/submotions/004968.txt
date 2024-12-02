@@ -1,3 +1,3 @@
-A person holds their right arm out in front of them. # 0 # 2 # spine
-A person pushes with their right arm. # 2 # 4 # spine
-A person holds both arms in a boxing pose. # 4 # 4.908 # spine
+A person holds their right arm out in front of them. # 0 # 2
+A person pushes with their right arm. # 2 # 4
+A person holds both arms in a boxing pose. # 4 # 4.908

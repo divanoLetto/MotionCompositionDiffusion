@@ -1,3 +1,3 @@
-a man is crossing his arms in front of him and then swings them side to side and then up and down. # 0 # 10 # spine
-person stands still then moves arms side to side front to back then infront # 0 # 10 # spine
-the man stretches his arms then jumps several small hops backwards. # 0 # 10 # spine
+a man is crossing his arms in front of him and then swings them side to side and then up and down. # 0 # 10
+person stands still then moves arms side to side front to back then infront # 0 # 10
+the man stretches his arms then jumps several small hops backwards. # 0 # 10

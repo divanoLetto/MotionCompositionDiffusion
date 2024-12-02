@@ -1,4 +1,4 @@
-A person stands with their arms out to the side. # 0 # 2 # spine
-A person swings their right arm forward. # 1 # 4 # spine
-A person swings their left arm forward. # 3 # 6 # spine
-A person raises both arms above their head. # 5 # 8.61 # spine
+A person stands with their arms out to the side. # 0 # 2
+A person swings their right arm forward. # 1 # 4
+A person swings their left arm forward. # 3 # 6
+A person raises both arms above their head. # 5 # 8.61

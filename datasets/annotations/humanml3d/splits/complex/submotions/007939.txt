@@ -1,2 +1,2 @@
-A person is moving their hips repeatedly to the right and left. # 0 # 2.65 # spine
-A person raises their hands above their head and waves. # 0 # 2.65 # spine
+A person is moving their hips repeatedly to the right and left. # 0 # 2.65
+A person raises their hands above their head and waves. # 0 # 2.65

@@ -1,3 +1,3 @@
-starting with their left foot a person walks quickly forward. # 0 # 4.52 # spine
-a person doing a fast walk forward # 0 # 4.52 # spine
-someone starts off doing a walk, and then stops # 0 # 4.52 # spine
+starting with their left foot a person walks quickly forward. # 0 # 4.52
+a person doing a fast walk forward # 0 # 4.52
+someone starts off doing a walk, and then stops # 0 # 4.52

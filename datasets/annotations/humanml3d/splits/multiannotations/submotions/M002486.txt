@@ -1,3 +1,3 @@
-a person is walking forwards, but stumbles and steps back, then carries on forward. # 0 # 10 # spine
-a person makes stiff staggering motions forward. # 0 # 10 # spine
-the person is walking slowly or actingl ike a zombie. # 0 # 10 # spine
+a person is walking forwards, but stumbles and steps back, then carries on forward. # 0 # 10
+a person makes stiff staggering motions forward. # 0 # 10
+the person is walking slowly or actingl ike a zombie. # 0 # 10

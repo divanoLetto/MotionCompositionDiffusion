@@ -1,4 +1,4 @@
-Person walking backwards # 0 # 5.1 # spine
-human goes backwards starting with left # 0 # 5.1 # spine
-A person is walking backwards. # 0 # 5.1 # spine
-a person walks backwards # 0 # 5.1 # spine
+Person walking backwards # 0 # 5.1
+human goes backwards starting with left # 0 # 5.1
+A person is walking backwards. # 0 # 5.1
+a person walks backwards # 0 # 5.1

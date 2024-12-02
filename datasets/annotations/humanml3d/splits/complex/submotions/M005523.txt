@@ -1,3 +1,3 @@
-A person holds something at chest level with both hands. # 0 # 3.91 # spine
-A person leans back while holding something with both hands. # 0 # 3.91 # spine
-A person stands up straight after leaning back. # 2 # 3.91 # spine
+A person holds something at chest level with both hands. # 0 # 3.91
+A person leans back while holding something with both hands. # 0 # 3.91
+A person stands up straight after leaning back. # 2 # 3.91

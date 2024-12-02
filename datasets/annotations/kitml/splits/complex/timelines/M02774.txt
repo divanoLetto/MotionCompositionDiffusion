@@ -1,2 +1,2 @@
-A person walks forward casually. # 0 # 6 # spine
-A person dances while moving their hips. # 4 # 10 # spine
+A person walks forward casually. # 0 # 6
+A person dances while moving their hips. # 4 # 10

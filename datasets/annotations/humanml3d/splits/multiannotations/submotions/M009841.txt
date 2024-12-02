@@ -1,3 +1,3 @@
-a person leaning forward slightly holding one wrist with the other hand slight sway in upper torso # 0 # 4.942 # spine
-a man leans forward while swinging his clasped hands in front of him. # 0 # 4.942 # spine
-a figure seems to be playing golf and preparing to golf swing # 0 # 4.942 # spine
+a person leaning forward slightly holding one wrist with the other hand slight sway in upper torso # 0 # 4.942
+a man leans forward while swinging his clasped hands in front of him. # 0 # 4.942
+a figure seems to be playing golf and preparing to golf swing # 0 # 4.942

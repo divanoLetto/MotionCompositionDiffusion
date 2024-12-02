@@ -1,3 +1,3 @@
-he is stretching his arm then moving it # 0 # 10 # spine
-a person has both arms spread out and starts walking in a circle. # 0 # 10 # spine
-arms outstretched, a person moves hands toward their armpits; walks in a circle keeping knees apart and then repeats the arm motion. # 0 # 10 # spine
+he is stretching his arm then moving it # 0 # 10
+a person has both arms spread out and starts walking in a circle. # 0 # 10
+arms outstretched, a person moves hands toward their armpits; walks in a circle keeping knees apart and then repeats the arm motion. # 0 # 10

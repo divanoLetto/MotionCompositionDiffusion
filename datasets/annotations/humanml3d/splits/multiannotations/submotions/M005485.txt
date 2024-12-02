@@ -1,3 +1,3 @@
-a man is walking forward # 0 # 6.658 # spine
-stick figure bends over picks somthing up then starts walking forward # 0 # 6.658 # spine
-a person touches something low to the ground using their left hand, then walks forward. # 0 # 6.658 # spine
+a man is walking forward # 0 # 6.658
+stick figure bends over picks somthing up then starts walking forward # 0 # 6.658
+a person touches something low to the ground using their left hand, then walks forward. # 0 # 6.658

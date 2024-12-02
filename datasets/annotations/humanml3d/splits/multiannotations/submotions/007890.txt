@@ -1,3 +1,3 @@
-a person glides in circles in a counter-clockwise. # 0 # 10 # spine
-a person appears to be ice skating. # 0 # 10 # spine
-the person is ice-skating backwards # 0 # 10 # spine
+a person glides in circles in a counter-clockwise. # 0 # 10
+a person appears to be ice skating. # 0 # 10
+the person is ice-skating backwards # 0 # 10

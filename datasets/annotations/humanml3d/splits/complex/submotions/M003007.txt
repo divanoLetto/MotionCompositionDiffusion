@@ -1,4 +1,4 @@
-A person does a cartwheel. # 0 # 2 # spine
-A person spins around. # 2 # 4 # spine
-A person does another cartwheel. # 4 # 6 # spine
-A person jumps and lands. # 6 # 7.375 # spine
+A person does a cartwheel. # 0 # 2
+A person spins around. # 2 # 4
+A person does another cartwheel. # 4 # 6
+A person jumps and lands. # 6 # 7.375

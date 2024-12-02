@@ -1,1 +1,1 @@
-A person turns slowly around # 0 # 10 # spine
+A person turns slowly around # 0 # 10

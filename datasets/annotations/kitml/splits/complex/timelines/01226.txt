@@ -1,3 +1,3 @@
-A person holds his arms on the height of his shoulders. # 0 # 10 # spine
-A person performs a sidestep to the left. # 0 # 4.0 # spine
-A person performs a sidestep to the right. # 4.0 # 8.0 # spine
+A person holds his arms on the height of his shoulders. # 0 # 10
+A person performs a sidestep to the left. # 0 # 4.0
+A person performs a sidestep to the right. # 4.0 # 8.0

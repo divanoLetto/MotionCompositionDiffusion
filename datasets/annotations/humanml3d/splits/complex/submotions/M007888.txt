@@ -1,2 +1,2 @@
-A person is doing a throwing motion with their right arm. # 0 # 2 # spine
-A person is jumping in the air with both arms parallel above their head. # 0 # 3.733 # spine
+A person is doing a throwing motion with their right arm. # 0 # 2
+A person is jumping in the air with both arms parallel above their head. # 0 # 3.733

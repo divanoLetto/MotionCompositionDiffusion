@@ -1,2 +1,2 @@
-A person raises their right arm up near shoulder height. # 0 # 2 # spine
-A person holds their left arm out while strumming up and down with their right arm. # 2 # 5.19 # spine
+A person raises their right arm up near shoulder height. # 0 # 2
+A person holds their left arm out while strumming up and down with their right arm. # 2 # 5.19

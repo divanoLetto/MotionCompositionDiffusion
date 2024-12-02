@@ -1,3 +1,3 @@
-A man is standing with his arms out to the side. # 0 # 3 # spine
-A man moves his arms up and down as if playing a violin. # 2 # 5 # spine
-A man lowers his arms. # 5 # 7.84 # spine
+A man is standing with his arms out to the side. # 0 # 3
+A man moves his arms up and down as if playing a violin. # 2 # 5
+A man lowers his arms. # 5 # 7.84

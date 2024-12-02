@@ -1,3 +1,3 @@
-a person who is standing does four weight lifting arm curls with his left arm. # 0 # 10 # spine
-a person lifts a weight with left hand. # 0 # 10 # spine
-the person is lifting weights with his left arm. # 0 # 10 # spine
+a person who is standing does four weight lifting arm curls with his left arm. # 0 # 10
+a person lifts a weight with left hand. # 0 # 10
+the person is lifting weights with his left arm. # 0 # 10

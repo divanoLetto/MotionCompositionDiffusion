@@ -1,6 +1,6 @@
-Somesone walks forward and makes a U-turn # 0 # 5.68 # spine
-A human is performing a tight 180 degree curve on the right foot # 0 # 5.68 # spine
-a person walks forward takes a 180 degree turn to the right and walks some more steps # 0 # 5.68 # spine
-A person turns around while walking # 0 # 5.68 # spine
-A person turns with his right foot. # 0 # 5.68 # spine
-human goes forward and turns around partway # 0 # 5.68 # spine
+Somesone walks forward and makes a U-turn # 0 # 5.68
+A human is performing a tight 180 degree curve on the right foot # 0 # 5.68
+a person walks forward takes a 180 degree turn to the right and walks some more steps # 0 # 5.68
+A person turns around while walking # 0 # 5.68
+A person turns with his right foot. # 0 # 5.68
+human goes forward and turns around partway # 0 # 5.68

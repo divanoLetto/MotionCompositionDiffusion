@@ -1,1 +1,1 @@
-A person is making a jump forward with both feet. # 0 # 3.708 # spine
+A person is making a jump forward with both feet. # 0 # 3.708

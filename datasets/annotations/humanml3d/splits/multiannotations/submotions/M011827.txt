@@ -1,3 +1,3 @@
-a person bends down, picks something up, sticks it in the ground and rotates it. # 0 # 10 # spine
-the toon is crouched down on one knee, stands up shuffles, raising both hands in front of them while walking to the end of the plane & turning around. # 0 # 10 # spine
-the person was kneeling and then stood up carrying something. # 0 # 10 # spine
+a person bends down, picks something up, sticks it in the ground and rotates it. # 0 # 10
+the toon is crouched down on one knee, stands up shuffles, raising both hands in front of them while walking to the end of the plane & turning around. # 0 # 10
+the person was kneeling and then stood up carrying something. # 0 # 10

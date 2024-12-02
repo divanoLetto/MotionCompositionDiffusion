@@ -1,4 +1,4 @@
-A person lifts their right arm. # 0 # 3 # spine
-A person pivots slightly to the left. # 2 # 5 # spine
-A person throws something with their right hand. # 4 # 6.808 # spine
-A person reaches out with both hands. # 5 # 6 # spine
+A person lifts their right arm. # 0 # 3
+A person pivots slightly to the left. # 2 # 5
+A person throws something with their right hand. # 4 # 6.808
+A person reaches out with both hands. # 5 # 6

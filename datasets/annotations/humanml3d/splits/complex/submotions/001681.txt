@@ -1,2 +1,2 @@
-A person raises their left arm in a throwing position. # 0 # 3 # spine
-A person throws something with their left arm. # 2 # 9.8 # spine
+A person raises their left arm in a throwing position. # 0 # 3
+A person throws something with their left arm. # 2 # 9.8

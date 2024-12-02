@@ -1,3 +1,3 @@
-the person is making an arm and hand gesture. # 0 # 10 # spine
-a man raises their right arm, sets it down, raises its right arm again, then sets it down, then raises it left arm. # 0 # 10 # spine
-a person puts his right hand in the air and then his left. # 0 # 10 # spine
+the person is making an arm and hand gesture. # 0 # 10
+a man raises their right arm, sets it down, raises its right arm again, then sets it down, then raises it left arm. # 0 # 10
+a person puts his right hand in the air and then his left. # 0 # 10

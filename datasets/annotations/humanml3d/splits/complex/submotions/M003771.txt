@@ -1,4 +1,4 @@
-A person stands in a fighting position. # 0 # 3 # spine
-A person raises both arms to shoulder height. # 2 # 5 # spine
-A person throws punches with their right hand. # 4 # 7 # spine
-A person steps forward while throwing punches. # 6 # 10 # spine
+A person stands in a fighting position. # 0 # 3
+A person raises both arms to shoulder height. # 2 # 5
+A person throws punches with their right hand. # 4 # 7
+A person steps forward while throwing punches. # 6 # 10

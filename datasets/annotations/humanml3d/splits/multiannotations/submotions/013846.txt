@@ -1,3 +1,3 @@
-a person using the right arm to reach for something. # 0 # 2.525 # spine
-a person put his right hand on someone's shoulder # 0 # 2.525 # spine
-a person steps forward and puts their hand up. # 0 # 2.525 # spine
+a person using the right arm to reach for something. # 0 # 2.525
+a person put his right hand on someone's shoulder # 0 # 2.525
+a person steps forward and puts their hand up. # 0 # 2.525

@@ -1,1 +1,1 @@
-A person performs a punching motion. # 0 # 4.74 # spine
+A person performs a punching motion. # 0 # 4.74

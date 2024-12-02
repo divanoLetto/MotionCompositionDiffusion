@@ -1,6 +1,6 @@
-Person kicking with the right foot # 0 # 6.65 # spine
-human performs a low kick with right leg # 0 # 6.65 # spine
-A person kicking belly high in front of him while holding up his arms in defense. # 0 # 6.65 # spine
-A person performs a kick. # 0 # 6.65 # spine
-a person kicks something in front of it with its right foot # 0 # 6.65 # spine
-Somebody kicks something with his right foot. # 0 # 6.65 # spine
+Person kicking with the right foot # 0 # 6.65
+human performs a low kick with right leg # 0 # 6.65
+A person kicking belly high in front of him while holding up his arms in defense. # 0 # 6.65
+A person performs a kick. # 0 # 6.65
+a person kicks something in front of it with its right foot # 0 # 6.65
+Somebody kicks something with his right foot. # 0 # 6.65

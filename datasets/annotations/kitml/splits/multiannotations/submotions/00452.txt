@@ -1,3 +1,3 @@
-the person is shortly running to the front # 0 # 4.37 # spine
-a person jogs forwards # 0 # 4.37 # spine
-A person runs 4 steps and stops # 0 # 4.37 # spine
+the person is shortly running to the front # 0 # 4.37
+a person jogs forwards # 0 # 4.37
+A person runs 4 steps and stops # 0 # 4.37

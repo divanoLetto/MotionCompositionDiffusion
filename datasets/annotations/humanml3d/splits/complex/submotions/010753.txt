@@ -1,3 +1,3 @@
-A person turns their body to the right. # 0 # 2 # spine
-A person moves their left hand to meet their right hand. # 1 # 4 # spine
-A person lifts their left leg slightly. # 3 # 5.52 # spine
+A person turns their body to the right. # 0 # 2
+A person moves their left hand to meet their right hand. # 1 # 4
+A person lifts their left leg slightly. # 3 # 5.52

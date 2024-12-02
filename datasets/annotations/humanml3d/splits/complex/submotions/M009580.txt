@@ -1,2 +1,2 @@
-A person holds their hands together.  # 0 # 2.5 # spine
-A person moves their arms as if tapping on something.  # 2 # 10 # spine
+A person holds their hands together.  # 0 # 2.5
+A person moves their arms as if tapping on something.  # 2 # 10

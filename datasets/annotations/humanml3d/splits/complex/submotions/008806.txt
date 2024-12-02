@@ -1,2 +1,2 @@
-A person holds a violin with their left hand. # 0 # 3 # spine
-A person moves their left hand in a circular motion. # 3 # 6.67 # spine
+A person holds a violin with their left hand. # 0 # 3
+A person moves their left hand in a circular motion. # 3 # 6.67

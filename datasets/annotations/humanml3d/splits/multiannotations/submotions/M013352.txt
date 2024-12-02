@@ -1,3 +1,3 @@
-a person slowly walked forward in left direction # 0 # 4.47 # spine
-a person bends to the left # 0 # 4.47 # spine
-the person is walking towards the left. # 0 # 4.47 # spine
+a person slowly walked forward in left direction # 0 # 4.47
+a person bends to the left # 0 # 4.47
+the person is walking towards the left. # 0 # 4.47

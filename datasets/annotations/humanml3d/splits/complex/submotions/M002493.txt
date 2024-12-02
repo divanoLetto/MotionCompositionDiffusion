@@ -1,2 +1,2 @@
-A person is dancing using both legs. # 0 # 2 # spine
-A person raises their arms while dancing. # 1 # 2.608 # spine
+A person is dancing using both legs. # 0 # 2
+A person raises their arms while dancing. # 1 # 2.608

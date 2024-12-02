@@ -1,3 +1,3 @@
-the man slowly walks forward and then suddenly turned left. # 0 # 10 # spine
-a person slides foot to the right and then walks in a circle. # 0 # 10 # spine
-this person shuffles right then walks forward and circles back. # 0 # 10 # spine
+the man slowly walks forward and then suddenly turned left. # 0 # 10
+a person slides foot to the right and then walks in a circle. # 0 # 10
+this person shuffles right then walks forward and circles back. # 0 # 10

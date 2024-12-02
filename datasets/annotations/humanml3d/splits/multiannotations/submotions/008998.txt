@@ -1,3 +1,3 @@
-the person did a kick spin to the right # 0 # 3.167 # spine
-a person does a spinning kick in an anticlockwise direction and ends up in a fighting pose # 0 # 3.167 # spine
-a person does a round house kick # 0 # 3.167 # spine
+the person did a kick spin to the right # 0 # 3.167
+a person does a spinning kick in an anticlockwise direction and ends up in a fighting pose # 0 # 3.167
+a person does a round house kick # 0 # 3.167

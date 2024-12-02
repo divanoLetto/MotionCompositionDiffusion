@@ -1,3 +1,3 @@
-a person is standing and moves arms in a way that looks like they are picking something up and taking a drink or a bite # 0 # 6.65 # spine
-moving hands side to side. # 0 # 6.65 # spine
-person opens a drink, takes a sip, and walks backward # 0 # 6.65 # spine
+a person is standing and moves arms in a way that looks like they are picking something up and taking a drink or a bite # 0 # 6.65
+moving hands side to side. # 0 # 6.65
+person opens a drink, takes a sip, and walks backward # 0 # 6.65

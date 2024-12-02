@@ -1,4 +1,4 @@
-A person stands with their arms raised.  # 0 # 3 # spine
-A person swings their arms back and forth.  # 2 # 5 # spine
-A person moves their right arm forward.  # 4 # 7 # spine
-A person steps forward while swinging their arms.  # 6 # 10 # spine
+A person stands with their arms raised.  # 0 # 3
+A person swings their arms back and forth.  # 2 # 5
+A person moves their right arm forward.  # 4 # 7
+A person steps forward while swinging their arms.  # 6 # 10

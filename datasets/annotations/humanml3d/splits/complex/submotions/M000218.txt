@@ -1,4 +1,4 @@
-A person raises their arms either side and straight outwards. # 0 # 3 # spine
-A person moves their hands around in a circular motion. # 2 # 5 # spine
-A person does a jump twirl. # 4 # 9.925 # spine
-A person kicks with their left leg. # 6 # 9.925 # spine
+A person raises their arms either side and straight outwards. # 0 # 3
+A person moves their hands around in a circular motion. # 2 # 5
+A person does a jump twirl. # 4 # 9.925
+A person kicks with their left leg. # 6 # 9.925

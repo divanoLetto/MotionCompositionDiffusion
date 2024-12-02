@@ -1,3 +1,3 @@
-a person balances on one foot while moving their other, and then switches. # 0 # 10 # spine
-the person did an ankle twist with his left foot and then did an ankle twist with his right foot. # 0 # 10 # spine
-a person balances on one leg and shakes their foot and then swaps. # 0 # 10 # spine
+a person balances on one foot while moving their other, and then switches. # 0 # 10
+the person did an ankle twist with his left foot and then did an ankle twist with his right foot. # 0 # 10
+a person balances on one leg and shakes their foot and then swaps. # 0 # 10

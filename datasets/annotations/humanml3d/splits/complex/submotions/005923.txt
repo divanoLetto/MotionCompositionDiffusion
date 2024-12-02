@@ -1,2 +1,2 @@
-A person kicks with his right leg. # 0 # 2 # spine
-A person kicks something with their left leg. # 2 # 3.342 # spine
+A person kicks with his right leg. # 0 # 2
+A person kicks something with their left leg. # 2 # 3.342

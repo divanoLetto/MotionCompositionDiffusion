@@ -1,3 +1,3 @@
-A person with arms raised, places them down. # 0 # 4 # spine
-The person moves his right hand forward. # 3 # 7 # spine
-The person moves his right hand in a circular motion. # 6 # 10.0 # spine
+A person with arms raised, places them down. # 0 # 4
+The person moves his right hand forward. # 3 # 7
+The person moves his right hand in a circular motion. # 6 # 10.0

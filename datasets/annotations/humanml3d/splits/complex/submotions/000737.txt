@@ -1,2 +1,2 @@
-a person moves their hips repeatedly to the left and right. # 0 # 4.45 # spine
-a person walks forward, then turns their torso to the right. # 3 # 10.0 # spine
+a person moves their hips repeatedly to the left and right. # 0 # 4.45
+a person walks forward, then turns their torso to the right. # 3 # 10.0

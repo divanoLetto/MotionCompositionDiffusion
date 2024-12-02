@@ -1,3 +1,3 @@
-the figure curls its arms outwards from its chest, it lowers its arms in the motion towards its groin and then raises them upwards at head level. # 0 # 10 # spine
-a person leans and sways while their hands are propped up imitating claws of an animal. # 0 # 10 # spine
-a man outstretches both arms, brings them toward his torso and slouches over. he then stands straight up and tilts his upper body to the right. # 0 # 10 # spine
+the figure curls its arms outwards from its chest, it lowers its arms in the motion towards its groin and then raises them upwards at head level. # 0 # 10
+a person leans and sways while their hands are propped up imitating claws of an animal. # 0 # 10
+a man outstretches both arms, brings them toward his torso and slouches over. he then stands straight up and tilts his upper body to the right. # 0 # 10

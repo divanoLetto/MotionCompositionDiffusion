@@ -1,4 +1,4 @@
-A person walks backward. # 0 # 3 # spine
-A person walks forward. # 2 # 5 # spine
-A person turns clockwise. # 4 # 10 # spine
-A person walks backward. # 8 # 10 # spine
+A person walks backward. # 0 # 3
+A person walks forward. # 2 # 5
+A person turns clockwise. # 4 # 10
+A person walks backward. # 8 # 10

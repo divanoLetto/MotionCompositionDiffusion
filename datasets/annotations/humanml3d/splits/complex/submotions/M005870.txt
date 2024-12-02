@@ -1,2 +1,2 @@
-A person raises their left arm to throw something. # 0 # 2 # spine
-A person throws something with their left hand. # 2 # 3.0 # spine
+A person raises their left arm to throw something. # 0 # 2
+A person throws something with their left hand. # 2 # 3.0

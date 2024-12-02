@@ -1,2 +1,2 @@
-A person raises their arms to the side as if playing an instrument. # 0 # 3 # spine
-A person moves their right arm up and down in a rhythmic motion. # 2 # 8.88 # spine
+A person raises their arms to the side as if playing an instrument. # 0 # 3
+A person moves their right arm up and down in a rhythmic motion. # 2 # 8.88

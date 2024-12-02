@@ -1,1 +1,1 @@
-A person is doing a swing movement like hitting a ball with a golf club. # 0 # 3.767 # spine
+A person is doing a swing movement like hitting a ball with a golf club. # 0 # 3.767

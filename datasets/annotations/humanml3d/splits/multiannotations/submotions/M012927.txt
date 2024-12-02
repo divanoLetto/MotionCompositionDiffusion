@@ -1,3 +1,3 @@
-a person throws with left hand. # 0 # 2.5 # spine
-person moving arm in up motion # 0 # 2.5 # spine
-a person stretches their left shoulder back and fourth. # 0 # 2.5 # spine
+a person throws with left hand. # 0 # 2.5
+person moving arm in up motion # 0 # 2.5
+a person stretches their left shoulder back and fourth. # 0 # 2.5

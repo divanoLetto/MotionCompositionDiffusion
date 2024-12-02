@@ -1,3 +1,3 @@
-a person jogs on the spot, then stands still # 0 # 2.742 # spine
-a person goes into a short jog before stopping. # 0 # 2.742 # spine
-a person jogs forward with arms moving to his side. # 0 # 2.742 # spine
+a person jogs on the spot, then stands still # 0 # 2.742
+a person goes into a short jog before stopping. # 0 # 2.742
+a person jogs forward with arms moving to his side. # 0 # 2.742

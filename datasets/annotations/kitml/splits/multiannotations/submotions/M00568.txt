@@ -1,1 +1,1 @@
-Subject walks in a quarter circle counterclockwise. # 0 # 5.28 # spine
+Subject walks in a quarter circle counterclockwise. # 0 # 5.28

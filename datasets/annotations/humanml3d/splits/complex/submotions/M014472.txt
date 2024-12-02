@@ -1,2 +1,2 @@
-A person dances briefly.  # 0 # 3 # spine
-A person does a back flip.  # 3 # 8.317 # spine
+A person dances briefly.  # 0 # 3
+A person does a back flip.  # 3 # 8.317

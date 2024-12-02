@@ -1,2 +1,2 @@
-A person is doing the waltz in a circle. # 0 # 6 # spine
-A person raises their left arm. # 4 # 10.0 # spine
+A person is doing the waltz in a circle. # 0 # 6
+A person raises their left arm. # 4 # 10.0

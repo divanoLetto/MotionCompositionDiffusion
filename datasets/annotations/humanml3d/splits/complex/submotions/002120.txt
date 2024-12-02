@@ -1,2 +1,2 @@
-A person is shaking their hips from side to side. # 0 # 1.25 # spine
-A person is shaking their whole body. # 0 # 1.25 # spine
+A person is shaking their hips from side to side. # 0 # 1.25
+A person is shaking their whole body. # 0 # 1.25

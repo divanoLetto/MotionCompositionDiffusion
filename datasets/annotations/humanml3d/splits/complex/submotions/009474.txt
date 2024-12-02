@@ -1,2 +1,2 @@
-A person holds their hands close to their mouth and chest area. # 0 # 2 # spine
-A person is playing a horn as they turn from left to right. # 2 # 5.0 # spine
+A person holds their hands close to their mouth and chest area. # 0 # 2
+A person is playing a horn as they turn from left to right. # 2 # 5.0

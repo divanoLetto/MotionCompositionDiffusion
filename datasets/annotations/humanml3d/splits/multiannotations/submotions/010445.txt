@@ -1,3 +1,3 @@
-a person side steps to the left for a few steps. # 0 # 10 # spine
-moving sideways then stopping. # 0 # 10 # spine
-a person is slowly shuffling side ways leading with their left leg. # 0 # 10 # spine
+a person side steps to the left for a few steps. # 0 # 10
+moving sideways then stopping. # 0 # 10
+a person is slowly shuffling side ways leading with their left leg. # 0 # 10

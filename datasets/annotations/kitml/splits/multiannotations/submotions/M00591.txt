@@ -1,4 +1,4 @@
-A person runs. # 0 # 1.28 # spine
-A person running energetically. # 0 # 1.28 # spine
-A person is running forward. # 0 # 1.28 # spine
-A person runs forward. # 0 # 1.28 # spine
+A person runs. # 0 # 1.28
+A person running energetically. # 0 # 1.28
+A person is running forward. # 0 # 1.28
+A person runs forward. # 0 # 1.28

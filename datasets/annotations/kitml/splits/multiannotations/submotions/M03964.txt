@@ -1,1 +1,1 @@
-A person is sprinting up and down a small hill or obstacle. # 0 # 1.792 # spine
+A person is sprinting up and down a small hill or obstacle. # 0 # 1.792

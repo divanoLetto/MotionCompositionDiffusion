@@ -1,3 +1,3 @@
-person down on hands and knees stands up # 0 # 6.06 # spine
-a person with their knees on the ground and their hands, gets up. # 0 # 6.06 # spine
-the man was down on his knees and come back up and has a standing position. # 0 # 6.06 # spine
+person down on hands and knees stands up # 0 # 6.06
+a person with their knees on the ground and their hands, gets up. # 0 # 6.06
+the man was down on his knees and come back up and has a standing position. # 0 # 6.06

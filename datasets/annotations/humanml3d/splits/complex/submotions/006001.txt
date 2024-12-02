@@ -1,2 +1,2 @@
-A person holds their hands together and raises and lowers them repeatedly. # 0 # 5 # spine
-A person looks to be holding a weapon or object and swinging it up and down whilst taking a step forwards and backwards. # 5 # 10.0 # spine
+A person holds their hands together and raises and lowers them repeatedly. # 0 # 5
+A person looks to be holding a weapon or object and swinging it up and down whilst taking a step forwards and backwards. # 5 # 10.0

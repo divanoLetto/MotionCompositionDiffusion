@@ -1,3 +1,3 @@
-person stretching the whole left side by lifting the left arm and leaning sideways to the right # 0 # 3.35 # spine
-person is stretching to the side. # 0 # 3.35 # spine
-a person stretches their arm over their head # 0 # 3.35 # spine
+person stretching the whole left side by lifting the left arm and leaning sideways to the right # 0 # 3.35
+person is stretching to the side. # 0 # 3.35
+a person stretches their arm over their head # 0 # 3.35

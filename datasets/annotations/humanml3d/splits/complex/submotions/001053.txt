@@ -1,5 +1,5 @@
-A person takes some slow small steps forward. # 0 # 2 # spine
-A person bends their knees. # 2 # 4 # spine
-A person takes a step back. # 4 # 6 # spine
-A person raises both hands. # 6 # 8 # spine
-A person drops their arms. # 8 # 10.0 # spine
+A person takes some slow small steps forward. # 0 # 2
+A person bends their knees. # 2 # 4
+A person takes a step back. # 4 # 6
+A person raises both hands. # 6 # 8
+A person drops their arms. # 8 # 10.0

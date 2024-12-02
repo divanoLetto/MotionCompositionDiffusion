@@ -1,4 +1,4 @@
-A person throws a punch with their right arm. # 0 # 2 # spine
-A person punches with their right arm. # 2 # 5 # spine
-A person hits with their right arm. # 5 # 8 # spine
-A person swings their right arm. # 8 # 10.0 # spine
+A person throws a punch with their right arm. # 0 # 2
+A person punches with their right arm. # 2 # 5
+A person hits with their right arm. # 5 # 8
+A person swings their right arm. # 8 # 10.0

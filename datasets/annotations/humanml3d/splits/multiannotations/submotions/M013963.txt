@@ -1,3 +1,3 @@
-the person is jogging in place. # 0 # 4.442 # spine
-a person jogs in place. # 0 # 4.442 # spine
-runing backward on that standard place. # 0 # 4.442 # spine
+the person is jogging in place. # 0 # 4.442
+a person jogs in place. # 0 # 4.442
+runing backward on that standard place. # 0 # 4.442

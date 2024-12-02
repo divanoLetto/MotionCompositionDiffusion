@@ -1,3 +1,3 @@
-A person stumbles backwards. # 0 # 4.99 # spine
-A person starts walking backwards 2 steps before standing still again. # 0 # 4.99 # spine
-a person gets pushed from the front # 0 # 4.99 # spine
+A person stumbles backwards. # 0 # 4.99
+A person starts walking backwards 2 steps before standing still again. # 0 # 4.99
+a person gets pushed from the front # 0 # 4.99

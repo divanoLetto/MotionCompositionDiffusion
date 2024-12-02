@@ -1,2 +1,2 @@
-A person stands and throws something. # 0 # 1 # spine
-A person raises their right arm to throw. # 0.5 # 1.1 # spine
+A person stands and throws something. # 0 # 1
+A person raises their right arm to throw. # 0.5 # 1.1

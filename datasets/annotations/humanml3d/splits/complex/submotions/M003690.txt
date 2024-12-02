@@ -1,2 +1,2 @@
-A person fakes a shot with their right hand. # 0 # 2 # spine
-A person dribbles forward with their right hand. # 2 # 4.325 # spine
+A person fakes a shot with their right hand. # 0 # 2
+A person dribbles forward with their right hand. # 2 # 4.325

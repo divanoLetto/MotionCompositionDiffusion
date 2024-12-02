@@ -1,2 +1,2 @@
-A person moves quickly forward with arms and legs outstretched to appear bigger. # 0 # 10.0 # spine
-A person raises both their hands to the right. # 2 # 10.0 # spine
+A person moves quickly forward with arms and legs outstretched to appear bigger. # 0 # 10.0
+A person raises both their hands to the right. # 2 # 10.0

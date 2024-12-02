@@ -1,2 +1,2 @@
-Person walking for a few steps # 0 # 5.41 # spine
-human goes forward slowly starting with left # 0 # 5.41 # spine
+Person walking for a few steps # 0 # 5.41
+human goes forward slowly starting with left # 0 # 5.41

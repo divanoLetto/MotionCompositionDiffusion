@@ -1,2 +1,2 @@
-A person holds a guitar with both hands. # 0 # 3 # spine
-A person strums the guitar with their right hand. # 2 # 5.36 # spine
+A person holds a guitar with both hands. # 0 # 3
+A person strums the guitar with their right hand. # 2 # 5.36

@@ -1,3 +1,3 @@
-A person holds their partner's hand with their right hand. # 0 # 3 # spine
-A person places their right hand on their partner's back. # 2 # 5 # spine
-A person dances with their partner. # 4 # 9.05 # spine
+A person holds their partner's hand with their right hand. # 0 # 3
+A person places their right hand on their partner's back. # 2 # 5
+A person dances with their partner. # 4 # 9.05

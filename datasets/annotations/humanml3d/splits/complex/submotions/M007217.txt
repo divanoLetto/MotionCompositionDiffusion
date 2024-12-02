@@ -1,4 +1,4 @@
-A person walks forward. # 0 # 4 # spine
-A person shakes their arms. # 2 # 6 # spine
-A person throws their arms out. # 4 # 8 # spine
-A person shakes their legs. # 6 # 10.0 # spine
+A person walks forward. # 0 # 4
+A person shakes their arms. # 2 # 6
+A person throws their arms out. # 4 # 8
+A person shakes their legs. # 6 # 10.0

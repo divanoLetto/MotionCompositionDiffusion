@@ -1,4 +1,4 @@
-a person throws a punch with their right hand. # 0 # 2.45 # spine
-a person throws a punch with their left hand. # 2.45 # 4.0 # spine
-a person walks forward. # 4.0 # 5.0 # spine
-a person walks backward. # 5.0 # 5.65 # spine
+a person throws a punch with their right hand. # 0 # 2.45
+a person throws a punch with their left hand. # 2.45 # 4.0
+a person walks forward. # 4.0 # 5.0
+a person walks backward. # 5.0 # 5.65

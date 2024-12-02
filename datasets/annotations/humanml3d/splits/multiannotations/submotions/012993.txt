@@ -1,3 +1,3 @@
-a person in a seated position uses their elbows and forearms to raise up to a standing position. # 0 # 6.542 # spine
-a person places both hands on the arms of a chair, scoots body forward, and then leans forward and stands up placing both feet together in the end. # 0 # 6.542 # spine
-a person gets up from sitting. # 0 # 6.542 # spine
+a person in a seated position uses their elbows and forearms to raise up to a standing position. # 0 # 6.542
+a person places both hands on the arms of a chair, scoots body forward, and then leans forward and stands up placing both feet together in the end. # 0 # 6.542
+a person gets up from sitting. # 0 # 6.542

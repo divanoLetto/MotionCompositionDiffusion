@@ -1,3 +1,3 @@
-a person shakes arms to lossen up then walks backwads, then moves forward with the right arm in a swim motion # 0 # 10 # spine
-a person is standing swinging both arms back and forth, then walks backwards and stretches their right arm by imitating a throwing motion. # 0 # 10 # spine
-a person warms up on a baseball mound by doing arm exercises. # 0 # 10 # spine
+a person shakes arms to lossen up then walks backwads, then moves forward with the right arm in a swim motion # 0 # 10
+a person is standing swinging both arms back and forth, then walks backwards and stretches their right arm by imitating a throwing motion. # 0 # 10
+a person warms up on a baseball mound by doing arm exercises. # 0 # 10

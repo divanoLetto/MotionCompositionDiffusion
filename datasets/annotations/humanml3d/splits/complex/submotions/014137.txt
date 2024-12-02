@@ -1,3 +1,3 @@
-A person dances on the spot. # 0 # 2 # spine
-A person raises both arms up. # 2 # 6 # spine
-A person twists at the waist. # 6 # 9.467 # spine
+A person dances on the spot. # 0 # 2
+A person raises both arms up. # 2 # 6
+A person twists at the waist. # 6 # 9.467

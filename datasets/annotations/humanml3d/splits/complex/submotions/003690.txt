@@ -1,2 +1,2 @@
-A person moves quickly to the left. # 0 # 2.76 # spine
-A person shuffles to the left quickly. # 2.5 # 4.325 # spine
+A person moves quickly to the left. # 0 # 2.76
+A person shuffles to the left quickly. # 2.5 # 4.325

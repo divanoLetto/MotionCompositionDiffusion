@@ -1,2 +1,2 @@
-A person is throwing something with their left hand. # 0 # 2 # spine
-A person is catching something with both hands. # 2 # 4.508 # spine
+A person is throwing something with their left hand. # 0 # 2
+A person is catching something with both hands. # 2 # 4.508

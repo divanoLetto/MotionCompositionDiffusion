@@ -156,40 +156,6 @@ class GaussianDiffusion(DiffuserBase):
 
         return loss["loss"]
 
-    def test_step(self, batch, batch_idx):
-        bs = len(batch["x"])
-        tx_emb = batch["tx"]
-        tx_emb_uncond = {
-            "x": batch["tx_uncond"]["x"].repeat(bs,1,1), 
-            "length": torch.tensor([batch["tx_uncond"]["length"] for _ in range(bs)], device=self.device)
-        }
-        infos = {
-            "all_lengths": batch["length"].tolist()
-        }
-        # Inferenza
-        xstarts = self.text_forward(tx_emb, tx_emb_uncond, infos)
-        # Salva il batch di generazioni
-        xstarts = xstarts.cpu()
-        for e, k in enumerate(batch["keyid"]):
-            xstart = xstarts[e, :infos["all_lengths"][e]]
-            output = extract_joints(
-                xstart,
-                "smplrifke",
-                fps=20,
-                value_from="smpl",
-                smpl_layer=smplh,
-            )
-            joints = output["joints"]
-            # Save motion .npy
-            path = f"{self.trainer.default_root_dir}/{k}.npy"
-            if not os.path.exists(f"{self.trainer.default_root_dir}/"):
-                os.makedirs(f"{self.trainer.default_root_dir}/")
-            np.save(path, joints)
-            # Save text
-            path = path.replace(".npy", ".txt")
-            with open(path, "w") as f:
-                f.write(batch["text"][e])
-
     def on_train_epoch_end(self):
         dico = {
             "epoch": float(self.trainer.current_epoch),

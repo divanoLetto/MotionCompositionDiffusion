@@ -1,4 +1,4 @@
-A person stands still. # 0 # 2 # spine
-A person throws a punch with their left hand. # 2 # 5 # spine
-A person throws a punch with their right hand. # 5 # 8 # spine
-A person alternates throwing punches with both hands. # 8 # 10 # spine
+A person stands still. # 0 # 2
+A person throws a punch with their left hand. # 2 # 5
+A person throws a punch with their right hand. # 5 # 8
+A person alternates throwing punches with both hands. # 8 # 10

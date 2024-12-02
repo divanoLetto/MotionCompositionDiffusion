@@ -1,2 +1,2 @@
-A person holds their right hand forward. # 0 # 3 # spine
-A person performs a stirring motion with their right hand. # 3 # 6.79 # spine
+A person holds their right hand forward. # 0 # 3
+A person performs a stirring motion with their right hand. # 3 # 6.79

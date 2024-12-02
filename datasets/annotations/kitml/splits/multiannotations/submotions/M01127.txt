@@ -1,1 +1,1 @@
-A person makes a step to the right side. # 0 # 5.52 # spine
+A person makes a step to the right side. # 0 # 5.52

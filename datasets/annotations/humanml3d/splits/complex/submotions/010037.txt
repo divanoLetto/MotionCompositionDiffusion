@@ -1,2 +1,2 @@
-A person holds an object with both hands. # 0 # 3 # spine
-A person swings an object towards the left. # 2 # 3.733 # spine
+A person holds an object with both hands. # 0 # 3
+A person swings an object towards the left. # 2 # 3.733

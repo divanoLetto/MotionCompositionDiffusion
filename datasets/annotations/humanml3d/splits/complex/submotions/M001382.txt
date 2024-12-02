@@ -1,2 +1,2 @@
-A person is dancing.  # 0 # 2 # spine
-A person raises their right arm.  # 2 # 4.375 # spine
+A person is dancing.  # 0 # 2
+A person raises their right arm.  # 2 # 4.375

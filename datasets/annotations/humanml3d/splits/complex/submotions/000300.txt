@@ -1,4 +1,4 @@
-A person moves their hands and hips rapidly. # 0 # 3.267 # spine
-A person waves their hands rapidly by either side of the jaw. # 2 # 5.267 # spine
-A person shakes their hips quickly from side to side. # 4 # 7.267 # spine
-A person stands with their arms up to chest level. # 6 # 9.249999999999998 # spine
+A person moves their hands and hips rapidly. # 0 # 3.267
+A person waves their hands rapidly by either side of the jaw. # 2 # 5.267
+A person shakes their hips quickly from side to side. # 4 # 7.267
+A person stands with their arms up to chest level. # 6 # 9.249999999999998

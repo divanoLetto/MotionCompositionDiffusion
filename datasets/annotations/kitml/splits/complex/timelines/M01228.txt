@@ -1,2 +1,2 @@
-A person is dancing. # 0 # 5 # spine
-A person walks in a circle. # 4 # 10 # spine
+A person is dancing. # 0 # 5
+A person walks in a circle. # 4 # 10

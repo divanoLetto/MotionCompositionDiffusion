@@ -1,3 +1,3 @@
-the person is trying to talk with his hands. # 0 # 10 # spine
-person makes motions like hit bongos. # 0 # 10 # spine
-a person moves his left and right arm in the air. # 0 # 10 # spine
+the person is trying to talk with his hands. # 0 # 10
+person makes motions like hit bongos. # 0 # 10
+a person moves his left and right arm in the air. # 0 # 10

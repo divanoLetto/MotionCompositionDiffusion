@@ -1,2 +1,2 @@
-A person is waving with their left hand. # 0 # 2 # spine
-A person is waving with their right hand. # 2 # 2.73 # spine
+A person is waving with their left hand. # 0 # 2
+A person is waving with their right hand. # 2 # 2.73

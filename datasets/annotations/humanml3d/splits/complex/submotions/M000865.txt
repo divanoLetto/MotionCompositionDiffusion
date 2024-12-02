@@ -1,2 +1,2 @@
-A person is swimming using both hands together. # 0 # 6 # spine
-A person is kicking with their feet. # 0 # 10.0 # spine
+A person is swimming using both hands together. # 0 # 6
+A person is kicking with their feet. # 0 # 10.0

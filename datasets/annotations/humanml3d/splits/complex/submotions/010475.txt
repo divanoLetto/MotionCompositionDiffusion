@@ -1,2 +1,2 @@
-A person walks forward while making a dribbling motion with their right arm. # 0 # 3.208 # spine
-A person throws something with their right arm. # 3.208 # 4.325 # spine
+A person walks forward while making a dribbling motion with their right arm. # 0 # 3.208
+A person throws something with their right arm. # 3.208 # 4.325

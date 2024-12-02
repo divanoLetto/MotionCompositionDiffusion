@@ -1,5 +1,5 @@
-A person raises both arms to shoulder height. # 0 # 2 # spine
-A person waves with their right hand. # 2 # 4 # spine
-A person gestures with their left hand. # 4 # 6 # spine
-A person stands with arms outstretched. # 6 # 8 # spine
-A person lowers their arms back down. # 8 # 10.0 # spine
+A person raises both arms to shoulder height. # 0 # 2
+A person waves with their right hand. # 2 # 4
+A person gestures with their left hand. # 4 # 6
+A person stands with arms outstretched. # 6 # 8
+A person lowers their arms back down. # 8 # 10.0

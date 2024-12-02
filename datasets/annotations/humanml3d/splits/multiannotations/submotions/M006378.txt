@@ -1,3 +1,3 @@
-person slides backward to take a seat, drinks something and then puts the cup back # 0 # 9.908 # spine
-a person sits down and drinks then gets back up # 0 # 9.908 # spine
-the person sits down while talking on the phone # 0 # 9.908 # spine
+person slides backward to take a seat, drinks something and then puts the cup back # 0 # 9.908
+a person sits down and drinks then gets back up # 0 # 9.908
+the person sits down while talking on the phone # 0 # 9.908

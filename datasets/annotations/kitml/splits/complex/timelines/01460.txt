@@ -1,1 +1,1 @@
-A person raises their right arm and moves the left arm up and down. # 0 # 10 # spine
+A person raises their right arm and moves the left arm up and down. # 0 # 10

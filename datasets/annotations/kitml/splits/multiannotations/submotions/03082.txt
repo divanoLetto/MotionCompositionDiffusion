@@ -1,1 +1,1 @@
-A human performs gestures displaying frustration. # 0 # 10 # spine
+A human performs gestures displaying frustration. # 0 # 10

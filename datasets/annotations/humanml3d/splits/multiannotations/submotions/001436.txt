@@ -1,3 +1,3 @@
-a person ducks down suddenly, steps forward, and stands back up. # 0 # 7.51 # spine
-a man bends forward and then takes a step. # 0 # 7.51 # spine
-a man leans his upper body only forward at a 90 degree angle with both arms behind him to balance himself as if he is about to fall over. # 0 # 7.51 # spine
+a person ducks down suddenly, steps forward, and stands back up. # 0 # 7.51
+a man bends forward and then takes a step. # 0 # 7.51
+a man leans his upper body only forward at a 90 degree angle with both arms behind him to balance himself as if he is about to fall over. # 0 # 7.51

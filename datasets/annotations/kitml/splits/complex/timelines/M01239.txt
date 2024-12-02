@@ -1,2 +1,2 @@
-A person raises their arms in a boxing manner. # 0 # 3 # spine
-A person kicks with the left foot. # 2 # 5.71 # spine
+A person raises their arms in a boxing manner. # 0 # 3
+A person kicks with the left foot. # 2 # 5.71

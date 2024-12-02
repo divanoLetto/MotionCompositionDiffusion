@@ -1,1 +1,1 @@
-Person holding a heavy bar. # 0 # 1.133 # spine
+Person holding a heavy bar. # 0 # 1.133

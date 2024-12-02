@@ -1,3 +1,3 @@
-A person runs forward. # 0 # 2 # spine
-A person jumps upwards with both legs. # 2 # 5 # spine
-A person shoots the basketball. # 5 # 8.008 # spine
+A person runs forward. # 0 # 2
+A person jumps upwards with both legs. # 2 # 5
+A person shoots the basketball. # 5 # 8.008

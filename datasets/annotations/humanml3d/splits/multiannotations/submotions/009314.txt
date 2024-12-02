@@ -1,3 +1,3 @@
-a person throws something with right arm, leaves right arm up. # 0 # 1.45 # spine
-a person throws with the right arm. # 0 # 1.45 # spine
-a person underhand throws something with their right hand. # 0 # 1.45 # spine
+a person throws something with right arm, leaves right arm up. # 0 # 1.45
+a person throws with the right arm. # 0 # 1.45
+a person underhand throws something with their right hand. # 0 # 1.45

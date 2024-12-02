@@ -1,3 +1,3 @@
-person moves forward and extends the left leg and kicks something to the front # 0 # 2.975 # spine
-a man aggressively kicks an object to the left using his rigjt foot. # 0 # 2.975 # spine
-a man kicks to the right with his left foot and tyrns his whole body to the right. # 0 # 2.975 # spine
+person moves forward and extends the left leg and kicks something to the front # 0 # 2.975
+a man aggressively kicks an object to the left using his rigjt foot. # 0 # 2.975
+a man kicks to the right with his left foot and tyrns his whole body to the right. # 0 # 2.975

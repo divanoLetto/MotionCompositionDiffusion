@@ -1,2 +1,2 @@
-A person is waving with their left hand.  # 0 # 5 # spine
-A person raises both hands above their head and waves them.  # 4 # 9.999999999999996 # spine
+A person is waving with their left hand.  # 0 # 5
+A person raises both hands above their head and waves them.  # 4 # 9.999999999999996

@@ -84,7 +84,7 @@ def generate_testset(c: DictConfig):
     )
 
     n_sequences = len(testset_ids)
-    at_a_time = 50 if 50 < n_sequences else n_sequences
+    at_a_time = 10 if 10 < n_sequences else n_sequences
     iterator = np.array_split(np.arange(n_sequences), n_sequences // at_a_time)
 
     with torch.no_grad():
@@ -211,13 +211,19 @@ def generate_testset(c: DictConfig):
 
                 if hasattr(c, "animations") and c.animations is True:
                     logger.info(f"Joints rendering {idx}")
-                    joints_renderer(
-                        joints, title="", output=joints_video_paths[idx], canonicalize=False
-                    )
-                    print(joints_video_paths[idx])
+                    # joints_renderer(
+                    #     joints, title="", output=joints_video_paths[idx], canonicalize=False
+                    # )
+                    # print(joints_video_paths[idx])
 
                     smpl_renderer(
-                        output["vertices"], title="", output=smpl_video_paths[idx]
+                        output["vertices"], video=True, title="", output=smpl_video_paths[idx]
+                    )
+                
+                if hasattr(c, "single_frame") and c.single_frame is True:
+                    logger.info(f"Joints rendering {idx}")
+                    smpl_renderer(
+                        output["vertices"], video=False, title="", output=smpl_video_paths[idx]
                     )
 
 

@@ -1,4 +1,4 @@
-A person throws something underhanded with their left hand. # 0 # 2 # spine
-A person raises both arms to shoulder height. # 2 # 6 # spine
-A person takes two steps backward. # 6 # 8 # spine
-A person runs forward. # 8 # 10.0 # spine
+A person throws something underhanded with their left hand. # 0 # 2
+A person raises both arms to shoulder height. # 2 # 6
+A person takes two steps backward. # 6 # 8
+A person runs forward. # 8 # 10.0

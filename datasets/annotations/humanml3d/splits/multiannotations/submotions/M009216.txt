@@ -1,3 +1,3 @@
-a person who seems to put slippers on # 0 # 4.333 # spine
-a person steps forward and turns left, then shuffles around awkwardly. # 0 # 4.333 # spine
-a person slow pacing up a line. # 0 # 4.333 # spine
+a person who seems to put slippers on # 0 # 4.333
+a person steps forward and turns left, then shuffles around awkwardly. # 0 # 4.333
+a person slow pacing up a line. # 0 # 4.333

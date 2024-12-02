@@ -1,2 +1,2 @@
-A person bounces a ball with their left hand. # 0 # 5 # spine
-A person wipes their face with their left arm. # 4 # 10.0 # spine
+A person bounces a ball with their left hand. # 0 # 5
+A person wipes their face with their left arm. # 4 # 10.0

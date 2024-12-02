@@ -1,2 +1,2 @@
-A person raises their right hand. # 0 # 2 # spine
-A person swings their right arm forward. # 2 # 5.142 # spine
+A person raises their right hand. # 0 # 2
+A person swings their right arm forward. # 2 # 5.142

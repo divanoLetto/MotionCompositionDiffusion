@@ -1,4 +1,4 @@
-A person throws something with their right hand. # 0 # 3 # spine
-A person catches something with both hands. # 2 # 5 # spine
-A person throws something with their right hand. # 5 # 8 # spine
-A person catches something with both hands. # 7 # 10.0 # spine
+A person throws something with their right hand. # 0 # 3
+A person catches something with both hands. # 2 # 5
+A person throws something with their right hand. # 5 # 8
+A person catches something with both hands. # 7 # 10.0

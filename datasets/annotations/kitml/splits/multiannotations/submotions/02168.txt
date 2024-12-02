@@ -1,1 +1,1 @@
-A person picks up an object using the right hand, passes it over to the left hand and finally puts it down. # 0 # 8.55 # spine
+A person picks up an object using the right hand, passes it over to the left hand and finally puts it down. # 0 # 8.55

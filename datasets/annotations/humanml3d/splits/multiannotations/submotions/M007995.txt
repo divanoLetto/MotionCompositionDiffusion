@@ -1,3 +1,3 @@
-movin left hand upward # 0 # 6.24 # spine
-a person slowly waves with their right hand twice # 0 # 6.24 # spine
-the man raises his right hand over his chest, waves out and back in toward his body, then releases it back down toward his hip. # 0 # 6.24 # spine
+movin left hand upward # 0 # 6.24
+a person slowly waves with their right hand twice # 0 # 6.24
+the man raises his right hand over his chest, waves out and back in toward his body, then releases it back down toward his hip. # 0 # 6.24

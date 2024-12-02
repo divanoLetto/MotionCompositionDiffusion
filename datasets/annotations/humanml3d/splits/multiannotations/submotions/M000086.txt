@@ -1,3 +1,3 @@
-a person with its arms raised, sets them down then claps . # 0 # 10 # spine
-a person is holding his arms straight out to the sides then lowers them, claps, and steps forward to sit in a chair # 0 # 10 # spine
-the persons high hands are dropped down, he claps once and then proceeds by walking up to get seated # 0 # 10 # spine
+a person with its arms raised, sets them down then claps . # 0 # 10
+a person is holding his arms straight out to the sides then lowers them, claps, and steps forward to sit in a chair # 0 # 10
+the persons high hands are dropped down, he claps once and then proceeds by walking up to get seated # 0 # 10

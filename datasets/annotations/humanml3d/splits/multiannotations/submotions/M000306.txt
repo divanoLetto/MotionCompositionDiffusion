@@ -1,3 +1,3 @@
-a person picks up two objects and begins performing a motioning action with both objects. # 0 # 10 # spine
-he move forward and grab something with left hand and then walk to his right. now grab something with his left hand and joining the both objects. # 0 # 10 # spine
-this person seems to be picking up a bottle, walking forward as they open the bottle, and proceeds to pour over a small area in front of them. # 0 # 10 # spine
+a person picks up two objects and begins performing a motioning action with both objects. # 0 # 10
+he move forward and grab something with left hand and then walk to his right. now grab something with his left hand and joining the both objects. # 0 # 10
+this person seems to be picking up a bottle, walking forward as they open the bottle, and proceeds to pour over a small area in front of them. # 0 # 10

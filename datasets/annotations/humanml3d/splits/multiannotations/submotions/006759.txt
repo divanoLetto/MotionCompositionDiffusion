@@ -1,3 +1,3 @@
-a figure steps backward slowly and carefully # 0 # 10 # spine
-a person takes three steps backward. # 0 # 10 # spine
-the person walks backwards carefully # 0 # 10 # spine
+a figure steps backward slowly and carefully # 0 # 10
+a person takes three steps backward. # 0 # 10
+the person walks backwards carefully # 0 # 10

@@ -1,4 +1,4 @@
-Someone does a sprint. # 0 # 5.36 # spine
-Someone is trying to run fast for 4 steps starting with the right leg. # 0 # 5.36 # spine
-a person runs forward # 0 # 5.36 # spine
-The human is running # 0 # 5.36 # spine
+Someone does a sprint. # 0 # 5.36
+Someone is trying to run fast for 4 steps starting with the right leg. # 0 # 5.36
+a person runs forward # 0 # 5.36
+The human is running # 0 # 5.36

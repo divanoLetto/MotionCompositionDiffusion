@@ -1,3 +1,3 @@
-a figure speedily swings its arms first in a clockwise motion then backwards in an anti clockwise motion while slightly facing to the right # 0 # 10 # spine
-a person rotates both arms in an anti-clockwise rotation # 0 # 10 # spine
-a person makes several large circles with both arms and then does one reverse circle. # 0 # 10 # spine
+a figure speedily swings its arms first in a clockwise motion then backwards in an anti clockwise motion while slightly facing to the right # 0 # 10
+a person rotates both arms in an anti-clockwise rotation # 0 # 10
+a person makes several large circles with both arms and then does one reverse circle. # 0 # 10

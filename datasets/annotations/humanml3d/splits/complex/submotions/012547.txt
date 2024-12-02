@@ -1,2 +1,2 @@
-A person leans to the right. # 0 # 2 # spine
-A person swings their arms. # 2 # 6.675 # spine
+A person leans to the right. # 0 # 2
+A person swings their arms. # 2 # 6.675

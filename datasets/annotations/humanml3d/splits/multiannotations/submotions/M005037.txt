@@ -1,3 +1,3 @@
-the drunk guy struggles to walk down the street # 0 # 10 # spine
-the person is scampering around swinging his arms and legs. # 0 # 10 # spine
-person is walking in an unbalanced and silly way # 0 # 10 # spine
+the drunk guy struggles to walk down the street # 0 # 10
+the person is scampering around swinging his arms and legs. # 0 # 10
+person is walking in an unbalanced and silly way # 0 # 10

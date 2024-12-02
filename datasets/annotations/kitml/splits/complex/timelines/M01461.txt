@@ -1,2 +1,2 @@
-A person waves with his left hand. # 0 # 5 # spine
-A person lifts the left arm. # 4 # 10 # spine
+A person waves with his left hand. # 0 # 5
+A person lifts the left arm. # 4 # 10

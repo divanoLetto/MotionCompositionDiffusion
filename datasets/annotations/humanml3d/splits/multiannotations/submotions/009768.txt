@@ -1,3 +1,3 @@
-a person side steps to the right and then to the left # 0 # 10 # spine
-a person side steps to the right, then side steps to the left and final back to the right # 0 # 10 # spine
-a person walking to the right front , then stepping back to center, walking back to the right front again. # 0 # 10 # spine
+a person side steps to the right and then to the left # 0 # 10
+a person side steps to the right, then side steps to the left and final back to the right # 0 # 10
+a person walking to the right front , then stepping back to center, walking back to the right front again. # 0 # 10

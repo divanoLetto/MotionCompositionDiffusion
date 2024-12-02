@@ -1,2 +1,2 @@
-A person looks to be preparing for a field goal by doing a practice kick. # 0 # 3.783 # spine
-A person kicks something with their right foot. # 3 # 5.375 # spine
+A person looks to be preparing for a field goal by doing a practice kick. # 0 # 3.783
+A person kicks something with their right foot. # 3 # 5.375

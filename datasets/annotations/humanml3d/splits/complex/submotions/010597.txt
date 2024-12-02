@@ -1,4 +1,4 @@
-A person steps forward. # 0 # 2 # spine
-A person jabs with their right hand. # 2 # 6 # spine
-A person jabs with their left hand. # 4 # 8 # spine
-A person continues to step forward. # 6 # 10.0 # spine
+A person steps forward. # 0 # 2
+A person jabs with their right hand. # 2 # 6
+A person jabs with their left hand. # 4 # 8
+A person continues to step forward. # 6 # 10.0

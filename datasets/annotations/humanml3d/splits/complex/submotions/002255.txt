@@ -1,2 +1,2 @@
-A person stands on one leg and kicks with the other. # 0 # 5 # spine
-The person is balancing on one foot while swinging the other leg. # 4 # 10.0 # spine
+A person stands on one leg and kicks with the other. # 0 # 5
+The person is balancing on one foot while swinging the other leg. # 4 # 10.0

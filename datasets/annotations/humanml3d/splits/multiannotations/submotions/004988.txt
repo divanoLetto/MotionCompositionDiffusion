@@ -1,3 +1,3 @@
-a person runs down to our left, stops for a second, then continues to run. # 0 # 3.492 # spine
-a person is jogging then stops then starts to jog again. # 0 # 3.492 # spine
-a person runs, stops, then runs again. # 0 # 3.492 # spine
+a person runs down to our left, stops for a second, then continues to run. # 0 # 3.492
+a person is jogging then stops then starts to jog again. # 0 # 3.492
+a person runs, stops, then runs again. # 0 # 3.492

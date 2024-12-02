@@ -1,2 +1,2 @@
-A person is moving their hips back and forth, right and left. # 0 # 6 # spine
-A person raises their arms above their head. # 4 # 10.0 # spine
+A person is moving their hips back and forth, right and left. # 0 # 6
+A person raises their arms above their head. # 4 # 10.0

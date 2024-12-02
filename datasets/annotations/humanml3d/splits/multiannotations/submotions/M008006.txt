@@ -1,3 +1,3 @@
-a person does a threatening crouching walk and then raises their arms. # 0 # 9.808 # spine
-walking backwards and then forward. # 0 # 9.808 # spine
-this person walks backwards then turns to walk forward as if to be scary. # 0 # 9.808 # spine
+a person does a threatening crouching walk and then raises their arms. # 0 # 9.808
+walking backwards and then forward. # 0 # 9.808
+this person walks backwards then turns to walk forward as if to be scary. # 0 # 9.808

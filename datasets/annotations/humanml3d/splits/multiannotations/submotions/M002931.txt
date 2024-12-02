@@ -1,3 +1,3 @@
-a person grab with hands something and carries over to the other place # 0 # 10 # spine
-a man using both hands is lifting something to put on a table. # 0 # 10 # spine
-a person moves heavy objects from one place to another. # 0 # 10 # spine
+a person grab with hands something and carries over to the other place # 0 # 10
+a man using both hands is lifting something to put on a table. # 0 # 10
+a person moves heavy objects from one place to another. # 0 # 10

@@ -1,2 +1,2 @@
-A person is jogging back and forth multiple times. # 0 # 6 # spine
-A person sways from side to side. # 4 # 6.85 # spine
+A person is jogging back and forth multiple times. # 0 # 6
+A person sways from side to side. # 4 # 6.85

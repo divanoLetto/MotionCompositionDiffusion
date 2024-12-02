@@ -1,3 +1,3 @@
-A person crosses his left arm over his right arm, holds pose for a second and then places arms back at sides. # 0 # 3.5 # spine
-A person crosses and uncrosses their arms. # 2.5 # 6.0 # spine
-A person raises both hands and lifts something. # 5.0 # 10.0 # spine
+A person crosses his left arm over his right arm, holds pose for a second and then places arms back at sides. # 0 # 3.5
+A person crosses and uncrosses their arms. # 2.5 # 6.0
+A person raises both hands and lifts something. # 5.0 # 10.0

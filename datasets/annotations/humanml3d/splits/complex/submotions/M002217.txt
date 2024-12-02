@@ -1,2 +1,2 @@
-a person is doing a breast stroke # 0 # 10.0 # spine
-a person raises their arms out to the side of them # 2 # 10.0 # spine
+a person is doing a breast stroke # 0 # 10.0
+a person raises their arms out to the side of them # 2 # 10.0

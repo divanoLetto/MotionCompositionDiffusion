@@ -1,3 +1,3 @@
-A person stands with both arms raised, bending at the elbows. # 0 # 6 # spine
-A person turns around. # 6 # 8 # spine
-A person walks to the left with their right arm higher than the left. # 8 # 10.0 # spine
+A person stands with both arms raised, bending at the elbows. # 0 # 6
+A person turns around. # 6 # 8
+A person walks to the left with their right arm higher than the left. # 8 # 10.0

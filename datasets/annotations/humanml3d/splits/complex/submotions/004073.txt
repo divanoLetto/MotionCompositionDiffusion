@@ -1,2 +1,2 @@
-A person is jumping on the spot. # 0 # 2 # spine
-A person is moving their arms up and down. # 2 # 3.4 # spine
+A person is jumping on the spot. # 0 # 2
+A person is moving their arms up and down. # 2 # 3.4

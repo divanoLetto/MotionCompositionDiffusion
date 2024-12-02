@@ -1,3 +1,3 @@
-a person uses left arm to hit down to the right and then the right arm crosses over the left side of the body. # 0 # 4.075 # spine
-left hand goes over and infront the right just goes in front # 0 # 4.075 # spine
-a man swings his arm across his chest # 0 # 4.075 # spine
+a person uses left arm to hit down to the right and then the right arm crosses over the left side of the body. # 0 # 4.075
+left hand goes over and infront the right just goes in front # 0 # 4.075
+a man swings his arm across his chest # 0 # 4.075

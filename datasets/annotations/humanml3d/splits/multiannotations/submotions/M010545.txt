@@ -1,3 +1,3 @@
-a standing person holds their left hand out in front of them, palms facing outward, and moves it in swiping motions from side to side and up and down. # 0 # 10 # spine
-a person washes windows with his left hand. # 0 # 10 # spine
-a person is washing windows # 0 # 10 # spine
+a standing person holds their left hand out in front of them, palms facing outward, and moves it in swiping motions from side to side and up and down. # 0 # 10
+a person washes windows with his left hand. # 0 # 10
+a person is washing windows # 0 # 10

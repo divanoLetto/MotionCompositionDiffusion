@@ -1,4 +1,4 @@
-A person swings their right leg in a circular motion. # 0 # 2 # spine
-A person spins over their left shoulder. # 2 # 6.417 # spine
-A person spins over their right shoulder. # 4 # 6 # spine
-A person ends up seated. # 5 # 6 # spine
+A person swings their right leg in a circular motion. # 0 # 2
+A person spins over their left shoulder. # 2 # 6.417
+A person spins over their right shoulder. # 4 # 6
+A person ends up seated. # 5 # 6

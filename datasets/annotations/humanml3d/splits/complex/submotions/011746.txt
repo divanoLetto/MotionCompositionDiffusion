@@ -1,2 +1,2 @@
-A person steps forward with their left foot. # 0 # 2.5 # spine
-A person steps backward with their right foot. # 2 # 5.5 # spine
+A person steps forward with their left foot. # 0 # 2.5
+A person steps backward with their right foot. # 2 # 5.5

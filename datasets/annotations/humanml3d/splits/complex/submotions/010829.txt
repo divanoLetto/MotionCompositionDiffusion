@@ -1,2 +1,2 @@
-A person walks backward. # 0 # 5 # spine
-A person continues to walk backward. # 5 # 9.75 # spine
+A person walks backward. # 0 # 5
+A person continues to walk backward. # 5 # 9.75

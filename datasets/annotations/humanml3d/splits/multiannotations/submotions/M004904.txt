@@ -1,3 +1,3 @@
-person walks straight back leading with right leg # 0 # 5.5 # spine
-a man walks backwards and then stops. # 0 # 5.5 # spine
-a person slowly walks backward in a straight line. # 0 # 5.5 # spine
+person walks straight back leading with right leg # 0 # 5.5
+a man walks backwards and then stops. # 0 # 5.5
+a person slowly walks backward in a straight line. # 0 # 5.5

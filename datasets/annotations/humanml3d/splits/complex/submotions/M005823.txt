@@ -1,2 +1,2 @@
-A person lifts their arms and runs in a circle. # 0 # 4.325 # spine
-A person kicks with their right leg. # 2 # 4.325 # spine
+A person lifts their arms and runs in a circle. # 0 # 4.325
+A person kicks with their right leg. # 2 # 4.325

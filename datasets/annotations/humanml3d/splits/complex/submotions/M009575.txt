@@ -1,2 +1,2 @@
-A person is swaying right to left while moving their arms in front of them. # 0 # 6 # spine
-A person is waving with their left hand. # 4 # 10.0 # spine
+A person is swaying right to left while moving their arms in front of them. # 0 # 6
+A person is waving with their left hand. # 4 # 10.0

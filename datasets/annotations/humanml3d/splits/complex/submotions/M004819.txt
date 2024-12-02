@@ -1,2 +1,2 @@
-A person stands with their arms out. # 0 # 2 # spine
-A person throws something with their right hand. # 2 # 6.59 # spine
+A person stands with their arms out. # 0 # 2
+A person throws something with their right hand. # 2 # 6.59

@@ -1,2 +1,2 @@
-A person takes steps forward and backward on the floor. # 0 # 10.0 # spine
-A person is moving their arms in a wave-like motion. # 0 # 10.0 # spine
+A person takes steps forward and backward on the floor. # 0 # 10.0
+A person is moving their arms in a wave-like motion. # 0 # 10.0

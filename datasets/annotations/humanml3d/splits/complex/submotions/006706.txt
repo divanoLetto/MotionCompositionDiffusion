@@ -1,2 +1,2 @@
-A person is throwing with the left arm. # 0 # 3 # spine
-A person swings their left arm forward. # 2 # 6.24 # spine
+A person is throwing with the left arm. # 0 # 3
+A person swings their left arm forward. # 2 # 6.24

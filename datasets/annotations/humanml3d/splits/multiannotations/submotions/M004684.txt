@@ -1,3 +1,3 @@
-a person bends legs and lifts dumbells. # 0 # 4.55 # spine
-a man bends at the knees in a squatting motion while holding a bar over his shoulders with both hands # 0 # 4.55 # spine
-a person keeps his hands up to the sides at head level, squats almost to the floor and rises, squats again until thighs are parallel to the floor and quickly rises, and squats almost to the floor and rises. # 0 # 4.55 # spine
+a person bends legs and lifts dumbells. # 0 # 4.55
+a man bends at the knees in a squatting motion while holding a bar over his shoulders with both hands # 0 # 4.55
+a person keeps his hands up to the sides at head level, squats almost to the floor and rises, squats again until thighs are parallel to the floor and quickly rises, and squats almost to the floor and rises. # 0 # 4.55

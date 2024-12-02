@@ -1,4 +1,4 @@
-A person raises their right arm to strike. # 0 # 3 # spine
-A person kicks with their left leg. # 2 # 5 # spine
-A person strikes with their left hand. # 4 # 7 # spine
-A person kicks with their right leg. # 6 # 10 # spine
+A person raises their right arm to strike. # 0 # 3
+A person kicks with their left leg. # 2 # 5
+A person strikes with their left hand. # 4 # 7
+A person kicks with their right leg. # 6 # 10

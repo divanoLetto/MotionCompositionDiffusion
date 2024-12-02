@@ -1,3 +1,3 @@
-A person swings their arms. # 0 # 2 # spine
-A person jumps up and throws something forward. # 2 # 6 # spine
-A person thrusts an object forward away from their body. # 6 # 7.433 # spine
+A person swings their arms. # 0 # 2
+A person jumps up and throws something forward. # 2 # 6
+A person thrusts an object forward away from their body. # 6 # 7.433

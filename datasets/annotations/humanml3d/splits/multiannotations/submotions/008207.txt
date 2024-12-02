@@ -1,3 +1,3 @@
-a person first waves both their left and right hands at the same time and after kicks his right foot to his right. # 0 # 10 # spine
-a person swings his arms, twists and kicks out with his right foot. # 0 # 10 # spine
-a person standing up flings their right arm into the air then drops it back to their waist, then flings their left arm into the air then drops it back to their waist, then rotates clockwise slightly using their hips, then kicks using their right leg. # 0 # 10 # spine
+a person first waves both their left and right hands at the same time and after kicks his right foot to his right. # 0 # 10
+a person swings his arms, twists and kicks out with his right foot. # 0 # 10
+a person standing up flings their right arm into the air then drops it back to their waist, then flings their left arm into the air then drops it back to their waist, then rotates clockwise slightly using their hips, then kicks using their right leg. # 0 # 10

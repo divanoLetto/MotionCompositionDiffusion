@@ -1,2 +1,2 @@
-A person is dodging something. # 0 # 6 # spine
-A person is running to the left. # 4 # 10.0 # spine
+A person is dodging something. # 0 # 6
+A person is running to the left. # 4 # 10.0

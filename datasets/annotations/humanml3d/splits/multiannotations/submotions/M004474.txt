@@ -1,3 +1,3 @@
-a person extends their right arm outwards then back to their shoulder, in a curling motion. # 0 # 2.65 # spine
-the left hand is placed on the hip while the right arm is bending back and forth. # 0 # 2.65 # spine
-a person lifts their left forearms slowly two times. # 0 # 2.65 # spine
+a person extends their right arm outwards then back to their shoulder, in a curling motion. # 0 # 2.65
+the left hand is placed on the hip while the right arm is bending back and forth. # 0 # 2.65
+a person lifts their left forearms slowly two times. # 0 # 2.65

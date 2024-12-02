@@ -1,2 +1,2 @@
-A person walks forward. # 0 # 2 # spine
-A person turns around. # 8 # 10.0 # spine
+A person walks forward. # 0 # 2
+A person turns around. # 8 # 10.0

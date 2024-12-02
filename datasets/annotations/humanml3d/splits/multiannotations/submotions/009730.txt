@@ -1,3 +1,3 @@
-person is acting like a human monkey. # 0 # 10 # spine
-person arches both hands at his sides, scratching at his side with his left arm first, before then using both arms to scratch his sides, then raising his right arm to scratch his head. # 0 # 10 # spine
-a person is acting like a monkey # 0 # 10 # spine
+person is acting like a human monkey. # 0 # 10
+person arches both hands at his sides, scratching at his side with his left arm first, before then using both arms to scratch his sides, then raising his right arm to scratch his head. # 0 # 10
+a person is acting like a monkey # 0 # 10

@@ -1,2 +1,2 @@
-A person spins their hands around while bending on the knees. # 0 # 5 # spine
-A person sways from side to side while moving their hands up and down. # 3 # 5.308 # spine
+A person spins their hands around while bending on the knees. # 0 # 5
+A person sways from side to side while moving their hands up and down. # 3 # 5.308

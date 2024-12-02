@@ -1,4 +1,4 @@
-A person is running in place. # 0 # 4 # spine
-A person turns to the left. # 4 # 6 # spine
-A person jabs with both arms. # 6 # 8 # spine
-A person turns to the right. # 8 # 9.05 # spine
+A person is running in place. # 0 # 4
+A person turns to the left. # 4 # 6
+A person jabs with both arms. # 6 # 8
+A person turns to the right. # 8 # 9.05

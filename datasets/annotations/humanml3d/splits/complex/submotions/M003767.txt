@@ -1,2 +1,2 @@
-a person is walking backwards. # 0 # 6 # spine
-a person is moving their hands backward. # 4 # 10.0 # spine
+a person is walking backwards. # 0 # 6
+a person is moving their hands backward. # 4 # 10.0

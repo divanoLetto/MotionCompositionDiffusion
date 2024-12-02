@@ -1,2 +1,2 @@
-A person performs a kick with the left leg. # 0 # 5 # spine
-A person is kicking with his left foot. # 4 # 10 # spine
+A person performs a kick with the left leg. # 0 # 5
+A person is kicking with his left foot. # 4 # 10

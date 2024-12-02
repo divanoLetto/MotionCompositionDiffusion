@@ -1,3 +1,3 @@
-the man sits on a stool and looks around. # 0 # 4.0 # spine
-a man sits completely still. # 0 # 4.0 # spine
-most human motion involves a combination of two types of motion, translatory motion, also known as linear motion, and rotational motion, also known as angular motion. think of a long jumper sprinting toward the sandy pit. he is exhibiting translatory motion as he runs in a straight line. # 0 # 4.0 # spine
+the man sits on a stool and looks around. # 0 # 4.0
+a man sits completely still. # 0 # 4.0
+most human motion involves a combination of two types of motion, translatory motion, also known as linear motion, and rotational motion, also known as angular motion. think of a long jumper sprinting toward the sandy pit. he is exhibiting translatory motion as he runs in a straight line. # 0 # 4.0

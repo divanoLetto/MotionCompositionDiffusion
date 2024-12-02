@@ -1,3 +1,3 @@
-A person is performing martial arts. # 0 # 5 # spine
-A person performs a kick with their left leg. # 4 # 6 # spine
-A person throws a punch with their right arm. # 5 # 10 # spine
+A person is performing martial arts. # 0 # 5
+A person performs a kick with their left leg. # 4 # 6
+A person throws a punch with their right arm. # 5 # 10

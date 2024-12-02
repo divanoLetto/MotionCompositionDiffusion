@@ -1,2 +1,2 @@
-A person makes a throwing motion with their left arm. # 0 # 6 # spine
-A person bends down to pick up an object. # 4 # 10.0 # spine
+A person makes a throwing motion with their left arm. # 0 # 6
+A person bends down to pick up an object. # 4 # 10.0

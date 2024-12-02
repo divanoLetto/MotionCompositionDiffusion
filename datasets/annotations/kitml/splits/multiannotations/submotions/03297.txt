@@ -1,1 +1,1 @@
-A person is making a sidestep to the right. # 0 # 5.5 # spine
+A person is making a sidestep to the right. # 0 # 5.5

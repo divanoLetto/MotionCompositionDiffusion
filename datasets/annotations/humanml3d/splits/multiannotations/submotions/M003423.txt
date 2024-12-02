@@ -1,3 +1,3 @@
-a person walking in a crouched over position # 0 # 9.417 # spine
-a person takes slow, steady steps forward with their arms loose at their side # 0 # 9.417 # spine
-a person starts walking with their left foot first and takes eleven steps forward. # 0 # 9.417 # spine
+a person walking in a crouched over position # 0 # 9.417
+a person takes slow, steady steps forward with their arms loose at their side # 0 # 9.417
+a person starts walking with their left foot first and takes eleven steps forward. # 0 # 9.417

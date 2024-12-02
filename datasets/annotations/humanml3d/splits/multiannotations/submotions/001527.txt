@@ -1,3 +1,3 @@
-a man walks forward in a snake like pattern. # 0 # 10 # spine
-walking in a random pattern. # 0 # 10 # spine
-the man walks in a zigzag way to the bottom. # 0 # 10 # spine
+a man walks forward in a snake like pattern. # 0 # 10
+walking in a random pattern. # 0 # 10
+the man walks in a zigzag way to the bottom. # 0 # 10

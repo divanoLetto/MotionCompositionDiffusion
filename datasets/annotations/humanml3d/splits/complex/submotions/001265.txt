@@ -1,2 +1,2 @@
-A person shakes their shoulders.  # 0 # 3 # spine
-A person raises their hands above their head.  # 2 # 3.62 # spine
+A person shakes their shoulders.  # 0 # 3
+A person raises their hands above their head.  # 2 # 3.62

@@ -1,2 +1,2 @@
-a person sits down and then stands back up. # 0 # 2.2 # spine
-a person raises his arms from the side over his head while jumping to spread his legs to the side. # 0 # 2 # spine
+a person sits down and then stands back up. # 0 # 2.2
+a person raises his arms from the side over his head while jumping to spread his legs to the side. # 0 # 2

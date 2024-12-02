@@ -1,2 +1,2 @@
-A person jumps to the right. # 0 # 5.23 # spine
-The human perfoms a jump to the right # 0 # 5.23 # spine
+A person jumps to the right. # 0 # 5.23
+The human perfoms a jump to the right # 0 # 5.23

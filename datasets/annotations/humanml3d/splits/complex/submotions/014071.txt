@@ -1,4 +1,4 @@
-A person stands with arms extended to their side. # 0 # 2 # spine
-A person lowers their arms from shoulder height. # 2 # 4 # spine
-A person stands still and moves their arms. # 4 # 6 # spine
-A person is pacing back and forth as if they are waiting for something. # 6 # 7.55 # spine
+A person stands with arms extended to their side. # 0 # 2
+A person lowers their arms from shoulder height. # 2 # 4
+A person stands still and moves their arms. # 4 # 6
+A person is pacing back and forth as if they are waiting for something. # 6 # 7.55

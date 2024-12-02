@@ -1,1 +1,1 @@
-A person turns 360 degrees to the left during a jump. # 0 # 4.817 # spine
+A person turns 360 degrees to the left during a jump. # 0 # 4.817

@@ -1,3 +1,3 @@
-a person doing karate type motion forward and then backwards # 0 # 10 # spine
-a person walks diagonally in a stomping motion, trying to be careful which using his hands in a karate motion, then walks backwards in the same motion. # 0 # 10 # spine
-a person is walks forward and while doing karate chops then walks backward doing karate chops. # 0 # 10 # spine
+a person doing karate type motion forward and then backwards # 0 # 10
+a person walks diagonally in a stomping motion, trying to be careful which using his hands in a karate motion, then walks backwards in the same motion. # 0 # 10
+a person is walks forward and while doing karate chops then walks backward doing karate chops. # 0 # 10

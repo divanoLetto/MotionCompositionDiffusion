@@ -1,2 +1,2 @@
-A person performs a punching motion. # 0 # 5.7 # spine
-A person throws something with their right hand. # 5 # 10 # spine
+A person performs a punching motion. # 0 # 5.7
+A person throws something with their right hand. # 5 # 10

@@ -1,3 +1,3 @@
-the person is holding their head while walking. # 0 # 10 # spine
-a person has both of their hands holding where their head would be and frantically jogs around. # 0 # 10 # spine
-a person walks to the right holding object on head. # 0 # 10 # spine
+the person is holding their head while walking. # 0 # 10
+a person has both of their hands holding where their head would be and frantically jogs around. # 0 # 10
+a person walks to the right holding object on head. # 0 # 10

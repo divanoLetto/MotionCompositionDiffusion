@@ -1,3 +1,3 @@
-a person ballet dances in a triangle. # 0 # 10 # spine
-a person is dancing as he taps his feet and moves his arms up and down and around. # 0 # 10 # spine
-the ballet dancer practices their routine # 0 # 10 # spine
+a person ballet dances in a triangle. # 0 # 10
+a person is dancing as he taps his feet and moves his arms up and down and around. # 0 # 10
+the ballet dancer practices their routine # 0 # 10

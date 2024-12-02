@@ -1,3 +1,3 @@
-a person wlowly walked by making the circle # 0 # 10 # spine
-a person is walking drunk in a circle counterclockwise # 0 # 10 # spine
-person stumbles with unsteady gait as walks in a counterclockwise circle # 0 # 10 # spine
+a person wlowly walked by making the circle # 0 # 10
+a person is walking drunk in a circle counterclockwise # 0 # 10
+person stumbles with unsteady gait as walks in a counterclockwise circle # 0 # 10

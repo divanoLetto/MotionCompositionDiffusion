@@ -1,2 +1,2 @@
-A person is moving their arms around. # 0 # 4 # spine
-A person is jumping up and down. # 2 # 4.925 # spine
+A person is moving their arms around. # 0 # 4
+A person is jumping up and down. # 2 # 4.925

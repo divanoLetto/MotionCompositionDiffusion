@@ -1,3 +1,3 @@
-a person reaches for something with both hands, the raises their right hand then sets its hands back down. # 0 # 9.3 # spine
-a person tilts object on its side. # 0 # 9.3 # spine
-stick figure stands an object up holding it a few seconds before setting it back down # 0 # 9.3 # spine
+a person reaches for something with both hands, the raises their right hand then sets its hands back down. # 0 # 9.3
+a person tilts object on its side. # 0 # 9.3
+stick figure stands an object up holding it a few seconds before setting it back down # 0 # 9.3

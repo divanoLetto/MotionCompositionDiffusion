@@ -1,2 +1,2 @@
-A person raises both arms above their head. # 0 # 3 # spine
-A person dances while moving their arms. # 2 # 5.908 # spine
+A person raises both arms above their head. # 0 # 3
+A person dances while moving their arms. # 2 # 5.908

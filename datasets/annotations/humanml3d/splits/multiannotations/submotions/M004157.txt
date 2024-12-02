@@ -1,3 +1,3 @@
-a man kicks with his left leg and then kicks with his right leg. # 0 # 3.775 # spine
-a person stands from the ground, takes right foot up, sets back down, does the same on the left side. # 0 # 3.775 # spine
-kicking back with left foot then the right foot, one at the time # 0 # 3.775 # spine
+a man kicks with his left leg and then kicks with his right leg. # 0 # 3.775
+a person stands from the ground, takes right foot up, sets back down, does the same on the left side. # 0 # 3.775
+kicking back with left foot then the right foot, one at the time # 0 # 3.775

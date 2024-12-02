@@ -1,3 +1,3 @@
-a person grabbed something and throw it away # 0 # 10 # spine
-the person moves their hands as if throwing something. # 0 # 10 # spine
-a person brings the hands together in the center of the body, then rotates the hands to the left side, then to the center, then throws both hands into the air, separating at the top of trajectory. # 0 # 10 # spine
+a person grabbed something and throw it away # 0 # 10
+the person moves their hands as if throwing something. # 0 # 10
+a person brings the hands together in the center of the body, then rotates the hands to the left side, then to the center, then throws both hands into the air, separating at the top of trajectory. # 0 # 10

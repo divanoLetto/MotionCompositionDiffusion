@@ -1,3 +1,3 @@
-a person lightly kicks something with their left leg. # 0 # 4.942 # spine
-the man kicks with his left foot and then returns to a stable position. # 0 # 4.942 # spine
-walking backwards and then stopping. # 0 # 4.942 # spine
+a person lightly kicks something with their left leg. # 0 # 4.942
+the man kicks with his left foot and then returns to a stable position. # 0 # 4.942
+walking backwards and then stopping. # 0 # 4.942

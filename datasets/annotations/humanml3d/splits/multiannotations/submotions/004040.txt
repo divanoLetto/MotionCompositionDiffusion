@@ -1,3 +1,3 @@
-a man is standing and brings both hands to his face then steps out with left foot and performs a low kick. # 0 # 5.14 # spine
-clamped both hands together, stepped feet together on one side then returned to middle and released hands. # 0 # 5.14 # spine
-a person turns to the right and brings both hands together while kicking slightly to the right with the left foot. # 0 # 5.14 # spine
+a man is standing and brings both hands to his face then steps out with left foot and performs a low kick. # 0 # 5.14
+clamped both hands together, stepped feet together on one side then returned to middle and released hands. # 0 # 5.14
+a person turns to the right and brings both hands together while kicking slightly to the right with the left foot. # 0 # 5.14

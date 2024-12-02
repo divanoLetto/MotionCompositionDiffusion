@@ -1,3 +1,3 @@
-a person slowly walked backards and returned # 0 # 5.6 # spine
-a person seems to be unsteadily walking back and forth while moving their hands rapidly. # 0 # 5.6 # spine
-a person walks in a counterclockwise circle while keeping their body facing forward. # 0 # 5.6 # spine
+a person slowly walked backards and returned # 0 # 5.6
+a person seems to be unsteadily walking back and forth while moving their hands rapidly. # 0 # 5.6
+a person walks in a counterclockwise circle while keeping their body facing forward. # 0 # 5.6

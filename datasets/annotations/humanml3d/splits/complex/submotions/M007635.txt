@@ -1,2 +1,2 @@
-A person raises their arms above their head. # 0 # 2 # spine
-A person spins around on one foot. # 2 # 6.008 # spine
+A person raises their arms above their head. # 0 # 2
+A person spins around on one foot. # 2 # 6.008

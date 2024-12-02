@@ -1,3 +1,3 @@
-a person throwing an object ( a ball) in a pitching stance using the right arm. # 0 # 6.175 # spine
-a person grabbing something in front of them, swinging it around to the side then throwing it overhead # 0 # 6.175 # spine
-the figure takes a step back with the hind leg and places one fist in the other fist while swinging both fists to the right of their body. the figure draws back the right arm and flins it forward as if to throw something. # 0 # 6.175 # spine
+a person throwing an object ( a ball) in a pitching stance using the right arm. # 0 # 6.175
+a person grabbing something in front of them, swinging it around to the side then throwing it overhead # 0 # 6.175
+the figure takes a step back with the hind leg and places one fist in the other fist while swinging both fists to the right of their body. the figure draws back the right arm and flins it forward as if to throw something. # 0 # 6.175
