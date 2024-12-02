@@ -1,3 +1,3 @@
-a person throws something with their left hand. # 0 # 4.158 # spine
-a person throwing something at shoulder height. # 0 # 4.158 # spine
-a person swats the air with one hand. # 0 # 4.158 # spine
+a person throws something with their left hand. # 0 # 4.158
+a person throwing something at shoulder height. # 0 # 4.158
+a person swats the air with one hand. # 0 # 4.158

@@ -1,2 +1,2 @@
-A person walks forward, stumbles, recovers and continiues to walk forward. # 0 # 6.51 # spine
-A person is walking and gets pushed backwards. # 0 # 6.51 # spine
+A person walks forward, stumbles, recovers and continiues to walk forward. # 0 # 6.51
+A person is walking and gets pushed backwards. # 0 # 6.51

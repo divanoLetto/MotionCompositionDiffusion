@@ -1,3 +1,3 @@
-a person is sitting down and turning a steering wheel. # 0 # 1.95 # spine
-a man squatted down, moving arms left and right. # 0 # 1.95 # spine
-a man is crouching and moves both of his arms. # 0 # 1.95 # spine
+a person is sitting down and turning a steering wheel. # 0 # 1.95
+a man squatted down, moving arms left and right. # 0 # 1.95
+a man is crouching and moves both of his arms. # 0 # 1.95

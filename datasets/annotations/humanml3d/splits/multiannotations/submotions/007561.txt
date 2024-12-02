@@ -1,3 +1,3 @@
-a man walks in a curve, then a straight line, then doubles back. # 0 # 10 # spine
-a person walks to his right. # 0 # 10 # spine
-a man walks forward, turns right and walks, stops, turns around and runs, stops again to turn around and runs again. # 0 # 10 # spine
+a man walks in a curve, then a straight line, then doubles back. # 0 # 10
+a person walks to his right. # 0 # 10
+a man walks forward, turns right and walks, stops, turns around and runs, stops again to turn around and runs again. # 0 # 10

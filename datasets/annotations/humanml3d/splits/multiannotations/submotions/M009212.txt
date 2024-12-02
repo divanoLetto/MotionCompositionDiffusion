@@ -1,3 +1,3 @@
-the person pats something in front of them. # 0 # 10 # spine
-the man has a dry left arm # 0 # 10 # spine
-a person leans over slightly, right arm at their side, scratching something with their left hand. # 0 # 10 # spine
+the person pats something in front of them. # 0 # 10
+the man has a dry left arm # 0 # 10
+a person leans over slightly, right arm at their side, scratching something with their left hand. # 0 # 10

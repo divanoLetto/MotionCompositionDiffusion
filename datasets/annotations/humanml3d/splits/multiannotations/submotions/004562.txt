@@ -1,3 +1,3 @@
-a person lunges forwards on their left leg, stands, and lunges on their right leg. # 0 # 10 # spine
-a person does a lunge with left foot leading, then another lunge with the right foot leading # 0 # 10 # spine
-the person is walking around. # 0 # 10 # spine
+a person lunges forwards on their left leg, stands, and lunges on their right leg. # 0 # 10
+a person does a lunge with left foot leading, then another lunge with the right foot leading # 0 # 10
+the person is walking around. # 0 # 10

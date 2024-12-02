@@ -1,3 +1,3 @@
-a figure walking in a straight line, swinging their right arm far greater than the left arm. # 0 # 3.092 # spine
-someone walking forward with their arms swinging # 0 # 3.092 # spine
-someone is walking with both of their hands swinging by their side. # 0 # 3.092 # spine
+a figure walking in a straight line, swinging their right arm far greater than the left arm. # 0 # 3.092
+someone walking forward with their arms swinging # 0 # 3.092
+someone is walking with both of their hands swinging by their side. # 0 # 3.092

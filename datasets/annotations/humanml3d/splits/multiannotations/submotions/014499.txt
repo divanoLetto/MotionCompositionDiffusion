@@ -1,3 +1,3 @@
-a person brings his arms which were in the air along his body. his knees appear to be bent. # 0 # 10 # spine
-a person stands still and does nothing. # 0 # 10 # spine
-a person remained sitting down. # 0 # 10 # spine
+a person brings his arms which were in the air along his body. his knees appear to be bent. # 0 # 10
+a person stands still and does nothing. # 0 # 10
+a person remained sitting down. # 0 # 10

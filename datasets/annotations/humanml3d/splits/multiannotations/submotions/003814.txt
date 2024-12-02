@@ -1,2 +1,2 @@
-a person walking and changing their path to the left # 0 # 5.03 # spine
-a person walks to the left with ease. # 0 # 5.03 # spine
+a person walking and changing their path to the left # 0 # 5.03
+a person walks to the left with ease. # 0 # 5.03

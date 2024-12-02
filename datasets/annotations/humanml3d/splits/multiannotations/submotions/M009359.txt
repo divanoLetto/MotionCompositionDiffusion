@@ -1,3 +1,3 @@
-a person with both feet on the ground with both knees bended moving from one side to another, trying to hide or something # 0 # 3.4 # spine
-the person sits on the floor with their hands near their face. # 0 # 3.4 # spine
-the person is kneeling down and looks like he's hiding. # 0 # 3.4 # spine
+a person with both feet on the ground with both knees bended moving from one side to another, trying to hide or something # 0 # 3.4
+the person sits on the floor with their hands near their face. # 0 # 3.4
+the person is kneeling down and looks like he's hiding. # 0 # 3.4

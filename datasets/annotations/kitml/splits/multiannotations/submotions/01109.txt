@@ -1,4 +1,4 @@
-Subject starts a halfhearted jog. # 0 # 6.52 # spine
-Someone is walking forward fast doing 4 steps starting with the right leg. # 0 # 6.52 # spine
-A person runs a few meters forward # 0 # 6.52 # spine
-A person walks a few steps. # 0 # 6.52 # spine
+Subject starts a halfhearted jog. # 0 # 6.52
+Someone is walking forward fast doing 4 steps starting with the right leg. # 0 # 6.52
+A person runs a few meters forward # 0 # 6.52
+A person walks a few steps. # 0 # 6.52

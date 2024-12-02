@@ -1,3 +1,3 @@
-a person stumbles around like they are drunk. # 0 # 2.425 # spine
-a man stumbles sideways to the left. # 0 # 2.425 # spine
-a person is walking forward and then swiftly turns right and starts walking sideways. # 0 # 2.425 # spine
+a person stumbles around like they are drunk. # 0 # 2.425
+a man stumbles sideways to the left. # 0 # 2.425
+a person is walking forward and then swiftly turns right and starts walking sideways. # 0 # 2.425

@@ -1,3 +1,3 @@
-a person hops forward with both legs and after a few hops they hop on top of something then back down right after. # 0 # 10 # spine
-the figure turns and proceeds to bunny hop across the grey space. # 0 # 10 # spine
-a person jumps forward then hops upon multiple obstacles. # 0 # 10 # spine
+a person hops forward with both legs and after a few hops they hop on top of something then back down right after. # 0 # 10
+the figure turns and proceeds to bunny hop across the grey space. # 0 # 10
+a person jumps forward then hops upon multiple obstacles. # 0 # 10

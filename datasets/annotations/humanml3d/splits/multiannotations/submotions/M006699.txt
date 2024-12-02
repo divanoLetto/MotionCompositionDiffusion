@@ -1,3 +1,3 @@
-a person casually takes one step back. # 0 # 5.51 # spine
-person takes one step backward to their left # 0 # 5.51 # spine
-a person takes a quick step backwards and to their left. # 0 # 5.51 # spine
+a person casually takes one step back. # 0 # 5.51
+person takes one step backward to their left # 0 # 5.51
+a person takes a quick step backwards and to their left. # 0 # 5.51

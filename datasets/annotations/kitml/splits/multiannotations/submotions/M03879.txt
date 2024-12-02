@@ -1,1 +1,1 @@
-A human jumps and turns 90 degrees # 0 # 4.492 # spine
+A human jumps and turns 90 degrees # 0 # 4.492

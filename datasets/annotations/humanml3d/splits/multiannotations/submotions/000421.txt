@@ -1,3 +1,3 @@
-a person slowly walks down some stairs. # 0 # 1.917 # spine
-a man walks forward, canting slightly to the right. # 0 # 1.917 # spine
-a man walks forward, swinging its arm side by side. # 0 # 1.917 # spine
+a person slowly walks down some stairs. # 0 # 1.917
+a man walks forward, canting slightly to the right. # 0 # 1.917
+a man walks forward, swinging its arm side by side. # 0 # 1.917

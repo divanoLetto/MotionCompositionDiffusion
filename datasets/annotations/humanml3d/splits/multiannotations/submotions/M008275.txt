@@ -1,3 +1,3 @@
-a kneeling person crawls forward, turns around, crawls back, stands and turns to the right. # 0 # 10 # spine
-a man crawls in a circle in a clockwise direction, stands and turns to his left. # 0 # 10 # spine
-a person crawls forwards on their hands and knees, turns around, then stands up and faces right. # 0 # 10 # spine
+a kneeling person crawls forward, turns around, crawls back, stands and turns to the right. # 0 # 10
+a man crawls in a circle in a clockwise direction, stands and turns to his left. # 0 # 10
+a person crawls forwards on their hands and knees, turns around, then stands up and faces right. # 0 # 10

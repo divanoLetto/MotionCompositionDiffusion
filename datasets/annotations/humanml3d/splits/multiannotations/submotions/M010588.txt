@@ -1,3 +1,3 @@
-a person kicking right leg and then kicking left out in front of them. # 0 # 4.508 # spine
-swinging left foot forward than right foot # 0 # 4.508 # spine
-kicking feet in place. # 0 # 4.508 # spine
+a person kicking right leg and then kicking left out in front of them. # 0 # 4.508
+swinging left foot forward than right foot # 0 # 4.508
+kicking feet in place. # 0 # 4.508

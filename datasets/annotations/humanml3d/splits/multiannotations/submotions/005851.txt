@@ -1,3 +1,3 @@
-a person, standing, raises his right hand as if to check his watch and then lowers his hand back to his side. # 0 # 2.275 # spine
-person is checking the time # 0 # 2.275 # spine
-a person touches his chest with his right hand and then lowers his hand. # 0 # 2.275 # spine
+a person, standing, raises his right hand as if to check his watch and then lowers his hand back to his side. # 0 # 2.275
+person is checking the time # 0 # 2.275
+a person touches his chest with his right hand and then lowers his hand. # 0 # 2.275

@@ -1,3 +1,3 @@
-the sim is standing still before extending their right arm up. # 0 # 3.108 # spine
-this person lifts his right arm out front and points. # 0 # 3.108 # spine
-the person is setting up the subject for a picture. # 0 # 3.108 # spine
+the sim is standing still before extending their right arm up. # 0 # 3.108
+this person lifts his right arm out front and points. # 0 # 3.108
+the person is setting up the subject for a picture. # 0 # 3.108

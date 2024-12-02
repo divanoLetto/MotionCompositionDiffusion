@@ -1,3 +1,3 @@
-person walks in a semi circular shape while swinging arms slightly. # 0 # 8.0 # spine
-a person is walking in a u-shape while facing forward. # 0 # 8.0 # spine
-a figure walks gingerly, stiffly in an arc # 0 # 8.0 # spine
+person walks in a semi circular shape while swinging arms slightly. # 0 # 8.0
+a person is walking in a u-shape while facing forward. # 0 # 8.0
+a figure walks gingerly, stiffly in an arc # 0 # 8.0

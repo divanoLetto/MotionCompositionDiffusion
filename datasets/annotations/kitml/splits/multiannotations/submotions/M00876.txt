@@ -1,1 +1,1 @@
-A person walks forward then turns left by 180 degrees and walks forward again. # 0 # 5.9 # spine
+A person walks forward then turns left by 180 degrees and walks forward again. # 0 # 5.9

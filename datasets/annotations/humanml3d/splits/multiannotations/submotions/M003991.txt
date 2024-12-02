@@ -1,3 +1,3 @@
-a person kicks with their left leg twice, and then once with their right. # 0 # 10 # spine
-a person holds their hands in front of them, turns counterclockwise briefly, and then kicks towards the right hand side with their left leg. # 0 # 10 # spine
-a person rotate their body to the left then kick to the left and rotate to the right and kick to the right. # 0 # 10 # spine
+a person kicks with their left leg twice, and then once with their right. # 0 # 10
+a person holds their hands in front of them, turns counterclockwise briefly, and then kicks towards the right hand side with their left leg. # 0 # 10
+a person rotate their body to the left then kick to the left and rotate to the right and kick to the right. # 0 # 10

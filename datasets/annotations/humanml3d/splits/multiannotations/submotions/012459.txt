@@ -1,3 +1,3 @@
-a person turns steering wheel with both hands. # 0 # 10 # spine
-a person in a squatting position, tilts and object back and forth # 0 # 10 # spine
-a man is sitting down and moving his hands # 0 # 10 # spine
+a person turns steering wheel with both hands. # 0 # 10
+a person in a squatting position, tilts and object back and forth # 0 # 10
+a man is sitting down and moving his hands # 0 # 10

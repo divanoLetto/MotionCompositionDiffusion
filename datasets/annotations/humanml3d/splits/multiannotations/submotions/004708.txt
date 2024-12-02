@@ -1,3 +1,3 @@
-the person steps a little wider than shoulder width apart first with their right foot, then with their left before squatting 4 times. # 0 # 10 # spine
-a person raises both arms to shoulder height then does multiple squats. # 0 # 10 # spine
-person is doing an exercise with hands forward. # 0 # 10 # spine
+the person steps a little wider than shoulder width apart first with their right foot, then with their left before squatting 4 times. # 0 # 10
+a person raises both arms to shoulder height then does multiple squats. # 0 # 10
+person is doing an exercise with hands forward. # 0 # 10

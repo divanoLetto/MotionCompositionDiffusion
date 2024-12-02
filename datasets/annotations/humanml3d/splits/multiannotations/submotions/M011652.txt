@@ -1,3 +1,3 @@
-a person jumps in the air, then abruptly stumbles to his right as if he had been pushed, and finally he regains his balance. # 0 # 9.62 # spine
-taking a small hop and few steps to the right # 0 # 9.62 # spine
-a person jumps up once and then sidesteps right. # 0 # 9.62 # spine
+a person jumps in the air, then abruptly stumbles to his right as if he had been pushed, and finally he regains his balance. # 0 # 9.62
+taking a small hop and few steps to the right # 0 # 9.62
+a person jumps up once and then sidesteps right. # 0 # 9.62

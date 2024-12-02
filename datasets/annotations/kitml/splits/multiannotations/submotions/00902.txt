@@ -1,1 +1,1 @@
-A person walks forwards. # 0 # 4.13 # spine
+A person walks forwards. # 0 # 4.13

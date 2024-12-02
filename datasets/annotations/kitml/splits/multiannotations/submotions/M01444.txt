@@ -1,4 +1,4 @@
-A human playing a guitar # 0 # 7.5 # spine
-A person plays violin on the wrong side (left). # 0 # 7.5 # spine
-A person is playing an instrument. # 0 # 7.5 # spine
-A person is playing the guitar with the right hand. # 0 # 7.5 # spine
+A human playing a guitar # 0 # 7.5
+A person plays violin on the wrong side (left). # 0 # 7.5
+A person is playing an instrument. # 0 # 7.5
+A person is playing the guitar with the right hand. # 0 # 7.5

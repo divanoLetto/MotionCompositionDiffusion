@@ -1,4 +1,4 @@
-A person raises both hands to chest level, elbows bent, then bounces his left hand up and down once before dropping both hands to his sides. # 0 # 5.02 # spine
-human plays the guitar left-handed # 0 # 5.02 # spine
-a person holds something in the right hand and touches it with the left hand # 0 # 5.02 # spine
-A person makes motion as if playing triangle. # 0 # 5.02 # spine
+A person raises both hands to chest level, elbows bent, then bounces his left hand up and down once before dropping both hands to his sides. # 0 # 5.02
+human plays the guitar left-handed # 0 # 5.02
+a person holds something in the right hand and touches it with the left hand # 0 # 5.02
+A person makes motion as if playing triangle. # 0 # 5.02

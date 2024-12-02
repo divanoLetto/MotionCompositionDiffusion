@@ -1,1 +1,1 @@
-A person walks 4 steps to the forward direction. # 0 # 7.24 # spine
+A person walks 4 steps to the forward direction. # 0 # 7.24

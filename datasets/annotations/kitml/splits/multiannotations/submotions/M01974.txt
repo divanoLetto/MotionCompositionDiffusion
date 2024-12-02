@@ -1,2 +1,2 @@
-A human turning left # 0 # 5.81 # spine
-A person turns left. # 0 # 5.81 # spine
+A human turning left # 0 # 5.81
+A person turns left. # 0 # 5.81

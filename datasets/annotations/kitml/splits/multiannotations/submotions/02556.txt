@@ -1,1 +1,1 @@
-A person is doing kickboxing with his left leg. # 0 # 10 # spine
+A person is doing kickboxing with his left leg. # 0 # 10

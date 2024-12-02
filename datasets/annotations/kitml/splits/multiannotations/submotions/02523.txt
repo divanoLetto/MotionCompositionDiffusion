@@ -1,1 +1,1 @@
-A person sits down on a chair and stands up again multiple times. # 0 # 10 # spine
+A person sits down on a chair and stands up again multiple times. # 0 # 10

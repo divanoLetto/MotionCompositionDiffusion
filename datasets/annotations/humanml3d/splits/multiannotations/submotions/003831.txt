@@ -1,3 +1,3 @@
-a person swinging golf club or swinging and hitting ball with a bat. # 0 # 6.03 # spine
-someone imitating a golf swing # 0 # 6.03 # spine
-a man swings an object to the right with both of his hands. # 0 # 6.03 # spine
+a person swinging golf club or swinging and hitting ball with a bat. # 0 # 6.03
+someone imitating a golf swing # 0 # 6.03
+a man swings an object to the right with both of his hands. # 0 # 6.03

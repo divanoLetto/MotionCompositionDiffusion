@@ -1,4 +1,4 @@
-The subject ist starting with his right leg, does two steps, turns around and walks two steps back. # 0 # 5.92 # spine
-A person walks 2 steps forward, turns on left foot 180 degrees and walks again two steps to the start position. # 0 # 5.92 # spine
-A human goes 2 steps forward, then turns away anticlockwise and goes back. # 0 # 5.92 # spine
-A person takes two steps forwards, turn around 180 degree and goes back to the start position. # 0 # 5.92 # spine
+The subject ist starting with his right leg, does two steps, turns around and walks two steps back. # 0 # 5.92
+A person walks 2 steps forward, turns on left foot 180 degrees and walks again two steps to the start position. # 0 # 5.92
+A human goes 2 steps forward, then turns away anticlockwise and goes back. # 0 # 5.92
+A person takes two steps forwards, turn around 180 degree and goes back to the start position. # 0 # 5.92

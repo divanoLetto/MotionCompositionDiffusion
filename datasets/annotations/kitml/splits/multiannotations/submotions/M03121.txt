@@ -1,1 +1,1 @@
-A human uses his hands to open, search and close an object. # 0 # 10 # spine
+A human uses his hands to open, search and close an object. # 0 # 10

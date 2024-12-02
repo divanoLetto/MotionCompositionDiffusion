@@ -1,2 +1,2 @@
-a person walks quickly in a diagonal direction for 8 steps and then turns to walk in the direction they came from. # 0 # 10 # spine
-a character quickly walks forward in a diagonal motion then turns around and walks back to where they started. # 0 # 10 # spine
+a person walks quickly in a diagonal direction for 8 steps and then turns to walk in the direction they came from. # 0 # 10
+a character quickly walks forward in a diagonal motion then turns around and walks back to where they started. # 0 # 10

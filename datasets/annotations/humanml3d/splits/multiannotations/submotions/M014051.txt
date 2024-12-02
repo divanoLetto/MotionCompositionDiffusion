@@ -1,3 +1,3 @@
-a man bends down to crawl on his knees. # 0 # 10 # spine
-a person gets down on all fours and starting crawling around. # 0 # 10 # spine
-a person bends down on the ground, then starts to crawl. # 0 # 10 # spine
+a man bends down to crawl on his knees. # 0 # 10
+a person gets down on all fours and starting crawling around. # 0 # 10
+a person bends down on the ground, then starts to crawl. # 0 # 10

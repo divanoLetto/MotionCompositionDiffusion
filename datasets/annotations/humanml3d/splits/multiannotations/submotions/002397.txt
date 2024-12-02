@@ -1,3 +1,3 @@
-a person paces from left to right and vice versa. # 0 # 9.008 # spine
-a person turns left, walks then turns right and back to the left. # 0 # 9.008 # spine
-the person paced back and forth. # 0 # 9.008 # spine
+a person paces from left to right and vice versa. # 0 # 9.008
+a person turns left, walks then turns right and back to the left. # 0 # 9.008
+the person paced back and forth. # 0 # 9.008

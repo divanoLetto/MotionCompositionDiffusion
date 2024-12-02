@@ -1,5 +1,5 @@
-A person wipes the table with their right hand # 0 # 7.69 # spine
-A person traveling with the left hand with a rubbing motion on a work surface. # 0 # 7.69 # spine
-A person wipes something # 0 # 7.69 # spine
-A person is wiping horizontal with its right hand on the same hight as its hips. # 0 # 7.69 # spine
-A peron stirring with their right hand # 0 # 7.69 # spine
+A person wipes the table with their right hand # 0 # 7.69
+A person traveling with the left hand with a rubbing motion on a work surface. # 0 # 7.69
+A person wipes something # 0 # 7.69
+A person is wiping horizontal with its right hand on the same hight as its hips. # 0 # 7.69
+A peron stirring with their right hand # 0 # 7.69

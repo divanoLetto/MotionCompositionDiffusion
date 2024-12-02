@@ -1,3 +1,3 @@
-someone getting into position to start catching and tossing an object. # 0 # 10 # spine
-person raises left arm to side and lifts right hand and grabs hands together # 0 # 10 # spine
-person bounces a ball to their left hand side # 0 # 10 # spine
+someone getting into position to start catching and tossing an object. # 0 # 10
+person raises left arm to side and lifts right hand and grabs hands together # 0 # 10
+person bounces a ball to their left hand side # 0 # 10

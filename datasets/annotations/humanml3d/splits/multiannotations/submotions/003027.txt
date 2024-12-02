@@ -1,2 +1,2 @@
-the person makes a right turn. # 0 # 5.52 # spine
-a person walks in a curve towards the right # 0 # 5.52 # spine
+the person makes a right turn. # 0 # 5.52
+a person walks in a curve towards the right # 0 # 5.52

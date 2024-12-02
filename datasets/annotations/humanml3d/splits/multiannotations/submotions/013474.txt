@@ -1,3 +1,3 @@
-the person put his hands on his knees. # 0 # 8.91 # spine
-a person raised the hands and pul it down # 0 # 8.91 # spine
-a person lowers their arms, and then moves them back up to shoulder height. # 0 # 8.91 # spine
+the person put his hands on his knees. # 0 # 8.91
+a person raised the hands and pul it down # 0 # 8.91
+a person lowers their arms, and then moves them back up to shoulder height. # 0 # 8.91

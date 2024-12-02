@@ -1,3 +1,3 @@
-a person is rocking a baby # 0 # 10 # spine
-a man stands cradling something in his arms rocking it back and forth, brings it up to his face, and then begins rocking it again. # 0 # 10 # spine
-a person rocks a baby, hold the baby up, then continues to rock the baby. # 0 # 10 # spine
+a person is rocking a baby # 0 # 10
+a man stands cradling something in his arms rocking it back and forth, brings it up to his face, and then begins rocking it again. # 0 # 10
+a person rocks a baby, hold the baby up, then continues to rock the baby. # 0 # 10

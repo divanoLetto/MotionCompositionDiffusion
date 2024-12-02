@@ -1,3 +1,3 @@
-walking backwards very quickly. # 0 # 10 # spine
-the person was backing up away from someone # 0 # 10 # spine
-a person abruptly staggers backwards. # 0 # 10 # spine
+walking backwards very quickly. # 0 # 10
+the person was backing up away from someone # 0 # 10
+a person abruptly staggers backwards. # 0 # 10

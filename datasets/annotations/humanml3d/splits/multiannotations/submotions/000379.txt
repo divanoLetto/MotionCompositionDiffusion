@@ -1,3 +1,3 @@
-person is doing some 90's dances # 0 # 9.142 # spine
-a man waves his hands from side to side then does a submersion move and passes his left hand from the top right to left lower. # 0 # 9.142 # spine
-a figure poses with his arms and sways his hips motioning downward then up in a dance performance. # 0 # 9.142 # spine
+person is doing some 90's dances # 0 # 9.142
+a man waves his hands from side to side then does a submersion move and passes his left hand from the top right to left lower. # 0 # 9.142
+a figure poses with his arms and sways his hips motioning downward then up in a dance performance. # 0 # 9.142

@@ -1,3 +1,3 @@
-the person tries to stable themselves standing still but takes a step forward after losing balance # 0 # 5.5 # spine
-a person uses his arms to maintain balance, takes a step forward and puts his arms back down # 0 # 5.5 # spine
-a person stumbles forward while maintaining his balance. # 0 # 5.5 # spine
+the person tries to stable themselves standing still but takes a step forward after losing balance # 0 # 5.5
+a person uses his arms to maintain balance, takes a step forward and puts his arms back down # 0 # 5.5
+a person stumbles forward while maintaining his balance. # 0 # 5.5

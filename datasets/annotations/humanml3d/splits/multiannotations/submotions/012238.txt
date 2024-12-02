@@ -1,3 +1,3 @@
-a person who is warming up their arms and legs # 0 # 6.308 # spine
-person is standing and stretching out their triceps # 0 # 6.308 # spine
-figure appears to be stretching or warming up # 0 # 6.308 # spine
+a person who is warming up their arms and legs # 0 # 6.308
+person is standing and stretching out their triceps # 0 # 6.308
+figure appears to be stretching or warming up # 0 # 6.308

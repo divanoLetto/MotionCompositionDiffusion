@@ -1,4 +1,4 @@
-A person throws a ball # 0 # 5.64 # spine
-Someone plays tennis with the right arm # 0 # 5.64 # spine
-A person moves his right arm fast. # 0 # 5.64 # spine
-a person throws something away with its right hand # 0 # 5.64 # spine
+A person throws a ball # 0 # 5.64
+Someone plays tennis with the right arm # 0 # 5.64
+A person moves his right arm fast. # 0 # 5.64
+a person throws something away with its right hand # 0 # 5.64

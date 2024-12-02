@@ -1,3 +1,3 @@
-a person jogs forward and begins to slow down. # 0 # 2.4 # spine
-a person walks at a medium pace, diagnally towards the camera # 0 # 2.4 # spine
-a person walks straight forward down steps. # 0 # 2.4 # spine
+a person jogs forward and begins to slow down. # 0 # 2.4
+a person walks at a medium pace, diagnally towards the camera # 0 # 2.4
+a person walks straight forward down steps. # 0 # 2.4

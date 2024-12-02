@@ -1,2 +1,2 @@
-the person is waving the left hand # 0 # 8.9 # spine
-a man is wawing with his left hand # 0 # 8.9 # spine
+the person is waving the left hand # 0 # 8.9
+a man is wawing with his left hand # 0 # 8.9

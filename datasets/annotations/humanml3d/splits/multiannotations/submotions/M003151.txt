@@ -1,3 +1,3 @@
-a person tilts right leg to right branch slightly, strides forward and follows with left leg. # 0 # 4.508 # spine
-a person steps up on a platform, right foot first. # 0 # 4.508 # spine
-a man stands and makes one step forward using his right foot and then stops with both feet. # 0 # 4.508 # spine
+a person tilts right leg to right branch slightly, strides forward and follows with left leg. # 0 # 4.508
+a person steps up on a platform, right foot first. # 0 # 4.508
+a man stands and makes one step forward using his right foot and then stops with both feet. # 0 # 4.508

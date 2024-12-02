@@ -1,3 +1,3 @@
-a figure scratches where its head would be with its right hand. # 0 # 2.908 # spine
-a person scratches their head. # 0 # 2.908 # spine
-a person raises his right hand to his head and pats. # 0 # 2.908 # spine
+a figure scratches where its head would be with its right hand. # 0 # 2.908
+a person scratches their head. # 0 # 2.908
+a person raises his right hand to his head and pats. # 0 # 2.908

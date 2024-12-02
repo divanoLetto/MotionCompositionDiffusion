@@ -1,3 +1,3 @@
-walking backwards and then sitting. # 0 # 8.208 # spine
-the person sat down in the chair. # 0 # 8.208 # spine
-stick figure rotates clockwise walks backwards and then sits down # 0 # 8.208 # spine
+walking backwards and then sitting. # 0 # 8.208
+the person sat down in the chair. # 0 # 8.208
+stick figure rotates clockwise walks backwards and then sits down # 0 # 8.208

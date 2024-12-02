@@ -1,2 +1,2 @@
-A person walks in a circle. # 0 # 6.95 # spine
-a person walks in a circle to the left # 0 # 6.95 # spine
+A person walks in a circle. # 0 # 6.95
+a person walks in a circle to the left # 0 # 6.95

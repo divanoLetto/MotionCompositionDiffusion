@@ -1,3 +1,3 @@
-a person sweeping the floor # 0 # 10 # spine
-a person is sweeping the floor # 0 # 10 # spine
-a person moves their hands back and forth as if using a broom. # 0 # 10 # spine
+a person sweeping the floor # 0 # 10
+a person is sweeping the floor # 0 # 10
+a person moves their hands back and forth as if using a broom. # 0 # 10

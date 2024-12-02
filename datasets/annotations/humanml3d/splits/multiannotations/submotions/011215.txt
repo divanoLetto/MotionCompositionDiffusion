@@ -1,3 +1,3 @@
-a man is stretching the left leg while bending to the right. # 0 # 1.9 # spine
-the person is standing still with their arms on their hips, they lean back on their right leg while extending their left leg and do two mini dips with their right leg # 0 # 1.9 # spine
-a person with their hands on their hips, and their legs slightly spread apart, and bending up and down slightly. # 0 # 1.9 # spine
+a man is stretching the left leg while bending to the right. # 0 # 1.9
+the person is standing still with their arms on their hips, they lean back on their right leg while extending their left leg and do two mini dips with their right leg # 0 # 1.9
+a person with their hands on their hips, and their legs slightly spread apart, and bending up and down slightly. # 0 # 1.9

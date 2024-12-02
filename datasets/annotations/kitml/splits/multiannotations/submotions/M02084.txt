@@ -1,2 +1,2 @@
-A person stands up from a kneeling position. # 0 # 5.67 # spine
-a person stands up from the ground # 0 # 5.67 # spine
+A person stands up from a kneeling position. # 0 # 5.67
+a person stands up from the ground # 0 # 5.67

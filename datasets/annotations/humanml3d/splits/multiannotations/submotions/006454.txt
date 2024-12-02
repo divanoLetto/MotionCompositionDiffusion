@@ -1,3 +1,3 @@
-a person steps carefully while walking forwards. # 0 # 10 # spine
-the person was walking on steppingstones. # 0 # 10 # spine
-a person takes wide steps as if walking around something. # 0 # 10 # spine
+a person steps carefully while walking forwards. # 0 # 10
+the person was walking on steppingstones. # 0 # 10
+a person takes wide steps as if walking around something. # 0 # 10

@@ -1,3 +1,3 @@
-a person warming up by swinging back and arms around. # 0 # 10 # spine
-a person squats down then stands back up and rotates their torso left and right. # 0 # 10 # spine
-a person holds their arms out in front of them, squats, then swivels from side to side # 0 # 10 # spine
+a person warming up by swinging back and arms around. # 0 # 10
+a person squats down then stands back up and rotates their torso left and right. # 0 # 10
+a person holds their arms out in front of them, squats, then swivels from side to side # 0 # 10

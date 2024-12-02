@@ -1,3 +1,3 @@
-the person is kneeling down on all fours to begin to crawl # 0 # 5.43 # spine
-person got down on his knees with his arms straight out holding himself up. # 0 # 5.43 # spine
-a man stands, lowers his right leg and hand first and then kneels down. # 0 # 5.43 # spine
+the person is kneeling down on all fours to begin to crawl # 0 # 5.43
+person got down on his knees with his arms straight out holding himself up. # 0 # 5.43
+a man stands, lowers his right leg and hand first and then kneels down. # 0 # 5.43

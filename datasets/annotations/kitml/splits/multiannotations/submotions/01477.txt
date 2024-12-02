@@ -1,2 +1,2 @@
-A person raises their right arm like a bodybuilder and moves the left arm towards their right arm. # 0 # 10 # spine
-a person plays the violin with its left hand # 0 # 10 # spine
+A person raises their right arm like a bodybuilder and moves the left arm towards their right arm. # 0 # 10
+a person plays the violin with its left hand # 0 # 10

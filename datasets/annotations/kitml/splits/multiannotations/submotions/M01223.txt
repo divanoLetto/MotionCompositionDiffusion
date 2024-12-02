@@ -1,4 +1,4 @@
-A human dances to the right. # 0 # 8.71 # spine
-human performs the basic movement of the dance cha-cha-cha # 0 # 8.71 # spine
-A person performs the wiener walzer. # 0 # 8.71 # spine
-Someone is dancing. # 0 # 8.71 # spine
+A human dances to the right. # 0 # 8.71
+human performs the basic movement of the dance cha-cha-cha # 0 # 8.71
+A person performs the wiener walzer. # 0 # 8.71
+Someone is dancing. # 0 # 8.71

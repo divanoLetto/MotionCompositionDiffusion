@@ -1,3 +1,3 @@
-a person rolls his right ankle while walking # 0 # 10 # spine
-a person stumbles to their left, turns around to look behind them while walking with a limp in their right leg and stumbling to their right. # 0 # 10 # spine
-a person walks then turns ankle when they try to turn so the person tries to stretch right ankle but eventually stumbles. # 0 # 10 # spine
+a person rolls his right ankle while walking # 0 # 10
+a person stumbles to their left, turns around to look behind them while walking with a limp in their right leg and stumbling to their right. # 0 # 10
+a person walks then turns ankle when they try to turn so the person tries to stretch right ankle but eventually stumbles. # 0 # 10

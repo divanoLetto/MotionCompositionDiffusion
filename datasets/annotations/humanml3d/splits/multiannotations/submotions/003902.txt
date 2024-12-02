@@ -1,3 +1,3 @@
-the person checks the watch on his hand. # 0 # 2.642 # spine
-person likely scratched their belly. # 0 # 2.642 # spine
-a person is standing, raises their right arm to look at their watch, then lowers arm back to their side. # 0 # 2.642 # spine
+the person checks the watch on his hand. # 0 # 2.642
+person likely scratched their belly. # 0 # 2.642
+a person is standing, raises their right arm to look at their watch, then lowers arm back to their side. # 0 # 2.642

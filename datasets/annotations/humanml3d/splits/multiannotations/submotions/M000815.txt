@@ -1,3 +1,3 @@
-the man walks back and forth putting something on a shelf. # 0 # 10 # spine
-he steps forward and picks something from a shelf, then turns, walks back, turns around, and returns it. # 0 # 10 # spine
-a person is walking straight, picks something up with their left arm, and then walks back, repeating this another time. # 0 # 10 # spine
+the man walks back and forth putting something on a shelf. # 0 # 10
+he steps forward and picks something from a shelf, then turns, walks back, turns around, and returns it. # 0 # 10
+a person is walking straight, picks something up with their left arm, and then walks back, repeating this another time. # 0 # 10

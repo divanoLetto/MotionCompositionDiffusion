@@ -1,3 +1,3 @@
-the person took a large side step to the right. # 0 # 4.225 # spine
-person makes one large step to the right # 0 # 4.225 # spine
-a person standing with his hands by his sides takes a huge side step forward. # 0 # 4.225 # spine
+the person took a large side step to the right. # 0 # 4.225
+person makes one large step to the right # 0 # 4.225
+a person standing with his hands by his sides takes a huge side step forward. # 0 # 4.225

@@ -1,3 +1,3 @@
-a person climbs up something, turns around and climbs back down. # 0 # 10 # spine
-going upward link on the step and after wards get downward on the step. # 0 # 10 # spine
-walking up stairs then down. # 0 # 10 # spine
+a person climbs up something, turns around and climbs back down. # 0 # 10
+going upward link on the step and after wards get downward on the step. # 0 # 10
+walking up stairs then down. # 0 # 10

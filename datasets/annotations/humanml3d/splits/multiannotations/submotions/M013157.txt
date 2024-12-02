@@ -1,3 +1,3 @@
-a person walks slowly towards the left while slowly raising a hand and then walking backwards. # 0 # 10 # spine
-a person slowly walk forward, stops, and makes a gesture with their left hand implying "never mind" # 0 # 10 # spine
-person walks forward and raises left hand. # 0 # 10 # spine
+a person walks slowly towards the left while slowly raising a hand and then walking backwards. # 0 # 10
+a person slowly walk forward, stops, and makes a gesture with their left hand implying "never mind" # 0 # 10
+person walks forward and raises left hand. # 0 # 10

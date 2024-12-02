@@ -1,3 +1,3 @@
-a person takes one step forward, jumps into the air giving their left leg out; after landing they take another step forward, make a swift clockwise turn before taking a last step forward stopping to pose with the left arm extended perpendicular to the left of the body and the right hand held near the front of the lower torso. # 0 # 6.533 # spine
-a person jumps, kicks in the air, and then proceeds to dance and strikes a pose. # 0 # 6.533 # spine
-a person dancing like michael jackson. # 0 # 6.533 # spine
+a person takes one step forward, jumps into the air giving their left leg out; after landing they take another step forward, make a swift clockwise turn before taking a last step forward stopping to pose with the left arm extended perpendicular to the left of the body and the right hand held near the front of the lower torso. # 0 # 6.533
+a person jumps, kicks in the air, and then proceeds to dance and strikes a pose. # 0 # 6.533
+a person dancing like michael jackson. # 0 # 6.533

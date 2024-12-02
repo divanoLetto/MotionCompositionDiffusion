@@ -1,3 +1,3 @@
-the man in a fighting stance turns around to the right. # 0 # 10 # spine
-an idividual in compat position wirh right leg and arm placed forward is truning clockwise while holdinf the position. # 0 # 10 # spine
-a man is slowly moving clockwise. his right and left arms are raised to the chest as if he was ready to fight # 0 # 10 # spine
+the man in a fighting stance turns around to the right. # 0 # 10
+an idividual in compat position wirh right leg and arm placed forward is truning clockwise while holdinf the position. # 0 # 10
+a man is slowly moving clockwise. his right and left arms are raised to the chest as if he was ready to fight # 0 # 10

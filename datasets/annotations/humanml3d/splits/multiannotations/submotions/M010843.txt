@@ -1,3 +1,3 @@
-a person holds their left arm out on something to support them while sticking their left leg up to balance. # 0 # 10 # spine
-a person stands with their left arm out while moving their left leg. # 0 # 10 # spine
-a person has left arm straight to side, and is trying to kick something with left leg # 0 # 10 # spine
+a person holds their left arm out on something to support them while sticking their left leg up to balance. # 0 # 10
+a person stands with their left arm out while moving their left leg. # 0 # 10
+a person has left arm straight to side, and is trying to kick something with left leg # 0 # 10

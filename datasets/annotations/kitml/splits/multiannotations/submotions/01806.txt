@@ -1,4 +1,4 @@
-Subject walks forward, sidesteps twice left and then returns to original path. # 0 # 6.42 # spine
-a person walks forward, then sideways to his left and then back to his old direction in a curve # 0 # 6.42 # spine
-a person walks forward and gets pushed to the left # 0 # 6.42 # spine
-A person dodges an incoming object. # 0 # 6.42 # spine
+Subject walks forward, sidesteps twice left and then returns to original path. # 0 # 6.42
+a person walks forward, then sideways to his left and then back to his old direction in a curve # 0 # 6.42
+a person walks forward and gets pushed to the left # 0 # 6.42
+A person dodges an incoming object. # 0 # 6.42

@@ -1,3 +1,3 @@
-a man steps to the left steps in a small clockwise circle throws left arm then steps in a larger backward clockwise circle # 0 # 10 # spine
-a person steps back and forth and swats something to the ground # 0 # 10 # spine
-a person swats at something # 0 # 10 # spine
+a man steps to the left steps in a small clockwise circle throws left arm then steps in a larger backward clockwise circle # 0 # 10
+a person steps back and forth and swats something to the ground # 0 # 10
+a person swats at something # 0 # 10

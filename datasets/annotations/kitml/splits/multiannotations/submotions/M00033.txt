@@ -1,2 +1,2 @@
-A Person walks in a circle counterclockwise. # 0 # 8.29 # spine
-A person walks in a circle to his left side. # 0 # 8.29 # spine
+A Person walks in a circle counterclockwise. # 0 # 8.29
+A person walks in a circle to his left side. # 0 # 8.29

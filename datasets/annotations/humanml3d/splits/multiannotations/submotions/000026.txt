@@ -1,3 +1,3 @@
-a person paces back and forth in a small space # 0 # 10 # spine
-a person slowly walks forward with spine slightly hunched forward, turns around to their right and walks forward some more in the other direction, and then turns around to their right and walks forward again # 0 # 10 # spine
-a person slightly crouches down and walks forward then back, then around slowly. # 0 # 10 # spine
+a person paces back and forth in a small space # 0 # 10
+a person slowly walks forward with spine slightly hunched forward, turns around to their right and walks forward some more in the other direction, and then turns around to their right and walks forward again # 0 # 10
+a person slightly crouches down and walks forward then back, then around slowly. # 0 # 10

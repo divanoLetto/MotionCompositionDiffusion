@@ -1,3 +1,3 @@
-person looks like theyre holding a microphone and talking into it # 0 # 10 # spine
-a person steps forward and puts their hand up near their face. # 0 # 10 # spine
-a man walks forward and puts his head into his right hand. # 0 # 10 # spine
+person looks like theyre holding a microphone and talking into it # 0 # 10
+a person steps forward and puts their hand up near their face. # 0 # 10
+a man walks forward and puts his head into his right hand. # 0 # 10

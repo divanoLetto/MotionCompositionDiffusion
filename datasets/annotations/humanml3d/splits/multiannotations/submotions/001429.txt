@@ -1,3 +1,3 @@
-a man bends his right arm at the elbow in a struggling motion. # 0 # 3.05 # spine
-the person is lifting weights weights with his right arm. # 0 # 3.05 # spine
-a person raises their red arm and puts it back down twice. # 0 # 3.05 # spine
+a man bends his right arm at the elbow in a struggling motion. # 0 # 3.05
+the person is lifting weights weights with his right arm. # 0 # 3.05
+a person raises their red arm and puts it back down twice. # 0 # 3.05

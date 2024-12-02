@@ -1,3 +1,3 @@
-a person is wrinkling a paper in their hands and moving their feet from side to side # 0 # 5.65 # spine
-the person is doing a wrist and ankle warm-up. # 0 # 5.65 # spine
-the man spins his wrists around in a stretching fashion. while doing these he is also moving the respective ankle in a circular motion. # 0 # 5.65 # spine
+a person is wrinkling a paper in their hands and moving their feet from side to side # 0 # 5.65
+the person is doing a wrist and ankle warm-up. # 0 # 5.65
+the man spins his wrists around in a stretching fashion. while doing these he is also moving the respective ankle in a circular motion. # 0 # 5.65

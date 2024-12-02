@@ -1,3 +1,3 @@
-person sprints forward three steps stops then sprints forward again # 0 # 3.175 # spine
-a person who came to a halt from running; started running again # 0 # 3.175 # spine
-person runs forward, pauses, then continues running. # 0 # 3.175 # spine
+person sprints forward three steps stops then sprints forward again # 0 # 3.175
+a person who came to a halt from running; started running again # 0 # 3.175
+person runs forward, pauses, then continues running. # 0 # 3.175

@@ -1,3 +1,3 @@
-this person dribbles with his right hand and shoots. # 0 # 6.542 # spine
-he throws something very high # 0 # 6.542 # spine
-a person dribbles ball then shoots it in the basket. # 0 # 6.542 # spine
+this person dribbles with his right hand and shoots. # 0 # 6.542
+he throws something very high # 0 # 6.542
+a person dribbles ball then shoots it in the basket. # 0 # 6.542

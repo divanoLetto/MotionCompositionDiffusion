@@ -1,3 +1,3 @@
-a man moves his upper body and then his lower body. # 0 # 10 # spine
-a person moving their hips back and forth, right and left. # 0 # 10 # spine
-the person is doing a hip rotation. # 0 # 10 # spine
+a man moves his upper body and then his lower body. # 0 # 10
+a person moving their hips back and forth, right and left. # 0 # 10
+the person is doing a hip rotation. # 0 # 10

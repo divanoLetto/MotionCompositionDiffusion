@@ -1,3 +1,3 @@
-the person walked forward and then turn right. # 0 # 5.51 # spine
-a person walks towards the right side. # 0 # 5.51 # spine
-walking ahead and to the right # 0 # 5.51 # spine
+the person walked forward and then turn right. # 0 # 5.51
+a person walks towards the right side. # 0 # 5.51
+walking ahead and to the right # 0 # 5.51

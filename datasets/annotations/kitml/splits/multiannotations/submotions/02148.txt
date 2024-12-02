@@ -1,1 +1,1 @@
-A person draws two vertical lines with both hands. # 0 # 10 # spine
+A person draws two vertical lines with both hands. # 0 # 10

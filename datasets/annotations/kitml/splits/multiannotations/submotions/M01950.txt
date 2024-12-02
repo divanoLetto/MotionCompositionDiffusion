@@ -1,4 +1,4 @@
-A person does a quick and large step back. # 0 # 2.51 # spine
-human is pushed from front and counterbalances push by stepping backwards # 0 # 2.51 # spine
-a person gets pushed backwards # 0 # 2.51 # spine
-a man makes one big step backwards, thean a litlle step # 0 # 2.51 # spine
+A person does a quick and large step back. # 0 # 2.51
+human is pushed from front and counterbalances push by stepping backwards # 0 # 2.51
+a person gets pushed backwards # 0 # 2.51
+a man makes one big step backwards, thean a litlle step # 0 # 2.51

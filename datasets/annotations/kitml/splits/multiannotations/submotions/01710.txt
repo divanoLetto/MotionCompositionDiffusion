@@ -1,3 +1,3 @@
-A person stands and is then pushed from behind # 0 # 4.0 # spine
-A subject is pushed from the back while standing. # 0 # 4.0 # spine
-A human is being pushed and performs a sidestep to the front # 0 # 4.0 # spine
+A person stands and is then pushed from behind # 0 # 4.0
+A subject is pushed from the back while standing. # 0 # 4.0
+A human is being pushed and performs a sidestep to the front # 0 # 4.0

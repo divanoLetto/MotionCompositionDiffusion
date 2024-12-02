@@ -1,3 +1,3 @@
-a person doing air kicks with his left feet. # 0 # 10 # spine
-a person is kicking something with their left leg, and then starts to kick something else behind them with their right leg. # 0 # 10 # spine
-person kicks three times with left and once with right leg. # 0 # 10 # spine
+a person doing air kicks with his left feet. # 0 # 10
+a person is kicking something with their left leg, and then starts to kick something else behind them with their right leg. # 0 # 10
+person kicks three times with left and once with right leg. # 0 # 10

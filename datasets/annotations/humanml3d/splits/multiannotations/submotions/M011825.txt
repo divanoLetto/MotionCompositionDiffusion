@@ -1,3 +1,3 @@
-a person jogs diagonally to his left and then slows down to a walk. # 0 # 2.033 # spine
-a man is running with arms at side. # 0 # 2.033 # spine
-a person jogs and stops. # 0 # 2.033 # spine
+a person jogs diagonally to his left and then slows down to a walk. # 0 # 2.033
+a man is running with arms at side. # 0 # 2.033
+a person jogs and stops. # 0 # 2.033

@@ -1,4 +1,4 @@
-A person lifts and lowers their arms, steps forward and repeats it. # 0 # 8.94 # spine
-Someone performs a T-pose, 2 steps forward starting with left leg and does a T-pose again. # 0 # 8.94 # spine
-a person has its arms spread then takes them down and takes them up again # 0 # 8.94 # spine
-A person stands with his arms raised horizontally, let's his arms sink, takes two steps and raises his arms again. # 0 # 8.94 # spine
+A person lifts and lowers their arms, steps forward and repeats it. # 0 # 8.94
+Someone performs a T-pose, 2 steps forward starting with left leg and does a T-pose again. # 0 # 8.94
+a person has its arms spread then takes them down and takes them up again # 0 # 8.94
+A person stands with his arms raised horizontally, let's his arms sink, takes two steps and raises his arms again. # 0 # 8.94

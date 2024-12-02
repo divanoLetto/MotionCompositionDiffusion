@@ -1,7 +1,7 @@
-A person plays the air guitar. # 0 # 5.49 # spine
-The human plays air guitar. # 0 # 5.49 # spine
-Person playing air guitar # 0 # 5.49 # spine
-A person performs a drumming motion with their left hand while holding up their right hand # 0 # 5.49 # spine
-a person is doing something # 0 # 5.49 # spine
-A person performs two strokes on a guitar. # 0 # 5.49 # spine
-Person makes motions as if it is half hearted playing guitar. # 0 # 5.49 # spine
+A person plays the air guitar. # 0 # 5.49
+The human plays air guitar. # 0 # 5.49
+Person playing air guitar # 0 # 5.49
+A person performs a drumming motion with their left hand while holding up their right hand # 0 # 5.49
+a person is doing something # 0 # 5.49
+A person performs two strokes on a guitar. # 0 # 5.49
+Person makes motions as if it is half hearted playing guitar. # 0 # 5.49

@@ -1,3 +1,3 @@
-a person is stepping around while their hands are behind their back # 0 # 10 # spine
-a man is locking his hands behind his back and sweeping his legs left and right, in a dance like motion. # 0 # 10 # spine
-figure with hands clasped in front of them, sweeps their legs to the left and right # 0 # 10 # spine
+a person is stepping around while their hands are behind their back # 0 # 10
+a man is locking his hands behind his back and sweeping his legs left and right, in a dance like motion. # 0 # 10
+figure with hands clasped in front of them, sweeps their legs to the left and right # 0 # 10

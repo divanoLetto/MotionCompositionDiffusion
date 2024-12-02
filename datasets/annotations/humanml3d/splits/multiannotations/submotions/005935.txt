@@ -1,3 +1,3 @@
-place items in a line up # 0 # 10 # spine
-a person grabbed something with both hands and put it down # 0 # 10 # spine
-a person is moving an object, puts the object down and turns in an adjacent movement from the object. # 0 # 10 # spine
+place items in a line up # 0 # 10
+a person grabbed something with both hands and put it down # 0 # 10
+a person is moving an object, puts the object down and turns in an adjacent movement from the object. # 0 # 10

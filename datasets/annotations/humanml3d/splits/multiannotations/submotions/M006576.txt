@@ -1,3 +1,3 @@
-person is getting into a crouch position. # 0 # 9.42 # spine
-a person raises both their arms over their head while bending their elbows, they then bend their knees in a squat, and then come out of it. # 0 # 9.42 # spine
-a person standing up squats down, by bending both knees slightly outward and raising both of their arms above their head simultaneously. then they stand up straight and complete the motion one more time. # 0 # 9.42 # spine
+person is getting into a crouch position. # 0 # 9.42
+a person raises both their arms over their head while bending their elbows, they then bend their knees in a squat, and then come out of it. # 0 # 9.42
+a person standing up squats down, by bending both knees slightly outward and raising both of their arms above their head simultaneously. then they stand up straight and complete the motion one more time. # 0 # 9.42

@@ -1,3 +1,3 @@
-person swings left arm as if pitching a ball to the right. # 0 # 3.25 # spine
-a person throws something with their left hand hard. # 0 # 3.25 # spine
-a person throws something hard with their left arm. # 0 # 3.25 # spine
+person swings left arm as if pitching a ball to the right. # 0 # 3.25
+a person throws something with their left hand hard. # 0 # 3.25
+a person throws something hard with their left arm. # 0 # 3.25

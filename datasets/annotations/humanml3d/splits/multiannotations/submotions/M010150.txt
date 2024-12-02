@@ -1,3 +1,3 @@
-from a standing position person leans their head down to their left slowly, in front of their chest then back up kind of like a snake. # 0 # 10 # spine
-the man looks around on the ground for something. # 0 # 10 # spine
-the person is bending in a forward motion, they then move in an s-shaped pattern to arch their back and extend back up to an upleft position. # 0 # 10 # spine
+from a standing position person leans their head down to their left slowly, in front of their chest then back up kind of like a snake. # 0 # 10
+the man looks around on the ground for something. # 0 # 10
+the person is bending in a forward motion, they then move in an s-shaped pattern to arch their back and extend back up to an upleft position. # 0 # 10

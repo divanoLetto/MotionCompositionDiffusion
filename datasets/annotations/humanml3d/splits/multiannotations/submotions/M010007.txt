@@ -1,3 +1,3 @@
-the person is playing peekaboo. # 0 # 6.467 # spine
-a person holding their hands to their face and suddenly letting go; peek a boo motion # 0 # 6.467 # spine
-a person puts both hands to his face. # 0 # 6.467 # spine
+the person is playing peekaboo. # 0 # 6.467
+a person holding their hands to their face and suddenly letting go; peek a boo motion # 0 # 6.467
+a person puts both hands to his face. # 0 # 6.467

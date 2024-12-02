@@ -1,3 +1,3 @@
-a person placing something from left to right # 0 # 4.58 # spine
-a man picks something up with both hands and move it to the right. # 0 # 4.58 # spine
-a person lifts a box from the left side and puts it on the right side # 0 # 4.58 # spine
+a person placing something from left to right # 0 # 4.58
+a man picks something up with both hands and move it to the right. # 0 # 4.58
+a person lifts a box from the left side and puts it on the right side # 0 # 4.58

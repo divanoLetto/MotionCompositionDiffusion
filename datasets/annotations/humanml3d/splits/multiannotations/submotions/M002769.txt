@@ -1,3 +1,3 @@
-a person picks something up, tilts it, and then places it back. # 0 # 9.28 # spine
-pretend to hold something and moves it # 0 # 9.28 # spine
-a person carries something with both arms. # 0 # 9.28 # spine
+a person picks something up, tilts it, and then places it back. # 0 # 9.28
+pretend to hold something and moves it # 0 # 9.28
+a person carries something with both arms. # 0 # 9.28

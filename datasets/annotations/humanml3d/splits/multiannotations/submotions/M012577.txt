@@ -1,3 +1,3 @@
-a person pick up something with his right hand and with his left hand he is patting it. # 0 # 10 # spine
-the girl squats down and crawls forward on her hands and knees. # 0 # 10 # spine
-the man is picking up things # 0 # 10 # spine
+a person pick up something with his right hand and with his left hand he is patting it. # 0 # 10
+the girl squats down and crawls forward on her hands and knees. # 0 # 10
+the man is picking up things # 0 # 10

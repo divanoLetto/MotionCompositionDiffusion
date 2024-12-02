@@ -1,4 +1,4 @@
-Person jumping backwards # 0 # 5.19 # spine
-A person jumps backwards # 0 # 5.19 # spine
-Someone is jumping backwards. # 0 # 5.19 # spine
-Someone jumps backwards. # 0 # 5.19 # spine
+Person jumping backwards # 0 # 5.19
+A person jumps backwards # 0 # 5.19
+Someone is jumping backwards. # 0 # 5.19
+Someone jumps backwards. # 0 # 5.19

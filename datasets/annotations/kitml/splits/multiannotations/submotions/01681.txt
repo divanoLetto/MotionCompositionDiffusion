@@ -1,2 +1,2 @@
-a person walks forward # 0 # 5.11 # spine
-a person walks forwards quite slow # 0 # 5.11 # spine
+a person walks forward # 0 # 5.11
+a person walks forwards quite slow # 0 # 5.11

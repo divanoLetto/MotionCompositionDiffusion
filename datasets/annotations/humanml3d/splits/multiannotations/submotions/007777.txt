@@ -1,3 +1,3 @@
-a person leans their body moving their right arm above their head past their left shoulder. # 0 # 2.25 # spine
-a person stretches by leaning to the left, putting their left arm on their hip, and putting their right up straight up and over to the left # 0 # 2.25 # spine
-a person stands and stretches their right arm above and over their head to the left, their left arm spasms at the same time. # 0 # 2.25 # spine
+a person leans their body moving their right arm above their head past their left shoulder. # 0 # 2.25
+a person stretches by leaning to the left, putting their left arm on their hip, and putting their right up straight up and over to the left # 0 # 2.25
+a person stands and stretches their right arm above and over their head to the left, their left arm spasms at the same time. # 0 # 2.25

@@ -1,3 +1,3 @@
-a person leans to the left pouring something with the right hand to the left hand. # 0 # 10 # spine
-a person standing upleft working on something directly in front of them with both hands and then steps away to examine what they are working on # 0 # 10 # spine
-a person standing leaning forward. # 0 # 10 # spine
+a person leans to the left pouring something with the right hand to the left hand. # 0 # 10
+a person standing upleft working on something directly in front of them with both hands and then steps away to examine what they are working on # 0 # 10
+a person standing leaning forward. # 0 # 10

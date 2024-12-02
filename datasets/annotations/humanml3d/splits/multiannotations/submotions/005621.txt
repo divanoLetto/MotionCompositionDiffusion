@@ -1,3 +1,3 @@
-a person grabbed something and throw it with right hand # 0 # 3.342 # spine
-a person throws something lackadaisically with their right arm. # 0 # 3.342 # spine
-a man mimics a throwing motion with his right hand. # 0 # 3.342 # spine
+a person grabbed something and throw it with right hand # 0 # 3.342
+a person throws something lackadaisically with their right arm. # 0 # 3.342
+a man mimics a throwing motion with his right hand. # 0 # 3.342

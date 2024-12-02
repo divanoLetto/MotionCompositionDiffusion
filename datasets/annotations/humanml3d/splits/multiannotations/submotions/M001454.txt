@@ -1,3 +1,3 @@
-a person walks backwards and stops. # 0 # 7.55 # spine
-the body is walking backwards carefully. # 0 # 7.55 # spine
-a person who is walking backwards # 0 # 7.55 # spine
+a person walks backwards and stops. # 0 # 7.55
+the body is walking backwards carefully. # 0 # 7.55
+a person who is walking backwards # 0 # 7.55

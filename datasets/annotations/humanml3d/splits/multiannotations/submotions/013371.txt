@@ -1,3 +1,3 @@
-a person swings something with both hands # 0 # 10 # spine
-a person throws an object with both hands. # 0 # 10 # spine
-the person uses both hands to throw something to the right while facing that way. then they lean back slightly with their hands together and step slightly forward # 0 # 10 # spine
+a person swings something with both hands # 0 # 10
+a person throws an object with both hands. # 0 # 10
+the person uses both hands to throw something to the right while facing that way. then they lean back slightly with their hands together and step slightly forward # 0 # 10

@@ -1,3 +1,3 @@
-a person waves with their left arm over and over and then raises both their arms up and down # 0 # 10 # spine
-a person has their left hand raised, waves their hand, raises both hands, and finally waves both hands. # 0 # 10 # spine
-a person waves their left hand and then their left forearm and then waves both arms over their head. # 0 # 10 # spine
+a person waves with their left arm over and over and then raises both their arms up and down # 0 # 10
+a person has their left hand raised, waves their hand, raises both hands, and finally waves both hands. # 0 # 10
+a person waves their left hand and then their left forearm and then waves both arms over their head. # 0 # 10

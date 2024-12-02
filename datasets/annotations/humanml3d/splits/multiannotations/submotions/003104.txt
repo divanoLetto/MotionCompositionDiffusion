@@ -1,3 +1,3 @@
-a person walks forward, bends over, picks up an object with both hands, then turns around and walks back with the object. # 0 # 10 # spine
-moves right arm down to the left bending to the floor, then lifte the box, stands up, and turns to his left turns round and places item at waist height # 0 # 10 # spine
-a man touches his right knee with his right hand, and then he walks forward a few steps. he then turns around and walks back to where he started, except he is now facing the opposite direction. # 0 # 10 # spine
+a person walks forward, bends over, picks up an object with both hands, then turns around and walks back with the object. # 0 # 10
+moves right arm down to the left bending to the floor, then lifte the box, stands up, and turns to his left turns round and places item at waist height # 0 # 10
+a man touches his right knee with his right hand, and then he walks forward a few steps. he then turns around and walks back to where he started, except he is now facing the opposite direction. # 0 # 10

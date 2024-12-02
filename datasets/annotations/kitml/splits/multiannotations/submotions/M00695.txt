@@ -1,4 +1,4 @@
-a person walks faster and then slower. # 0 # 5.0 # spine
-a person walks forwards # 0 # 5.0 # spine
-A person walks fast. # 0 # 5.0 # spine
-A person walking forward. # 0 # 5.0 # spine
+a person walks faster and then slower. # 0 # 5.0
+a person walks forwards # 0 # 5.0
+A person walks fast. # 0 # 5.0
+A person walking forward. # 0 # 5.0

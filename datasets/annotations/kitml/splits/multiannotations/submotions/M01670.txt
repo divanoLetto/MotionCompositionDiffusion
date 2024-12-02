@@ -1,5 +1,5 @@
-Person turning on one foot # 0 # 6.18 # spine
-A person walks forward, turns around on the spot and walks back. # 0 # 6.18 # spine
-a person walks to steps forwards the turns right 180 degrees and keeps walking # 0 # 6.18 # spine
-A person walks forward before turning around 180 degree to his right and then walks forward 2 steps in the opposite direction # 0 # 6.18 # spine
-A person turns 180 degrees on his right foot. # 0 # 6.18 # spine
+Person turning on one foot # 0 # 6.18
+A person walks forward, turns around on the spot and walks back. # 0 # 6.18
+a person walks to steps forwards the turns right 180 degrees and keeps walking # 0 # 6.18
+A person walks forward before turning around 180 degree to his right and then walks forward 2 steps in the opposite direction # 0 # 6.18
+A person turns 180 degrees on his right foot. # 0 # 6.18

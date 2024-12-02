@@ -1,3 +1,3 @@
-A person is shoved to the right by someone. # 0 # 3.01 # spine
-a person stands still and gets pushed to the right # 0 # 3.01 # spine
-Somebody has been hit # 0 # 3.01 # spine
+A person is shoved to the right by someone. # 0 # 3.01
+a person stands still and gets pushed to the right # 0 # 3.01
+Somebody has been hit # 0 # 3.01

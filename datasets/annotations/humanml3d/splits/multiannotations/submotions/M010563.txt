@@ -1,3 +1,3 @@
-a person lifts their right arm up, twitches a bit, then brings their left arm up while putting their right arm down. # 0 # 4.55 # spine
-the young boy quickly stands up and runs rapidly forward towards the door. # 0 # 4.55 # spine
-a person stretches their arms alternatively over their head. # 0 # 4.55 # spine
+a person lifts their right arm up, twitches a bit, then brings their left arm up while putting their right arm down. # 0 # 4.55
+the young boy quickly stands up and runs rapidly forward towards the door. # 0 # 4.55
+a person stretches their arms alternatively over their head. # 0 # 4.55

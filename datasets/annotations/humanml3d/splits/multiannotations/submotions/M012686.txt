@@ -1,3 +1,3 @@
-laying down on face and crawling backwards. # 0 # 10 # spine
-the person is doing the military crawl backwards. # 0 # 10 # spine
-a person is laying splayed face-down on the ground, and he pushes himself backward across the ground. # 0 # 10 # spine
+laying down on face and crawling backwards. # 0 # 10
+the person is doing the military crawl backwards. # 0 # 10
+a person is laying splayed face-down on the ground, and he pushes himself backward across the ground. # 0 # 10

@@ -1,3 +1,3 @@
-a person walks down stairs while holding a railing with his left hand. # 0 # 4.69 # spine
-a man with outstretched arms drops them to his side, then start walking and places his left hand on top of two objects as he walks by. # 0 # 4.69 # spine
-person walks forwards and uses their left arm as support # 0 # 4.69 # spine
+a person walks down stairs while holding a railing with his left hand. # 0 # 4.69
+a man with outstretched arms drops them to his side, then start walking and places his left hand on top of two objects as he walks by. # 0 # 4.69
+person walks forwards and uses their left arm as support # 0 # 4.69

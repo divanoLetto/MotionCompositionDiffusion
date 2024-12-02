@@ -1,2 +1,2 @@
-A person walks slowly forward # 0 # 8.78 # spine
-A person slowly walking forward # 0 # 8.78 # spine
+A person walks slowly forward # 0 # 8.78
+A person slowly walking forward # 0 # 8.78

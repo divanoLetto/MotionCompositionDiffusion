@@ -1,3 +1,3 @@
-a person hunches with hands forward then shakes his head left to right. # 0 # 10 # spine
-a person bends over and looks around. # 0 # 10 # spine
-the person looks around while slightly slouched over # 0 # 10 # spine
+a person hunches with hands forward then shakes his head left to right. # 0 # 10
+a person bends over and looks around. # 0 # 10
+the person looks around while slightly slouched over # 0 # 10

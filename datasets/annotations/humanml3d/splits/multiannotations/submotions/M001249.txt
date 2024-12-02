@@ -1,3 +1,3 @@
-a person steps forward and reaches down to grab or place something with their right hand. # 0 # 6.12 # spine
-a person steps forward, gestures with their right hand and steps back. # 0 # 6.12 # spine
-a man walks forward and touches something, then backs away. # 0 # 6.12 # spine
+a person steps forward and reaches down to grab or place something with their right hand. # 0 # 6.12
+a person steps forward, gestures with their right hand and steps back. # 0 # 6.12
+a man walks forward and touches something, then backs away. # 0 # 6.12

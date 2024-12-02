@@ -1,3 +1,3 @@
-starting with his left foot and shoulder forward, a person turns his torso counterclockwise, extends his right arm up and forward, and lowers his left hand down. # 0 # 2.692 # spine
-the person defends themself from the punch # 0 # 2.692 # spine
-person makes fighting block and gets into fighting stance # 0 # 2.692 # spine
+starting with his left foot and shoulder forward, a person turns his torso counterclockwise, extends his right arm up and forward, and lowers his left hand down. # 0 # 2.692
+the person defends themself from the punch # 0 # 2.692
+person makes fighting block and gets into fighting stance # 0 # 2.692

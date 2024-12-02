@@ -1,3 +1,3 @@
-person moves backwards towards the left then right as though he is playing a sport game like football or basketball # 0 # 4.508 # spine
-stepping to the side then back. # 0 # 4.508 # spine
-a person sidesteps back and forth then moves backward. # 0 # 4.508 # spine
+person moves backwards towards the left then right as though he is playing a sport game like football or basketball # 0 # 4.508
+stepping to the side then back. # 0 # 4.508
+a person sidesteps back and forth then moves backward. # 0 # 4.508

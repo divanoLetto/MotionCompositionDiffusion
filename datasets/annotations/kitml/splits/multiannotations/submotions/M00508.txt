@@ -1,2 +1,2 @@
-human runs for about five steps starting with left foot # 0 # 4.61 # spine
-Somebody runs straight on. # 0 # 4.61 # spine
+human runs for about five steps starting with left foot # 0 # 4.61
+Somebody runs straight on. # 0 # 4.61

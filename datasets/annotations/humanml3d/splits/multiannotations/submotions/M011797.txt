@@ -1,3 +1,3 @@
-a person is attempting to jump rope by hopping from one leg to the other as if running in place, but has to reset every two to three jumps. # 0 # 10 # spine
-a person is skipping rope. # 0 # 10 # spine
-a person is holding a jump rope, swings rope around three times, jumping each time, and then stops before continuing to use jump rope. # 0 # 10 # spine
+a person is attempting to jump rope by hopping from one leg to the other as if running in place, but has to reset every two to three jumps. # 0 # 10
+a person is skipping rope. # 0 # 10
+a person is holding a jump rope, swings rope around three times, jumping each time, and then stops before continuing to use jump rope. # 0 # 10

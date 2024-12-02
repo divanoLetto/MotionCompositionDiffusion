@@ -1,3 +1,3 @@
-a person opens a door and appears to be swimming. # 0 # 10 # spine
-someone makes a sweeping gesture with their right arm, then swings both their arms in a circle as if they are swimming. # 0 # 10 # spine
-a person looks to explain somethign to someone with hand jestures and then starts to explain a front-crawl swimming motion. # 0 # 10 # spine
+a person opens a door and appears to be swimming. # 0 # 10
+someone makes a sweeping gesture with their right arm, then swings both their arms in a circle as if they are swimming. # 0 # 10
+a person looks to explain somethign to someone with hand jestures and then starts to explain a front-crawl swimming motion. # 0 # 10

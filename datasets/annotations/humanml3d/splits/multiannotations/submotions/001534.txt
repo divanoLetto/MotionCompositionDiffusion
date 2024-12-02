@@ -1,3 +1,3 @@
-a person is stretching its shoulders # 0 # 7.742 # spine
-a person stretching his hands and bending forward. # 0 # 7.742 # spine
-a person streches their arms to the left then right. # 0 # 7.742 # spine
+a person is stretching its shoulders # 0 # 7.742
+a person stretching his hands and bending forward. # 0 # 7.742
+a person streches their arms to the left then right. # 0 # 7.742

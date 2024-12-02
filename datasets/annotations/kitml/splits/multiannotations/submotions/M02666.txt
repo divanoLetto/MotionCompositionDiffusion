@@ -1,1 +1,1 @@
-A person is climbing up and down in different directions. # 0 # 10 # spine
+A person is climbing up and down in different directions. # 0 # 10

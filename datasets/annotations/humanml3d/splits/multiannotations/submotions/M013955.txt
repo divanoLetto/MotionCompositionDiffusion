@@ -1,3 +1,3 @@
-a person warms up pectorals by moving arms inwards and outwards. # 0 # 4.2 # spine
-the man exercises his arms by waving them inward then outward. # 0 # 4.2 # spine
-person moving hands in various motions # 0 # 4.2 # spine
+a person warms up pectorals by moving arms inwards and outwards. # 0 # 4.2
+the man exercises his arms by waving them inward then outward. # 0 # 4.2
+person moving hands in various motions # 0 # 4.2

@@ -1,3 +1,3 @@
-a person leans to their left as they punch with their right arm. # 0 # 1.45 # spine
-a person punching with his left hand. # 0 # 1.45 # spine
-person turns right knee to side then punches right hand to his left # 0 # 1.45 # spine
+a person leans to their left as they punch with their right arm. # 0 # 1.45
+a person punching with his left hand. # 0 # 1.45
+person turns right knee to side then punches right hand to his left # 0 # 1.45

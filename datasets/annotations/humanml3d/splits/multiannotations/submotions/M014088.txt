@@ -1,3 +1,3 @@
-a person stretches both their arms and holds the left arm up for a while and then stretches both arms again. # 0 # 8.34 # spine
-a person who is standing with his knees bent and his hands on his thighs reaches up with both of his arms, holds his left arm up while his right arm drops, drops his left arm, then lifts both arms out from his sides again. # 0 # 8.34 # spine
-a man squats and raises his both arms wide apart,lowers the right one down followed by the left one and then repeats. # 0 # 8.34 # spine
+a person stretches both their arms and holds the left arm up for a while and then stretches both arms again. # 0 # 8.34
+a person who is standing with his knees bent and his hands on his thighs reaches up with both of his arms, holds his left arm up while his right arm drops, drops his left arm, then lifts both arms out from his sides again. # 0 # 8.34
+a man squats and raises his both arms wide apart,lowers the right one down followed by the left one and then repeats. # 0 # 8.34

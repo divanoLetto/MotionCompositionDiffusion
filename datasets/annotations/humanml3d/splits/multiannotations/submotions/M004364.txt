@@ -1,3 +1,3 @@
-the person is wiggling his whole body. # 0 # 3.967 # spine
-a person wiggles their hips back and forth, shaking their butt. # 0 # 3.967 # spine
-a person standing and shaking their whole body. # 0 # 3.967 # spine
+the person is wiggling his whole body. # 0 # 3.967
+a person wiggles their hips back and forth, shaking their butt. # 0 # 3.967
+a person standing and shaking their whole body. # 0 # 3.967

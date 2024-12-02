@@ -1,3 +1,3 @@
-a person holds an object steady with their right arm and strums with their left arm. # 0 # 7.0 # spine
-a man holds out his right hand and with his left hand moves rapidly up and down in front of the body. # 0 # 7.0 # spine
-a person plays a guiter, holding the guitar with their right hand and strumming it with their left. # 0 # 7.0 # spine
+a person holds an object steady with their right arm and strums with their left arm. # 0 # 7.0
+a man holds out his right hand and with his left hand moves rapidly up and down in front of the body. # 0 # 7.0
+a person plays a guiter, holding the guitar with their right hand and strumming it with their left. # 0 # 7.0

@@ -1,1 +1,1 @@
-A person stops for a moment and then runs to the left. # 0 # 1.775 # spine
+A person stops for a moment and then runs to the left. # 0 # 1.775

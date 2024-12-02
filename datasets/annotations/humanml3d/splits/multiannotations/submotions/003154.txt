@@ -1,3 +1,3 @@
-a person raises their right hand then switches to raising the left. # 0 # 2.7 # spine
-a man alternates lifting his right and left arms above his head. # 0 # 2.7 # spine
-a person reaches up with the left then the right. # 0 # 2.7 # spine
+a person raises their right hand then switches to raising the left. # 0 # 2.7
+a man alternates lifting his right and left arms above his head. # 0 # 2.7
+a person reaches up with the left then the right. # 0 # 2.7

@@ -1,2 +1,2 @@
-A person is walking forwards with swinging hands. # 0 # 4.42 # spine
-A person walks forwards quickly. # 0 # 4.42 # spine
+A person is walking forwards with swinging hands. # 0 # 4.42
+A person walks forwards quickly. # 0 # 4.42

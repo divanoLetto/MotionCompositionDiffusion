@@ -1,3 +1,3 @@
-a person raised he leg for half and after changed the leg # 0 # 10 # spine
-a person balances on their right leg and then their left. # 0 # 10 # spine
-a person balances on his right foot, then switches to its left foot, then switches back to its right foot. # 0 # 10 # spine
+a person raised he leg for half and after changed the leg # 0 # 10
+a person balances on their right leg and then their left. # 0 # 10
+a person balances on his right foot, then switches to its left foot, then switches back to its right foot. # 0 # 10

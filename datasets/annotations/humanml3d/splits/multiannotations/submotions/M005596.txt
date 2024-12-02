@@ -1,3 +1,3 @@
-a person stands with arms out partway to each side, lifts his left leg, swings it forward briefly, then sweeps it in a semicircle behind him before moving it forward and standing again; he then repeats the action. # 0 # 8.583 # spine
-a person holds their arms out, stands on their right leg and waves around their left leg. # 0 # 8.583 # spine
-standing on one leg and swinging it. # 0 # 8.583 # spine
+a person stands with arms out partway to each side, lifts his left leg, swings it forward briefly, then sweeps it in a semicircle behind him before moving it forward and standing again; he then repeats the action. # 0 # 8.583
+a person holds their arms out, stands on their right leg and waves around their left leg. # 0 # 8.583
+standing on one leg and swinging it. # 0 # 8.583

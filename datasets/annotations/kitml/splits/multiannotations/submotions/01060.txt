@@ -1,2 +1,2 @@
-Someone walks in a right bend # 0 # 6.08 # spine
-A human is walking forward five steps, starting with the right foot and performing a right-turn of 90 degree. # 0 # 6.08 # spine
+Someone walks in a right bend # 0 # 6.08
+A human is walking forward five steps, starting with the right foot and performing a right-turn of 90 degree. # 0 # 6.08

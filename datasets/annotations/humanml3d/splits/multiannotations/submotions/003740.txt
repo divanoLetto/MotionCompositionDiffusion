@@ -1,3 +1,3 @@
-a person irregularly walks backwards, turns around, then continues in the opposite direction. # 0 # 10 # spine
-stumbling backs a few steps, turned around taking more steps. # 0 # 10 # spine
-a person is pushed backwards and then turns around, with caution. # 0 # 10 # spine
+a person irregularly walks backwards, turns around, then continues in the opposite direction. # 0 # 10
+stumbling backs a few steps, turned around taking more steps. # 0 # 10
+a person is pushed backwards and then turns around, with caution. # 0 # 10

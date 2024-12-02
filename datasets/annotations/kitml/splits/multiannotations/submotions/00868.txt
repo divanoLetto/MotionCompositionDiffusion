@@ -1,2 +1,2 @@
-A person walks 2 steps forward, turns on the right foot 180 degrees and walks again two steps forwards. # 0 # 6.36 # spine
-A person walks and turns around. # 0 # 6.36 # spine
+A person walks 2 steps forward, turns on the right foot 180 degrees and walks again two steps forwards. # 0 # 6.36
+A person walks and turns around. # 0 # 6.36

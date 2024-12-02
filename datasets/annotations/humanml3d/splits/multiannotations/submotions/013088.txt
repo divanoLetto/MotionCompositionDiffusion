@@ -1,3 +1,3 @@
-the person picks up the bottle of shampoo to wash the dog # 0 # 10 # spine
-the person pick something and then it’s wiping off some thing. # 0 # 10 # spine
-a person picks something up with their right hand, walks to the left, and then drys something off. # 0 # 10 # spine
+the person picks up the bottle of shampoo to wash the dog # 0 # 10
+the person pick something and then it’s wiping off some thing. # 0 # 10
+a person picks something up with their right hand, walks to the left, and then drys something off. # 0 # 10

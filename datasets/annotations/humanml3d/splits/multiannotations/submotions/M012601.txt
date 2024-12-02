@@ -1,3 +1,3 @@
-the person sat down and crossed his legs. # 0 # 7.708 # spine
-a person stands, crosses left leg in front of right, lowering themselves until they are sitting, both hands on the floor before standing and uncrossing legs. # 0 # 7.708 # spine
-a person sits with their legs crossed and then stands up. # 0 # 7.708 # spine
+the person sat down and crossed his legs. # 0 # 7.708
+a person stands, crosses left leg in front of right, lowering themselves until they are sitting, both hands on the floor before standing and uncrossing legs. # 0 # 7.708
+a person sits with their legs crossed and then stands up. # 0 # 7.708

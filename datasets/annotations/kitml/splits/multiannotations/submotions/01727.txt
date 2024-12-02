@@ -1,3 +1,3 @@
-Subject is backing away. # 0 # 5.01 # spine
-A person walks backwards a few steps # 0 # 5.01 # spine
-A person is pushed back. # 0 # 5.01 # spine
+Subject is backing away. # 0 # 5.01
+A person walks backwards a few steps # 0 # 5.01
+A person is pushed back. # 0 # 5.01

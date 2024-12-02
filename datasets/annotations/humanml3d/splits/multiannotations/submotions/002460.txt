@@ -1,3 +1,3 @@
-a person takes a couple steps forward, pauses, turns and jogs to the left, then jogs to the right, then jogs back to where he started # 0 # 10 # spine
-a person steps sneakily back and forward. # 0 # 10 # spine
-a half blue & red body stands in the center as he then runs left, turns then runs right . he runs left once more & stops bavk where he started in the middle. # 0 # 10 # spine
+a person takes a couple steps forward, pauses, turns and jogs to the left, then jogs to the right, then jogs back to where he started # 0 # 10
+a person steps sneakily back and forward. # 0 # 10
+a half blue & red body stands in the center as he then runs left, turns then runs right . he runs left once more & stops bavk where he started in the middle. # 0 # 10

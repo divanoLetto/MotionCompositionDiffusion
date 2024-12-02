@@ -1,3 +1,3 @@
-a person moves their arms in a strange manner. # 0 # 4.15 # spine
-the person adjusts their shoulders before outstretching their arms. # 0 # 4.15 # spine
-a person stretches their arms outwards. # 0 # 4.15 # spine
+a person moves their arms in a strange manner. # 0 # 4.15
+the person adjusts their shoulders before outstretching their arms. # 0 # 4.15
+a person stretches their arms outwards. # 0 # 4.15

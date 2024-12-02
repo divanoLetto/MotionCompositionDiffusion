@@ -1,3 +1,3 @@
-character lowers left hand then waves right hand in the air. # 0 # 3.35 # spine
-a person brings his right hand to his face. # 0 # 3.35 # spine
-a person raises an object up and looks up at it. # 0 # 3.35 # spine
+character lowers left hand then waves right hand in the air. # 0 # 3.35
+a person brings his right hand to his face. # 0 # 3.35
+a person raises an object up and looks up at it. # 0 # 3.35

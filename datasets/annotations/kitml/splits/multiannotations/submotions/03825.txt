@@ -1,1 +1,1 @@
-A person is repeatedly carefully walking in one direction and stopping again to look around. # 0 # 10 # spine
+A person is repeatedly carefully walking in one direction and stopping again to look around. # 0 # 10

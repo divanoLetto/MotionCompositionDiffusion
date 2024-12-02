@@ -1,3 +1,3 @@
-a person walks on a beam, loses his balance and fall off to his left. # 0 # 4.59 # spine
-moving front and little band at right side. # 0 # 4.59 # spine
-a person walks forward one foot in front of the other until he loses his balance and tilts far to the right then stumbles to his right. # 0 # 4.59 # spine
+a person walks on a beam, loses his balance and fall off to his left. # 0 # 4.59
+moving front and little band at right side. # 0 # 4.59
+a person walks forward one foot in front of the other until he loses his balance and tilts far to the right then stumbles to his right. # 0 # 4.59

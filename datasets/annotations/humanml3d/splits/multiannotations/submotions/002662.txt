@@ -1,3 +1,3 @@
-a man is crab walking backwards and then rolls to the left. # 0 # 10 # spine
-backwards all four walk and dodge # 0 # 10 # spine
-the man crab walks backwards and then rolls around a few times. # 0 # 10 # spine
+a man is crab walking backwards and then rolls to the left. # 0 # 10
+backwards all four walk and dodge # 0 # 10
+the man crab walks backwards and then rolls around a few times. # 0 # 10

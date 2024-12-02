@@ -1,3 +1,3 @@
-a person steps up and left in one motion. # 0 # 3.97 # spine
-a person takes one step diagonally to the left. # 0 # 3.97 # spine
-a person steps towards the left while moving forward. # 0 # 3.97 # spine
+a person steps up and left in one motion. # 0 # 3.97
+a person takes one step diagonally to the left. # 0 # 3.97
+a person steps towards the left while moving forward. # 0 # 3.97

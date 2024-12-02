@@ -1,3 +1,3 @@
-a man stretches his arms out, then moves his left arm back and forth. # 0 # 10 # spine
-person starts with both arms raised before using left hand pushing forward in an opening position hesitantly holds the position # 0 # 10 # spine
-a person lowers their arms, then uses their left hand to push an object to the side. # 0 # 10 # spine
+a man stretches his arms out, then moves his left arm back and forth. # 0 # 10
+person starts with both arms raised before using left hand pushing forward in an opening position hesitantly holds the position # 0 # 10
+a person lowers their arms, then uses their left hand to push an object to the side. # 0 # 10

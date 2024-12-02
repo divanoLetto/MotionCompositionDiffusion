@@ -1,3 +1,3 @@
-standing person raises left leg and both arms, turns slightly to the right, then returns to original standing position. # 0 # 5.0 # spine
-the man kicks with his left foot. # 0 # 5.0 # spine
-someone raises their left leg and extends it then lowers it # 0 # 5.0 # spine
+standing person raises left leg and both arms, turns slightly to the right, then returns to original standing position. # 0 # 5.0
+the man kicks with his left foot. # 0 # 5.0
+someone raises their left leg and extends it then lowers it # 0 # 5.0

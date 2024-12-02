@@ -1,3 +1,3 @@
-this person is cleaning a table. # 0 # 8.77 # spine
-he is leaning on something and cleaning it with a towel. # 0 # 8.77 # spine
-a person wipes off a counter before returning to a neutral pose. # 0 # 8.77 # spine
+this person is cleaning a table. # 0 # 8.77
+he is leaning on something and cleaning it with a towel. # 0 # 8.77
+a person wipes off a counter before returning to a neutral pose. # 0 # 8.77

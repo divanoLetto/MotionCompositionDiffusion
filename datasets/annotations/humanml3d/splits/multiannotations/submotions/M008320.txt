@@ -1,3 +1,3 @@
-a person while standing still raises his right hand up and down and turns to his right. # 0 # 10 # spine
-[from:0s-to:4s] a person bends their left hand above their head, and then reaches towards the top of their spine # 0 # 10 # spine
-a person blows a kiss. # 0 # 10 # spine
+a person while standing still raises his right hand up and down and turns to his right. # 0 # 10
+[from:0s-to:4s] a person bends their left hand above their head, and then reaches towards the top of their spine # 0 # 10
+a person blows a kiss. # 0 # 10

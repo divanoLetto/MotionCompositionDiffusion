@@ -1,3 +1,3 @@
-jumping up in place. # 0 # 3.892 # spine
-a person jumps into the air and does a 180. # 0 # 3.892 # spine
-a person jumps and spin in the air. # 0 # 3.892 # spine
+jumping up in place. # 0 # 3.892
+a person jumps into the air and does a 180. # 0 # 3.892
+a person jumps and spin in the air. # 0 # 3.892

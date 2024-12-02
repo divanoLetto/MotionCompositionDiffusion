@@ -1,3 +1,3 @@
-the person pick something up and tilted to the side and then set it back down. # 0 # 10 # spine
-a figure lifts something then either pours or places it on a nearby shelf to the left # 0 # 10 # spine
-person opens drawer, picks something up, and puts it back in # 0 # 10 # spine
+the person pick something up and tilted to the side and then set it back down. # 0 # 10
+a figure lifts something then either pours or places it on a nearby shelf to the left # 0 # 10
+person opens drawer, picks something up, and puts it back in # 0 # 10

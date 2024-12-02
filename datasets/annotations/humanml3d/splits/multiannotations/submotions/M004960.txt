@@ -1,3 +1,3 @@
-person is adjusting something on their head # 0 # 10 # spine
-a man raises his right arm in the air and move it around. # 0 # 10 # spine
-a person puts their right hand to their head, waves it in the air, then sets it on their head # 0 # 10 # spine
+person is adjusting something on their head # 0 # 10
+a man raises his right arm in the air and move it around. # 0 # 10
+a person puts their right hand to their head, waves it in the air, then sets it on their head # 0 # 10

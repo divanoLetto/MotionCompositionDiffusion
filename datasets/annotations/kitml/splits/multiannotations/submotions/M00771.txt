@@ -1,2 +1,2 @@
-A human moves two meters forward. # 0 # 4.07 # spine
-a person walks forwards # 0 # 4.07 # spine
+A human moves two meters forward. # 0 # 4.07
+a person walks forwards # 0 # 4.07

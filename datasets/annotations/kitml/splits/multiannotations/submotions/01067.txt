@@ -1,1 +1,1 @@
-A person walks clockwise in a circle. # 0 # 5.47 # spine
+A person walks clockwise in a circle. # 0 # 5.47

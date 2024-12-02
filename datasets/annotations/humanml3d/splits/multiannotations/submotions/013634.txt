@@ -1,3 +1,3 @@
-the person picks something up with his left hand, pulls something towards him with his right hand, wipes it off, and puts it down in his left hand. # 0 # 8.44 # spine
-a person picks up two objects, wipes the left object with the right, and then sets them both back down. # 0 # 8.44 # spine
-the person is in the shower using his right arm. # 0 # 8.44 # spine
+the person picks something up with his left hand, pulls something towards him with his right hand, wipes it off, and puts it down in his left hand. # 0 # 8.44
+a person picks up two objects, wipes the left object with the right, and then sets them both back down. # 0 # 8.44
+the person is in the shower using his right arm. # 0 # 8.44

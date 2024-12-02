@@ -1,4 +1,4 @@
-A person is doing a little jump in the air # 0 # 6.92 # spine
-A person jumps 10cm in the air, hands are down. # 0 # 6.92 # spine
-a human bends his knees and jumps up # 0 # 6.92 # spine
-A person jumps upwards. # 0 # 6.92 # spine
+A person is doing a little jump in the air # 0 # 6.92
+A person jumps 10cm in the air, hands are down. # 0 # 6.92
+a human bends his knees and jumps up # 0 # 6.92
+A person jumps upwards. # 0 # 6.92

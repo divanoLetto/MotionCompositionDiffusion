@@ -1,3 +1,3 @@
-a person runs in place and then steps to the left, makes a clockwise circle while in a running motion, where his hands are moving up and down. # 0 # 8.45 # spine
-the person is jogging in place and then jogs to the right then to the left in a circular motion # 0 # 8.45 # spine
-someone is jogging in place, waving their arms up and down and then moving in a circle. # 0 # 8.45 # spine
+a person runs in place and then steps to the left, makes a clockwise circle while in a running motion, where his hands are moving up and down. # 0 # 8.45
+the person is jogging in place and then jogs to the right then to the left in a circular motion # 0 # 8.45
+someone is jogging in place, waving their arms up and down and then moving in a circle. # 0 # 8.45

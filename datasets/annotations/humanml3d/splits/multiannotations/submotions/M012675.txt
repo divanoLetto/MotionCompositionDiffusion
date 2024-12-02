@@ -1,3 +1,3 @@
-person walks with both arms straight forward # 0 # 10 # spine
-walks and stumbles around with the arms out in front of the body. # 0 # 10 # spine
-a person is sleepwalking in a zigzag pattern. # 0 # 10 # spine
+person walks with both arms straight forward # 0 # 10
+walks and stumbles around with the arms out in front of the body. # 0 # 10
+a person is sleepwalking in a zigzag pattern. # 0 # 10

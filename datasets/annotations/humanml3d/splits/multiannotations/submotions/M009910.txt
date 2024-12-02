@@ -1,3 +1,3 @@
-the person stand and touch the head. # 0 # 3.508 # spine
-a person puts his left hand by his head, looks around, then puts his hand back down again # 0 # 3.508 # spine
-a person raises left hand to face looks around and puts hand down back to side. # 0 # 3.508 # spine
+the person stand and touch the head. # 0 # 3.508
+a person puts his left hand by his head, looks around, then puts his hand back down again # 0 # 3.508
+a person raises left hand to face looks around and puts hand down back to side. # 0 # 3.508

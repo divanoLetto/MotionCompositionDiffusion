@@ -1,3 +1,3 @@
-the person is doing arm gestures. # 0 # 10 # spine
-a person moves his left and right hand around. # 0 # 10 # spine
-a man repositions objects on a shelf then steps back away from them. # 0 # 10 # spine
+the person is doing arm gestures. # 0 # 10
+a person moves his left and right hand around. # 0 # 10
+a man repositions objects on a shelf then steps back away from them. # 0 # 10

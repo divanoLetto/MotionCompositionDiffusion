@@ -1,3 +1,3 @@
-a person picks a drink up with their right hand and finishes it. # 0 # 9.017 # spine
-a person lifts their hand to their faces and tilts their head back as if drinking # 0 # 9.017 # spine
-a person grabbed something and leaned it near to face # 0 # 9.017 # spine
+a person picks a drink up with their right hand and finishes it. # 0 # 9.017
+a person lifts their hand to their faces and tilts their head back as if drinking # 0 # 9.017
+a person grabbed something and leaned it near to face # 0 # 9.017

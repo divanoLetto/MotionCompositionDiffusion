@@ -1,3 +1,3 @@
-a person is boxing, jabbing mostly with his left hand. # 0 # 10 # spine
-a person bouncing around while throwing jabs and upper cuts. # 0 # 10 # spine
-a person is slightly jumping while alternating right and left jabs. # 0 # 10 # spine
+a person is boxing, jabbing mostly with his left hand. # 0 # 10
+a person bouncing around while throwing jabs and upper cuts. # 0 # 10
+a person is slightly jumping while alternating right and left jabs. # 0 # 10

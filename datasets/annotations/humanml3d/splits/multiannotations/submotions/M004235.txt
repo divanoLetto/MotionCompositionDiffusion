@@ -1,3 +1,3 @@
-a person steps forward and reaches out with their left hand to pick up an object that is at their waist level. they raise it to their mouth and take a sip, then put the object down. # 0 # 7.02 # spine
-a man picks something up, drinks it and then puts it back. # 0 # 7.02 # spine
-the person picks up a cup, drinks, and places it back down. # 0 # 7.02 # spine
+a person steps forward and reaches out with their left hand to pick up an object that is at their waist level. they raise it to their mouth and take a sip, then put the object down. # 0 # 7.02
+a man picks something up, drinks it and then puts it back. # 0 # 7.02
+the person picks up a cup, drinks, and places it back down. # 0 # 7.02

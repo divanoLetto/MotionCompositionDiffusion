@@ -1,3 +1,3 @@
-a man kicks the air in front of him, holding his arms up to guard his face. # 0 # 5.91 # spine
-a person raises both arms towards their face and pushes one leg up and out. # 0 # 5.91 # spine
-a person raises their arms above their head kicks with their left leg. # 0 # 5.91 # spine
+a man kicks the air in front of him, holding his arms up to guard his face. # 0 # 5.91
+a person raises both arms towards their face and pushes one leg up and out. # 0 # 5.91
+a person raises their arms above their head kicks with their left leg. # 0 # 5.91

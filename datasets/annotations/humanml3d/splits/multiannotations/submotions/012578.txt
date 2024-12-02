@@ -1,3 +1,3 @@
-person person is planting vegetables. # 0 # 10 # spine
-a person moves his hands together. # 0 # 10 # spine
-a person reaches to their right, moves both of their hands together and moves them back to the left. they repeat this process once again slowly and methodically. # 0 # 10 # spine
+person person is planting vegetables. # 0 # 10
+a person moves his hands together. # 0 # 10
+a person reaches to their right, moves both of their hands together and moves them back to the left. they repeat this process once again slowly and methodically. # 0 # 10

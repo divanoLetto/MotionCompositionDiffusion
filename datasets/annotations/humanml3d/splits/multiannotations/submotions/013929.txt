@@ -1,3 +1,3 @@
-person dancing back and forth and then raising both legs # 0 # 10 # spine
-a person is awkwardly shuffling around a room, maybe dancing, maybe exercising but cannot be sure. # 0 # 10 # spine
-man going for a short run then turning around and going back. # 0 # 10 # spine
+person dancing back and forth and then raising both legs # 0 # 10
+a person is awkwardly shuffling around a room, maybe dancing, maybe exercising but cannot be sure. # 0 # 10
+man going for a short run then turning around and going back. # 0 # 10

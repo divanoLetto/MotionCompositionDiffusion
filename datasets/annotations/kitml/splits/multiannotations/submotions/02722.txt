@@ -1,1 +1,1 @@
-A person walking forward. # 0 # 2.358 # spine
+A person walking forward. # 0 # 2.358

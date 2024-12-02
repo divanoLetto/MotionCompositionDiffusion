@@ -1,3 +1,3 @@
-a person bends down and crawls to the right. # 0 # 10 # spine
-the figure bends down, gets on their hands and knees and begins crawling to the left # 0 # 10 # spine
-crawling forward on his knees # 0 # 10 # spine
+a person bends down and crawls to the right. # 0 # 10
+the figure bends down, gets on their hands and knees and begins crawling to the left # 0 # 10
+crawling forward on his knees # 0 # 10

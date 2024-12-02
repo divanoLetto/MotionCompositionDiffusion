@@ -1,1 +1,1 @@
-A person walks a quarter circle clockwise with 4 steps. # 0 # 5.24 # spine
+A person walks a quarter circle clockwise with 4 steps. # 0 # 5.24

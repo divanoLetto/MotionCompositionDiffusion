@@ -1,3 +1,3 @@
-a person quickly runs straight forward, then bends down and picks up something with both hands. # 0 # 4.817 # spine
-the person was running to pick up a box. # 0 # 4.817 # spine
-walking forward in a diagonal line. # 0 # 4.817 # spine
+a person quickly runs straight forward, then bends down and picks up something with both hands. # 0 # 4.817
+the person was running to pick up a box. # 0 # 4.817
+walking forward in a diagonal line. # 0 # 4.817

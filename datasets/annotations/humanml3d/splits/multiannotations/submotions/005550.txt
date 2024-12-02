@@ -1,3 +1,3 @@
-a person grabbed the body and start to do some jesture # 0 # 10 # spine
-a person holds their hands at their waist while making pecking motions with their body like a chicken. # 0 # 10 # spine
-the person is pretending to be a chicken. # 0 # 10 # spine
+a person grabbed the body and start to do some jesture # 0 # 10
+a person holds their hands at their waist while making pecking motions with their body like a chicken. # 0 # 10
+the person is pretending to be a chicken. # 0 # 10

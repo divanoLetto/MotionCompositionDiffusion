@@ -1,1 +1,1 @@
-A person interacts with something uses a complex sequence of interactions. # 0 # 10 # spine
+A person interacts with something uses a complex sequence of interactions. # 0 # 10

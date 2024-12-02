@@ -1,3 +1,3 @@
-a person lays on the ground. # 0 # 2.358 # spine
-a man lies on his stomach with arms and legs spread, and then looks both ways. # 0 # 2.358 # spine
-a person is on their stomach turning their hand from right to left. # 0 # 2.358 # spine
+a person lays on the ground. # 0 # 2.358
+a man lies on his stomach with arms and legs spread, and then looks both ways. # 0 # 2.358
+a person is on their stomach turning their hand from right to left. # 0 # 2.358

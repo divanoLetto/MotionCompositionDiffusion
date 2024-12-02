@@ -1,3 +1,3 @@
-a person is stretching using his left arm. # 0 # 2.35 # spine
-man is warming up left arm # 0 # 2.35 # spine
-a person stretches by putting their left arm over their head. # 0 # 2.35 # spine
+a person is stretching using his left arm. # 0 # 2.35
+man is warming up left arm # 0 # 2.35
+a person stretches by putting their left arm over their head. # 0 # 2.35

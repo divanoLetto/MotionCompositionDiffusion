@@ -1,3 +1,3 @@
-a person balances on their right foot while kicking in multiple directions with their left foot. # 0 # 10 # spine
-the left arm is tucked in as the left legs kicks back and forth and to the left side. # 0 # 10 # spine
-a person was practicing karate kicks. # 0 # 10 # spine
+a person balances on their right foot while kicking in multiple directions with their left foot. # 0 # 10
+the left arm is tucked in as the left legs kicks back and forth and to the left side. # 0 # 10
+a person was practicing karate kicks. # 0 # 10

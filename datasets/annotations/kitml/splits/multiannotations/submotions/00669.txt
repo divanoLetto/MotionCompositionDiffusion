@@ -1,3 +1,3 @@
-Someone slowly walks forward. # 0 # 7.11 # spine
-A human walks forward. # 0 # 7.11 # spine
-A human very slowly walks a few steps forward # 0 # 7.11 # spine
+Someone slowly walks forward. # 0 # 7.11
+A human walks forward. # 0 # 7.11
+A human very slowly walks a few steps forward # 0 # 7.11

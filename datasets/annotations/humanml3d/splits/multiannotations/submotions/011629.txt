@@ -1,3 +1,3 @@
-a person bends over and picks an object up with both hands and stands up straight. # 0 # 4.7 # spine
-person bends down forward and picks up something large with both hands # 0 # 4.7 # spine
-person bent over to the front. # 0 # 4.7 # spine
+a person bends over and picks an object up with both hands and stands up straight. # 0 # 4.7
+person bends down forward and picks up something large with both hands # 0 # 4.7
+person bent over to the front. # 0 # 4.7

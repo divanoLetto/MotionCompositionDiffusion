@@ -1,3 +1,3 @@
-a person has their right hand raised in the air and slowly lowers it. # 0 # 10 # spine
-a person has their right hand up briefly then brings it down and leans slightly to the right. # 0 # 10 # spine
-a person slowly lowers his arm and waves his hand slightly left and right before lowering it down to his side. # 0 # 10 # spine
+a person has their right hand raised in the air and slowly lowers it. # 0 # 10
+a person has their right hand up briefly then brings it down and leans slightly to the right. # 0 # 10
+a person slowly lowers his arm and waves his hand slightly left and right before lowering it down to his side. # 0 # 10

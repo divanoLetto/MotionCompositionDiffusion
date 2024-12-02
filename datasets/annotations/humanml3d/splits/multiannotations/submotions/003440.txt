@@ -1,3 +1,3 @@
-the person is moving from side to side. # 0 # 10 # spine
-someone turns to flatten themselves against a wall then sidesteps along in a straight line forward then back. # 0 # 10 # spine
-a man turns to the right and walks by the sides to the right and then to the left . # 0 # 10 # spine
+the person is moving from side to side. # 0 # 10
+someone turns to flatten themselves against a wall then sidesteps along in a straight line forward then back. # 0 # 10
+a man turns to the right and walks by the sides to the right and then to the left . # 0 # 10

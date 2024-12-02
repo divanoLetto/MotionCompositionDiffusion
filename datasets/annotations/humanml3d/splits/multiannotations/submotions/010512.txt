@@ -1,3 +1,3 @@
-the person was pushed backwards but did not fall. # 0 # 6.51 # spine
-a person steps forward, gets shoved to the left, and then walks to the right and stops # 0 # 6.51 # spine
-a walking person is pushed by an unseen force, but they recover and continue on their way. # 0 # 6.51 # spine
+the person was pushed backwards but did not fall. # 0 # 6.51
+a person steps forward, gets shoved to the left, and then walks to the right and stops # 0 # 6.51
+a walking person is pushed by an unseen force, but they recover and continue on their way. # 0 # 6.51

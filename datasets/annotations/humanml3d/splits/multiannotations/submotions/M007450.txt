@@ -1,3 +1,3 @@
-the person had his hands up in his rocking back-and-forth. # 0 # 10 # spine
-the sim is standing, raises their right arm to make a windmill motion. # 0 # 10 # spine
-a person stretches their arms, then swings their right arm forward making a few circles # 0 # 10 # spine
+the person had his hands up in his rocking back-and-forth. # 0 # 10
+the sim is standing, raises their right arm to make a windmill motion. # 0 # 10
+a person stretches their arms, then swings their right arm forward making a few circles # 0 # 10

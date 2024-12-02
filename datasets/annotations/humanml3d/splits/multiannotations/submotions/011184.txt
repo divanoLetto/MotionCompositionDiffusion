@@ -1,3 +1,3 @@
-the person is running forward. # 0 # 5.17 # spine
-a person quickly jogs forward. # 0 # 5.17 # spine
-the man does walking run # 0 # 5.17 # spine
+the person is running forward. # 0 # 5.17
+a person quickly jogs forward. # 0 # 5.17
+the man does walking run # 0 # 5.17

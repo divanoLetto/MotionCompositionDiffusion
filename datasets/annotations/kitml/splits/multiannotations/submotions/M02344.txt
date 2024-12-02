@@ -1,1 +1,1 @@
-a person walks slowly # 0 # 10 # spine
+a person walks slowly # 0 # 10

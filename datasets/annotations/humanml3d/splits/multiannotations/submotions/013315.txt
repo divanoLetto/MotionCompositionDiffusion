@@ -1,3 +1,3 @@
-the man is boxing upwards # 0 # 0.95 # spine
-waving arms around randomly. # 0 # 0.95 # spine
-a person boxes upward with the right hand. # 0 # 0.95 # spine
+the man is boxing upwards # 0 # 0.95
+waving arms around randomly. # 0 # 0.95
+a person boxes upward with the right hand. # 0 # 0.95

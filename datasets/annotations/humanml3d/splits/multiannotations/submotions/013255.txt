@@ -1,3 +1,3 @@
-person makes action of stuffing something into an object, bends over to put the object down before walking forward to bend over and pick up another object and place it a little bit to the left and then returns to original spot. # 0 # 10 # spine
-a person is scrubbing something with his right hand, left hand sets it down, he walks out and picks up something with his right hand and moves backward. # 0 # 10 # spine
-a person rubs their hand and then walks over and sets down an object. # 0 # 10 # spine
+person makes action of stuffing something into an object, bends over to put the object down before walking forward to bend over and pick up another object and place it a little bit to the left and then returns to original spot. # 0 # 10
+a person is scrubbing something with his right hand, left hand sets it down, he walks out and picks up something with his right hand and moves backward. # 0 # 10
+a person rubs their hand and then walks over and sets down an object. # 0 # 10

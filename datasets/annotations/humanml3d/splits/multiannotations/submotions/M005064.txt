@@ -1,3 +1,3 @@
-a person is crwoched down with their knees bent, puts their left arm up and down three times. # 0 # 5.7 # spine
-person he’s eating with his left finger. # 0 # 5.7 # spine
-a worker sits at a circuit board. # 0 # 5.7 # spine
+a person is crwoched down with their knees bent, puts their left arm up and down three times. # 0 # 5.7
+person he’s eating with his left finger. # 0 # 5.7
+a worker sits at a circuit board. # 0 # 5.7

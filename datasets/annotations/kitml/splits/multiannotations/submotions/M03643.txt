@@ -1,1 +1,1 @@
-The subject is throwing and catching an object # 0 # 8.45 # spine
+The subject is throwing and catching an object # 0 # 8.45

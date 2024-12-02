@@ -1,2 +1,2 @@
-human goes in a circle counterclockwise # 0 # 7.5 # spine
-A human is walking in a circle to its left. # 0 # 7.5 # spine
+human goes in a circle counterclockwise # 0 # 7.5
+A human is walking in a circle to its left. # 0 # 7.5

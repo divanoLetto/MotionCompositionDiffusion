@@ -1,3 +1,3 @@
-a person turns left while walking then stops # 0 # 3.49 # spine
-a person walks ina curved line. # 0 # 3.49 # spine
-someone is walking in a semicircle to the left side # 0 # 3.49 # spine
+a person turns left while walking then stops # 0 # 3.49
+a person walks ina curved line. # 0 # 3.49
+someone is walking in a semicircle to the left side # 0 # 3.49

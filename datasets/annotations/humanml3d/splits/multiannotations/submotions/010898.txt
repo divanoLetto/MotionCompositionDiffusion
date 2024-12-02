@@ -1,3 +1,3 @@
-a person kicks something with their right foot. # 0 # 4.008 # spine
-a person looks to the left then kicks something with their right foot # 0 # 4.008 # spine
-kicking something to the side. # 0 # 4.008 # spine
+a person kicks something with their right foot. # 0 # 4.008
+a person looks to the left then kicks something with their right foot # 0 # 4.008
+kicking something to the side. # 0 # 4.008

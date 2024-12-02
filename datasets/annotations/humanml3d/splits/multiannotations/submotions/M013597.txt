@@ -1,3 +1,3 @@
-a person who is standing with legs spread apart and his arms away from his sides, steps forward with his left leg, looks to his left, then takes a step back with his left foot, a step back with his right foot, a step back with is left foot and a step back with his right foot. # 0 # 10 # spine
-a person steps forward with left leg and then walks backwards. # 0 # 10 # spine
-a person slowly walked forward and after return backwards # 0 # 10 # spine
+a person who is standing with legs spread apart and his arms away from his sides, steps forward with his left leg, looks to his left, then takes a step back with his left foot, a step back with his right foot, a step back with is left foot and a step back with his right foot. # 0 # 10
+a person steps forward with left leg and then walks backwards. # 0 # 10
+a person slowly walked forward and after return backwards # 0 # 10

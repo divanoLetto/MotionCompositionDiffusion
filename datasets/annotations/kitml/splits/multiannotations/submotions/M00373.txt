@@ -1,3 +1,3 @@
-A person walks a quarter of a circle. # 0 # 5.48 # spine
-A person walks 90degrees to the left performing a quarter circle # 0 # 5.48 # spine
-Somebody walks a quarter circle counterclockwise. # 0 # 5.48 # spine
+A person walks a quarter of a circle. # 0 # 5.48
+A person walks 90degrees to the left performing a quarter circle # 0 # 5.48
+Somebody walks a quarter circle counterclockwise. # 0 # 5.48

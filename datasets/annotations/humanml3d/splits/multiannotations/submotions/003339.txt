@@ -1,3 +1,3 @@
-a man brings arms and hands together, sways left to right, brings his right arm down and then back up again. # 0 # 10 # spine
-rotating his/her body left and right # 0 # 10 # spine
-a person raises both hands to their chest, rotates their torso, squats in this position then lowers their right hand and rotates their torso again. now lowering their hand # 0 # 10 # spine
+a man brings arms and hands together, sways left to right, brings his right arm down and then back up again. # 0 # 10
+rotating his/her body left and right # 0 # 10
+a person raises both hands to their chest, rotates their torso, squats in this position then lowers their right hand and rotates their torso again. now lowering their hand # 0 # 10

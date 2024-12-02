@@ -1,2 +1,2 @@
-A person walks forward. # 0 # 5.52 # spine
-a person walks a few steps forwards # 0 # 5.52 # spine
+A person walks forward. # 0 # 5.52
+a person walks a few steps forwards # 0 # 5.52

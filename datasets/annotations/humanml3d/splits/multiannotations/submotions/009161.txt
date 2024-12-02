@@ -1,3 +1,3 @@
-a person walks forward from one end to the other. # 0 # 6.33 # spine
-a person walks while slowly swaying their hands and arms. # 0 # 6.33 # spine
-a person walks forward six steps sluggishly. # 0 # 6.33 # spine
+a person walks forward from one end to the other. # 0 # 6.33
+a person walks while slowly swaying their hands and arms. # 0 # 6.33
+a person walks forward six steps sluggishly. # 0 # 6.33

@@ -1,3 +1,3 @@
-the person bent down and dodge something towards the right. # 0 # 10 # spine
-the person dodges something that was going to hit their head, then walks around and bends down a little and holds their head. # 0 # 10 # spine
-bending down and walking around. # 0 # 10 # spine
+the person bent down and dodge something towards the right. # 0 # 10
+the person dodges something that was going to hit their head, then walks around and bends down a little and holds their head. # 0 # 10
+bending down and walking around. # 0 # 10

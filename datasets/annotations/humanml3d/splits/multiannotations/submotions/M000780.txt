@@ -1,3 +1,3 @@
-a person picks up something on the ground on his right side he picks it up to eye level and inspects it then puts it back on the floor to the right side # 0 # 8.91 # spine
-a man picks something with his left hand, shakes it, then puts it back. # 0 # 8.91 # spine
-a person bends down, picks something up, then moves their hand around and sets the item down # 0 # 8.91 # spine
+a person picks up something on the ground on his right side he picks it up to eye level and inspects it then puts it back on the floor to the right side # 0 # 8.91
+a man picks something with his left hand, shakes it, then puts it back. # 0 # 8.91
+a person bends down, picks something up, then moves their hand around and sets the item down # 0 # 8.91

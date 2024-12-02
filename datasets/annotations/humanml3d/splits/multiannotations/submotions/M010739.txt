@@ -1,3 +1,3 @@
-a person walks backwards at a moderate pace. # 0 # 8.125 # spine
-a man backsteps for several seconds, starting with his left foot. # 0 # 8.125 # spine
-this person is walking backwards diagnolly. # 0 # 8.125 # spine
+a person walks backwards at a moderate pace. # 0 # 8.125
+a man backsteps for several seconds, starting with his left foot. # 0 # 8.125
+this person is walking backwards diagnolly. # 0 # 8.125

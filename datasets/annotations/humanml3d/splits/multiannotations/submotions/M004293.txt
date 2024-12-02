@@ -1,3 +1,3 @@
-a person confidently walks down an aisle while stretching/loosening up their arm. # 0 # 8.8 # spine
-a man walks forward in a straight line at first then sidles to the left side. # 0 # 8.8 # spine
-a person walks forward placing their left hand against something as they do. # 0 # 8.8 # spine
+a person confidently walks down an aisle while stretching/loosening up their arm. # 0 # 8.8
+a man walks forward in a straight line at first then sidles to the left side. # 0 # 8.8
+a person walks forward placing their left hand against something as they do. # 0 # 8.8

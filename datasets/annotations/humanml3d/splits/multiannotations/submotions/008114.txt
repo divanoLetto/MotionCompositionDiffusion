@@ -1,3 +1,3 @@
-a person performs three jumping jacks. # 0 # 4.125 # spine
-a man performs three jumping jacks # 0 # 4.125 # spine
-a person performs three jumping jacks. # 0 # 4.125 # spine
+a person performs three jumping jacks. # 0 # 4.125
+a man performs three jumping jacks # 0 # 4.125
+a person performs three jumping jacks. # 0 # 4.125

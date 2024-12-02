@@ -1,2 +1,2 @@
-Person stumbles forward. # 0 # 2.53 # spine
-A person stumbles forward. # 0 # 2.53 # spine
+Person stumbles forward. # 0 # 2.53
+A person stumbles forward. # 0 # 2.53

@@ -1,2 +1,2 @@
-Person running forwards and then stopping # 0 # 4.55 # spine
-Someone walks forward # 0 # 4.55 # spine
+Person running forwards and then stopping # 0 # 4.55
+Someone walks forward # 0 # 4.55

@@ -1,3 +1,3 @@
-a person walks diagonally backwards # 0 # 10 # spine
-a man ducks backwards towards his left, then ducks forward towards his right, he then stands up straight and walks backwards towards his left. # 0 # 10 # spine
-a person dodges things thrown at them by blocking with their left hand and then ducking. # 0 # 10 # spine
+a person walks diagonally backwards # 0 # 10
+a man ducks backwards towards his left, then ducks forward towards his right, he then stands up straight and walks backwards towards his left. # 0 # 10
+a person dodges things thrown at them by blocking with their left hand and then ducking. # 0 # 10

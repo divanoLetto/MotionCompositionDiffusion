@@ -1,3 +1,3 @@
-a person tries to screw something large into place. # 0 # 10 # spine
-a person bent over bracing object with right hand and rotating object with their left hand. # 0 # 10 # spine
-a person bends over to loosen a bolt with a wrench # 0 # 10 # spine
+a person tries to screw something large into place. # 0 # 10
+a person bent over bracing object with right hand and rotating object with their left hand. # 0 # 10
+a person bends over to loosen a bolt with a wrench # 0 # 10

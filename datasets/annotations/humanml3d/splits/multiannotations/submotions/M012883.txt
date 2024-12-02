@@ -1,3 +1,3 @@
-person is working on their boxing form # 0 # 10 # spine
-the man is moving his arms and legs # 0 # 10 # spine
-the person is doing karate moves. # 0 # 10 # spine
+person is working on their boxing form # 0 # 10
+the man is moving his arms and legs # 0 # 10
+the person is doing karate moves. # 0 # 10

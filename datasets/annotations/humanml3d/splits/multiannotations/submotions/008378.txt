@@ -1,3 +1,3 @@
-a man climbs up and seems to be putting something away with both hands # 0 # 10 # spine
-person is doing some sort of dance # 0 # 10 # spine
-a person steps up onto something, moves something from his left hand to his right, and starts rubbing something. # 0 # 10 # spine
+a man climbs up and seems to be putting something away with both hands # 0 # 10
+person is doing some sort of dance # 0 # 10
+a person steps up onto something, moves something from his left hand to his right, and starts rubbing something. # 0 # 10

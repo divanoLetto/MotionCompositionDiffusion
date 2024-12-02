@@ -1,3 +1,3 @@
-person is jogging and then gets down and walks like an ape and then gets back up and jogs again. # 0 # 5.533 # spine
-a person/ animal comes to a stop. bends over onto all fours and crawls for a bit. stand back up and runs off. # 0 # 5.533 # spine
-a person in running and has to crawl under an obstacle to continue # 0 # 5.533 # spine
+person is jogging and then gets down and walks like an ape and then gets back up and jogs again. # 0 # 5.533
+a person/ animal comes to a stop. bends over onto all fours and crawls for a bit. stand back up and runs off. # 0 # 5.533
+a person in running and has to crawl under an obstacle to continue # 0 # 5.533

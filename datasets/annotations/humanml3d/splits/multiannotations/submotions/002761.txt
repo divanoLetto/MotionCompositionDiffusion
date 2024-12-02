@@ -1,2 +1,2 @@
-a person walks turning to the left. # 0 # 5.24 # spine
-a person walks slightly to the right forward # 0 # 5.24 # spine
+a person walks turning to the left. # 0 # 5.24
+a person walks slightly to the right forward # 0 # 5.24

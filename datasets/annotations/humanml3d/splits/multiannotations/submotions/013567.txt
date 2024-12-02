@@ -1,3 +1,3 @@
-person is performing dance moves # 0 # 4.925 # spine
-the person took a sideways step and did a piroiette. # 0 # 4.925 # spine
-the person spins while practicing a ballet routine # 0 # 4.925 # spine
+person is performing dance moves # 0 # 4.925
+the person took a sideways step and did a piroiette. # 0 # 4.925
+the person spins while practicing a ballet routine # 0 # 4.925

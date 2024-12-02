@@ -1,3 +1,3 @@
-a person is sitting with both hands together. # 0 # 10 # spine
-a stick model is squatting and joining their arms in front # 0 # 10 # spine
-the man is sitting down # 0 # 10 # spine
+a person is sitting with both hands together. # 0 # 10
+a stick model is squatting and joining their arms in front # 0 # 10
+the man is sitting down # 0 # 10

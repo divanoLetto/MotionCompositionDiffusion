@@ -1,3 +1,3 @@
-Someone looks at their left foot. # 0 # 5.28 # spine
-A person raises and lowers his right leg about 40 centimeters. # 0 # 5.28 # spine
-A person raises his left leg to stand on his right foot for 1 second before letting down his left leg. # 0 # 5.28 # spine
+Someone looks at their left foot. # 0 # 5.28
+A person raises and lowers his right leg about 40 centimeters. # 0 # 5.28
+A person raises his left leg to stand on his right foot for 1 second before letting down his left leg. # 0 # 5.28

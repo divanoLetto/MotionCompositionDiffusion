@@ -1,3 +1,3 @@
-a person walks up four steps while holding onto the railing with their left hand. # 0 # 5.99 # spine
-walking up stairs with arm out. # 0 # 5.99 # spine
-a person is walking up the stairs whilst holding the railing with their left hand # 0 # 5.99 # spine
+a person walks up four steps while holding onto the railing with their left hand. # 0 # 5.99
+walking up stairs with arm out. # 0 # 5.99
+a person is walking up the stairs whilst holding the railing with their left hand # 0 # 5.99

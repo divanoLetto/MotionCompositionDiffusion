@@ -1,3 +1,3 @@
-a person opens and drinks from a container. # 0 # 3.75 # spine
-a person opens a bottle and drinks from it. # 0 # 3.75 # spine
-the person takes the lid of a bottle and drinks it # 0 # 3.75 # spine
+a person opens and drinks from a container. # 0 # 3.75
+a person opens a bottle and drinks from it. # 0 # 3.75
+the person takes the lid of a bottle and drinks it # 0 # 3.75

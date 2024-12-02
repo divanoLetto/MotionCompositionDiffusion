@@ -1,3 +1,3 @@
-a person runs and then jumps # 0 # 3.45 # spine
-the person jumps over something and lands on feet. # 0 # 3.45 # spine
-person runs forward and then jumps forwards with both feet and lands on two feet # 0 # 3.45 # spine
+a person runs and then jumps # 0 # 3.45
+the person jumps over something and lands on feet. # 0 # 3.45
+person runs forward and then jumps forwards with both feet and lands on two feet # 0 # 3.45

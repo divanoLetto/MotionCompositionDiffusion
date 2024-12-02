@@ -1,3 +1,3 @@
-a person uses their right hands to move their right foot to rest against the last leg in a yoga pose, then repeats the same motion with the left leg. # 0 # 10 # spine
-a person grabs their right foot and places it on their left thigh, and balances on one foot and then does the same with the other foot. # 0 # 10 # spine
-lifting right leg grabbing with right arm then placing right foot on left thigh. returning to standing position then lifting left leg and grabbing left foot with left hand # 0 # 10 # spine
+a person uses their right hands to move their right foot to rest against the last leg in a yoga pose, then repeats the same motion with the left leg. # 0 # 10
+a person grabs their right foot and places it on their left thigh, and balances on one foot and then does the same with the other foot. # 0 # 10
+lifting right leg grabbing with right arm then placing right foot on left thigh. returning to standing position then lifting left leg and grabbing left foot with left hand # 0 # 10

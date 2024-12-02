@@ -1,2 +1,2 @@
-a person walks, stops, takes a few steps back and starts walking again. # 0 # 6.49 # spine
-a person walks forwards gets pushed backwards and then walks forwards again # 0 # 6.49 # spine
+a person walks, stops, takes a few steps back and starts walking again. # 0 # 6.49
+a person walks forwards gets pushed backwards and then walks forwards again # 0 # 6.49
