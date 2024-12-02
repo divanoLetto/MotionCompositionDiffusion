@@ -217,7 +217,13 @@ def generate_testset(c: DictConfig):
                     print(joints_video_paths[idx])
 
                     smpl_renderer(
-                        output["vertices"], title="", output=smpl_video_paths[idx]
+                        output["vertices"], video=True, title="", output=smpl_video_paths[idx]
+                    )
+                
+                if hasattr(c, "single_frame") and c.single_frame is True:
+                    logger.info(f"Joints rendering {idx}")
+                    smpl_renderer(
+                        output["vertices"], video=False, title="", output=smpl_video_paths[idx]
                     )
 
 

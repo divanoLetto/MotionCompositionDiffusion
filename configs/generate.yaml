@@ -7,7 +7,8 @@ defaults:
 run_dir: pretrained_models/mdm-smpl_clip_smplrifke_humanml3d
 submotions: ???
 input_type: auto # timeline / text
-animations: false # render or not with smpl
+animations: false # render or not video with smpl
+single_frame: false # render or not summary frame with smpl
 gender: male
 
 guidance: 1
