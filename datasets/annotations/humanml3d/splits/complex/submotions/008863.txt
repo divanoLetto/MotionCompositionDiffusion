@@ -1,2 +1,2 @@
-A person raises both arms above their head. # 0 # 1.5 # spine
-A person shakes their body. # 1 # 1.825 # spine
+A person raises both arms above their head. # 0 # 1.5
+A person shakes their body. # 1 # 1.825

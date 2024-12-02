@@ -1,3 +1,3 @@
-A person crosses their arms, right over left. # 0 # 3 # spine
-A person crosses their arms, left over right. # 2 # 5 # spine
-A person raises both arms above their head. # 4 # 10 # spine
+A person crosses their arms, right over left. # 0 # 3
+A person crosses their arms, left over right. # 2 # 5
+A person raises both arms above their head. # 4 # 10

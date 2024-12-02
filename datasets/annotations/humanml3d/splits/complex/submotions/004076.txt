@@ -1,2 +1,2 @@
-A person holds both hands together. # 0 # 6 # spine
-A person lowers their hands to their sides. # 6 # 10.0 # spine
+A person holds both hands together. # 0 # 6
+A person lowers their hands to their sides. # 6 # 10.0

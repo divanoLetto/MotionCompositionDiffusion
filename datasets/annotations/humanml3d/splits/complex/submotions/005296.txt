@@ -1,2 +1,2 @@
-A person stands in a wide stance with both arms raised. # 0 # 5 # spine
-A person moves their left arm in a circular motion. # 3 # 10.0 # spine
+A person stands in a wide stance with both arms raised. # 0 # 5
+A person moves their left arm in a circular motion. # 3 # 10.0

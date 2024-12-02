@@ -1,2 +1,2 @@
-A person walks side to side with both arms extended outward. # 0 # 4 # spine
-A person is waving their arms up and down while stepping side to side. # 3 # 9.942 # spine
+A person walks side to side with both arms extended outward. # 0 # 4
+A person is waving their arms up and down while stepping side to side. # 3 # 9.942

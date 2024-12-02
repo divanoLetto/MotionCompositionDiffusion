@@ -1,2 +1,2 @@
-A person sways side by side with arms out. # 0 # 3 # spine
-A person waves their arms around. # 2 # 3.308 # spine
+A person sways side by side with arms out. # 0 # 3
+A person waves their arms around. # 2 # 3.308

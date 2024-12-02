@@ -1,2 +1,2 @@
-A person raises both arms to cover their face. # 0 # 6 # spine
-A person jabs with their right arm. # 6 # 10.0 # spine
+A person raises both arms to cover their face. # 0 # 6
+A person jabs with their right arm. # 6 # 10.0

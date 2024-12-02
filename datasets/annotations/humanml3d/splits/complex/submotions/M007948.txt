@@ -1,2 +1,2 @@
-A person flaps their arms like a chicken. # 0 # 10 # spine
-A person pivots on their left foot. # 0 # 10 # spine
+A person flaps their arms like a chicken. # 0 # 10
+A person pivots on their left foot. # 0 # 10

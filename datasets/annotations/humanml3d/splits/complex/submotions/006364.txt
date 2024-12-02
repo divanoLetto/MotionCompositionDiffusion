@@ -1,2 +1,2 @@
-A person kicks forward with their left leg. # 0 # 2 # spine
-A person walks forward. # 2 # 3.892 # spine
+A person kicks forward with their left leg. # 0 # 2
+A person walks forward. # 2 # 3.892

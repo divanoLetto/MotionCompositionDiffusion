@@ -1,2 +1,2 @@
-A person sidesteps to the left. # 0 # 2 # spine
-A person sidesteps to the right. # 2 # 5.808 # spine
+A person sidesteps to the left. # 0 # 2
+A person sidesteps to the right. # 2 # 5.808

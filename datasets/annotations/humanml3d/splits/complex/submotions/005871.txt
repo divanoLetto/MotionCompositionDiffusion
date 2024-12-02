@@ -1,2 +1,2 @@
-A person is standing still. # 0 # 2 # spine
-A person does a hitting motion with his right hand. # 2 # 2.71 # spine
+A person is standing still. # 0 # 2
+A person does a hitting motion with his right hand. # 2 # 2.71

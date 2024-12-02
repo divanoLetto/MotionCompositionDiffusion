@@ -1,2 +1,2 @@
-A person raises their arms in front of them. # 0 # 3 # spine
-A person moves their hands back and forth. # 2 # 5.85 # spine
+A person raises their arms in front of them. # 0 # 3
+A person moves their hands back and forth. # 2 # 5.85

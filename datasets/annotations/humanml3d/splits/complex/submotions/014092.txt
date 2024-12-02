@@ -1,4 +1,4 @@
-A person holds a drum with their left hand. # 0 # 3 # spine
-A person hits with their right hand. # 2 # 5 # spine
-A person continues to hit the drum with their right hand. # 5 # 8 # spine
-A person lowers their right hand. # 8 # 10 # spine
+A person holds a drum with their left hand. # 0 # 3
+A person hits with their right hand. # 2 # 5
+A person continues to hit the drum with their right hand. # 5 # 8
+A person lowers their right hand. # 8 # 10

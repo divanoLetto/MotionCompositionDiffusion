@@ -1,2 +1,2 @@
-A person is dancing. # 0 # 5 # spine
-A person slides to the left. # 5 # 8.7 # spine
+A person is dancing. # 0 # 5
+A person slides to the left. # 5 # 8.7

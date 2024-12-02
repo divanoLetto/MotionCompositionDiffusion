@@ -1,2 +1,2 @@
-A person holds their arms out. # 0 # 6 # spine
-A person is waving their arms. # 5 # 10.0 # spine
+A person holds their arms out. # 0 # 6
+A person is waving their arms. # 5 # 10.0

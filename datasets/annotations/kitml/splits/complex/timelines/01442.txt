@@ -1,2 +1,2 @@
-A person uses their left hand to hit something. # 0 # 4.91 # spine
-A person wipes something with its left hand. # 4 # 6.01 # spine
+A person uses their left hand to hit something. # 0 # 4.91
+A person wipes something with its left hand. # 4 # 6.01

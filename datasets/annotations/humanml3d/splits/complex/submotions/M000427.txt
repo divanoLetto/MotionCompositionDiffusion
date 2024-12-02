@@ -1,2 +1,2 @@
-A person is in a fighting pose with both hands ready to strike. # 0 # 2.85 # spine
-A person kicks with their left foot. # 2 # 2.85 # spine
+A person is in a fighting pose with both hands ready to strike. # 0 # 2.85
+A person kicks with their left foot. # 2 # 2.85

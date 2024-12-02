@@ -1,2 +1,2 @@
-A person moves back and forth in semi-circles with arms moving at his sides. # 0 # 8.008 # spine
-A person raises both arms up and down while shaking his body. # 2 # 8 # spine
+A person moves back and forth in semi-circles with arms moving at his sides. # 0 # 8.008
+A person raises both arms up and down while shaking his body. # 2 # 8

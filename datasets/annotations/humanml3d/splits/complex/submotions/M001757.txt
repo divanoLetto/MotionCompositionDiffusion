@@ -1,5 +1,5 @@
-A person puts their hands up in front of them. # 0 # 2 # spine
-A person throws a punch with their right hand. # 2 # 4 # spine
-A person throws a punch with their left hand. # 4 # 6 # spine
-A person throws a slap with their left hand. # 6 # 8 # spine
-A person takes a step forward. # 8 # 10.0 # spine
+A person puts their hands up in front of them. # 0 # 2
+A person throws a punch with their right hand. # 2 # 4
+A person throws a punch with their left hand. # 4 # 6
+A person throws a slap with their left hand. # 6 # 8
+A person takes a step forward. # 8 # 10.0

@@ -1,2 +1,2 @@
-A person is clapping their hands. # 0 # 2 # spine
-The person is flapping his arms like a chicken. # 2 # 10.0 # spine
+A person is clapping their hands. # 0 # 2
+The person is flapping his arms like a chicken. # 2 # 10.0

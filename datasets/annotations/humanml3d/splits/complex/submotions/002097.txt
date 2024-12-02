@@ -1,5 +1,5 @@
-A person steps forward with their left foot. # 0 # 2 # spine
-A person looks to their left side. # 2 # 4 # spine
-A person steps back with their right foot. # 4 # 6 # spine
-A person looks to their right side. # 6 # 8 # spine
-A person steps forward again with their left foot. # 8 # 10.0 # spine
+A person steps forward with their left foot. # 0 # 2
+A person looks to their left side. # 2 # 4
+A person steps back with their right foot. # 4 # 6
+A person looks to their right side. # 6 # 8
+A person steps forward again with their left foot. # 8 # 10.0

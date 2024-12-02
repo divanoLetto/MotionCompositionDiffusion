@@ -1,2 +1,2 @@
-A person throws something with their right hand. # 0 # 2 # spine
-A person is standing still and then catches something with both hands. # 2 # 4.408 # spine
+A person throws something with their right hand. # 0 # 2
+A person is standing still and then catches something with both hands. # 2 # 4.408

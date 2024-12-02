@@ -1,2 +1,2 @@
-A person is holding something in front of them. # 0 # 5 # spine
-A person raises both arms to the side. # 4 # 10 # spine
+A person is holding something in front of them. # 0 # 5
+A person raises both arms to the side. # 4 # 10

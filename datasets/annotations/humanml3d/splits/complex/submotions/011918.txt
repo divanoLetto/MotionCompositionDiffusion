@@ -1,2 +1,2 @@
-A person sits down with both hands on their thighs. # 0 # 2 # spine
-A person raises their arms up as if to play the drums. # 0 # 2.2 # spine
+A person sits down with both hands on their thighs. # 0 # 2
+A person raises their arms up as if to play the drums. # 0 # 2.2

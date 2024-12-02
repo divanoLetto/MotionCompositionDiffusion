@@ -1,2 +1,2 @@
-A person is standing and making a strumming gesture. # 0 # 5.85 # spine
-A person moves their right arm up and down. # 5 # 7.03 # spine
+A person is standing and making a strumming gesture. # 0 # 5.85
+A person moves their right arm up and down. # 5 # 7.03

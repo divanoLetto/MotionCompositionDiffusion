@@ -1,4 +1,4 @@
-A person raises both hands in the air. # 0 # 2 # spine
-A person moves their left leg. # 2 # 4 # spine
-A person moves their right leg. # 4 # 6 # spine
-A person waves their hands. # 6 # 8.4 # spine
+A person raises both hands in the air. # 0 # 2
+A person moves their left leg. # 2 # 4
+A person moves their right leg. # 4 # 6
+A person waves their hands. # 6 # 8.4

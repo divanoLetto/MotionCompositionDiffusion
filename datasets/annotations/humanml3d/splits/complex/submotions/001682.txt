@@ -1,2 +1,2 @@
-A person moves their arms in a circular motion. # 0 # 6 # spine
-A person raises their left arm up and down. # 2 # 10.0 # spine
+A person moves their arms in a circular motion. # 0 # 6
+A person raises their left arm up and down. # 2 # 10.0

@@ -1,3 +1,3 @@
-A person walks in all directions while performing aggressive gestures. # 0 # 5 # spine
-A person jumps in the air while putting arms and legs out. # 4 # 7 # spine
-A person shakes their arms vigorously back and forth. # 6 # 10.0 # spine
+A person walks in all directions while performing aggressive gestures. # 0 # 5
+A person jumps in the air while putting arms and legs out. # 4 # 7
+A person shakes their arms vigorously back and forth. # 6 # 10.0

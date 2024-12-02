@@ -1,2 +1,2 @@
-A person puts his right hand on his hip and his left arm outstretched like a teapot.  # 0 # 5 # spine
-A person tips over as if pouring from a teapot.  # 5 # 10 # spine
+A person puts his right hand on his hip and his left arm outstretched like a teapot.  # 0 # 5
+A person tips over as if pouring from a teapot.  # 5 # 10

@@ -1,2 +1,2 @@
-A person stands with legs spread apart, left hand extends to hit opponent's head area twice. # 0 # 4 # spine
-The person throws an uppercut with their right hand. # 4 # 10.0 # spine
+A person stands with legs spread apart, left hand extends to hit opponent's head area twice. # 0 # 4
+The person throws an uppercut with their right hand. # 4 # 10.0

@@ -1,2 +1,2 @@
-A person punches with their left hand repeatedly. # 0 # 0.5 # spine
-A person punches with their right hand. # 0.4 # 0.9 # spine
+A person punches with their left hand repeatedly. # 0 # 0.5
+A person punches with their right hand. # 0.4 # 0.9

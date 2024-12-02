@@ -1,2 +1,2 @@
-A person raises both hands to their face. # 0 # 3 # spine
-A person makes a jabbing motion with their left arm. # 2 # 3.65 # spine
+A person raises both hands to their face. # 0 # 3
+A person makes a jabbing motion with their left arm. # 2 # 3.65

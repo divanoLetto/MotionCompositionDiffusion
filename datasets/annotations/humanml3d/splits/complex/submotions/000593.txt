@@ -1,1 +1,1 @@
-A person swings an object towards the left. # 0 # 3.7 # spine
+A person swings an object towards the left. # 0 # 3.7

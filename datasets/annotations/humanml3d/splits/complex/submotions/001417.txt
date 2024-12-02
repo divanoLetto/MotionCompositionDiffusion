@@ -1,2 +1,2 @@
-A person rolls their fists together while squatting multiple times. # 0 # 5 # spine
-A person makes a disco motion with their hands. # 4 # 9.892 # spine
+A person rolls their fists together while squatting multiple times. # 0 # 5
+A person makes a disco motion with their hands. # 4 # 9.892

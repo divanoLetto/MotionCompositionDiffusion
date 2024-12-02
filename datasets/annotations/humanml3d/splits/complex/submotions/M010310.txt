@@ -1,2 +1,2 @@
-A person kicks with their right leg while moving forward. # 0 # 5 # spine
-A person kicks with their left leg while moving forward. # 4 # 10 # spine
+A person kicks with their right leg while moving forward. # 0 # 5
+A person kicks with their left leg while moving forward. # 4 # 10

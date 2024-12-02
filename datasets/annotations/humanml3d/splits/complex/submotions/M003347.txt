@@ -1,2 +1,2 @@
-A person bends at the knees. # 0 # 2 # spine
-A person lifts something with both hands. # 2 # 5.983 # spine
+A person bends at the knees. # 0 # 2
+A person lifts something with both hands. # 2 # 5.983

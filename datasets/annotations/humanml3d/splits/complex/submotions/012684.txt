@@ -1,2 +1,2 @@
-A person walks in a circle. # 0 # 6 # spine
-A person steps in a square formation starting with left foot. # 4 # 10.0 # spine
+A person walks in a circle. # 0 # 6
+A person steps in a square formation starting with left foot. # 4 # 10.0

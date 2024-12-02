@@ -1,2 +1,2 @@
-A person is moving their hands and hips rapidly. # 0 # 2.0 # spine
-A person is waving their arms about. # 1 # 2.0 # spine
+A person is moving their hands and hips rapidly. # 0 # 2.0
+A person is waving their arms about. # 1 # 2.0

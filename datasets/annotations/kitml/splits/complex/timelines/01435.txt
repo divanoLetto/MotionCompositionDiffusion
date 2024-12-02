@@ -1,2 +1,2 @@
-A person raises their right arm.  # 0 # 2 # spine
-A person swings a racket with their right arm.  # 2 # 5.93 # spine
+A person raises their right arm.  # 0 # 2
+A person swings a racket with their right arm.  # 2 # 5.93

@@ -1,2 +1,2 @@
-A person stands with arms outstretched on either side. # 0 # 2 # spine
-A person makes swimming motions with his hands. # 2 # 6.875 # spine
+A person stands with arms outstretched on either side. # 0 # 2
+A person makes swimming motions with his hands. # 2 # 6.875

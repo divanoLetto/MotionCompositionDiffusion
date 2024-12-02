@@ -1,2 +1,2 @@
-A person spins around with their hands raised.  # 0 # 6 # spine
-A person moves side to side.  # 4 # 10.0 # spine
+A person spins around with their hands raised.  # 0 # 6
+A person moves side to side.  # 4 # 10.0

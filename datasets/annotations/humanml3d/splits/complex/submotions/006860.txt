@@ -1,1 +1,1 @@
-A person walks in a clockwise circle while facing forwards. # 0 # 2.6 # spine
+A person walks in a clockwise circle while facing forwards. # 0 # 2.6

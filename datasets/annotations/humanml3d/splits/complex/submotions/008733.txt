@@ -1,2 +1,2 @@
-A person performs a ballerina balance pose, first on their right leg. # 0 # 5 # spine
-A person spins around in a circle. # 5 # 9.792000000000002 # spine
+A person performs a ballerina balance pose, first on their right leg. # 0 # 5
+A person spins around in a circle. # 5 # 9.792000000000002

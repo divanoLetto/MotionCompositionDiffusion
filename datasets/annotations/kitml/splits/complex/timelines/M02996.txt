@@ -1,2 +1,2 @@
-A person is running forward. # 0 # 3 # spine
-A person is bouncing a basketball with both hands. # 2 # 4.325 # spine
+A person is running forward. # 0 # 3
+A person is bouncing a basketball with both hands. # 2 # 4.325

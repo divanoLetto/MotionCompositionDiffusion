@@ -1,2 +1,2 @@
-A person is shimming their hips and shoulders side to side. # 0 # 5.008 # spine
-A person lifts their shoulders and arms out to the side and then quickly drops them back down. # 0 # 5 # spine
+A person is shimming their hips and shoulders side to side. # 0 # 5.008
+A person lifts their shoulders and arms out to the side and then quickly drops them back down. # 0 # 5

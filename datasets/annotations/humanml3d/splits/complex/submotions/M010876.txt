@@ -1,2 +1,2 @@
-A person reaches for an item to their lower right. # 0 # 2.5 # spine
-A person lifts the item with both hands. # 2 # 4.942 # spine
+A person reaches for an item to their lower right. # 0 # 2.5
+A person lifts the item with both hands. # 2 # 4.942

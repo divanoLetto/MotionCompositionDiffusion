@@ -1,4 +1,4 @@
-A person takes a step to the left. # 0 # 2 # spine
-A person takes a step to the right. # 2 # 4 # spine
-A person raises both hands above their head. # 4 # 6 # spine
-A person spins around in a circle. # 6 # 10.0 # spine
+A person takes a step to the left. # 0 # 2
+A person takes a step to the right. # 2 # 4
+A person raises both hands above their head. # 4 # 6
+A person spins around in a circle. # 6 # 10.0

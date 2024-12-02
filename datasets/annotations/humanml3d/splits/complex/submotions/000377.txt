@@ -1,2 +1,2 @@
-A person is moving their arms and legs rapidly. # 0 # 6 # spine
-A person is jumping around playfully. # 6 # 10.0 # spine
+A person is moving their arms and legs rapidly. # 0 # 6
+A person is jumping around playfully. # 6 # 10.0

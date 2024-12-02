@@ -1,2 +1,2 @@
-A person spins their arms around in a circular motion. # 0 # 6 # spine
-A person moves their left arm in a circular motion. # 4 # 10.0 # spine
+A person spins their arms around in a circular motion. # 0 # 6
+A person moves their left arm in a circular motion. # 4 # 10.0

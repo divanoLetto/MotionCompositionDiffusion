@@ -1,2 +1,2 @@
-A person raises their arms to the side. # 0 # 3 # spine
-A person is dancing. # 3 # 10 # spine
+A person raises their arms to the side. # 0 # 3
+A person is dancing. # 3 # 10

@@ -1,4 +1,4 @@
-A person steps forward with their right foot. # 0 # 3 # spine
-A person steps forward with their left foot. # 2 # 5 # spine
-A person steps forward with their right foot. # 4 # 7 # spine
-A person steps forward with their left foot. # 6 # 10 # spine
+A person steps forward with their right foot. # 0 # 3
+A person steps forward with their left foot. # 2 # 5
+A person steps forward with their right foot. # 4 # 7
+A person steps forward with their left foot. # 6 # 10

@@ -1,2 +1,2 @@
-a person raises both arms to horizontal right and begins to waltz in one location. # 0 # 6 # spine
-a man is doing a waltz in a circle. # 4 # 10.0 # spine
+a person raises both arms to horizontal right and begins to waltz in one location. # 0 # 6
+a man is doing a waltz in a circle. # 4 # 10.0

@@ -1,2 +1,2 @@
-A person raises the right arm and moves the left arm up and down quickly. # 0 # 5 # spine
-A person holds his hands at shoulder height. # 5 # 10 # spine
+A person raises the right arm and moves the left arm up and down quickly. # 0 # 5
+A person holds his hands at shoulder height. # 5 # 10

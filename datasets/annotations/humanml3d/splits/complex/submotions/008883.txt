@@ -1,2 +1,2 @@
-A person stands still. # 0 # 2 # spine
-A person holds something with their left hand. # 2 # 6.63 # spine
+A person stands still. # 0 # 2
+A person holds something with their left hand. # 2 # 6.63

@@ -1,4 +1,4 @@
-A person brings their right elbow to their left knee. # 0 # 3 # spine
-A person brings their left elbow to their right knee. # 2 # 5 # spine
-A person stands straight. # 4 # 6 # spine
-A person bends at the knees a few times. # 5 # 9.999999999999998 # spine
+A person brings their right elbow to their left knee. # 0 # 3
+A person brings their left elbow to their right knee. # 2 # 5
+A person stands straight. # 4 # 6
+A person bends at the knees a few times. # 5 # 9.999999999999998

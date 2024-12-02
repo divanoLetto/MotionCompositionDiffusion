@@ -1,2 +1,2 @@
-A person punches with their left hand. # 0 # 2 # spine
-A person raises their left hand and then lowers it. # 2 # 5.44 # spine
+A person punches with their left hand. # 0 # 2
+A person raises their left hand and then lowers it. # 2 # 5.44

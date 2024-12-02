@@ -1,2 +1,2 @@
-A person crosses their wrists together making an x. # 0 # 3.0 # spine
-A person is standing and making a strumming gesture. # 2 # 3.0 # spine
+A person crosses their wrists together making an x. # 0 # 3.0
+A person is standing and making a strumming gesture. # 2 # 3.0

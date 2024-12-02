@@ -1,2 +1,2 @@
-A person raises their right hand to their head. # 0 # 1.75 # spine
-A person throws a punch with their right hand. # 1 # 1.75 # spine
+A person raises their right hand to their head. # 0 # 1.75
+A person throws a punch with their right hand. # 1 # 1.75

@@ -1,2 +1,2 @@
-A person kicks with their right leg. # 0 # 2 # spine
-A person raises their arms above their head. # 2 # 10.0 # spine
+A person kicks with their right leg. # 0 # 2
+A person raises their arms above their head. # 2 # 10.0

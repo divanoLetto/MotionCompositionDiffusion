@@ -1,2 +1,2 @@
-A person holds their hands together in front of them. # 0 # 3 # spine
-A person moves their arms as if playing drums. # 2 # 10.0 # spine
+A person holds their hands together in front of them. # 0 # 3
+A person moves their arms as if playing drums. # 2 # 10.0

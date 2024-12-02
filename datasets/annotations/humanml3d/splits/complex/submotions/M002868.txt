@@ -1,2 +1,2 @@
-A person moves his left and right arm in the air. # 0 # 10 # spine
-The person is banging on a high object. # 0 # 10 # spine
+A person moves his left and right arm in the air. # 0 # 10
+The person is banging on a high object. # 0 # 10

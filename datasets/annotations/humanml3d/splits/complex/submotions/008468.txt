@@ -1,2 +1,2 @@
-A person is standing and juggling with both his hands. # 0 # 6 # spine
-A person lifts something up. # 6 # 10.0 # spine
+A person is standing and juggling with both his hands. # 0 # 6
+A person lifts something up. # 6 # 10.0

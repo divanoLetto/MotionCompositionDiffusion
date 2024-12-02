@@ -1,5 +1,5 @@
-A person steps forward and swings their arms. # 0 # 2 # spine
-A person raises both arms and jumps. # 2 # 4 # spine
-A person steps to the left and then to the right. # 4 # 6 # spine
-A person walks forward and swings arms. # 6 # 8 # spine
-A person does a side step to the left. # 8 # 10.0 # spine
+A person steps forward and swings their arms. # 0 # 2
+A person raises both arms and jumps. # 2 # 4
+A person steps to the left and then to the right. # 4 # 6
+A person walks forward and swings arms. # 6 # 8
+A person does a side step to the left. # 8 # 10.0

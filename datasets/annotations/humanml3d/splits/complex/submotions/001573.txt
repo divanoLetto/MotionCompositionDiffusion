@@ -1,2 +1,2 @@
-A person throws punches with both arms. # 0 # 6 # spine
-A person raises both hands. # 6 # 10.0 # spine
+A person throws punches with both arms. # 0 # 6
+A person raises both hands. # 6 # 10.0

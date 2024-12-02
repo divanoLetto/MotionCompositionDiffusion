@@ -1,2 +1,2 @@
-A person looks to be dribbling something with both hands, then makes a jump shot. # 0 # 6 # spine
-A person walks forward. # 4 # 10.0 # spine
+A person looks to be dribbling something with both hands, then makes a jump shot. # 0 # 6
+A person walks forward. # 4 # 10.0

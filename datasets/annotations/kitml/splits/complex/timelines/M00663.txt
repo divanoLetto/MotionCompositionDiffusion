@@ -1,2 +1,2 @@
-A person raises his arms like wings. # 0 # 3 # spine
-A person kneels down. # 2 # 3.01 # spine
+A person raises his arms like wings. # 0 # 3
+A person kneels down. # 2 # 3.01

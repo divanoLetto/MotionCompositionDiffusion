@@ -1,2 +1,2 @@
-A person is swinging both legs and arms. # 0 # 6 # spine
-A person is moving their legs and arms. # 0 # 9.467 # spine
+A person is swinging both legs and arms. # 0 # 6
+A person is moving their legs and arms. # 0 # 9.467

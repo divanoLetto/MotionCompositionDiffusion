@@ -1,2 +1,2 @@
-a person waltzes back and forth with another person. # 0 # 6 # spine
-a person moves in a waltzing motion with their hands up as if they are holding onto a partner. # 4 # 10.0 # spine
+a person waltzes back and forth with another person. # 0 # 6
+a person moves in a waltzing motion with their hands up as if they are holding onto a partner. # 4 # 10.0

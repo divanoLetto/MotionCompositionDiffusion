@@ -1,1 +1,1 @@
-A person is jumping up and down. # 0 # 10.0 # spine
+A person is jumping up and down. # 0 # 10.0

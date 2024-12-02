@@ -1,3 +1,3 @@
-A person pivots on their left knee towards their right knee. # 0 # 2 # spine
-A person pivots on their right knee towards their left knee. # 2 # 3.875 # spine
-A person rotates their hands counterclockwise around each other. # 0 # 3.875 # spine
+A person pivots on their left knee towards their right knee. # 0 # 2
+A person pivots on their right knee towards their left knee. # 2 # 3.875
+A person rotates their hands counterclockwise around each other. # 0 # 3.875

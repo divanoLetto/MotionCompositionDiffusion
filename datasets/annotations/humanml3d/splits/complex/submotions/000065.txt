@@ -1,2 +1,2 @@
-someone is swinging their left arm in circles and then their right arm in circles. # 0 # 10.0 # spine
-the person is walking back and forth. # 0 # 10.0 # spine
+someone is swinging their left arm in circles and then their right arm in circles. # 0 # 10.0
+the person is walking back and forth. # 0 # 10.0

@@ -1,2 +1,2 @@
-A human raises his arms like wings. # 0 # 3 # spine
-A human moves with his hips and legs in a rhythmic manner. # 2 # 3.26 # spine
+A human raises his arms like wings. # 0 # 3
+A human moves with his hips and legs in a rhythmic manner. # 2 # 3.26

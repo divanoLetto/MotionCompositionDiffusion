@@ -1,2 +1,2 @@
-A person walks in a clockwise circle while swinging their arms. # 0 # 5 # spine
-A person shuffles their feet in a circular motion. # 4 # 9.75 # spine
+A person walks in a clockwise circle while swinging their arms. # 0 # 5
+A person shuffles their feet in a circular motion. # 4 # 9.75

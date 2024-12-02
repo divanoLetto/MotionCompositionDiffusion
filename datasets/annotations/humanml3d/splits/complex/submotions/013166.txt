@@ -1,2 +1,2 @@
-A person raises their right arm slowly. # 0 # 1.65 # spine
-A person moves their left arm slightly. # 1 # 1.65 # spine
+A person raises their right arm slowly. # 0 # 1.65
+A person moves their left arm slightly. # 1 # 1.65

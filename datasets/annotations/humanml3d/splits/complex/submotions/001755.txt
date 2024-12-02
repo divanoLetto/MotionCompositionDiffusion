@@ -1,2 +1,2 @@
-A person moves backwards while sliding his feet. # 0 # 2.5 # spine
-A person shuffles to the left, then shuffles to the right. # 2 # 4.508 # spine
+A person moves backwards while sliding his feet. # 0 # 2.5
+A person shuffles to the left, then shuffles to the right. # 2 # 4.508

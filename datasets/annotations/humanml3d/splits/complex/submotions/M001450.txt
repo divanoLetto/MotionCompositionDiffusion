@@ -1,2 +1,2 @@
-A person is swaying from side to side while clapping their hands. # 0 # 4 # spine
-A person moves their arms in front of their face. # 2 # 4.95 # spine
+A person is swaying from side to side while clapping their hands. # 0 # 4
+A person moves their arms in front of their face. # 2 # 4.95

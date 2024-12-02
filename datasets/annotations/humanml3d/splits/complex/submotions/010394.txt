@@ -1,2 +1,2 @@
-A person holds their hands together. # 0 # 3 # spine
-A person moves their hands as if throwing something. # 2 # 9.5 # spine
+A person holds their hands together. # 0 # 3
+A person moves their hands as if throwing something. # 2 # 9.5

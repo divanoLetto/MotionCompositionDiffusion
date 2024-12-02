@@ -1,2 +1,2 @@
-A man swings a golf club. # 0 # 4.61 # spine
-A person stands with their legs parted. # 0 # 4 # spine
+A man swings a golf club. # 0 # 4.61
+A person stands with their legs parted. # 0 # 4

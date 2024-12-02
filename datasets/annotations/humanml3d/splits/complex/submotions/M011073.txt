@@ -1,4 +1,4 @@
-A person jumps up and down. # 0 # 2 # spine
-A person kicks the air with their left leg. # 1 # 4 # spine
-A person raises their hands and claps. # 4 # 6 # spine
-A person poses with both arms raised. # 5 # 6.533 # spine
+A person jumps up and down. # 0 # 2
+A person kicks the air with their left leg. # 1 # 4
+A person raises their hands and claps. # 4 # 6
+A person poses with both arms raised. # 5 # 6.533

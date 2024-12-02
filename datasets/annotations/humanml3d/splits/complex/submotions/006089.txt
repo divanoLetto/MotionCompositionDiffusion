@@ -1,2 +1,2 @@
-A person bounces a ball with both hands. # 0 # 2 # spine
-A person loses balance while bouncing. # 2 # 5.76 # spine
+A person bounces a ball with both hands. # 0 # 2
+A person loses balance while bouncing. # 2 # 5.76

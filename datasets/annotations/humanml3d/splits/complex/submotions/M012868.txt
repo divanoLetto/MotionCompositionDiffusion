@@ -1,2 +1,2 @@
-a person is jogging in place. # 0 # 10.0 # spine
-a person moves their arms around in a floating motion. # 2 # 10.0 # spine
+a person is jogging in place. # 0 # 10.0
+a person moves their arms around in a floating motion. # 2 # 10.0

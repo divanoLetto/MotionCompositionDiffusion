@@ -1,2 +1,2 @@
-A person bows their head deeply. # 0 # 4 # spine
-A person moves into a fighting stance. # 2 # 4.292 # spine
+A person bows their head deeply. # 0 # 4
+A person moves into a fighting stance. # 2 # 4.292

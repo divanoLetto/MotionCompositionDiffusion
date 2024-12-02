@@ -1,2 +1,2 @@
-A person raises both hands to shoulder height. # 0 # 3 # spine
-A person swings their arms in circles in front of them. # 2 # 7.13 # spine
+A person raises both hands to shoulder height. # 0 # 3
+A person swings their arms in circles in front of them. # 2 # 7.13

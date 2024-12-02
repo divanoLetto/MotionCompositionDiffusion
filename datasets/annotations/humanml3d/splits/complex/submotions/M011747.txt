@@ -1,2 +1,2 @@
-A person moves their arms in and out. # 0 # 10.0 # spine
-A person moves their legs in and out. # 2 # 10.0 # spine
+A person moves their arms in and out. # 0 # 10.0
+A person moves their legs in and out. # 2 # 10.0

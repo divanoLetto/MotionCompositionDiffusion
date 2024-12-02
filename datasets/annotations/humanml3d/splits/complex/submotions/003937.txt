@@ -1,2 +1,2 @@
-A person takes a quick step to their left side. # 0 # 2 # spine
-A person kicks with their left leg. # 2 # 5.13 # spine
+A person takes a quick step to their left side. # 0 # 2
+A person kicks with their left leg. # 2 # 5.13

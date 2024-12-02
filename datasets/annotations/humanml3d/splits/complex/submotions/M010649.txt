@@ -1,2 +1,2 @@
-A person raises their arms above their head. # 0 # 6 # spine
-A person moves in a waltzing motion with their hands up as if they are holding onto a partner. # 4 # 10.0 # spine
+A person raises their arms above their head. # 0 # 6
+A person moves in a waltzing motion with their hands up as if they are holding onto a partner. # 4 # 10.0

@@ -1,2 +1,2 @@
-A person swings a golf club with both hands. # 0 # 3.767 # spine
-A person stands with their legs apart. # 0 # 3 # spine
+A person swings a golf club with both hands. # 0 # 3.767
+A person stands with their legs apart. # 0 # 3

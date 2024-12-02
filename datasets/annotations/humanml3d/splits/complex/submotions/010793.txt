@@ -1,2 +1,2 @@
-A person raises their left hand to the side of their head. # 0 # 1.5 # spine
-A person raises their right arm in a boxing position. # 1 # 1.5 # spine
+A person raises their left hand to the side of their head. # 0 # 1.5
+A person raises their right arm in a boxing position. # 1 # 1.5

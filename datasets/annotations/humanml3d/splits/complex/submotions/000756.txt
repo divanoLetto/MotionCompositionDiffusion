@@ -1,2 +1,2 @@
-A person is moving their arms around. # 0 # 2 # spine
-A person is jumping around the floor playfully. # 2 # 9.442 # spine
+A person is moving their arms around. # 0 # 2
+A person is jumping around the floor playfully. # 2 # 9.442

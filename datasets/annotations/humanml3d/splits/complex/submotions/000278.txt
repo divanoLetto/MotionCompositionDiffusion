@@ -1,2 +1,2 @@
-a person jogs happily in place. # 0 # 5.0 # spine
-a person swings both of their arms in circular motions. # 0 # 10.0 # spine
+a person jogs happily in place. # 0 # 5.0
+a person swings both of their arms in circular motions. # 0 # 10.0

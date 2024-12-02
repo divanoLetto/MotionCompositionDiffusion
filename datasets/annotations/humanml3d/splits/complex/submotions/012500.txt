@@ -1,4 +1,4 @@
-A person jumps up and down while swinging their arms. # 0 # 3 # spine
-A person raises their arms above their head. # 2 # 5 # spine
-A person jumps and spreads their legs. # 4 # 7 # spine
-A person lowers their arms and jumps. # 6 # 10.0 # spine
+A person jumps up and down while swinging their arms. # 0 # 3
+A person raises their arms above their head. # 2 # 5
+A person jumps and spreads their legs. # 4 # 7
+A person lowers their arms and jumps. # 6 # 10.0

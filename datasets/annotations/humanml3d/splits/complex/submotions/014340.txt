@@ -1,2 +1,2 @@
-A person is moving their arms in a rhythmic manner. # 0 # 5 # spine
-A person raises their right arm. # 4 # 10 # spine
+A person is moving their arms in a rhythmic manner. # 0 # 5
+A person raises their right arm. # 4 # 10

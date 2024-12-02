@@ -1,2 +1,2 @@
-A person is jogging in place.  # 0 # 3 # spine
-A person swings and moves their arms.  # 2 # 6.05 # spine
+A person is jogging in place.  # 0 # 3
+A person swings and moves their arms.  # 2 # 6.05

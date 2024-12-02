@@ -1,2 +1,2 @@
-A person is laying face down. # 0 # 7.725 # spine
-A person moves their hands forward. # 2 # 7.725 # spine
+A person is laying face down. # 0 # 7.725
+A person moves their hands forward. # 2 # 7.725

@@ -1,2 +1,2 @@
-A person shifts his weight from his right foot to his left foot as he throws something with his left hand. # 0 # 4 # spine
-A person is throwing something with his left hand. # 4 # 5.892 # spine
+A person shifts his weight from his right foot to his left foot as he throws something with his left hand. # 0 # 4
+A person is throwing something with his left hand. # 4 # 5.892

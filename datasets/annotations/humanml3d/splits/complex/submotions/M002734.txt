@@ -1,2 +1,2 @@
-A person is moving their arms to warm up. # 0 # 3.35 # spine
-A person is waving with both of their arms. # 2 # 3.35 # spine
+A person is moving their arms to warm up. # 0 # 3.35
+A person is waving with both of their arms. # 2 # 3.35

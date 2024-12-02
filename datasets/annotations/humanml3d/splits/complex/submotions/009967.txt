@@ -1,2 +1,2 @@
-A person is standing still and moving their arms in front of them. # 0 # 4 # spine
-A person throws punches with both arms. # 3 # 8.442 # spine
+A person is standing still and moving their arms in front of them. # 0 # 4
+A person throws punches with both arms. # 3 # 8.442

@@ -1,2 +1,2 @@
-A person bounces on their feet. # 0 # 6 # spine
-A person moves their left hand. # 4 # 10.0 # spine
+A person bounces on their feet. # 0 # 6
+A person moves their left hand. # 4 # 10.0

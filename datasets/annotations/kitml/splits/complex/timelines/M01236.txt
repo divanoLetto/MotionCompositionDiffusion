@@ -1,2 +1,2 @@
-A person raises their arms for defense. # 0 # 5 # spine
-A person kicks with the right foot. # 3 # 10 # spine
+A person raises their arms for defense. # 0 # 5
+A person kicks with the right foot. # 3 # 10

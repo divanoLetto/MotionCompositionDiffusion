@@ -1,3 +1,3 @@
-A person lays on their stomach. # 0 # 2 # spine
-A person uses their arms to paddle. # 2 # 8 # spine
-A person raises their arms. # 8 # 10.0 # spine
+A person lays on their stomach. # 0 # 2
+A person uses their arms to paddle. # 2 # 8
+A person raises their arms. # 8 # 10.0

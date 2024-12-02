@@ -1,2 +1,2 @@
-A person is doing a yoga pose. # 0 # 6 # spine
-A person is standing on one leg in yoga pose. # 4 # 10.0 # spine
+A person is doing a yoga pose. # 0 # 6
+A person is standing on one leg in yoga pose. # 4 # 10.0

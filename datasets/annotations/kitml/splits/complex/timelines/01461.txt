@@ -1,2 +1,2 @@
-A person raises their right arm. # 0 # 3 # spine
-A person makes motions as if playing an instrument with their right arm. # 2 # 10 # spine
+A person raises their right arm. # 0 # 3
+A person makes motions as if playing an instrument with their right arm. # 2 # 10

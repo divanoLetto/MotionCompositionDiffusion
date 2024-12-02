@@ -1,2 +1,2 @@
-A person slowly walks backwards, his hands down by his side. # 0 # 5 # spine
-A standing person shakes their right and left arms in equal motions several times. # 3 # 5.35 # spine
+A person slowly walks backwards, his hands down by his side. # 0 # 5
+A standing person shakes their right and left arms in equal motions several times. # 3 # 5.35

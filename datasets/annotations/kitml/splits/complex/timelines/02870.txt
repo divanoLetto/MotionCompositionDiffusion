@@ -1,3 +1,3 @@
-A person makes a careful step forward of about 0.5 meters starting with the left leg. # 0 # 2 # spine
-A person makes another careful step forward. # 2 # 3.642 # spine
-A person holds a golf club with both hands. # 2.5 # 3.642 # spine
+A person makes a careful step forward of about 0.5 meters starting with the left leg. # 0 # 2
+A person makes another careful step forward. # 2 # 3.642
+A person holds a golf club with both hands. # 2.5 # 3.642

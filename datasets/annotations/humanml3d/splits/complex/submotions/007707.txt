@@ -1,3 +1,3 @@
-A person has both hands clasped together and is moving them in the air. # 0 # 2 # spine
-A person holds their hands palms together and waves them around side to side in front of him slowly. # 2 # 4 # spine
-A person has both hands clasped together make a figure eight from side to side in front of himself. # 4 # 4.05 # spine
+A person has both hands clasped together and is moving them in the air. # 0 # 2
+A person holds their hands palms together and waves them around side to side in front of him slowly. # 2 # 4
+A person has both hands clasped together make a figure eight from side to side in front of himself. # 4 # 4.05

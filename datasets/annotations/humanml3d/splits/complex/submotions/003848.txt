@@ -1,3 +1,3 @@
-A person stands with feet apart and slightly bent over. # 0 # 2 # spine
-A person brings their hands back. # 2 # 4 # spine
-A person swings their left arm forward. # 4 # 4.683 # spine
+A person stands with feet apart and slightly bent over. # 0 # 2
+A person brings their hands back. # 2 # 4
+A person swings their left arm forward. # 4 # 4.683

@@ -1,2 +1,2 @@
-A person raises both hands to chin level.  # 0 # 3 # spine
-A person kicks with their left leg.  # 3 # 10.0 # spine
+A person raises both hands to chin level.  # 0 # 3
+A person kicks with their left leg.  # 3 # 10.0

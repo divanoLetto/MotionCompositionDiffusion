@@ -1,2 +1,2 @@
-A man raises his arms to chest height, crosses them, and releases them back down toward his hips. # 0 # 5 # spine
-A person throws with their left hand then catches. # 3 # 10.0 # spine
+A man raises his arms to chest height, crosses them, and releases them back down toward his hips. # 0 # 5
+A person throws with their left hand then catches. # 3 # 10.0

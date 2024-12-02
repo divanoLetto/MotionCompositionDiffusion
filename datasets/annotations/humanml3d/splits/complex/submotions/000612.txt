@@ -1,2 +1,2 @@
-A person holds something in both hands. # 0 # 3 # spine
-A person moves around while holding something. # 2 # 10.0 # spine
+A person holds something in both hands. # 0 # 3
+A person moves around while holding something. # 2 # 10.0

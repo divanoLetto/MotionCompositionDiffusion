@@ -1,3 +1,3 @@
-A person is punching something. # 0 # 3 # spine
-A person is raising their right arm. # 2 # 3.933 # spine
-A person is alternating punching forward with their left and right hands. # 3 # 3.933 # spine
+A person is punching something. # 0 # 3
+A person is raising their right arm. # 2 # 3.933
+A person is alternating punching forward with their left and right hands. # 3 # 3.933

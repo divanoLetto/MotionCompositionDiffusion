@@ -1,2 +1,2 @@
-A person performs martial arts with their right arm blocking 4 times at a high level. # 0 # 5 # spine
-A person kicks with their left leg. # 5 # 10.0 # spine
+A person performs martial arts with their right arm blocking 4 times at a high level. # 0 # 5
+A person kicks with their left leg. # 5 # 10.0

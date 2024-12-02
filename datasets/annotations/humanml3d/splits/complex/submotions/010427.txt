@@ -1,4 +1,4 @@
-A person stands with their arms straight out at their sides. # 0 # 2 # spine
-A person lowers their arms to their sides. # 2 # 4 # spine
-A person raises their arms outward before putting them back down. # 4 # 6 # spine
-A person moves their arms in a swimming motion. # 5 # 6.875 # spine
+A person stands with their arms straight out at their sides. # 0 # 2
+A person lowers their arms to their sides. # 2 # 4
+A person raises their arms outward before putting them back down. # 4 # 6
+A person moves their arms in a swimming motion. # 5 # 6.875

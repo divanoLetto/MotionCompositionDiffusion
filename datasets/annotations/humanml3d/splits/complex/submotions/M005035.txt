@@ -1,2 +1,2 @@
-A person lowers their hands, makes a traveling sign, raises their hands to their mouth, and leans to their left side. # 0 # 7.633 # spine
-A person raises both hands and makes a gesture. # 6 # 10 # spine
+A person lowers their hands, makes a traveling sign, raises their hands to their mouth, and leans to their left side. # 0 # 7.633
+A person raises both hands and makes a gesture. # 6 # 10

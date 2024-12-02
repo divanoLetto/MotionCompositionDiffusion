@@ -1,4 +1,4 @@
-A person is moving their hips. # 0 # 3 # spine
-A person raises their arms. # 2 # 5 # spine
-A person steps side to side. # 4 # 7 # spine
-A person turns around. # 6 # 10.0 # spine
+A person is moving their hips. # 0 # 3
+A person raises their arms. # 2 # 5
+A person steps side to side. # 4 # 7
+A person turns around. # 6 # 10.0

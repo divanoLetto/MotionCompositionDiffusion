@@ -1,2 +1,2 @@
-A person walks in a clockwise circle.  # 0 # 5 # spine
-A person swings their arms while walking.  # 4 # 9.75 # spine
+A person walks in a clockwise circle.  # 0 # 5
+A person swings their arms while walking.  # 4 # 9.75

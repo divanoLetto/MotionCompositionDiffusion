@@ -1,2 +1,2 @@
-A person stands still and raises their right arm. # 0 # 3 # spine
-A person moves their right arm back and forth. # 2 # 7.43 # spine
+A person stands still and raises their right arm. # 0 # 3
+A person moves their right arm back and forth. # 2 # 7.43

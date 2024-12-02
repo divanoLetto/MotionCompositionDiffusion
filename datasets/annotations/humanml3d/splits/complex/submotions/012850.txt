@@ -1,2 +1,2 @@
-A person raises their hands toward their face. # 0 # 3 # spine
-A person makes rapid jabbing motions with their right arm. # 2 # 3.65 # spine
+A person raises their hands toward their face. # 0 # 3
+A person makes rapid jabbing motions with their right arm. # 2 # 3.65

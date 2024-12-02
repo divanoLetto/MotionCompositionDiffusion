@@ -1,3 +1,3 @@
-A person raises both arms above their head. # 0 # 2 # spine
-A person swings their arms down into the water. # 2 # 6 # spine
-A person moves their arms forward to propel themselves. # 6 # 10.0 # spine
+A person raises both arms above their head. # 0 # 2
+A person swings their arms down into the water. # 2 # 6
+A person moves their arms forward to propel themselves. # 6 # 10.0

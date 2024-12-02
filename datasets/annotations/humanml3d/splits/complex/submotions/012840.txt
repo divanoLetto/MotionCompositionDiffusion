@@ -1,2 +1,2 @@
-a person is moving in a jumpy happy motion. # 0 # 10.0 # spine
-a person waves with both arms above their head. # 0 # 6 # spine
+a person is moving in a jumpy happy motion. # 0 # 10.0
+a person waves with both arms above their head. # 0 # 6

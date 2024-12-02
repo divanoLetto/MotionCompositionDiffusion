@@ -1,2 +1,2 @@
-A person raises their arms above their head. # 0 # 3 # spine
-A person spins in circles with their arms out. # 2 # 7.167 # spine
+A person raises their arms above their head. # 0 # 3
+A person spins in circles with their arms out. # 2 # 7.167

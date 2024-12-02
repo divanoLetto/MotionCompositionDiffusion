@@ -1,4 +1,4 @@
-A person is standing still with their arms at their sides. # 0 # 3 # spine
-A person raises both arms to their face. # 3 # 5 # spine
-A person moves their arms up and down. # 5 # 8 # spine
-A person lowers their arms back to their sides. # 8 # 10.0 # spine
+A person is standing still with their arms at their sides. # 0 # 3
+A person raises both arms to their face. # 3 # 5
+A person moves their arms up and down. # 5 # 8
+A person lowers their arms back to their sides. # 8 # 10.0

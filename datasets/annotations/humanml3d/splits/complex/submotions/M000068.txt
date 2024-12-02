@@ -1,4 +1,4 @@
-A person steps forward with their left foot.  # 0 # 3 # spine
-A person kicks with their left foot.  # 2 # 5 # spine
-A person hops on their right foot.  # 4 # 7 # spine
-A person repeats the process by stepping forward with their left foot again.  # 6 # 10 # spine
+A person steps forward with their left foot.  # 0 # 3
+A person kicks with their left foot.  # 2 # 5
+A person hops on their right foot.  # 4 # 7
+A person repeats the process by stepping forward with their left foot again.  # 6 # 10

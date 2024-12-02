@@ -1,2 +1,2 @@
-A person raises both arms out in the air to his sides. # 0 # 1.15 # spine
-A person punches with their left hand. # 1 # 1.15 # spine
+A person raises both arms out in the air to his sides. # 0 # 1.15
+A person punches with their left hand. # 1 # 1.15

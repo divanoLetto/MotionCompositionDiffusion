@@ -1,2 +1,2 @@
-A person punches alternating left and right. # 0 # 3 # spine
-A person raises their right arm and punches the air. # 2 # 3.5999999999999996 # spine
+A person punches alternating left and right. # 0 # 3
+A person raises their right arm and punches the air. # 2 # 3.5999999999999996

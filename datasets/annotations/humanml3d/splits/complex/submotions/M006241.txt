@@ -1,2 +1,2 @@
-a person jigs around in a circle. # 0 # 4.9 # spine
-a person is moving around in a circle. # 2 # 4.9 # spine
+a person jigs around in a circle. # 0 # 4.9
+a person is moving around in a circle. # 2 # 4.9

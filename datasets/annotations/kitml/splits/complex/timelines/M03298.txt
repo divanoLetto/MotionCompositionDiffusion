@@ -1,4 +1,4 @@
-A person kicks with their right leg. # 0 # 2 # spine
-A person spins on their back. # 2 # 4 # spine
-A person raises their legs in the air. # 4 # 6 # spine
-A person continues to spin. # 6 # 8.317 # spine
+A person kicks with their right leg. # 0 # 2
+A person spins on their back. # 2 # 4
+A person raises their legs in the air. # 4 # 6
+A person continues to spin. # 6 # 8.317

@@ -1,2 +1,2 @@
-the person is bouncing on his feet with his arms in the air. # 0 # 6 # spine
-a person jumps repeatedly, raising their arms up and extending their legs. # 4 # 10.0 # spine
+the person is bouncing on his feet with his arms in the air. # 0 # 6
+a person jumps repeatedly, raising their arms up and extending their legs. # 4 # 10.0

@@ -1,2 +1,2 @@
-A person appears to bounce something tosses it in the air then hits it with right hand. # 0 # 5.76 # spine
-A person is moving around his left hand. # 4 # 5.76 # spine
+A person appears to bounce something tosses it in the air then hits it with right hand. # 0 # 5.76
+A person is moving around his left hand. # 4 # 5.76

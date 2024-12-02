@@ -1,1 +1,1 @@
-A person steps sideways to their right three times. # 0 # 3.617 # spine
+A person steps sideways to their right three times. # 0 # 3.617

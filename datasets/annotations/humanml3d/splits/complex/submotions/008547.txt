@@ -1,2 +1,2 @@
-A person dribbles a ball with their right hand. # 0 # 2.0 # spine
-A person walks sideways to their right. # 1.5 # 2.85 # spine
+A person dribbles a ball with their right hand. # 0 # 2.0
+A person walks sideways to their right. # 1.5 # 2.85

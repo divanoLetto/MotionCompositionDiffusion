@@ -1,2 +1,2 @@
-A person is moving their arms around. # 0 # 6 # spine
-A person is walking forward while moving their hips slightly. # 4 # 10.0 # spine
+A person is moving their arms around. # 0 # 6
+A person is walking forward while moving their hips slightly. # 4 # 10.0

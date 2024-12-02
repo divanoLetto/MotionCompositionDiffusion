@@ -1,2 +1,2 @@
-A person walks forwards. # 0 # 5 # spine
-A person is making a jumping jack motion. # 4 # 9.733 # spine
+A person walks forwards. # 0 # 5
+A person is making a jumping jack motion. # 4 # 9.733

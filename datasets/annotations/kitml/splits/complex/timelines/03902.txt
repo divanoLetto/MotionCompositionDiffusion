@@ -1,2 +1,2 @@
-A person swings a bat. # 0 # 4 # spine
-A person swings a bat. # 4 # 10 # spine
+A person swings a bat. # 0 # 4
+A person swings a bat. # 4 # 10

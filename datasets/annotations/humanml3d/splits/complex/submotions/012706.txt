@@ -1,2 +1,2 @@
-person stands with legs spread apart, left hands extends to hit opponent's head area twice # 0 # 1.3 # spine
-the man made an 'uppercut' motion with his left arm rightwards # 1 # 1.3 # spine
+person stands with legs spread apart, left hands extends to hit opponent's head area twice # 0 # 1.3
+the man made an 'uppercut' motion with his left arm rightwards # 1 # 1.3

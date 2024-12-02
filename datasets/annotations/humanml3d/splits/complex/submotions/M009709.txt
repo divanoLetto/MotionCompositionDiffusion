@@ -1,3 +1,3 @@
-A person stands in a fighting stance. # 0 # 2 # spine
-A person turns to the left. # 2 # 6 # spine
-A person walks forward. # 6 # 10.0 # spine
+A person stands in a fighting stance. # 0 # 2
+A person turns to the left. # 2 # 6
+A person walks forward. # 6 # 10.0

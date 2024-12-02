@@ -1,2 +1,2 @@
-A person holds their hands forward. # 0 # 3 # spine
-A person performs a punch with his right hand. # 2 # 6.65 # spine
+A person holds their hands forward. # 0 # 3
+A person performs a punch with his right hand. # 2 # 6.65

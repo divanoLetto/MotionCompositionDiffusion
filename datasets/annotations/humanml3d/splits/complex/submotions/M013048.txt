@@ -1,5 +1,5 @@
-A person is hopping up and down. # 0 # 2 # spine
-A person moves to the right. # 2 # 4 # spine
-A person moves to the left. # 4 # 6 # spine
-A person is hopping up and down. # 6 # 8 # spine
-A person moves to the right. # 8 # 10.0 # spine
+A person is hopping up and down. # 0 # 2
+A person moves to the right. # 2 # 4
+A person moves to the left. # 4 # 6
+A person is hopping up and down. # 6 # 8
+A person moves to the right. # 8 # 10.0

@@ -1,2 +1,2 @@
-A person raises their arms like wings. # 0 # 4 # spine
-A person walks forward while moving their body to the beat of the music. # 2 # 9.05 # spine
+A person raises their arms like wings. # 0 # 4
+A person walks forward while moving their body to the beat of the music. # 2 # 9.05

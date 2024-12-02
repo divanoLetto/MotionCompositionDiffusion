@@ -1,3 +1,3 @@
-The person is doing the macarena. # 0 # 6 # spine
-The person turns around. # 6 # 8 # spine
-The person is walking in a clockwise circle. # 8 # 10.0 # spine
+The person is doing the macarena. # 0 # 6
+The person turns around. # 6 # 8
+The person is walking in a clockwise circle. # 8 # 10.0

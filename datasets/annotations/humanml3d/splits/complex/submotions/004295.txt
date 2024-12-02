@@ -1,2 +1,2 @@
-A person is waving with their left hand. # 0 # 5 # spine
-A person is dancing. # 3 # 9.999999999999998 # spine
+A person is waving with their left hand. # 0 # 5
+A person is dancing. # 3 # 9.999999999999998

@@ -1,2 +1,2 @@
-A person punches with their left hand. # 0 # 0.85 # spine
-A person walks forward. # 0 # 0.85 # spine
+A person punches with their left hand. # 0 # 0.85
+A person walks forward. # 0 # 0.85

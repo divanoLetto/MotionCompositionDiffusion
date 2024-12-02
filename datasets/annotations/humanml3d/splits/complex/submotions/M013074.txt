@@ -1,2 +1,2 @@
-A person is jumping up and down multiple times. # 0 # 6 # spine
-A person raises both hands above their head while bending their knees. # 4 # 10.0 # spine
+A person is jumping up and down multiple times. # 0 # 6
+A person raises both hands above their head while bending their knees. # 4 # 10.0

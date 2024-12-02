@@ -1,2 +1,2 @@
-A person catches something with both hands. # 0 # 1.5 # spine
-A person dribbles with the basketball. # 1 # 1.917 # spine
+A person catches something with both hands. # 0 # 1.5
+A person dribbles with the basketball. # 1 # 1.917

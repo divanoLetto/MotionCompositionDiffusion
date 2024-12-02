@@ -1,2 +1,2 @@
-A person is walking forward while swinging their arms. # 0 # 6 # spine
-A person is dancing. # 4 # 10.0 # spine
+A person is walking forward while swinging their arms. # 0 # 6
+A person is dancing. # 4 # 10.0

@@ -1,2 +1,2 @@
-A person jogs back and forth multiple times. # 0 # 6 # spine
-A person is moving their arms and legs. # 4 # 8.142 # spine
+A person jogs back and forth multiple times. # 0 # 6
+A person is moving their arms and legs. # 4 # 8.142

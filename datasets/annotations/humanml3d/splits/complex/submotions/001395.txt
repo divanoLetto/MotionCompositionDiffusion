@@ -1,2 +1,2 @@
-A person stands straight up and holds up his hands in a fighting stance and kicks up his right leg in front of him then lets it fall back down to the ground 4 times. # 0 # 10.000000000000002 # spine
-The person is holding his arms straight out. # 0 # 2.575 # spine
+A person stands straight up and holds up his hands in a fighting stance and kicks up his right leg in front of him then lets it fall back down to the ground 4 times. # 0 # 10.000000000000002
+The person is holding his arms straight out. # 0 # 2.575

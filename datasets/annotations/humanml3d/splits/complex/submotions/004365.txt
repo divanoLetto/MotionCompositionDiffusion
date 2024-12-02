@@ -1,2 +1,2 @@
-A person gets into a stance and kicks with his left leg. # 0 # 2.942 # spine
-A person raises his arms. # 0 # 2 # spine
+A person gets into a stance and kicks with his left leg. # 0 # 2.942
+A person raises his arms. # 0 # 2

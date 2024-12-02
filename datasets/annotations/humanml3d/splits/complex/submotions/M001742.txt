@@ -1,2 +1,2 @@
-A person is moving their legs up and down. # 0 # 2 # spine
-A person is tapping their feet. # 2 # 4.975 # spine
+A person is moving their legs up and down. # 0 # 2
+A person is tapping their feet. # 2 # 4.975

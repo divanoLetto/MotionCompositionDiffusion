@@ -1,2 +1,2 @@
-A person bends down to the floor. # 0 # 2 # spine
-A person places an object on the floor with both hands. # 2 # 4.392 # spine
+A person bends down to the floor. # 0 # 2
+A person places an object on the floor with both hands. # 2 # 4.392

@@ -1,5 +1,5 @@
-a person is staggering backwards. # 0 # 2 # spine
-a person takes a fighting stance. # 2 # 4 # spine
-a person strafes to the left. # 4 # 6 # spine
-a person blocks with both hands. # 6 # 8 # spine
-a person kicks forward with their left leg. # 8 # 10.0 # spine
+a person is staggering backwards. # 0 # 2
+a person takes a fighting stance. # 2 # 4
+a person strafes to the left. # 4 # 6
+a person blocks with both hands. # 6 # 8
+a person kicks forward with their left leg. # 8 # 10.0

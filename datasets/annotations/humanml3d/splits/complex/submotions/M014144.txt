@@ -1,4 +1,4 @@
-A person dances forward.  # 0 # 3 # spine
-A person kicks with their left foot.  # 2 # 5 # spine
-A person dances some more.  # 4 # 7 # spine
-A person kicks with their right foot.  # 6 # 9.25 # spine
+A person dances forward.  # 0 # 3
+A person kicks with their left foot.  # 2 # 5
+A person dances some more.  # 4 # 7
+A person kicks with their right foot.  # 6 # 9.25

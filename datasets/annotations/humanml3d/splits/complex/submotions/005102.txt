@@ -1,4 +1,4 @@
-A person bounces a ball with their right hand. # 0 # 3 # spine
-A person walks forward. # 2 # 5 # spine
-A person spins around in a circle. # 5 # 8 # spine
-A person continues walking forward. # 7 # 9.55 # spine
+A person bounces a ball with their right hand. # 0 # 3
+A person walks forward. # 2 # 5
+A person spins around in a circle. # 5 # 8
+A person continues walking forward. # 7 # 9.55

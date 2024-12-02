@@ -1,5 +1,5 @@
-A person jabs with their left hand. # 0 # 2 # spine
-A person jabs with their left hand. # 2 # 4 # spine
-A person crouches down. # 4 # 6 # spine
-A person jabs with their left hand. # 6 # 8 # spine
-A person jabs with their left hand. # 8 # 10.0 # spine
+A person jabs with their left hand. # 0 # 2
+A person jabs with their left hand. # 2 # 4
+A person crouches down. # 4 # 6
+A person jabs with their left hand. # 6 # 8
+A person jabs with their left hand. # 8 # 10.0

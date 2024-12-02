@@ -1,2 +1,2 @@
-a person is spinning around. # 0 # 10.0 # spine
-a person is jumping on the spot. # 0 # 10.0 # spine
+a person is spinning around. # 0 # 10.0
+a person is jumping on the spot. # 0 # 10.0

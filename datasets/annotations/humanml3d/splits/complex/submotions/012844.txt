@@ -1,2 +1,2 @@
-A person is walking forward. # 0 # 2 # spine
-A person swings their right arm. # 2 # 6.03 # spine
+A person is walking forward. # 0 # 2
+A person swings their right arm. # 2 # 6.03

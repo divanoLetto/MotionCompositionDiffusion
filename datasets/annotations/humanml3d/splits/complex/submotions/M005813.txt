@@ -1,2 +1,2 @@
-A person is moving their arms up and down. # 0 # 5 # spine
-A person is jumping up and down. # 3 # 5.35 # spine
+A person is moving their arms up and down. # 0 # 5
+A person is jumping up and down. # 3 # 5.35

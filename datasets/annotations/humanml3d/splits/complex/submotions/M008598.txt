@@ -1,4 +1,4 @@
-A person raises both arms to the side. # 0 # 3 # spine
-A person moves their arms to the right. # 2 # 5 # spine
-A person moves their arms to the left. # 4 # 7 # spine
-A person lowers both arms. # 8 # 10 # spine
+A person raises both arms to the side. # 0 # 3
+A person moves their arms to the right. # 2 # 5
+A person moves their arms to the left. # 4 # 7
+A person lowers both arms. # 8 # 10

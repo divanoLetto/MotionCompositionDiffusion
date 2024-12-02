@@ -1,2 +1,2 @@
-A person is moving left. # 0 # 2 # spine
-A person is dancing. # 0 # 7.625 # spine
+A person is moving left. # 0 # 2
+A person is dancing. # 0 # 7.625

@@ -1,2 +1,2 @@
-A person raises his right arm up. # 0 # 2 # spine
-A person is throwing something with his right hand. # 2 # 6.917 # spine
+A person raises his right arm up. # 0 # 2
+A person is throwing something with his right hand. # 2 # 6.917

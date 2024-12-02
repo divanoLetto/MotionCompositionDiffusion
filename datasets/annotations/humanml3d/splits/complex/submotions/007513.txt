@@ -1,2 +1,2 @@
-A person raises their right arm over their head. # 0 # 1.65 # spine
-A person swings their right arm. # 1.0 # 1.65 # spine
+A person raises their right arm over their head. # 0 # 1.65
+A person swings their right arm. # 1.0 # 1.65

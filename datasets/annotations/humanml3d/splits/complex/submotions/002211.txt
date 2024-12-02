@@ -1,4 +1,4 @@
-A person raises their hands to shoulder height. # 0 # 3 # spine
-A person puts their hands down. # 3 # 5 # spine
-A person pushes something to the left. # 5 # 8.683 # spine
-A person holds both hands up as if holding an instrument. # 6 # 8 # spine
+A person raises their hands to shoulder height. # 0 # 3
+A person puts their hands down. # 3 # 5
+A person pushes something to the left. # 5 # 8.683
+A person holds both hands up as if holding an instrument. # 6 # 8

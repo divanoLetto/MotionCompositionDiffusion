@@ -1,4 +1,4 @@
-A person stands with their right leg forward. # 0 # 2 # spine
-A person leans forward. # 1 # 2.5 # spine
-A person kicks high with their left leg. # 2 # 2.758 # spine
-A person returns to a karate pose. # 2.5 # 2.758 # spine
+A person stands with their right leg forward. # 0 # 2
+A person leans forward. # 1 # 2.5
+A person kicks high with their left leg. # 2 # 2.758
+A person returns to a karate pose. # 2.5 # 2.758

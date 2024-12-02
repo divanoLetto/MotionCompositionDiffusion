@@ -1,2 +1,2 @@
-A person moves their arms forward and back. # 0 # 10.0 # spine
-A person moves their legs in a kicking motion. # 2 # 10.0 # spine
+A person moves their arms forward and back. # 0 # 10.0
+A person moves their legs in a kicking motion. # 2 # 10.0

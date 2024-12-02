@@ -1,2 +1,2 @@
-A person moves their right hand in a circular path. # 0 # 4 # spine
-A person wipes something with its right hand. # 3 # 7.13 # spine
+A person moves their right hand in a circular path. # 0 # 4
+A person wipes something with its right hand. # 3 # 7.13

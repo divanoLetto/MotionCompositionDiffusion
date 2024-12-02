@@ -1,4 +1,4 @@
-A person raises both hands to shoulder height. # 0 # 3 # spine
-A person lowers their hands. # 3 # 5 # spine
-A person pushes something to the right with their right hand. # 5 # 7 # spine
-A person holds both hands up as if holding an instrument. # 7 # 8.683 # spine
+A person raises both hands to shoulder height. # 0 # 3
+A person lowers their hands. # 3 # 5
+A person pushes something to the right with their right hand. # 5 # 7
+A person holds both hands up as if holding an instrument. # 7 # 8.683

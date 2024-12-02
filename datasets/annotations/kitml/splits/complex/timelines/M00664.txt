@@ -1,2 +1,2 @@
-A person is dancing.  # 0 # 3 # spine
-A person jumps around the floor playfully.  # 2 # 3.45 # spine
+A person is dancing.  # 0 # 3
+A person jumps around the floor playfully.  # 2 # 3.45

@@ -1,4 +1,4 @@
-A person is walking forwards. # 0 # 3 # spine
-A person raises his arms to the height of his shoulders. # 3 # 6 # spine
-A human is performing a jumping-jack motion. # 6 # 9 # spine
-A person walks in a circle. # 9 # 10 # spine
+A person is walking forwards. # 0 # 3
+A person raises his arms to the height of his shoulders. # 3 # 6
+A human is performing a jumping-jack motion. # 6 # 9
+A person walks in a circle. # 9 # 10

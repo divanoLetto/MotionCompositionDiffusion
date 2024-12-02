@@ -1,2 +1,2 @@
-A man is practicing punching. # 0 # 2.567 # spine
-A person raises both hands in front of them. # 1 # 2 # spine
+A man is practicing punching. # 0 # 2.567
+A person raises both hands in front of them. # 1 # 2

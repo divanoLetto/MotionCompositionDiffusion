@@ -1,2 +1,2 @@
-A person dribbles a basketball with both hands. # 0 # 4 # spine
-A person runs forward quickly. # 4 # 10.0 # spine
+A person dribbles a basketball with both hands. # 0 # 4
+A person runs forward quickly. # 4 # 10.0

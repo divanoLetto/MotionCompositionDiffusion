@@ -1,2 +1,2 @@
-A person walks forward.  # 0 # 5 # spine
-A person moves their hips in a suggestive way.  # 3 # 10 # spine
+A person walks forward.  # 0 # 5
+A person moves their hips in a suggestive way.  # 3 # 10

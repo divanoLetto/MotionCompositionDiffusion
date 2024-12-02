@@ -1,3 +1,3 @@
-A person squats down.  # 0 # 3 # spine
-A person stands up.  # 2 # 5 # spine
-A person spins around in a circle.  # 4 # 9.0 # spine
+A person squats down.  # 0 # 3
+A person stands up.  # 2 # 5
+A person spins around in a circle.  # 4 # 9.0

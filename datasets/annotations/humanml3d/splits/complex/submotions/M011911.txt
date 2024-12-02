@@ -1,2 +1,2 @@
-A person jumps up and down while swinging their arms. # 0 # 3 # spine
-A person dances in a circle with both arms raised. # 2 # 9.107999999999999 # spine
+A person jumps up and down while swinging their arms. # 0 # 3
+A person dances in a circle with both arms raised. # 2 # 9.107999999999999

@@ -1,2 +1,2 @@
-A man stands in a defensive position with his legs apart and arms bent in front of him. # 0 # 2.0 # spine
-He steps forward and jabs with his left hand. # 1.5 # 2.833 # spine
+A man stands in a defensive position with his legs apart and arms bent in front of him. # 0 # 2.0
+He steps forward and jabs with his left hand. # 1.5 # 2.833

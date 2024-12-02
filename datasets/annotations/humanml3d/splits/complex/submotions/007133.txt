@@ -1,2 +1,2 @@
-a person waltzes back and forth with another person. # 0 # 6 # spine
-a person is swinging their arms. # 4 # 10.0 # spine
+a person waltzes back and forth with another person. # 0 # 6
+a person is swinging their arms. # 4 # 10.0

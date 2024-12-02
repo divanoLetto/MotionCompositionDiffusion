@@ -1,4 +1,4 @@
-A person raises both hands into the air. # 0 # 2 # spine
-A person takes two steps forward. # 2 # 4 # spine
-A person takes two steps back. # 6 # 8 # spine
-A person drops both hands to their side. # 8 # 9.04 # spine
+A person raises both hands into the air. # 0 # 2
+A person takes two steps forward. # 2 # 4
+A person takes two steps back. # 6 # 8
+A person drops both hands to their side. # 8 # 9.04

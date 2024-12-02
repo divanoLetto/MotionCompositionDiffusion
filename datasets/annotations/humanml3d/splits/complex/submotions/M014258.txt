@@ -1,3 +1,3 @@
-a person hops 6 times in same spot, forward, right, and left. # 0 # 6 # spine
-a person throws a right punch # 5 # 8 # spine
-a person throws punches from a crouched position. # 7 # 10.0 # spine
+a person hops 6 times in same spot, forward, right, and left. # 0 # 6
+a person throws a right punch # 5 # 8
+a person throws punches from a crouched position. # 7 # 10.0

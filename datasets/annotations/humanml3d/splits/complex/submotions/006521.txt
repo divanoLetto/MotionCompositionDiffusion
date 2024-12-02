@@ -1,2 +1,2 @@
-A person is standing and swinging their arms like a gorilla. # 0 # 10.0 # spine
-A person is pretending to be a gorilla. # 0 # 10.0 # spine
+A person is standing and swinging their arms like a gorilla. # 0 # 10.0
+A person is pretending to be a gorilla. # 0 # 10.0

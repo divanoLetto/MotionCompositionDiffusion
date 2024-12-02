@@ -1,2 +1,2 @@
-A person walks backward. # 0 # 5 # spine
-A person raises their arms. # 4 # 9.75 # spine
+A person walks backward. # 0 # 5
+A person raises their arms. # 4 # 9.75

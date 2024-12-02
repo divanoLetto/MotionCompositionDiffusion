@@ -1,2 +1,2 @@
-A person stands with their hands at shoulder level.  # 0 # 2 # spine
-A person swings their right arm forward.  # 1.5 # 2.5 # spine
+A person stands with their hands at shoulder level.  # 0 # 2
+A person swings their right arm forward.  # 1.5 # 2.5

@@ -1,5 +1,5 @@
-A person takes a small step to the side. # 0 # 2 # spine
-A person walks backwards. # 2 # 4 # spine
-A person pivots and turns. # 4 # 6 # spine
-A person takes a step forward. # 6 # 8 # spine
-A person pivots and turns. # 8 # 10.0 # spine
+A person takes a small step to the side. # 0 # 2
+A person walks backwards. # 2 # 4
+A person pivots and turns. # 4 # 6
+A person takes a step forward. # 6 # 8
+A person pivots and turns. # 8 # 10.0

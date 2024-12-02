@@ -1,2 +1,2 @@
-A person punches the air multiple times. # 0 # 2 # spine
-A person raises his left arm to scratch his head and then brings arm down. # 2 # 4.217 # spine
+A person punches the air multiple times. # 0 # 2
+A person raises his left arm to scratch his head and then brings arm down. # 2 # 4.217

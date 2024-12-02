@@ -1,3 +1,3 @@
-A person lifts both arms to the sides. # 0 # 2 # spine
-A person is doing a juggling motion with arms. # 2 # 6 # spine
-A person raises their arms, waves them around, then stretches them. # 6 # 10.0 # spine
+A person lifts both arms to the sides. # 0 # 2
+A person is doing a juggling motion with arms. # 2 # 6
+A person raises their arms, waves them around, then stretches them. # 6 # 10.0

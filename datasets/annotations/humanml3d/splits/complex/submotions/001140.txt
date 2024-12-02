@@ -1,3 +1,3 @@
-A person stands still with their hands up. # 0 # 2 # spine
-A person raises their arms and moves their body side to side. # 2 # 6 # spine
-A person bounces on their feet while waving their arms. # 6 # 10.0 # spine
+A person stands still with their hands up. # 0 # 2
+A person raises their arms and moves their body side to side. # 2 # 6
+A person bounces on their feet while waving their arms. # 6 # 10.0

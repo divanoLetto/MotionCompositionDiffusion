@@ -1,2 +1,2 @@
-A person raises their right arm. # 0 # 2 # spine
-A person swings a bat. # 2 # 6.19 # spine
+A person raises their right arm. # 0 # 2
+A person swings a bat. # 2 # 6.19

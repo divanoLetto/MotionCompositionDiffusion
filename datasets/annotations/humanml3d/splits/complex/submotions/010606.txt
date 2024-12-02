@@ -1,2 +1,2 @@
-A person punches with their right hand. # 0 # 2.0 # spine
-A person lunges forward while punching. # 2.0 # 3.4 # spine
+A person punches with their right hand. # 0 # 2.0
+A person lunges forward while punching. # 2.0 # 3.4

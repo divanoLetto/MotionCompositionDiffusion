@@ -1,2 +1,2 @@
-A person raises their right arm to throw something. # 0 # 2.5 # spine
-A person swings a bat. # 2 # 3.767 # spine
+A person raises their right arm to throw something. # 0 # 2.5
+A person swings a bat. # 2 # 3.767

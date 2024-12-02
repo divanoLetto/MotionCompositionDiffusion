@@ -1,2 +1,2 @@
-The person is jumping in the air. # 0 # 3.2 # spine
-The person is skating forward. # 3 # 8.76 # spine
+The person is jumping in the air. # 0 # 3.2
+The person is skating forward. # 3 # 8.76

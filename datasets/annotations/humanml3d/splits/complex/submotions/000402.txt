@@ -1,2 +1,2 @@
-A person walks in a figure 8.  # 0 # 5 # spine
-A person waves with both of their arms.  # 4 # 10 # spine
+A person walks in a figure 8.  # 0 # 5
+A person waves with both of their arms.  # 4 # 10

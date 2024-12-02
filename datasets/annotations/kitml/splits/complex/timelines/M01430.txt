@@ -1,2 +1,2 @@
-A person raises his right arm.  # 0 # 3 # spine
-A person strums the guitar with his right hand. # 2 # 9.19 # spine
+A person raises his right arm.  # 0 # 3
+A person strums the guitar with his right hand. # 2 # 9.19

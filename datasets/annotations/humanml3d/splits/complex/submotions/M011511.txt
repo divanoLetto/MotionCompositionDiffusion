@@ -1,2 +1,2 @@
-A person is sitting on the floor and throws something with their right hand. # 0 # 6 # spine
-A person throws something with their left hand. # 4 # 10.0 # spine
+A person is sitting on the floor and throws something with their right hand. # 0 # 6
+A person throws something with their left hand. # 4 # 10.0

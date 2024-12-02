@@ -1,4 +1,4 @@
-A person raises both arms above their head. # 0 # 3 # spine
-A person moves their hands back and forth. # 2 # 5 # spine
-A person dribbles a ball with their right hand. # 4 # 7 # spine
-A person moves their right hand towards their left hand. # 6 # 10.0 # spine
+A person raises both arms above their head. # 0 # 3
+A person moves their hands back and forth. # 2 # 5
+A person dribbles a ball with their right hand. # 4 # 7
+A person moves their right hand towards their left hand. # 6 # 10.0

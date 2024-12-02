@@ -1,3 +1,3 @@
-A person holds up both hands in front of their face. # 0 # 2 # spine
-A person sways back to avoid a punch. # 1.5 # 2.45 # spine
-A person punches with their right hand. # 2 # 2.45 # spine
+A person holds up both hands in front of their face. # 0 # 2
+A person sways back to avoid a punch. # 1.5 # 2.45
+A person punches with their right hand. # 2 # 2.45

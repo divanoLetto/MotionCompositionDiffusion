@@ -1,2 +1,2 @@
-A person kicks with his right leg. # 0 # 2 # spine
-A person jabs with his right arm. # 2 # 10.0 # spine
+A person kicks with his right leg. # 0 # 2
+A person jabs with his right arm. # 2 # 10.0

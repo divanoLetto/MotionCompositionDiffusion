@@ -1,2 +1,2 @@
-a person walks in a circle without turning their body. # 0 # 6 # spine
-a person is moving their hips back and forth, right and left. # 4 # 10.0 # spine
+a person walks in a circle without turning their body. # 0 # 6
+a person is moving their hips back and forth, right and left. # 4 # 10.0

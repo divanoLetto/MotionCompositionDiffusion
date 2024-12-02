@@ -1,2 +1,2 @@
-A person is swaying back and forth. # 0 # 6 # spine
-A person raises both arms above their head. # 6 # 10.0 # spine
+A person is swaying back and forth. # 0 # 6
+A person raises both arms above their head. # 6 # 10.0

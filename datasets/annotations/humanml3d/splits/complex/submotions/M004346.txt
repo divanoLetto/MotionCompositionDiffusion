@@ -1,2 +1,2 @@
-A person moves their arms in alternating circular motions. # 0 # 6 # spine
-A person raises both arms and waves. # 5 # 10.0 # spine
+A person moves their arms in alternating circular motions. # 0 # 6
+A person raises both arms and waves. # 5 # 10.0

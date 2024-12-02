@@ -1,4 +1,4 @@
-A person steps diagonally to the right. # 0 # 3 # spine
-A person turns around. # 2 # 5 # spine
-A person steps diagonally backwards. # 4 # 7 # spine
-A person steps to the right. # 6 # 10.0 # spine
+A person steps diagonally to the right. # 0 # 3
+A person turns around. # 2 # 5
+A person steps diagonally backwards. # 4 # 7
+A person steps to the right. # 6 # 10.0

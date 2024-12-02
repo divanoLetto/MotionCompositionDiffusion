@@ -1,2 +1,2 @@
-A person stands with their arms at their sides and raises their left arm to their chest. # 0 # 5 # spine
-A person takes a large step forward with their right leg. # 4 # 10.0 # spine
+A person stands with their arms at their sides and raises their left arm to their chest. # 0 # 5
+A person takes a large step forward with their right leg. # 4 # 10.0

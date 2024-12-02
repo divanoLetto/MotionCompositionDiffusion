@@ -1,4 +1,4 @@
-A person bounces a basketball with both hands. # 0 # 2.0 # spine
-A person takes two big steps forward. # 1.5 # 4.0 # spine
-A person jumps upwards with the basketball in both hands. # 3.0 # 5.0 # spine
-A person releases the basketball to score a point. # 4.5 # 5.783 # spine
+A person bounces a basketball with both hands. # 0 # 2.0
+A person takes two big steps forward. # 1.5 # 4.0
+A person jumps upwards with the basketball in both hands. # 3.0 # 5.0
+A person releases the basketball to score a point. # 4.5 # 5.783

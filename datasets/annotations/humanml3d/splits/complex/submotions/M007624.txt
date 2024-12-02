@@ -1,2 +1,2 @@
-A person uppercuts with their right hand. # 0 # 2 # spine
-A person lifts their left arm with elbow bent, out to a 90 degree angle to their body. # 0 # 2.3 # spine
+A person uppercuts with their right hand. # 0 # 2
+A person lifts their left arm with elbow bent, out to a 90 degree angle to their body. # 0 # 2.3

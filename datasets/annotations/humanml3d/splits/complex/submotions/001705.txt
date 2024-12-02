@@ -1,2 +1,2 @@
-A person raises their arms above their head while making a throwing motion with their left arm. # 0 # 6 # spine
-A person steps forward with their left foot. # 6 # 10.0 # spine
+A person raises their arms above their head while making a throwing motion with their left arm. # 0 # 6
+A person steps forward with their left foot. # 6 # 10.0

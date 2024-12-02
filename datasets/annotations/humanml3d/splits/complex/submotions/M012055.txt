@@ -1,5 +1,5 @@
-A person walks forward. # 0 # 2 # spine
-A person stops with his left foot forward. # 1 # 3 # spine
-A person pivots slightly to the right while still facing forward. # 2 # 4.383 # spine
-A person bends his arms in front of him. # 3 # 4 # spine
-A person makes a fist with both hands. # 3 # 4 # spine
+A person walks forward. # 0 # 2
+A person stops with his left foot forward. # 1 # 3
+A person pivots slightly to the right while still facing forward. # 2 # 4.383
+A person bends his arms in front of him. # 3 # 4
+A person makes a fist with both hands. # 3 # 4

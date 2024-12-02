@@ -1,3 +1,3 @@
-A person walks forward.  # 0 # 2 # spine
-A person spins around.  # 2 # 4 # spine
-A person walks backward.  # 4 # 8.083 # spine
+A person walks forward.  # 0 # 2
+A person spins around.  # 2 # 4
+A person walks backward.  # 4 # 8.083

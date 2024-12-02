@@ -1,2 +1,2 @@
-a man is shuffle stepping to his left. # 0 # 5 # spine
-a man takes large shuffle steps to his right. # 5 # 10.0 # spine
+a man is shuffle stepping to his left. # 0 # 5
+a man takes large shuffle steps to his right. # 5 # 10.0

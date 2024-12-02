@@ -1,4 +1,4 @@
-A person stands with their feet apart and slightly bent over. # 0 # 2 # spine
-A person holds a golf club with both hands. # 2 # 4 # spine
-A person swings their arms forward. # 3 # 4.5 # spine
-A person brings their arms back. # 4 # 4.683 # spine
+A person stands with their feet apart and slightly bent over. # 0 # 2
+A person holds a golf club with both hands. # 2 # 4
+A person swings their arms forward. # 3 # 4.5
+A person brings their arms back. # 4 # 4.683

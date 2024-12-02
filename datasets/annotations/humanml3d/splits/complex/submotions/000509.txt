@@ -1,2 +1,2 @@
-a person is walking around in a flamboyant manner. # 0 # 5 # spine
-a person swings their arms and body up down and in a circular motion. # 4 # 10.0 # spine
+a person is walking around in a flamboyant manner. # 0 # 5
+a person swings their arms and body up down and in a circular motion. # 4 # 10.0

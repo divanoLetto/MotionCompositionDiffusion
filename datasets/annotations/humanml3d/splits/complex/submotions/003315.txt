@@ -1,3 +1,3 @@
-A person jumps up and spins around. # 0 # 2 # spine
-A person raises their arms. # 2 # 4 # spine
-A person lands and stands still. # 4 # 6.258 # spine
+A person jumps up and spins around. # 0 # 2
+A person raises their arms. # 2 # 4
+A person lands and stands still. # 4 # 6.258

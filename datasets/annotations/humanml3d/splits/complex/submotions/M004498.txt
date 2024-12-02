@@ -1,4 +1,4 @@
-A person hops up. # 0 # 2 # spine
-A person pushes something with both hands. # 1 # 6 # spine
-A person walks backwards. # 6 # 8 # spine
-A person launches something with their left hand. # 8 # 10.0 # spine
+A person hops up. # 0 # 2
+A person pushes something with both hands. # 1 # 6
+A person walks backwards. # 6 # 8
+A person launches something with their left hand. # 8 # 10.0

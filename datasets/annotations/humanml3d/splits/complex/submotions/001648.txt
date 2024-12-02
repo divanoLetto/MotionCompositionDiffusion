@@ -1,2 +1,2 @@
-A person steps back with their right leg. # 0 # 3 # spine
-A person raises their right arm and prepares to throw something. # 2 # 3.525 # spine
+A person steps back with their right leg. # 0 # 3
+A person raises their right arm and prepares to throw something. # 2 # 3.525

@@ -1,2 +1,2 @@
-A person is stepping left to right. # 0 # 6 # spine
-A person is swinging both arms. # 4 # 10.0 # spine
+A person is stepping left to right. # 0 # 6
+A person is swinging both arms. # 4 # 10.0

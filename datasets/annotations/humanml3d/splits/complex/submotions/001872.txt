@@ -1,2 +1,2 @@
-A person swings their right arm in a wide circle. # 0 # 4.0 # spine
-A person swings both arms in wide circles. # 3.0 # 6.19 # spine
+A person swings their right arm in a wide circle. # 0 # 4.0
+A person swings both arms in wide circles. # 3.0 # 6.19

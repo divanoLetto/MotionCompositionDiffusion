@@ -1,2 +1,2 @@
-A person holds a golf club with both hands. # 0 # 2 # spine
-A person swings their arms back and forth. # 2 # 3.7 # spine
+A person holds a golf club with both hands. # 0 # 2
+A person swings their arms back and forth. # 2 # 3.7

@@ -1,2 +1,2 @@
-A person is walking in a figure 8 pattern. # 0 # 10.0 # spine
-A person is waving their arms. # 0 # 10.0 # spine
+A person is walking in a figure 8 pattern. # 0 # 10.0
+A person is waving their arms. # 0 # 10.0

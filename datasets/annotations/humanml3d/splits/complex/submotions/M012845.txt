@@ -1,4 +1,4 @@
-A person raises their left arm into the air.  # 0 # 2.1 # spine
-A person makes rapid jabbing motions with their left arm.  # 1.5 # 2.1 # spine
-A person twists to the left.  # 2 # 2.1 # spine
-A person makes rapid jabbing motions with their right arm.  # 2 # 2.1 # spine
+A person raises their left arm into the air.  # 0 # 2.1
+A person makes rapid jabbing motions with their left arm.  # 1.5 # 2.1
+A person twists to the left.  # 2 # 2.1
+A person makes rapid jabbing motions with their right arm.  # 2 # 2.1

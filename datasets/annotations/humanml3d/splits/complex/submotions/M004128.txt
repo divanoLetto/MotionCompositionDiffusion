@@ -1,3 +1,3 @@
-A person walks in a circle.  # 0 # 7.29 # spine
-A person raises their arms in front of them at shoulder height.  # 0 # 4.742 # spine
-A person turns to the right while walking.  # 5 # 9.999999999999998 # spine
+A person walks in a circle.  # 0 # 7.29
+A person raises their arms in front of them at shoulder height.  # 0 # 4.742
+A person turns to the right while walking.  # 5 # 9.999999999999998

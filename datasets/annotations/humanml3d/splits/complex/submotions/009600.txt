@@ -1,2 +1,2 @@
-A person is dancing with both arms raised. # 0 # 6 # spine
-A person is moving their left leg to the side. # 4 # 10.0 # spine
+A person is dancing with both arms raised. # 0 # 6
+A person is moving their left leg to the side. # 4 # 10.0

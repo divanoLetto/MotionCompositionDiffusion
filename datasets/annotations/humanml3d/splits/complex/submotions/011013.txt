@@ -1,2 +1,2 @@
-A person stands and throws something with their right hand. # 0 # 2 # spine
-A person raises their left arm. # 2 # 5.892 # spine
+A person stands and throws something with their right hand. # 0 # 2
+A person raises their left arm. # 2 # 5.892

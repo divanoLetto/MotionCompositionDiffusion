@@ -1,2 +1,2 @@
-person holds something up toward their face. # 0 # 10.0 # spine
-a person bends backwards. # 3 # 6.72 # spine
+person holds something up toward their face. # 0 # 10.0
+a person bends backwards. # 3 # 6.72

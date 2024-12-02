@@ -1,2 +1,2 @@
-A person spins their arms around in a circle. # 0 # 6 # spine
-A person moves their arms in a way that looks like they are picking something up. # 4 # 10.0 # spine
+A person spins their arms around in a circle. # 0 # 6
+A person moves their arms in a way that looks like they are picking something up. # 4 # 10.0

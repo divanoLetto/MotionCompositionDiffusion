@@ -1,2 +1,2 @@
-A person is dancing. # 0 # 5 # spine
-A person jumps in place. # 5 # 7.908 # spine
+A person is dancing. # 0 # 5
+A person jumps in place. # 5 # 7.908

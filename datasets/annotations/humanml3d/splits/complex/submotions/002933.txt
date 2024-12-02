@@ -1,5 +1,5 @@
-A person shuffles to the right. # 0 # 2 # spine
-A person squats down. # 2 # 4 # spine
-A person taps their left foot. # 4 # 6 # spine
-A person raises their arms. # 6 # 8 # spine
-A person shuffles their feet. # 8 # 10.0 # spine
+A person shuffles to the right. # 0 # 2
+A person squats down. # 2 # 4
+A person taps their left foot. # 4 # 6
+A person raises their arms. # 6 # 8
+A person shuffles their feet. # 8 # 10.0

@@ -1,2 +1,2 @@
-A person raises their right arm to play the violin. # 0 # 3 # spine
-A person moves their right hand up and down. # 2 # 6.63 # spine
+A person raises their right arm to play the violin. # 0 # 3
+A person moves their right hand up and down. # 2 # 6.63

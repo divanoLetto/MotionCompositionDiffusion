@@ -1,2 +1,2 @@
-A person holds something with both hands. # 0 # 2 # spine
-A person throws something with their right hand. # 2 # 7.65 # spine
+A person holds something with both hands. # 0 # 2
+A person throws something with their right hand. # 2 # 7.65

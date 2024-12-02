@@ -1,2 +1,2 @@
-A person is dancing.  # 0 # 4 # spine
-A person is moving their hips repeatedly to the left and right.  # 3 # 8.07 # spine
+A person is dancing.  # 0 # 4
+A person is moving their hips repeatedly to the left and right.  # 3 # 8.07

@@ -1,5 +1,5 @@
-A person walks forward. # 0 # 2 # spine
-A person walks backward. # 2 # 4 # spine
-A person walks forward. # 4 # 6 # spine
-A person walks backward. # 6 # 8 # spine
-A person is dancing. # 8 # 10.0 # spine
+A person walks forward. # 0 # 2
+A person walks backward. # 2 # 4
+A person walks forward. # 4 # 6
+A person walks backward. # 6 # 8
+A person is dancing. # 8 # 10.0

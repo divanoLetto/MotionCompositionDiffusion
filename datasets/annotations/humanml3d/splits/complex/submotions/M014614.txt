@@ -1,2 +1,2 @@
-A person is holding a baby in their arms. # 0 # 6 # spine
-A person is moving their arms up and down. # 4 # 10.0 # spine
+A person is holding a baby in their arms. # 0 # 6
+A person is moving their arms up and down. # 4 # 10.0

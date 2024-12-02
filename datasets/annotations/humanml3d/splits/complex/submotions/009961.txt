@@ -1,3 +1,3 @@
-A person is practicing martial arts.  # 0 # 3 # spine
-A person kicks with their left leg.  # 3 # 7 # spine
-A person kicks with their right leg.  # 5 # 9.999999999999998 # spine
+A person is practicing martial arts.  # 0 # 3
+A person kicks with their left leg.  # 3 # 7
+A person kicks with their right leg.  # 5 # 9.999999999999998

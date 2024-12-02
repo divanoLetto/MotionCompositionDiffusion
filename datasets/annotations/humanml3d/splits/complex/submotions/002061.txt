@@ -1,2 +1,2 @@
-A person holds his hands together. # 0 # 2.5 # spine
-A person swings their arms in a wide circle. # 2 # 4.908 # spine
+A person holds his hands together. # 0 # 2.5
+A person swings their arms in a wide circle. # 2 # 4.908

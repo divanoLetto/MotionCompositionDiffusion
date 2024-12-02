@@ -1,3 +1,3 @@
-A person is moving their hips while dancing. # 0 # 4 # spine
-A person raises their arms out to the side. # 2 # 6 # spine
-A person spins while dancing. # 4 # 8.158 # spine
+A person is moving their hips while dancing. # 0 # 4
+A person raises their arms out to the side. # 2 # 6
+A person spins while dancing. # 4 # 8.158

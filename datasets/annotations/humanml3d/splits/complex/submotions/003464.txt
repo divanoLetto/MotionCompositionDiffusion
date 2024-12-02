@@ -1,2 +1,2 @@
-A person is doing the macarena. # 0 # 6 # spine
-A person raises both hands to shoulder height. # 6 # 10.0 # spine
+A person is doing the macarena. # 0 # 6
+A person raises both hands to shoulder height. # 6 # 10.0

@@ -1,3 +1,3 @@
-A person opens a door with their left hand. # 0 # 2 # spine
-A person raises both arms above their head. # 2 # 8 # spine
-A person moves their arms forward then around in opposite circles. # 8 # 10.0 # spine
+A person opens a door with their left hand. # 0 # 2
+A person raises both arms above their head. # 2 # 8
+A person moves their arms forward then around in opposite circles. # 8 # 10.0

@@ -1,4 +1,4 @@
-A person stands with legs spread apart. # 0 # 2 # spine
-A person throws an uppercut from the right arm. # 2 # 4 # spine
-A person punches with their left hand. # 4 # 6 # spine
-A person punches with their right hand. # 6 # 10.0 # spine
+A person stands with legs spread apart. # 0 # 2
+A person throws an uppercut from the right arm. # 2 # 4
+A person punches with their left hand. # 4 # 6
+A person punches with their right hand. # 6 # 10.0

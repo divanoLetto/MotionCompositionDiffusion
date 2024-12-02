@@ -1,2 +1,2 @@
-A person punches upwards with their left hand. # 0 # 1.55 # spine
-A person swings its left arm upwards. # 1.05 # 1.55 # spine
+A person punches upwards with their left hand. # 0 # 1.55
+A person swings its left arm upwards. # 1.05 # 1.55

@@ -1,2 +1,2 @@
-A person is making a stirring motion with the right hand. # 0 # 4 # spine
-A person raises their right arm. # 2 # 4.95 # spine
+A person is making a stirring motion with the right hand. # 0 # 4
+A person raises their right arm. # 2 # 4.95

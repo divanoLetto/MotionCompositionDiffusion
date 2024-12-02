@@ -1,2 +1,2 @@
-A person does the box step. # 0 # 6 # spine
-A person is moving their hips back and forth, right and left. # 4 # 10.0 # spine
+A person does the box step. # 0 # 6
+A person is moving their hips back and forth, right and left. # 4 # 10.0

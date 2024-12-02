@@ -1,2 +1,2 @@
-a person kicks their left leg twice. # 0 # 4 # spine
-a person kicks their right leg twice. # 3 # 10.0 # spine
+a person kicks their left leg twice. # 0 # 4
+a person kicks their right leg twice. # 3 # 10.0

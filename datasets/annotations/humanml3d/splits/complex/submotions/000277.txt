@@ -1,4 +1,4 @@
-A person holds both hands out to the side. # 0 # 2 # spine
-A person holds both hands in front of him. # 2 # 4 # spine
-A person makes a quick punch with his right arm. # 4 # 6 # spine
-A person makes a quick punch with his left arm. # 6 # 10.0 # spine
+A person holds both hands out to the side. # 0 # 2
+A person holds both hands in front of him. # 2 # 4
+A person makes a quick punch with his right arm. # 4 # 6
+A person makes a quick punch with his left arm. # 6 # 10.0

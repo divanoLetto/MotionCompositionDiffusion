@@ -1,2 +1,2 @@
-a person throws a right punch. # 0 # 1.45 # spine
-a person steps back. # 1.45 # 2.442 # spine
+a person throws a right punch. # 0 # 1.45
+a person steps back. # 1.45 # 2.442

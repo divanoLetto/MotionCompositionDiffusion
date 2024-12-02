@@ -1,2 +1,2 @@
-A person is moving their arms and legs. # 0 # 6 # spine
-A person is jumping up and down. # 5 # 9.1 # spine
+A person is moving their arms and legs. # 0 # 6
+A person is jumping up and down. # 5 # 9.1

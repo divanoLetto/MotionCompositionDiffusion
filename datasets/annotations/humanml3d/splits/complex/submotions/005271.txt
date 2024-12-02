@@ -1,1 +1,1 @@
-a person is doing a breast stroke. # 0 # 10.0 # spine
+a person is doing a breast stroke. # 0 # 10.0

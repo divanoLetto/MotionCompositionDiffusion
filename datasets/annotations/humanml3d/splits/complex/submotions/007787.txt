@@ -1,4 +1,4 @@
-A person raises both arms above their head. # 0 # 3 # spine
-A person shakes their hips side to side. # 2 # 5 # spine
-A person turns to the left. # 4 # 6 # spine
-A person steps to the right. # 5 # 8.26 # spine
+A person raises both arms above their head. # 0 # 3
+A person shakes their hips side to side. # 2 # 5
+A person turns to the left. # 4 # 6
+A person steps to the right. # 5 # 8.26

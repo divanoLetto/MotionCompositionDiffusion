@@ -1,3 +1,3 @@
-A person is moving their arms. # 0 # 6 # spine
-A person is moving their legs. # 0 # 6 # spine
-A person is dancing. # 0 # 10.0 # spine
+A person is moving their arms. # 0 # 6
+A person is moving their legs. # 0 # 6
+A person is dancing. # 0 # 10.0

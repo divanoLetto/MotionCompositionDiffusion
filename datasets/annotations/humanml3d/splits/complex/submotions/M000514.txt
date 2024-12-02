@@ -1,2 +1,2 @@
-A person hops in place several times while holding his arms to the side with hands at waist level. # 0 # 6 # spine
-A person is dancing happily. # 0 # 10.0 # spine
+A person hops in place several times while holding his arms to the side with hands at waist level. # 0 # 6
+A person is dancing happily. # 0 # 10.0

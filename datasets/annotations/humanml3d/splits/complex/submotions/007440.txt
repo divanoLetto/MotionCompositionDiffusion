@@ -1,2 +1,2 @@
-A person is doing an aggressive shuffle back and forth. # 0 # 8.1 # spine
-A person kicks with their right foot. # 6 # 10.0 # spine
+A person is doing an aggressive shuffle back and forth. # 0 # 8.1
+A person kicks with their right foot. # 6 # 10.0

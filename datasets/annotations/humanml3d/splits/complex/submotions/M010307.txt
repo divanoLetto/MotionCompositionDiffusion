@@ -1,4 +1,4 @@
-A person throws something with their left arm. # 0 # 2 # spine
-A person raises their left arm. # 2 # 5 # spine
-A person swings their left arm forward. # 5 # 8 # spine
-A person continues to throw with their left arm. # 8 # 10 # spine
+A person throws something with their left arm. # 0 # 2
+A person raises their left arm. # 2 # 5
+A person swings their left arm forward. # 5 # 8
+A person continues to throw with their left arm. # 8 # 10

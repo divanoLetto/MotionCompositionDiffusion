@@ -1,4 +1,4 @@
-A person raises his right arm in the air. # 0 # 1.65 # spine
-A person makes repeated punching motions in the air with his right hand. # 0.5 # 2.1 # spine
-A person pivots body quickly to the right. # 1.5 # 2.1 # spine
-A person makes repeated punching motions in the air with his left hand. # 1.8 # 2.1 # spine
+A person raises his right arm in the air. # 0 # 1.65
+A person makes repeated punching motions in the air with his right hand. # 0.5 # 2.1
+A person pivots body quickly to the right. # 1.5 # 2.1
+A person makes repeated punching motions in the air with his left hand. # 1.8 # 2.1

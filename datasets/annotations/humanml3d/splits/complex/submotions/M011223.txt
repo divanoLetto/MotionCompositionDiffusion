@@ -1,4 +1,4 @@
-A person is standing still. # 0 # 2 # spine
-A person raises their left arm. # 2 # 5 # spine
-A person moves their body as if dancing. # 5 # 7 # spine
-A person waves with their left hand. # 5 # 7.96 # spine
+A person is standing still. # 0 # 2
+A person raises their left arm. # 2 # 5
+A person moves their body as if dancing. # 5 # 7
+A person waves with their left hand. # 5 # 7.96

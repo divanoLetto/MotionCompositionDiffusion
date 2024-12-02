@@ -1,2 +1,2 @@
-A person plays a stroke on the guitar. # 0 # 3 # spine
-A person performs another stroke on the guitar. # 3 # 5.62 # spine
+A person plays a stroke on the guitar. # 0 # 3
+A person performs another stroke on the guitar. # 3 # 5.62

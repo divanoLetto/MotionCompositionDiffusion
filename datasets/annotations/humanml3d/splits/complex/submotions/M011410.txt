@@ -1,2 +1,2 @@
-A person makes pantomime gestures with his hands. # 0 # 8.95 # spine
-A person raises their hands in the air and bounces up and down. # 8 # 10 # spine
+A person makes pantomime gestures with his hands. # 0 # 8.95
+A person raises their hands in the air and bounces up and down. # 8 # 10

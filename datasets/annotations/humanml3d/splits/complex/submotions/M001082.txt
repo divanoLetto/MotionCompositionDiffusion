@@ -1,2 +1,2 @@
-A person seems angry, they aggressively pounce forward then continue to make angry gestures and swing their arms. # 0 # 6 # spine
-A person is hitting something with their left hand over and over again. # 4 # 10.0 # spine
+A person seems angry, they aggressively pounce forward then continue to make angry gestures and swing their arms. # 0 # 6
+A person is hitting something with their left hand over and over again. # 4 # 10.0

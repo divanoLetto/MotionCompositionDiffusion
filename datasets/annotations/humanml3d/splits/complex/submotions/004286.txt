@@ -1,3 +1,3 @@
-A person stands with their legs apart. # 0 # 2 # spine
-A person holds their arms out in front of them. # 0 # 2 # spine
-A person swings their right arm forward. # 2 # 2.51 # spine
+A person stands with their legs apart. # 0 # 2
+A person holds their arms out in front of them. # 0 # 2
+A person swings their right arm forward. # 2 # 2.51

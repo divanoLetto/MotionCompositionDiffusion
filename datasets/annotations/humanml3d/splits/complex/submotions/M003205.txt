@@ -1,2 +1,2 @@
-A person sways from side to side while clapping. # 0 # 6 # spine
-A person raises both hands to the side. # 4 # 10.0 # spine
+A person sways from side to side while clapping. # 0 # 6
+A person raises both hands to the side. # 4 # 10.0

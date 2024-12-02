@@ -1,2 +1,2 @@
-A person spins in a clockwise circle. # 0 # 6 # spine
-A person walks in a clockwise circle. # 6 # 10.0 # spine
+A person spins in a clockwise circle. # 0 # 6
+A person walks in a clockwise circle. # 6 # 10.0

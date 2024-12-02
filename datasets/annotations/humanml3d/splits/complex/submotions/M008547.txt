@@ -1,2 +1,2 @@
-A person is shuffling to the left while dribbling. # 0 # 2 # spine
-A person is walking forward while making a dribbling motion with their right arm. # 2 # 2.85 # spine
+A person is shuffling to the left while dribbling. # 0 # 2
+A person is walking forward while making a dribbling motion with their right arm. # 2 # 2.85

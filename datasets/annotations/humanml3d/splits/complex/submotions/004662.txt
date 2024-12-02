@@ -1,2 +1,2 @@
-A person raises their arms to shoulder height. # 0 # 2 # spine
-A person is bouncing on their feet. # 2 # 5.908 # spine
+A person raises their arms to shoulder height. # 0 # 2
+A person is bouncing on their feet. # 2 # 5.908

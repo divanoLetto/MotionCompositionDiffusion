@@ -1,2 +1,2 @@
-A person is standing and shifting their weight from the right leg to the left leg. # 0 # 3 # spine
-A person steps to the left and then to the right. # 3 # 6.65 # spine
+A person is standing and shifting their weight from the right leg to the left leg. # 0 # 3
+A person steps to the left and then to the right. # 3 # 6.65

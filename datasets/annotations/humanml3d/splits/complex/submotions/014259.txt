@@ -1,2 +1,2 @@
-A person is shaking their arms. # 0 # 4 # spine
-A person is moving their legs. # 2 # 7.967 # spine
+A person is shaking their arms. # 0 # 4
+A person is moving their legs. # 2 # 7.967

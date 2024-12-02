@@ -1,2 +1,2 @@
-A person plays an instrument with their right hand. # 0 # 3 # spine
-A person holds an object with their right hand. # 2 # 6.1 # spine
+A person plays an instrument with their right hand. # 0 # 3
+A person holds an object with their right hand. # 2 # 6.1

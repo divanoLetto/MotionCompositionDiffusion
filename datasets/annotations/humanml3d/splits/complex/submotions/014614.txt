@@ -1,2 +1,2 @@
-A person is holding a baby.  # 0 # 5 # spine
-A person is dancing while holding the baby.  # 4 # 10 # spine
+A person is holding a baby.  # 0 # 5
+A person is dancing while holding the baby.  # 4 # 10

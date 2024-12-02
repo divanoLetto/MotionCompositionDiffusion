@@ -1,2 +1,2 @@
-A person performs a ballerina balance pose, first on their right leg. # 0 # 5 # spine
-A person raises both hands in the air in the stance of a ballerina. # 4 # 9.467 # spine
+A person performs a ballerina balance pose, first on their right leg. # 0 # 5
+A person raises both hands in the air in the stance of a ballerina. # 4 # 9.467

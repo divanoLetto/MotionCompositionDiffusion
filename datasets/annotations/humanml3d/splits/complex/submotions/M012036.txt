@@ -1,2 +1,2 @@
-A person sways side to side while raising and lowering their arms and shoulders. # 0 # 6 # spine
-A person walks forward and turns to the left. # 6 # 10.0 # spine
+A person sways side to side while raising and lowering their arms and shoulders. # 0 # 6
+A person walks forward and turns to the left. # 6 # 10.0

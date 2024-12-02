@@ -1,4 +1,4 @@
-A person raises their arms out to the side. # 0 # 3 # spine
-A person steps backward. # 2 # 5 # spine
-A person steps forward. # 4 # 7 # spine
-A person continues to move in a circular motion. # 6 # 10.000000000000002 # spine
+A person raises their arms out to the side. # 0 # 3
+A person steps backward. # 2 # 5
+A person steps forward. # 4 # 7
+A person continues to move in a circular motion. # 6 # 10.000000000000002

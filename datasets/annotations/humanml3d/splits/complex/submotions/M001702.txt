@@ -1,2 +1,2 @@
-A person is moving their arms side to side. # 0 # 6 # spine
-A person is turning their torso to the left. # 4 # 10.0 # spine
+A person is moving their arms side to side. # 0 # 6
+A person is turning their torso to the left. # 4 # 10.0

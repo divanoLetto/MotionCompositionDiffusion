@@ -1,2 +1,2 @@
-A person is standing and making a strumming gesture. # 0 # 5.85 # spine
-A person raises their right arm and moves their left arm and left hand up and down in a regular fashion. # 5 # 8.42 # spine
+A person is standing and making a strumming gesture. # 0 # 5.85
+A person raises their right arm and moves their left arm and left hand up and down in a regular fashion. # 5 # 8.42

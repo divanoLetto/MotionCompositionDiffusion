@@ -1,2 +1,2 @@
-a person walks in a circle. # 0 # 6 # spine
-a person raises both their arms over their head while bending their elbows. # 6 # 10.0 # spine
+a person walks in a circle. # 0 # 6
+a person raises both their arms over their head while bending their elbows. # 6 # 10.0

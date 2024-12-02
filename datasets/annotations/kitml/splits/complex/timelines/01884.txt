@@ -1,2 +1,2 @@
-A person takes a step forward. # 0 # 2 # spine
-A person performs a kick with their right leg. # 1 # 5.07 # spine
+A person takes a step forward. # 0 # 2
+A person performs a kick with their right leg. # 1 # 5.07

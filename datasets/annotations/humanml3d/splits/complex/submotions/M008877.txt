@@ -1,2 +1,2 @@
-A person holds both hands up to their face. # 0 # 6 # spine
-A person moves their hands back and forth. # 4 # 10.0 # spine
+A person holds both hands up to their face. # 0 # 6
+A person moves their hands back and forth. # 4 # 10.0

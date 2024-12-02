@@ -1,4 +1,4 @@
-A person is doing a happy dance. # 0 # 6 # spine
-A person does a handstand. # 0 # 6 # spine
-A person attempts to do a handstand. # 2 # 10 # spine
-A person falls briefly and then stands back up. # 8 # 10 # spine
+A person is doing a happy dance. # 0 # 6
+A person does a handstand. # 0 # 6
+A person attempts to do a handstand. # 2 # 10
+A person falls briefly and then stands back up. # 8 # 10

@@ -1,2 +1,2 @@
-A person is jumping up and down. # 0 # 2 # spine
-A person is waving their hands. # 2 # 4.358 # spine
+A person is jumping up and down. # 0 # 2
+A person is waving their hands. # 2 # 4.358

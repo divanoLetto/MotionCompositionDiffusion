@@ -1,2 +1,2 @@
-A person walks awkwardly across the floor, holding their arms out to their sides for balance. # 0 # 5 # spine
-A person sways from side to side. # 4 # 10.0 # spine
+A person walks awkwardly across the floor, holding their arms out to their sides for balance. # 0 # 5
+A person sways from side to side. # 4 # 10.0

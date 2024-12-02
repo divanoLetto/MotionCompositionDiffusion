@@ -1,1 +1,1 @@
-A person is taking a golf swing. # 0 # 6.03 # spine
+A person is taking a golf swing. # 0 # 6.03

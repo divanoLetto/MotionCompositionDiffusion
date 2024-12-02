@@ -1,2 +1,2 @@
-A person raises both his arms to do a t. # 0 # 6 # spine
-a man throws punches using his right hand. # 4 # 10.0 # spine
+A person raises both his arms to do a t. # 0 # 6
+a man throws punches using his right hand. # 4 # 10.0

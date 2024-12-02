@@ -1,2 +1,2 @@
-A person gets into a fighting stance.  # 0 # 2.95 # spine
-A person throws a punch with their right hand.  # 2 # 4.8 # spine
+A person gets into a fighting stance.  # 0 # 2.95
+A person throws a punch with their right hand.  # 2 # 4.8

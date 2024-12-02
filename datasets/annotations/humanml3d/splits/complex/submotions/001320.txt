@@ -1,2 +1,2 @@
-A person holds something with their left hand. # 0 # 2 # spine
-A person moves something from left to right. # 2 # 6.49 # spine
+A person holds something with their left hand. # 0 # 2
+A person moves something from left to right. # 2 # 6.49

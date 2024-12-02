@@ -1,2 +1,2 @@
-A person jumps to the left. # 0 # 2 # spine
-A person is moving their hips back and forth. # 2 # 10.0 # spine
+A person jumps to the left. # 0 # 2
+A person is moving their hips back and forth. # 2 # 10.0

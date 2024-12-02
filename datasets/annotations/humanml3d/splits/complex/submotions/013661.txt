@@ -1,2 +1,2 @@
-A person throws a punch with their right arm. # 0 # 2.45 # spine
-A person punches quickly with their right hand. # 2 # 2.8 # spine
+A person throws a punch with their right arm. # 0 # 2.45
+A person punches quickly with their right hand. # 2 # 2.8

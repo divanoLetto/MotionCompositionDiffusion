@@ -1,2 +1,2 @@
-A person stands with a wide defensive stance. # 0 # 2 # spine
-A person kicks with their left leg. # 0 # 2.942 # spine
+A person stands with a wide defensive stance. # 0 # 2
+A person kicks with their left leg. # 0 # 2.942

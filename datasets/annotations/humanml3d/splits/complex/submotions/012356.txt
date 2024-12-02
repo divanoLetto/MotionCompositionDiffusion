@@ -1,2 +1,2 @@
-A person is dancing. # 0 # 2.0 # spine
-A person makes a drinking motion with their left hand. # 2.0 # 3.45 # spine
+A person is dancing. # 0 # 2.0
+A person makes a drinking motion with their left hand. # 2.0 # 3.45

@@ -1,2 +1,2 @@
-A person throws a punch with his right hand. # 0 # 2 # spine
-A person is punching something several times with both his hands. # 2 # 10.0 # spine
+A person throws a punch with his right hand. # 0 # 2
+A person is punching something several times with both his hands. # 2 # 10.0

@@ -1,3 +1,3 @@
-A person waves with their left arm. # 0 # 2 # spine
-A person dances on the spot. # 0 # 6 # spine
-A person poses with arms outstretched. # 6 # 10.0 # spine
+A person waves with their left arm. # 0 # 2
+A person dances on the spot. # 0 # 6
+A person poses with arms outstretched. # 6 # 10.0

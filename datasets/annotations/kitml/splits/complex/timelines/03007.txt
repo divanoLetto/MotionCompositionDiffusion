@@ -1,2 +1,2 @@
-A person runs forward. # 0 # 2 # spine
-A human is walking in a 90 degree curve to the left. # 1 # 2.542 # spine
+A person runs forward. # 0 # 2
+A human is walking in a 90 degree curve to the left. # 1 # 2.542

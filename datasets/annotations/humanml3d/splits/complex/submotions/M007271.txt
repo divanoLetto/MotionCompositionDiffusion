@@ -1,2 +1,2 @@
-A person dances. # 0 # 6 # spine
-A person turns around. # 6 # 10.0 # spine
+A person dances. # 0 # 6
+A person turns around. # 6 # 10.0

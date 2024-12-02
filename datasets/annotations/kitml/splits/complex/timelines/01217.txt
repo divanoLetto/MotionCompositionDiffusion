@@ -1,3 +1,3 @@
-A person raises their arms like wings. # 0 # 5 # spine
-A person moves their feet in a rhythmic manner. # 3 # 7 # spine
-A person twists their hips. # 5 # 10 # spine
+A person raises their arms like wings. # 0 # 5
+A person moves their feet in a rhythmic manner. # 3 # 7
+A person twists their hips. # 5 # 10

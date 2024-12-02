@@ -1,2 +1,2 @@
-A person raises their right leg to perform a kick. # 0 # 2 # spine
-A person kicks to the right with their right leg. # 2 # 10 # spine
+A person raises their right leg to perform a kick. # 0 # 2
+A person kicks to the right with their right leg. # 2 # 10

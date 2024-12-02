@@ -1,2 +1,2 @@
-A person runs forward with both arms swinging. # 0 # 1.5 # spine
-A person fakes a shot then fast breaks to the left. # 1 # 1.908 # spine
+A person runs forward with both arms swinging. # 0 # 1.5
+A person fakes a shot then fast breaks to the left. # 1 # 1.908

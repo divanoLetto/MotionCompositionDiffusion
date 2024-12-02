@@ -1,2 +1,2 @@
-A person bends down and picks up an object with their right hand. # 0 # 5 # spine
-A person raises both hands to chest level. # 5 # 7.817 # spine
+A person bends down and picks up an object with their right hand. # 0 # 5
+A person raises both hands to chest level. # 5 # 7.817

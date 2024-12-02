@@ -1,2 +1,2 @@
-A person throws something with their left hand. # 0 # 2 # spine
-A person catches using both hands towards his stomach. # 1.5 # 4.058 # spine
+A person throws something with their left hand. # 0 # 2
+A person catches using both hands towards his stomach. # 1.5 # 4.058

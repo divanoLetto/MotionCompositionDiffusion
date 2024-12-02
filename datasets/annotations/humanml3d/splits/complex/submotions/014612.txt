@@ -1,2 +1,2 @@
-A person is swirling their arms in a circle. # 0 # 4 # spine
-A person moves their hands in and out towards their chest. # 3 # 10 # spine
+A person is swirling their arms in a circle. # 0 # 4
+A person moves their hands in and out towards their chest. # 3 # 10

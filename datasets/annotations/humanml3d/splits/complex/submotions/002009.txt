@@ -1,2 +1,2 @@
-A person walks forward like a robot. # 0 # 2.0 # spine
-A person raises their arms up and down. # 2.0 # 3.25 # spine
+A person walks forward like a robot. # 0 # 2.0
+A person raises their arms up and down. # 2.0 # 3.25

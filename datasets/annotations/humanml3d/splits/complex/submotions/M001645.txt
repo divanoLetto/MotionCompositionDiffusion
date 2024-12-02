@@ -1,2 +1,2 @@
-A person holds the neck of the guitar with their left hand. # 0 # 5.7 # spine
-A person strums the guitar with their right hand. # 0 # 5.7 # spine
+A person holds the neck of the guitar with their left hand. # 0 # 5.7
+A person strums the guitar with their right hand. # 0 # 5.7

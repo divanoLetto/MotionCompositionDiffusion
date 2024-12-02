@@ -1,4 +1,4 @@
-A person stands with arms up. # 0 # 2 # spine
-A person dances to the left. # 2 # 6 # spine
-A person turns around. # 6 # 8 # spine
-A person dances back to the right. # 8 # 10.0 # spine
+A person stands with arms up. # 0 # 2
+A person dances to the left. # 2 # 6
+A person turns around. # 6 # 8
+A person dances back to the right. # 8 # 10.0
