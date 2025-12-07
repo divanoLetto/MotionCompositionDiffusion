@@ -3,6 +3,8 @@
 ## Authors: Lorenzo Mandelli, Stefano Berretti
 #### Università degli Studi di Firenze
 
+![MCD](docs/MCD_fig1.png "MCD")
+
 ---
 
 ![](https://img.shields.io/github/contributors/divanoLetto/MotionCompositionDiffusion?color=light%20green) ![](https://img.shields.io/github/repo-size/divanoLetto/MotionCompositionDiffusion?cacheSeconds=60)
