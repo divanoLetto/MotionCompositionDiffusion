@@ -3,7 +3,7 @@
 ## Authors: Lorenzo Mandelli, Stefano Berretti
 #### Università degli Studi di Firenze
 
-![MCD](docs/MCD_fig0.png "MCD")
+![Alt text](./docs/MCD_fig1.png)
 
 ---
 
